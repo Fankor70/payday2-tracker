@@ -62,7 +62,7 @@ def main():
     v = args.version.lstrip("v")
 
     set_version(v)
-    run([sys.executable, "pipeline.py"], cwd=PARENT)
+    run([sys.executable, os.path.join(HERE, "pipeline.py")], cwd=PARENT)
     run([sys.executable, "-m", "PyInstaller"] + BUILD, cwd=APP)
     os.makedirs(SHARE, exist_ok=True)
     shutil.copy2(EXE, os.path.join(SHARE, "PAYDAY Tracker.exe"))
