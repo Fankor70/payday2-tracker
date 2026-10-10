@@ -73,7 +73,11 @@ def main():
     run(["git", "push", "origin", "main", "--tags"], cwd=HERE)
 
     exe_asset = os.path.join(SHARE, "PAYDAY Tracker.exe")
-    txt = os.path.join(SHARE, "Как пользоваться.txt")
+    # a Cyrillic asset name becomes "default.txt" on GitHub -- ship an ASCII copy
+    txt_src = os.path.join(SHARE, "Как пользоваться.txt")
+    txt = os.path.join(SHARE, "instruction.txt")
+    if os.path.exists(txt_src):
+        shutil.copy2(txt_src, txt)
     assets = [exe_asset] + ([txt] if os.path.exists(txt) else [])
     notes = args.notes or "Сборка v%s" % v
     run(["gh", "release", "create", "v%s" % v, "--title", "v%s" % v,

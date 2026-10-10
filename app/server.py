@@ -174,8 +174,11 @@ def update_check():
         return {"current": cur, "error": "не смог спросить GitHub: %s" % e,
                 "has_update": False}
     latest = (rel.get("tag_name") or "").lstrip("v")
+    # GitHub renames upload names: "PAYDAY Tracker.exe" becomes
+    # "PAYDAY.Tracker.exe" -- match with spaces and dots squeezed out
+    want = re.sub(r"[ .]", "", UPDATE_EXE).lower()
     asset = next((a for a in (rel.get("assets") or [])
-                  if a.get("name") == UPDATE_EXE), None)
+                  if re.sub(r"[ .]", "", a.get("name") or "").lower() == want), None)
     return {
         "current": cur, "latest": latest,
         "has_update": bool(latest) and _version_tuple(latest) > _version_tuple(cur),
