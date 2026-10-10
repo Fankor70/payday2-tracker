@@ -133,6 +133,81 @@ for h in data["heists"]:
     if old != new:
         moved += 1
 
+# ------------------------------------------------ EN referee: cross-listings
+# The RU wiki spreads some pack achievements over every heist where they can
+# technically be done ("Pink Slip", enter a drivable vehicle, sat on SEVEN
+# heists including car-less ones). The EN wiki -- the canonical per-heist
+# lists -- contradicts that. A membership survives only when the row's own
+# text names this heist, the EN wiki lists it on this heist's page, or this
+# heist is the row's ONLY wiki claim.
+def _same_heist(k, h):
+    """Does the text-named key K refer to heist H? Folded parents and aliased
+    keys spell differently from the page ("Border Crossing" vs "Border
+    Crossing Heists"), and the folded parent's name is already the Russian
+    one -- so compare against BOTH the name and the page."""
+    nm = norm(HEISTS.get(k, (k.replace("_", " "), []))[0])
+    if not nm:
+        return False
+    for src in (h.get("name"), h.get("page")):
+        hn = norm(src)
+        if hn and (nm in hn or hn in nm):
+            return True
+    return False
+
+en_mem = json.load(open("payday/data/en_wiki_membership.json", encoding="utf-8"))
+en_by_key = {key_for(p): set(norm(n) for n in names) for p, names in en_mem.items()}
+PACK_ADDITIONAL = {"Pink Slip": "Car Shop"}   # EN wiki: The Butcher's BBQ Pack → Additional
+
+stripped = {}                                 # heist page -> ids removed
+for h in data["heists"]:
+    hk = h["_key"]
+    en = en_by_key.get(hk, set())
+    kept, out = [], []
+    for i in h["ids"]:
+        a = by_id[i]
+        nmrow = norm(a["name"])
+        nk = _named_heists(a)
+        if hk in nk or any(_same_heist(k, h) for k in nk):
+            kept.append(i)
+            continue
+        if nmrow in en:
+            kept.append(i)
+            continue
+        ru_keys = {key_for(w) for w in (a.get("wiki_heists") or [])}
+        if hk in ru_keys and len(ru_keys) == 1:
+            kept.append(i)                    # the only wiki claim: trust it
+            continue
+        out.append(i)
+    if out:
+        h["ids"] = kept
+        for v in (h.get("variants") or []):
+            v["ids"] = sorted(set(v["ids"]) - set(out))
+        stripped[h["page"]] = out
+        print("  EN-арбитр: снято с %-26s %d: %s" %
+              (h["name"][:26], len(out), ", ".join(by_id[i]["name"][:18] for i in out[:4])))
+
+# pack achievements the EN wiki keeps under a DLC pack go to that pack's heist
+for nm, page in PACK_ADDITIONAL.items():
+    ids = [i for pg, ids in stripped.items() for i in ids if by_id[i]["name"] == nm]
+    host = next((h for h in data["heists"] if h["page"] == page), None)
+    if ids and host:
+        host["ids"] = sorted(set(host["ids"]) | set(ids))
+        for i in ids:
+            by_id[i]["fit"] = "extra"
+            for h2 in data["heists"]:
+                if h2 is not host and i in h2["ids"]:
+                    h2["ids"].remove(i)
+        for p in list(stripped):
+            if any(by_id[i]["name"] == nm for i in stripped[p]):
+                del stripped[p]
+        # the row sat in the global bucket and parallel lists since build_v3 saw
+        # no heist for it -- leaving it there would show it on two screens
+        data["global_ids"] = [g for g in (data.get("global_ids") or []) if g not in ids]
+        par = data.get("parallel") or {}
+        for bk in par:
+            par[bk] = [i for i in par[bk] if i not in ids]
+        print("  EN-арбитр: %r -> %s (pack additional)" % (nm, page))
+
 # anything the rebuild left on no heist must still be reachable, so it falls
 # back into the global bucket rather than vanishing from the app
 placed = set()

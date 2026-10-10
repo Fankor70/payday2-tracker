@@ -39,5 +39,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['app.ico'],
+    icon=['D:/MOEEE/LLM/ZCode/.zcode/workspace/Мои чаты/payday/app/app.ico'],
 )

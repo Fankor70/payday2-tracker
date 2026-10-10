@@ -1,0 +1,153 @@
+[
+ [
+  "Пересечение границы",
+  1239,
+  "Only For Us Naughty Heisters",
+  [
+   "border_crossing",
+   "breakfast_tijuana",
+   "buluc_mansion",
+   "san_martin"
+  ],
+  [
+   "Border Crossing",
+   "Breakfast in Tijuana",
+   "Buluc's Mansion",
+   "San Martín Bank"
+  ],
+  false
+ ],
+ [
+  "Особняк Булука",
+  1239,
+  "Only For Us Naughty Heisters",
+  [
+   "border_crossing",
+   "breakfast_tijuana",
+   "buluc_mansion",
+   "san_martin"
+  ],
+  [
+   "Border Crossing",
+   "Breakfast in Tijuana",
+   "Buluc's Mansion",
+   "San Martín Bank"
+  ],
+  false
+ ],
+ [
+  "Особняк Булука",
+  1289,
+  "Bloody Grinch",
+  [
+   "breakin_feds",
+   "buluc_mansion"
+  ],
+  [],
+  false
+ ],
+ [
+  "Автосалон",
+  15,
+  "Pink Slip",
+  [],
+  [
+   "Aftershock",
+   "Alesso",
+   "Biker Heist",
+   "Birth of Sky"
+  ],
+  false
+ ],
+ [
+  "Подстава с картинами",
+  1018,
+  "Masterpiece",
+  [
+   "art_gallery"
+  ],
+  [
+   "Art Gallery",
+   "Framing Frame"
+  ],
+  false
+ ],
+ [
+  "Алессо",
+  15,
+  "Pink Slip",
+  [],
+  [
+   "Aftershock",
+   "Alesso",
+   "Biker Heist",
+   "Birth of Sky"
+  ],
+  false
+ ],
+ [
+  "Последствия",
+  15,
+  "Pink Slip",
+  [],
+  [
+   "Aftershock",
+   "Alesso",
+   "Biker Heist",
+   "Birth of Sky"
+  ],
+  false
+ ],
+ [
+  "Рождение небес",
+  15,
+  "Pink Slip",
+  [],
+  [
+   "Aftershock",
+   "Alesso",
+   "Biker Heist",
+   "Birth of Sky"
+  ],
+  false
+ ],
+ [
+  "Симулятор козы",
+  15,
+  "Pink Slip",
+  [],
+  [
+   "Aftershock",
+   "Alesso",
+   "Biker Heist",
+   "Birth of Sky"
+  ],
+  false
+ ],
+ [
+  "Ядерная угроза",
+  15,
+  "Pink Slip",
+  [],
+  [
+   "Aftershock",
+   "Alesso",
+   "Biker Heist",
+   "Birth of Sky"
+  ],
+  false
+ ],
+ [
+  "Ограбление байкеров",
+  15,
+  "Pink Slip",
+  [],
+  [
+   "Aftershock",
+   "Alesso",
+   "Biker Heist",
+   "Birth of Sky"
+  ],
+  false
+ ]
+]
