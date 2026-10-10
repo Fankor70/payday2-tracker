@@ -1,0 +1,13 @@
+<tabber>Permanent Achievements=
+{{Achievement|Field Test|jpg|Kill 500 enemies with the [[Hailstorm Mk 5]]'s Volley Shot mode. Unlocks the "Prototype Conversion Kit" for the Hailstorm Mk 5.}}
+{{Achievement|Heister With A Shotgun|jpg|Kill 1000 enemies with [[Akimbo VD-12|either]] [[VD-12|version]] of the VD-12. Unlocks the "Stateside Conversion Kit" for the VD-12 shotgun.}}
+{{Achievement|Snake Charmer|jpg|Kill 100 enemies with the [[Viper Grenade]] throwable on Overkill difficulty or above. Unlocks the "Tombstone Slug" for shotguns.}}
+|-|Teaser=
+''The following teasers were added on February 16, 2022, and removed sometime later at an unknown date''
+{{Achievement|One Two Three a Cop||One Twe Three a Cop}}
+{{Achievement|Four a Cop||Four a Cop}}
+{{Achievement|POP!||POP!}}
+|-|Trivia=
+</tabber>
+[[Category:Achievement Icons]]
+[[Category:PAYDAY 2]]

@@ -1,0 +1,31 @@
+<tabber>Permanent Achievements=
+{{Achievement|Hall of the Mountain King|jpg|Complete the [[Beneath the Mountain]] job on the Death Wish difficulty or above.}}
+{{Achievement|Clean House|jpg|In the [[Beneath the Mountain]] job, secure all of the loot from the vaults and mountain-top in the escape helicopter. Unlocks the “[[Masks (Payday 2)#The Point Break Heists DLC|Tawhiri]]” mask, “[[Material#The Point Break Heists DLC|Flow]]” material and “[[Pattern#The Point Break Heists DLC|Sun Avatar]]” pattern.}}
+{{Achievement|Commando Crew|jpg|In the [[Beneath the Mountain]] job, open the 4 vaults that contain loot within 10 minutes of starting the heist on the OVERKILL difficulty or above.}}
+{{Achievement|Juggernauts|jpg|Complete the [[Beneath the Mountain]] job on the OVERKILL difficulty or above without any player going down.}}
+{{Achievement|No Scope|jpg|Kill 10 enemies in a row by shooting them in the head with the [[Platypus 70]] Sniper Rifle while not aiming down the sights. Unlocks the “[[Masks (Payday 2)#The Point Break Heists DLC|Tane]]” mask, “[[Material#The Point Break Heists DLC|Sancti]]” material and “[[Pattern#The Point Break Heists DLC|Tribal Face]]” pattern.}}
+{{Achievement|The Sky Is the Limit|jpg|Complete the [[Birth of Sky]] job on the Death Wish difficulty or above.}}
+{{Achievement|Pinpoint Landing|jpg|In the [[Birth of Sky]] job, parachute into the diner through a hole in the roof.}}
+{{Achievement|No Blood On The Carpet|jpg|In the [[Birth of Sky]] job, release the money without having any player take health damage on the OVERKILL difficulty or above. Unlocks the “[[Masks (Payday 2)#The Point Break Heists DLC|Oro]]” mask, “[[Material#The Point Break Heists DLC|Glade]]” material and “[[Pattern#The Point Break Heists DLC|Tribal Wave]]” pattern.}}
+{{Achievement|1... 2... 3... JUMP!|jpg|In the [[Birth of Sky]] job, have the entire crew jump out of the airplane within 1 minute and 23 seconds on the OVERKILL difficulty or above. Unlocks the “[[Masks (Payday 2)#The Point Break Heists DLC|Maui]]” mask, “[[Material#The Point Break Heists DLC|Wade]]” material and “[[Pattern#The Point Break Heists DLC|Ornamental Crown]]” pattern.}}
+{{Achievement|Black Tie Event|jpg|Complete the [[Birth of Sky]] job, have the entire crew use only pistols and [[Armors#Two-Piece Suit|Two Piece Suits]] on the OVERKILL difficulty or above. You have to have been in the heist from start to receive this achievement.}}
+|-|Teasers=
+''The following appeared on November 30, 2015 and were replaced on December 3, 2015.''
+{{Teasers
+|It's A
+|Hot Day
+|My Friend,
+|To Burden
+|Your
+|Horse
+|With
+|Such A
+|Heavy
+|Purse
+}}
+|-|Trivia=
+*The teaser achievements are a quote from the 1991 film ''[[wikipedia:Robin Hood: Prince of Thieves|Robin Hood: Prince of Thieves]]'', stated by the main character, Robin of Locksley.
+*The '''Hall of the Mountain King''' achievement is a reference to the famous orchestral music named [[wikipedia:In the Hall of the Mountain King|In the Hall of the Mountain King]].
+*The '''No Scope''' achievement is a reference to the [http://knowyourmeme.com/memes/360-no-scope 360 No Scope] meme.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

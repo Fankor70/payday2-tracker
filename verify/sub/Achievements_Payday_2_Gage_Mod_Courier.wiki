@@ -1,0 +1,31 @@
+<tabber>Permanent Achievements=
+{{Achievement|Praying Mantis|jpg|Collect {{color|value|5}} [[Gage Mod Courier#Packages|packages]] with the green mantis stamp on to earn a green crate.}}
+{{Achievement|Bull’s-Eye|jpg|Collect {{color|value|10}} packages with the yellow bull stamp on to earn a yellow crate}}
+{{Achievement|My Spider Sense is Tingling|jpg|Collect {{color|value|15}} packages with the red spider stamp on to earn a red crate}}
+{{Achievement|Eagle Eyes|jpg|Collect {{color|value|20}} packages with the blue eagle stamp on to earn a blue crate.}}
+{{Achievement|Like A Boy Killing Snakes|jpg|Collect {{color|value|25}} packages with the purple snake stamp on to earn a purple crate}}
+{{Achievement|There and Back Again|jpg|Earn one of each crate.}}
+{{Achievement|High Speed, Low Drag|jpg|Modify the [[CAR-4]] rifle with a Competition Foregrip, CAR Quadstacked Mag and a Competitor's Compensator.}}
+{{Achievement|Point 'n' Shoot|jpg|Modify any [[:Category:Pistols (PAYDAY 2)|pistol]] with a Pistol Red Dot Sight and a Flash Hider.}}
+{{Achievement|Mall Ninja|jpg|Modify the [[CAR-4]] rifle with a Gazelle Rail, Tactical Compensator, Compact Holosight, Wide Stock and a Military Laser Module.}}
+{{Achievement|Russian Operator|jpg|Modify any AK rifle with a Lightweight Rail, AK Slavic Dragon Barrel, AK Quadstacked Mag and a Funnel of Fun Nozzle.}}
+|-|Teasers=
+''The following appeared on April 1, 2014. They were replaced on April 9, 2014''
+{{Teasers
+|Eeny
+|Meeny
+|Miny
+|Moe
+|Catch
+|A
+|Cloaker
+|By
+|The
+|Toe
+}}
+|-|Trivia=
+* '''My Spider Sense is Tingling''' is a line often said by the Marvel Comics character {{w|Spider-Man}}, who says this when he senses something is amiss.
+* '''There and Back Again''' is a reference to the title of Bilbo's book in ''{{w|The Lord of the Rings}}''.
+*The '''Mall Ninja''' achievement refers to a term in the shooting community that describes a shooter who puts a ridiculous amount of modifications on an otherwise poor quality weapon. This is a rather appropriate term for a fully modified [[CAR-4]] since it starts out as relatively cheap, low tier weapon but can become incredibly powerful on higher difficulty levels if it is modified enough.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

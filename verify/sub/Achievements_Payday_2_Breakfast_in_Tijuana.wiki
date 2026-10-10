@@ -1,0 +1,38 @@
+<tabber>
+Permanent Achievements=
+{{Achievement|Get Our Guy|jpg|Complete the [[Breakfast in Tijuana]] job on the Normal difficulty or above.}}
+{{Achievement|Prisoner Lost|jpg|Complete the [[Breakfast in Tijuana]] on the Hard difficulty or above.}}
+{{Achievement|Ain't Goin' Out like That|jpg|Complete the [[Breakfast in Tijuana]] on the Very Hard difficulty or above.}}
+{{Achievement|No Taming a Coyote|jpg|Complete the [[Breakfast in Tijuana]] on the OVERKILL difficulty or above.}}
+{{Achievement|The Food in There Was Awful|jpg|Complete the [[Breakfast in Tijuana]] on the Mayhem difficulty or above.}}
+{{Achievement|No Evidence, No Crime|jpg|Complete the [[Breakfast in Tijuana]] on the Death Wish difficulty or above.}}
+{{Achievement|We Ride at Dawn|jpg|Complete the [[Breakfast in Tijuana]] on the Death Sentence difficulty.}}
+{{Achievement|Leaving Tijuana|jpg|Complete the [[Breakfast in Tijuana]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Low Murder Rate|jpg|Complete the [[Breakfast in Tijuana]] job in stealth without killing anyone. Unlocks the "Desert" weapon color.}}
+{{Achievement|Paid in Full|jpg|In the [[Breakfast in Tijuana]] job, secure all loot bags.}}
+{{Achievement|Stolen Valor|jpg|In the [[Breakfast in Tijuana]] job, find and steal all the medals in one run. Unlocks the "Cave" weapon color.}}
+{{Achievement|Only For Us Naughty Heisters|jpg|Find the hidden presents in the [[Border Crossing]], [[San Martín Bank]], [[Breakfast in Tijuana]], and [[Buluc's Mansion]] jobs. Unlocks the "Mega Sangres" mask.}}
+|-|Guide=
+{{Achievement|Stolen Valor|jpg|In the [[Breakfast in Tijuana]] job, find and steal all the medals in one run. Unlocks the "Cave" weapon color.}}
+*There are seven medals scattered around the precinct that can be picked up as loose loot. They can be identified by their golden sheen. One medal will always be in the locker room on the ground floor, hidden inside one of the lockers, while the rest are upstairs, placed around the cubicles and in some of the rooms. The achievement will pop after picking up the seventh medal. For a more thorough checklist of their locations, consult [https://steamcommunity.com/sharedfiles/filedetails/?id=2148523144 this guide].
+{{Achievement|Paid in Full|jpg|In the [[Breakfast in Tijuana]] job, secure all loot bags.}}
+*There are six loot bags in total, three Coke bundles in the Evidence Room safe on the second floor, and three Assault Rifles in the ground floor Armory. The achievement will pop after securing all six bags.
+{{Achievement|Only For Us Naughty Heisters|jpg|Find the hidden presents in the [[Border Crossing]], [[San Martín Bank]], [[Breakfast in Tijuana]], and [[Buluc's Mansion]] jobs. Unlocks the "Mega Sangres" mask.}}
+*Click on this [https://steamcommunity.com/sharedfiles/filedetails/?id=2322941991 link] to find all the present locations.
+|-|Teaser=
+''The following teasers were added on June 22nd, 2020, and removed on June 30th, 2020.''
+{{Achievement|I went||I went}}
+{{Achievement|to prison||to prison}}
+{{Achievement|for||for}}
+{{Achievement|something||something}}
+{{Achievement|I didn't||I didn't}}
+{{Achievement|do.||do.}}
+{{Achievement|I||I}}
+{{Achievement|didn't||didn't}}
+{{Achievement|run||run}}
+{{Achievement|fast||fast}}
+{{Achievement|enough.||enough.}}
+|-|Trivia=
+*'''We Ride at Dawn''' is a reference to the trope in media of old adventure movies, where the leader of the group announces they're leaving tomorrow morning.
+</tabber>
+[[Category:Achievement Icons]]

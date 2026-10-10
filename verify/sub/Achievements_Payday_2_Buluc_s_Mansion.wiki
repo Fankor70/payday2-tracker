@@ -1,0 +1,55 @@
+<tabber>
+Permanent Achievements=
+{{Achievement|A Different Kind of Masquerade|jpg|Complete the [[Buluc's Mansion]] job on the Normal difficulty or above.}}
+{{Achievement|Plain Old Tequila|jpg|Complete the [[Buluc's Mansion]] job on the Hard difficulty or above.}}
+{{Achievement|You Ate the Worm|jpg|Complete the [[Buluc's Mansion]] job on the Very Hard difficulty or above.}}
+{{Achievement|Tropic Thunder|jpg|Complete the [[Buluc's Mansion]] job on the OVERKILL difficulty or above. Unlocks the "Impresario" Outfit.}}
+{{Achievement|Coyopa Conundrum|jpg|Complete the [[Buluc's Mansion]] job on the Mayhem difficulty or above.}}
+{{Achievement|Murder on the Island|jpg|Complete the [[Buluc's Mansion]] job on the Death Wish difficulty or above.}}
+{{Achievement|Mansion Basher|jpg|Complete the [[Buluc's Mansion]] job on the Death Sentence difficulty.}}
+{{Achievement|Sunset Serenade|jpg|Complete the [[Buluc's Mansion]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|We Expect You to Die, Mr Buluc|jpg|In the [[Buluc's Mansion]] job, kill Buluc in a spectacular way.}}
+{{Achievement|Everything but the Patio Furniture|jpg|In the [[Buluc's Mansion]] job, secure all available loot bags in stealth.}}
+{{Achievement|Sugar, Lard and Scorpions|jpg|Find the churro. Unlocks the "Undead Peacock" mask.}}
+{{Achievement|Only For Us Naughty Heisters|jpg|Find the hidden presents in the [[Border Crossing]], [[San Martín Bank]], [[Breakfast in Tijuana]], and [[Buluc's Mansion]] jobs. Unlocks the "Mega Sangres" mask.}}
+{{Achievement|Bloody Grinch|jpg|Complete the [[Breakin' Feds]] heist or the [[Buluc's Mansion]] heist on the Mayhem difficulty or above in stealth and everyone on your crew dressed in Christmas outfits and masks, without using any pagers. Because nobody has ever seen Santa. Unlocks the "Lightbringer" Weapon Charm.}}
+|-|Guide=
+{{Achievement|We Expect You to Die, Mr Buluc|jpg|In the [[Buluc's Mansion]] job, kill Buluc in a spectacular way.}}
+*In the Inner Sanctum, there is a button in the meeting room that when pressed, will release the shark, leading to a spectacular death when Buluc falls off the balcony.
+{{Achievement|Everything but the Patio Furniture|jpg|In the [[Buluc's Mansion]] job, secure all available loot bags in stealth.}}
+*There are 21 bags of loot in the heist.
+**9 in the main mansion.
+***The inner sanctum has 3 bags of coke on the meeting room table, 
+***There are 5 safes containing coke. The safes can be drilled, lockpicked, and blown open with shaped charges on all difficulties.
+****In the meeting room in the inner sanctum
+****Underneath the staircase in the inner sanctum
+****In the small room next to the piano
+****In the the bedroom next to Buluc's office
+****In the bedroom between the inner sanctum and garage
+***1 weapon case in the garage.
+**The rest are behind the cage doors in the wine cellar.
+**It is generally advised to get the boat entry pre-planning asset when going for all loot.
+{{Achievement|Sugar, Lard and Scorpions|jpg|Find the churro. Unlocks the "Undead Peacock" mask.}}
+*The plate of churros can be found on top of the chandelier in the main hall. Jump up to it from the stairs and pick it up to get the achievement.
+{{Achievement|Only For Us Naughty Heisters|jpg|Find the hidden presents in the [[Border Crossing]], [[San Martín Bank]], [[Breakfast in Tijuana]], and [[Buluc's Mansion]] jobs. Unlocks the "Mega Sangres" mask.}}
+*Click on this [https://steamcommunity.com/sharedfiles/filedetails/?id=2322941991 link] to find all the present locations.
+|-|Teaser=
+{{Achievement|Un desarrollador de||Un desarrollador de}}
+{{Achievement|videojuegos ve a un asaltante||videojuegos ve a un asaltante}}
+{{Achievement|en busca de pistas en los logros.||en busca de pistas en los logros.}}
+{{Achievement|Después de unos minutos,||Después de unos minutos,}}
+{{Achievement|el desarrollador||el desarrollador}}
+{{Achievement|le pregunta si está seguro de||le pregunta si está seguro de}}
+{{Achievement|que las pistas están||que las pistas están}}
+{{Achievement|aquí. El asaltante responde,||aquí. El asaltante responde,}}
+{{Achievement|No, están en discordia.||No, están en discordia.}}
+{{Achievement|El desarrollador pregunta||El desarrollador pregunta}}
+{{Achievement|por qué está buscando aquí,||por qué está buscando aquí,}}
+{{Achievement|y el asaltante responde:||y el asaltante responde:}}
+{{Achievement|aquí es donde están||aquí es donde están}}
+{{Achievement|los nombres graciosos.||los nombres graciosos.}}
+|-|Trivia=
+*'''We Expect You to Die, Mr Buluc''' is a reference to the Shark Attack scene from the 2011 action movie ''{{w|Colombiana}}''.
+*The teaser achievements translates to "A video game developer sees an assailant looking for clues in achievements. After a few minutes, the developer asks if you are sure the clues are here. The assailant responds, No, they are in discord. The developer asks why he's looking here, and the assailant replies: This is where the funny names are." from Spanish.
+</tabber>
+[[Category:Achievement Icons]]

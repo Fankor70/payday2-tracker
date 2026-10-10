@@ -1,0 +1,174 @@
+<tabber>Permanent Achievements=
+{{Achievement|Fifth Nightmare|jpg|Complete the [[Safe House Nightmare]] on the Mayhem difficulty or above.}}
+{{Achievement|A Horrible Seventh Nightmare|jpg|Complete the [[Safe House Nightmare]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|His Beard Was as White as Coke|jpg|Complete the [[White Xmas]] job on the Mayhem difficulty or above.}}
+{{Achievement|{{winky}}||Complete the [[White Xmas]] job on the Death Sentence difficulty with the One Down mechanic activated.|image=Winky.jpg}}
+{{Achievement|Can You See The Light?|jpg|Complete the [[Aftershock]] job on the Mayhem difficulty or above.}}
+{{Achievement|Disaster Tourist|jpg|Complete the [[Aftershock]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|I Put It on Repeat|jpg|Complete [[the Alesso Heist]] on the Mayhem difficulty or above.}}
+{{Achievement|Dance Dance GenSec|jpg|Complete [[the Alesso Heist]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|I Know What I Like|jpg|Complete the [[Art Gallery]] heist on the Mayhem difficulty or above.}}
+{{Achievement|Painting with Blood|jpg|Complete the [[Art Gallery]] heist on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Show me the Money|jpg|Complete the [[Bank Heist|Bank Heist: Random]] on the Mayhem difficulty or above.}}
+{{Achievement|Return on Investment|jpg|Complete the [[Bank Heist|Bank Heist: Random]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Cash Only Please|jpg|Complete the [[Bank Heist|Bank Heist: Cash]] on the Mayhem difficulty or above.}}
+{{Achievement|All About the Green|jpg|Complete the [[Bank Heist|Bank Heist: Cash]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Keep on Boxing|jpg|Complete the [[Bank Heist|Bank Heist: Deposit]] on the Mayhem difficulty or above.}}
+{{Achievement|Just One More...|jpg|Complete the [[Bank Heist|Bank Heist: Deposit]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Gold Rush|jpg|Complete the [[Bank Heist|Bank Heist: Gold]] on the Mayhem difficulty or above.}}
+{{Achievement|Fort Knoxed Down|jpg|Complete the [[Bank Heist|Bank Heist: Gold]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Blood is Thicker Than Murkywater|jpg|Complete the [[Beneath the Mountain]] job on the Mayhem difficulty or above.}}
+{{Achievement|Not Radical Enough For You?|jpg|Complete the [[Beneath the Mountain]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|You Can Only Plan to Fail|jpg|Complete [[the Big Bank]] job on the Mayhem difficulty or above.}}
+{{Achievement|Piggy Broke the Bank|jpg|Complete [[the Big Bank]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Who Killed the Lights?|jpg|Complete the [[Big Oil]] job on the Mayhem difficulty or above.}}
+{{Achievement|Dirty Energy|jpg|Complete the [[Big Oil]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Harley Harley Harley Wroom! Davidson|jpg|Complete [[the Biker Heist]] job on the Mayhem difficulty or above.}}
+{{Achievement|Highly Mother-Fucking-Dangerous|jpg|Complete [[the Biker Heist]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Mile High Club|jpg|Complete the [[Birth of Sky]] job on the Mayhem difficulty or above.}}
+{{Achievement|Making it Rain|jpg|Complete the [[Birth of Sky]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Hard Boiled Heisters|jpg|Complete the [[Boiling Point]] job on the Mayhem difficulty or above.}}
+{{Achievement|This is WAR Baby!|jpg|Complete the [[Boiling Point]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|What Are You Sinking About|jpg|Complete [[the Bomb: Dockyard]] job on the Mayhem difficulty or above.}}
+{{Achievement|Ship It|jpg|Complete [[the Bomb: Dockyard]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|I Cut Down Trees, I Skip and Jump|jpg|Complete [[the Bomb: Forest]] job on the Mayhem difficulty or above.}}
+{{Achievement|Keep Your Feet on the Ground|jpg|Complete [[the Bomb: Forest]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|You've Got a Fast Car|jpg|Complete the [[Car Shop]] job on the Mayhem difficulty or above.}}
+{{Achievement|Long Gone|jpg|Complete the [[Car Shop]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Clowns Can Cook Too|jpg|Complete the [[Cook Off]] job on the Mayhem difficulty or above.}}
+{{Achievement|In the Name of Heisenberg|jpg|Complete the [[Cook Off]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Pool Party|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Mayhem difficulty or above.}}
+{{Achievement|Bodhi's Pool Repair Crew|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Truly Outrageous|jpg|Complete the [[Diamond Store]] job on the Mayhem difficulty or above.}}
+{{Achievement|Bag Throwing Simulator|jpg|Complete the [[Diamond Store]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|4 More Years|jpg|Complete the [[Election Day]] job on the Mayhem difficulty or above.}}
+{{Achievement|Only Losers Play Fair|jpg|Complete the [[Election Day]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|The Fat of the Land|jpg|Complete the [[Firestarter]] job on the Mayhem difficulty or above.}}
+{{Achievement|Got Money to Burn|jpg|Complete the [[Firestarter]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Just Walk Straight Into the Bank|jpg|Complete the [[First World Bank (Payday 2)|First World Bank]] job on the Mayhem difficulty or above.}}
+{{Achievement|First World Problems|jpg|Complete the [[First World Bank (Payday 2)|First World Bank]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Window Shopper|jpg|Complete the [[Four Stores]] job on the Mayhem difficulty or above.}}
+{{Achievement|Platinum Card|jpg|Complete the [[Four Stores]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|What a Flat!|jpg|Complete the [[Framing Frame]] job on the Mayhem difficulty or above.}}
+{{Achievement|Frames Per Second?|jpg|Complete the [[Framing Frame]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|I Would Like to Move My Money to a Bank That Doesn't Get Robbed|jpg|Complete the [[GO Bank]] job on the Mayhem difficulty or above.}}
+{{Achievement|The Global Elite|jpg|Complete the [[GO Bank]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|There is no Goat Level|jpg|Complete the [[Goat Simulator]] job on the Mayhem difficulty or above.}}
+{{Achievement|You Goat to be Kidding Me...|jpg|Complete the [[Goat Simulator]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Let the Chips Fall|jpg|Complete the [[Golden Grin Casino]] job on the Mayhem difficulty or above.}}
+{{Achievement|Ocean's Four|jpg|Complete the [[Golden Grin Casino]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Well in Russia Asshole Facks You!|jpg|Complete the [[Hotline Miami]] job on the Mayhem difficulty or above.}}
+{{Achievement|Dennis' Menace|jpg|Complete the [[Hotline Miami]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Wankers Beware|jpg|Complete the [[Hoxton Breakout]] job on the Mayhem difficulty or above.}}
+{{Achievement|Still Got That Lucky Dollar?|jpg|Complete the [[Hoxton Breakout]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Wankers Get Shanked|jpg|Complete the [[Hoxton Revenge]] job on the Mayhem difficulty or above.}}
+{{Achievement|Not the Forgiving Kind|jpg|Complete the [[Hoxton Revenge]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Bling Bling Gone|jpg|Complete the [[Jewelry Store]] job on the Mayhem difficulty or above.}}
+{{Achievement|Fire Sale|jpg|Complete the [[Jewelry Store]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Rats and Meatballs|jpg|Complete the [[Lab Rats]] job on the Mayhem difficulty or above.}}
+{{Achievement|I Survived Lab Rats with One Down And All I Got Was This Achievement|jpg|Complete the [[Lab Rats]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|A $2000 Sports Car|jpg|Complete the [[Mallcrasher]] job on the Mayhem difficulty or above.}}
+{{Achievement|I'll Break Your Malls|jpg|Complete the [[Mallcrasher]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Now is the Nuclear Winter of Our Discontent|jpg|Complete the [[Meltdown]] job on the Mayhem difficulty or above.}}
+{{Achievement|Dr. Strangevlad|jpg|Complete the [[Meltdown]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|It's Just Drones On And On|jpg|Complete the [[Murky Station]] job on the Mayhem difficulty or above.}}
+{{Achievement|EMPathy|jpg|Complete the [[Murky Station]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|This Was Easier in the Tutorial...|jpg|Complete the [[Nightclub]] job on the Mayhem difficulty or above.}}
+{{Achievement|Not on the Guest List|jpg|Complete the [[Nightclub]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Captain Cook|jpg|Complete the [[Rats]] job on the Mayhem difficulty or above.}}
+{{Achievement|My Chemical Brothers|jpg|Complete the [[Rats]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|SIX DOZERS CHARGING|jpg|Complete the [[Santa's Workshop]] job on the Mayhem difficulty or above.}}
+{{Achievement|On my Twelfth Try with One Down, The True Pain Began|jpg|Complete the [[Santa's Workshop]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|The Shadows Are Your Friends|jpg|Complete the [[Shadow Raid]] job on the Mayhem difficulty or above.}}
+{{Achievement|Like Taking Candy From a Heavily Armed Military Force|jpg|Complete the [[Shadow Raid]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Of Pigs and Pigs.|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Mayhem difficulty or above.}}
+{{Achievement|Slaughterfest|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Day at the Museum|jpg|Complete [[the Diamond]] job on the Mayhem difficulty or above.}}
+{{Achievement|The Jonssonligan|jpg|Complete [[the Diamond]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Caught in the Crossfire|jpg|Complete the [[Transport|Transport: Crossroads]] job on the Mayhem difficulty or above.}}
+{{Achievement|Why Did The Heister Cross The Road?|jpg|Complete the [[Transport|Transport: Crossroads]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Bright Lights, Broke City|jpg|Complete the [[Transport|Transport: Downtown]] job on the Mayhem difficulty or above.}}
+{{Achievement|Crime.net Street Party|jpg|Complete the [[Transport|Transport: Downtown]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Harboring Criminals|jpg|Complete the [[Transport|Transport: Harbor]] job on the Mayhem difficulty or above.}}
+{{Achievement|A Steel Container of Professional Badasses|jpg|Complete the [[Transport|Transport: Harbor]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Park Clean Up|jpg|Complete the [[Transport|Transport: Park]] job on the Mayhem difficulty or above.}}
+{{Achievement|Holding Court in the Street|jpg|Complete the [[Transport|Transport: Park]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|3:10 to the Safehouse|jpg|Complete the [[Transport: Train Heist]] job on the Mayhem difficulty or above.|image=310 to the Safehouse.jpg}}
+{{Achievement|A Good Old Fashioned Train Robbery|jpg|Complete the [[Transport: Train Heist]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Mistified|jpg|Complete the [[Transport|Transport: Underpass]] job on the Mayhem difficulty or above.}}
+{{Achievement|Fog This Shit I'm Out!|jpg|Complete the [[Transport|Transport: Underpass]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Getting Back at Dmitri|jpg|Complete the [[Ukrainian Job]] on the Mayhem difficulty or above.}}
+{{Achievement|Dmitri, Dearest of All My Friends!|jpg|Complete the [[Ukrainian Job]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Tax Return|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Mayhem difficulty or above.}}
+{{Achievement|Death and Taxes|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Dallas Security Firm|jpg|Complete the [[Watchdogs]] job on the Mayhem difficulty or above.}}
+{{Achievement|Fight Like Cornered Animals|jpg|Complete the [[Watchdogs]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Upstanding Citizen|jpg|Complete all of [[Vlad]]s contracts on the Mayhem difficulty or above.}}
+{{Achievement|A Sad Vlad is Bad|jpg|Complete all of [[Vlad]]s contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|For the Republic|jpg|Complete all of [[the Elephant]]s contracts on the Mayhem difficulty or above.}}
+{{Achievement|Democracy at Work|jpg|Complete all of [[the Elephant]]s contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Colombian Imports|jpg|Complete all of [[Hector]]s contracts on the Mayhem difficulty or above.}}
+{{Achievement|We Can Trust This Guy|jpg|Complete all of [[Hector]]s contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Trusted Friends|jpg|Complete all of [[Bain]]s contracts on the Mayhem difficulty or above.}}
+{{Achievement|Crime.net is My Homepage|jpg|Complete all of [[Bain]]s contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Master of Mayhem|jpg|Complete all contracts on the Mayhem difficulty or above. Unlocks "[[Masks (Payday 2)/Infamy#Mayhem and Death Sentence|The Mayhem Skull]]" mask.}}
+{{Achievement|A Heister of Legend|jpg|Complete all contracts on the Death Sentence difficulty. Unlocks "[[Masks (Payday 2)/Infamy#Mayhem and Death Sentence|The Death Sentence Skull]]" mask.}}
+|-|Teasers=
+''The following appeared on October 3, 2016.''
+{{Achievement|What's around the corner?||What's around the corner?}}
+{{Achievement|Maybe C. Orner||Maybe C. Orner}}
+''The following appeared on October 4, 2016. All four teasers were replaced on October 5, 2016.''
+{{Achievement|What's over the next hill?|3 = What's over the next hill?}}
+{{Achievement|Maybe H.Ill|3 = Maybe H.Ill}}
+|-|Trivia=
+*The achievements for the difficulty achievements are the first to be added before the update containing the achievements' content, as well as the first to have fewer teasers than released achievements.
+*'''His Beard Was as White as Coke''' is a reference to the play ''{{w|Hamlet|The Tragedy of Hamlet, Prince of Denmark}}'' by {{w|William Shakespeare}}, specifically a line in [http://nfs.sparknotes.com/hamlet/page_250.html Act 4, Scene 5].
+*''';)''' is an often used reply on the Steam forums by Overkill employee Almir, who portrays and voices the pilot in [[White Xmas]].
+*'''Dance Dance GenSec''' may be a reference to either {{w|Dance, Dance (Fall Out Boy song)|the song by Fall Out Boy}}, {{w|Dance, Dance (Booty Luv song)|the song by Booty Luv}}, or the video game series ''{{w|Dance Dance Revolution}}''.
+*'''I Know What I Like''' is from [[Art Gallery]]'s briefing screen.
+*'''All About the Green''' is a reference to the song of the same name used in the musical ''{{w|The Wedding Singer (musical)|The Wedding Singer}}''.
+*'''Gold Rush''' is a reference to the {{w|California Gold Rush}}.
+*'''Fort Knoxed Down''' is a pun on "knocked down" and {{w|Fort Knox}}, in which is the {{w|United States Bullion Depository}}.
+*'''Blood is Thicker Than Murkywater''' is a reference to the saying "{{w|blood is thicker than water}}".
+*'''Mile High Club''' refers to the {{w|Mile high club|sexual slang}}.
+*'''This is WAR Baby!''' is part of a quote from [[Jimmy]], who contracts the [[Boiling Point]] heist.
+*'''What Are You Sinking About''' is a reference to a [https://www.youtube.com/watch?v=yR0lWICH3rY German commercial about learning English].
+*'''I Cut Down Trees, I Skip and Jump''' is a line from {{w|the Lumberjack Song}} by the {{w|Monty Python}} group.
+*'''Long Gone''' may be a reference to [[#Spring Break Event|one of the achievements]] released with the [[Car Shop]] heist, which in turn references the film ''{{w|Gone in 60 Seconds (1974 film)|Gone in 60 Seconds}}'' and its {{w|Gone in 60 Seconds (2000 film)|2000 remake}}.
+*'''In the Name of Heisenberg''' is a reference to the TV show ''{{w|Breaking Bad}}'' and its main protagonist {{w|Walter White (Breaking Bad)|Walter White}}, who goes by the alias "Heisenberg".
+*'''Bag Throwing Simulator''' is a humorous nickname for ''[[PAYDAY 2]]''. On high difficulties, completion of the [[Diamond Store]] heist involves securing many loot bags.
+*'''4 More Years''' references the duration a president stays in office in the United States once elected, "more" meaning being re-elected.
+*'''Just Walk Straight Into The Bank''' is a quote from [[Bain]] in both the [[First World Bank|original First World Bank]] and the [[First World Bank (Payday 2)|remake]].
+*'''First World Problems''' is a reference to a [http://knowyourmeme.com/memes/first-world-problems meme].
+*'''What a Flat!''' is a quote from [[Bain]] in Day 3 of [[Framing Frame]].
+*The achievements for completing [[GO Bank]] on the Mayhem and Death Sentence: One Down difficulties were originally named '''Rush B''' and '''I Would Like to Move My Money to a Bank That Doesn't Get Robbed''' respectively. The Death Sentence: One Down achievement was renamed and the old name moved to the Mayhem achievement in a later update, because there also was a [[Side Jobs# Potential Daily Safe House Challenges|Side Job]] called Rush B.
+*'''I Would Like to Move My Money to a Bank That Doesn't Get Robbed''' is part of a phone call that can be heard in the [[GO Bank]] heist in stealth.
+*'''The Global Elite''' is the highest rank in the [[w:c:counterstrike:Competitive|Competitive mode]] in ''{{w|Counter-Strike: Global Offensive}}''.
+*'''There is no Goat Level''' is a reference to the {{w|Diablo (series)|''Diablo'' video game series}} and its developers, {{w|Blizzard Entertainment}}, insisting that [[w:c:diablo:The Secret Cow Level|there is no cow level]].
+*'''You Goat to be Kidding Me...''' is a pun on "you got to be kidding me".
+*'''Let the Chips Fall''' is part of the saying "let the chips fall where they may".
+*'''Ocean's Four''' is a reference to the ''{{w|Ocean's Trilogy}}'' of films.
+*'''Well in Russia Asshole Facks You!''' is part of a quote from [[Minor characters (Payday 2)#The Commissar|the Commissar]] in Day 1 of [[Hotline Miami]].
+*'''Dennis' Menace''' is a reference to either the British comic strip ''{{w|Dennis the Menace and Gnasher}}'' or the American comic strip ''{{w|Dennis the Menace (U.S. comics)|Dennis the Menace}}'', as well as the [[w:c:hotlinemiami:Dennis Mask|mask]] in ''{{w|Hotline Miami}}''.
+*'''Still Got That Lucky Dollar?''' is a reference to the dollar [[Hoxton]] picks up in the [[Hoxton Breakout]] trailer.
+*'''I Survived Lab Rats with One Down And All I Got Was This Achievement''' is a reference to the trope [http://tvtropes.org/pmwiki/pmwiki.php/Main/AndAllIGotWasThisLousyTShirt And All I Got Was This Lousy T-Shirt].
+*'''A $2000 Sports Car''' is a reference to the [[Vehicles#Falcogini|Falcogini]] in [[Mallcrasher|the level]] that's supposed to grant $2,000 in property damage when destroyed, however due to bugs, it grants $6,000 in property damage in-game instead.
+*'''I'll Break Your Malls''' is a pun on "I'll break your balls".
+*'''Now is the Nuclear Winter of Our Discontent''' is a reference to the play ''{{w|Richard III (play)|Richard III}}'' by {{w|William Shakespeare}}, specifically its first line.
+*'''Dr. Strangevlad''' is a reference to the 1964 film ''{{w|Dr. Strangelove|Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb}}''.
+*'''This Was Easier in the Tutorial...''' refers to the tutorial heist [[Get the Coke]], the first day of which is based on [[Nightclub]].
+*'''My Chemical Brothers''' is a reference to both the American rock band {{w|My Chemical Romance}}, and the English electronic duo {{w|The Chemical Brothers}}.
+*'''SIX DOZERS CHARGING''' is a reference to the [https://www.youtube.com/watch?v=zjnJk5V9nSM Official 2014 PAYDAY Xmas Carol "12 Days of Xmas"], which in turn is a parody of {{w|The Twelve Days of Christmas (song)|the Twelve Days of Christmas}} {{w|Christmas carol}}. '''On my Twelfth Try with One Down, The True Pain Began''' also references the carol.
+*'''Like Taking Candy From a Heavily Armed Military Force''' is a reference to the saying "like taking candy from a baby".
+*'''Day at the Museum''' is a reference to the {{w|Night at the Museum (film series)|''Night at the Museum'' film series}}.
+*'''The Jonssonligan''' is a reference to the {{w|Jönssonligan|fictional Swedish gang and its film series}}. It being attributed to [[The Diamond]] heist points to it being a reference to the film ''{{w|Jönssonligan och den svarta diamanten}}'' ("The Johnson Gang & the Black Diamond") in particular.
+*'''Why Did The Heister Cross The Road?''' is a reference to the riddle "{{w|Why did the chicken cross the road?}}".
+*'''Bright Lights, Broken City''' is a reference to either the song {{w|Bright Lights, Big City (song)|Bright Lights, Big City}}, the {{w|Bright Lights, Big City (novel)|novel named after the song}}, or the {{w|Bright Lights, Big City (film)|film based on the novel}}.
+*'''A Steel Container of Professional Badasses''' is from [[Transport|Transport: Harbor]]'s briefing screen.
+*'''Fog This Shit I'm Out!''' is a pun on "fuck this shit, I'm out!".
+*'''Dmitri, Dearest of All My Friends!''' is a reference to a quote from the character [[w:c:maxpayne:Vladimir Lem|Vladimir Lem]] from the ''{{w|Max Payne (series)|Max Payne}}'' series of games.
+*'''Death and Taxes''' is a reference to the poster tagline of [[Undercover|the original Undercover]], which in turn references a {{w|Death and taxes (idiom)|quote}} by {{w|Benjamin Franklin}}.
+*'''A Sad Vlad is Bad''' is a quote from [[Vlad]] in [[White Xmas]].
+*'''A Heister of Legend''' was named '''One more down, No more to go''' before Update #173, where the name was given to [[Masks (Payday 2)#One Down|the new mask]].
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

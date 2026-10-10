@@ -1,0 +1,34 @@
+<tabber>Permanent Achievements=
+{{Achievement|Fierce Protection|png|Complete the [[Brooklyn 10-10]] job on the Mayhem difficulty or above.}}
+{{Achievement|Vengeful Rain|png|Complete the [[Brooklyn 10-10]] job on the Death Wish difficulty or above.}}
+{{Achievement|Valkyries|png|Complete the [[Brooklyn 10-10]] job on the One Down difficulty.}}
+{{Achievement|Apartment Sniper|png|Complete the [[Brooklyn 10-10]] job from start, by having all team members using [[:Category:Sniper Rifles|Sniper Rifles]] and the [[OVE9000]] saws on the OVERKILL difficulty or above.}}
+{{Achievement|A Rendezvous with Destiny|png|On the [[Brooklyn 10-10]] job, reach [[Charon]] within 6 minutes on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#John Wick Heists Pack|Lady Liberty]]" mask, "[[Materials#John Wick Heists Pack|Underground Neon]]" material and "[[Patterns#John Wick Heists Pack|Baba Yaga]]" pattern.}}
+{{Achievement|Pass the Ammo|png|Complete the [[Brooklyn 10-10]] job from start, after deploying 8 [[Ammo bag (Payday 2)|ammo bags]] in the ammo cage on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#John Wick Heists Pack|Birds of Prey]]" mask, "[[Materials#John Wick Heists Pack|Carbon Fiber Weave]]" material and "[[Patterns#John Wick Heists Pack|Hood Stripes]]" pattern.}}
+{{Achievement|Hammerhead|png|Complete [[The Yacht Heist]] job on the Mayhem difficulty or above.}}
+{{Achievement|Great White|png|Complete [[The Yacht Heist]] job on the Death Wish difficulty or above.}}
+{{Achievement|Leviathan|png|Complete [[The Yacht Heist]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Thalassophobia|png|Complete [[The Yacht Heist]] job within 6 minutes, on the OVERKILL difficulty or above.}}
+{{Achievement|Pacifish|png|Complete [[The Yacht Heist]] job without killing anyone. Unlocks the "[[Masks (Payday 2)#John Wick Heists Pack|Sailor]]" mask, "[[Materials#John Wick Heists Pack|Neon Blue]]" material and "[[Patterns#John Wick Heists Pack|Hotel Pattern]]" pattern.}}
+{{Achievement|Blood in the Water|png|Complete [[The Yacht Heist]] job after having killed every security guard on the boat. Unlocks the "[[Masks (Payday 2)#John Wick Heists Pack|Captain]]" mask, "[[Materials#John Wick Heists Pack|Black Suede]]" material and "[[Patterns#John Wick Heists Pack|Continental]]" pattern.}}
+|-|Teasers=
+''The following appeared on February 7, 2017 and were replaced on February 9, 2017.''
+{{Achievement|steal (stēl)||steal (stēl)}}
+{{Achievement|To take||To take}}
+{{Achievement|the property||the property}}
+{{Achievement|of another||of another}}
+{{Achievement|without right||without right}}
+{{Achievement|or permission.||or permission.}}
+{{Achievement|heist (haɪst)||heist (haɪst)}}
+{{Achievement|The act||The act}}
+{{Achievement|or crime of taking||or crime of taking}}
+{{Achievement|another's property||another's property}}
+{{Achievement|unlawfully and||unlawfully and}}
+{{Achievement|by force.||by force.}}
+|-|Trivia=
+*'''{{w|Hammerhead shark|Hammerhead}}''' and '''{{w|Great white shark|Great White}}''' are species of {{w|shark}}s.
+*'''{{w|Leviathan}}''' is a sea monster originating from the {{w|Hebrew Bible}}.
+**It was originally named '''{{w|Megalodon}}''' before Update #173.
+*'''{{w|Thalassophobia}}''' is the clinical name for the persistent fear of the sea and sea travel.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

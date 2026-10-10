@@ -1,0 +1,43 @@
+<tabber>Permanent Achievements=
+'''Ownership required'''
+{{Achievement|Police Brutality|jpg|Beat a [[Shield (Payday 2)|Shield]] to death using the [[Telescopic Baton]].}}
+{{Achievement|Lock, Stock & Eight Smoking Barrels|jpg|Own the [[Locomotive 12G (Payday 2)|Locomotive]], [[Street Sweeper]], [[Reinfeld 880|Reinfeld]], [[Mosconi 12G|Mosconi]], [[IZHMA 12G|Izhma]], [[Raven]] and [[M1014]] Shotguns. Unlocks the Flip-up Sight for the Raven shotgun.}}
+{{Achievement|Knock, Knock|jpg|Kill {{color|value|50}} [[Shield (Payday 2)|Shield]]s using any shotgun and slug ammo. Unlocks the Collapsed Stock for the [[M1014]] shotgun.}}
+{{Achievement|Everyday I'm Shovelin'|jpg|On the [[Nightclub]] heist, kill {{color|value|25}} law enforcers using your [[K.L.A.S. Shovel|shovel]]. Unlocks the Short Barrel for the [[Raven]] shotgun.}}
+{{Achievement|Clay Pigeon Shooting|jpg|Kill {{color|value|10}} [[Sniper (Payday 2)|sniper]]s using any shotgun and flechette ammo. Unlocks the Long Barrel for the [[Raven]] shotgun, "[[Masks (Payday 2)#Gage Shotgun Pack DLC|Clint]]" mask, "[[Materials#Gage Shotgun Pack DLC|Leaf]]" material and "[[Patterns#Gage Shotgun Pack DLC|Monkey Skull]]" pattern.}}
+{{Achievement|Shock and Awe|jpg|Hit {{color|value|4}} enemies simultaneously using any shotgun and HE rounds. Unlocks the Tactical Stock for the [[M1014]] shotgun.}}
+{{Achievement|Four Monkeys|jpg|In the [[Rats]] job, complete the heist while you and your {{color|value|four}} man crew are wearing one different "Shotgun Pack" mask each on OVERKILL difficulty or above.}}
+
+'''Achievable without owning DLC'''
+{{Achievement|Seven Eleven|jpg|Get {{color|value|7}} enemy headshot kills within {{color|value|11}} seconds using any shotgun. Unlocks the Short Barrel for the [[M1014]] shotgun, “[[Masks (Payday 2)#Gage Shotgun Pack DLC|John]]” mask, “[[Materials#Gage Shotgun Pack DLC|Explosive]]” material and “[[Patterns#Gage Shotgun Pack DLC|Terror]]” pattern.}}
+{{Achievement|Bang for the Buck|jpg|Kill {{color|value|10}} [[Bulldozer (Payday 2)|Bulldozers]] using any shotgun and 000 buckshot ammo. Unlocks the Long Barrel for the [[Street Sweeper]] shotgun, "[[Masks (Payday 2)#Gage Shotgun Pack DLC|Steven]]" mask, "[[Materials#Gage Shotgun Pack DLC|Sparks]]" material and "[[Patterns#Gage Shotgun Pack DLC|Chief]]" pattern.}}
+{{Achievement|Shotguns 101|jpg|Complete any heist by killing at least {{color|value|50}} enemies and get {{color|value|101}}% accuracy or above using any shotgun. Unlocks the Long Barrel for the [[M1014]] shotgun.}}
+{{Achievement|No Heist for Old Men|jpg|Complete any heist in stealth with a [[Locomotive 12G (Payday 2)|Locomotive 12G]] shotgun modified with the "Silent Killer Suppressor" equipped. Unlocks the Suppressed Barrel for the [[Street Sweeper]] shotgun, "[[Masks (Payday 2)#Gage Shotgun Pack DLC|Rutger]]" mask, "[[Materials#Gage Shotgun Pack DLC|Banana Peel]]" material and "[[Patterns#Gage Shotgun Pack DLC|Banana]]" pattern.}}
+{{Achievement|Swing Dancing|jpg|Complete any single day of a heist, killing at least {{color|value|50}} enemies using only your melee weapon.<br>''{{color|negative|Note: This means you cannot use anything other than your melee weapon, lest you void the achievement.}}''}}
+|-|Teasers=
+''The following appeared on June 26, 2014. They were replaced on July 3, 2014, with the release of the [[Gage Shotgun Pack]].''
+{{Teasers
+|Well
+|I'm
+|about
+|as tall
+|as
+|a
+|Locomotive
+|12G
+|shotgun,
+|and
+|just as
+|noisy!
+}}
+|-|Trivia=
+* '''Lock, Stock and Eight Smoking Barrels''' is a reference to the 1998 film ''{{w|Lock, Stock and Two Smoking Barrels}}''. 
+* '''Every Day I'm Shovellin<nowiki>'</nowiki>''' may be a reference to the line "Every day I'm hustlin'" from the Rick Ross song "{{w|Hustlin'}}". Alternatively, it may be a reference to the line "Every day I'm shufflin'" from the LMFAO song "{{w|Party Rock Anthem}}" in a direct samplefrom Hustlin'.
+* '''No Heist for Old Men''' is a reference to ''{{w|No Country for Old Men (film)|No Country for Old Men}}'', a 2007 movie based on Cormac McCarthy's {{w|No Country for Old Men|novel of the same name}}. In this movie, the antagonist is a crazed killer who uses a shotgun with a huge suppressor, similar in appearance to the [[Locomotive 12G (Payday 2)|Locomotive 12G]].
+* '''Seven Eleven''' is a reference to the convenience store chain {{w|7-Eleven}}.
+* '''Shotgun 101''' is a reference to university and college level course codes, especially in the USA, under which 101 indicates the first module of a subject. The achievement name can be interpreted as meaning an introductory shotgun course. It can also refer to the minimum accuracy required for unlocking the achievement.
+* '''Shock and Awe''' refers to a {{w|Shock and awe|military doctrine}}.
+* '''Bang for the Buck''' is a reference to an {{w|Bang for the buck|idiom}}.
+* '''Clay Pigeon Shooting''' is a reference to the sport of {{w|Clay pigeon shooting}}, which commonly uses weaker shotgun rounds similar to the flechette shells used for unlocking the achievement, as well as aiming at targets in an elevated position, much like snipers.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

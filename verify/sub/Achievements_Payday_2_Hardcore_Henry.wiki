@@ -1,0 +1,52 @@
+<tabber>Permanent Achievements=
+{{Achievement|Blackout|jpg|Complete the [[Murky Station]] job on the Death Wish difficulty or above.}}
+{{Achievement|Ghost Run|jpg|Complete the [[Murky Station]] job within 7 minutes of starting it. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Cloaker-san]]" mask, "[[Materials#Hardcore Henry Heists|Rusty]]" material and "[[Patterns#Hardcore Henry Heists|Rebel]]" pattern.}}
+{{Achievement|The Pacifist|jpg|Complete the [[Murky Station]] job without anyone in the crew killing anyone. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Augmentation]]" mask, "[[Materials#Hardcore Henry Heists|Spaceship]]" material and "[[Patterns#Hardcore Henry Heists|Squares]]" pattern.}}
+{{Achievement|Janitor|jpg|Complete the [[Murky Station]] job after hiding one body bag in each dumpster.}}
+{{Achievement|No Witnesses|jpg|Complete the [[Murky Station]] job by killing all guards and not using any [[ECM Jammer|ECM jammers]] on the OVERKILL difficulty or above.}}
+{{Achievement|Red Snow|jpg|Complete the [[Boiling Point]] job on the Death Wish difficulty or above.}}
+{{Achievement|The Ground Is Too Cold|jpg|In the [[Boiling Point]] job, have no crew members get downed on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Zero 68]]" mask, "[[Materials#Hardcore Henry Heists|Nebula]]" material and "[[Patterns#Hardcore Henry Heists|Hexagons]]" pattern.}}
+{{Achievement|Crazy Ivan|jpg|Complete the [[Boiling Point]] job having everyone only using melee weapons without electricity or [[poison]]{{color|negative|*}} to kill enemies on the Very Hard difficulty or above. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Safety First]]" mask, "[[Materials#Hardcore Henry Heists|Planet]]" material and "[[Patterns#Hardcore Henry Heists|Phoenix]]" pattern.<br/>{{color|negative|''*For clarity, this means no use of the [[Buzzer]], [[Kunai Knife]], or [[Electrical Brass Knuckles]].''}}}}
+{{Achievement|Megalo-Mania|jpg|Have all four players using a fully unlocked [[Perk Decks#Maniac|Maniac]] perkdeck and have an average of 65% or more of the white Maniac bar filled.}}
+{{Achievement|When in Russia... Do as the Russians Do|jpg|Complete the [[Boiling Point]] job while having your crew wear the "[[Masks (Payday 2)#Normal (CrimeFest 2015)|Russian Hat]]" mask and "[[Golden AK.762]]" assault rifle on the OVERKILL difficulty or above.}}
+|-|Teasers=
+{{Teasers
+|Knowing
+|When
+|To Leave
+|Requires
+|Training
+|Coming
+|In
+|Like
+|A
+|Wrecking Ball
+}}
+|-|Tips=
+{{Achievement|Ghost Run|jpg|Complete the [[Murky Station]] job within 7 minutes of starting it. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Cloaker-san]]" mask, "[[Materials#Hardcore Henry Heists|Rusty]]" material and "[[Patterns#Hardcore Henry Heists|Rebel]]" pattern.}}
+This achievement is very simple to complete, especially in multiplayer, as merely all that is required is for both bomb parts to be found and secured on any difficulty and then escape.
+
+{{Achievement|The Pacifist|jpg|Complete the [[Murky Station]] job without anyone in the crew killing anyone. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Augmentation]]" mask, "[[Materials#Hardcore Henry Heists|Spaceship]]" material and "[[Patterns#Hardcore Henry Heists|Squares]]" pattern.}}
+This is also simple, and in fact can be done alongside Ghost Run easily. The achievement only requires the crew to not get caught. If a guard has detected a player out in the open and both EMP parts have been found, at that point the players can ECM rush the remainder of the heist, provided their ECMs have enough upgrades.
+
+If one desires, one can dominate the entire basement (obviously out of sight of cameras on the [[Death Wish]] difficulty) to facilitate moving bags.
+
+These same tactics can also be applied to the [[Achievements (Payday 2)#Hotfix 97.4|Looting in the Dark]] achievement, with the obvious difference of having to secure all of the loot in the heist.
+
+{{Achievement|No Witnesses|jpg|Complete the [[Murky Station]] job by killing all guards and not using any [[ECM Jammer|ECM jammers]] on the OVERKILL difficulty or above.}}
+This achievement is trickier, but still very doable. Note the following instructions work ''only'' on Overkill.
+
+There are 7 guards on the surface, and 3 guards in the basement. Shoot all of the cameras in the basement, then kill all of the guards in the basement. Then go up to the surface and find and secure the EMP bomb parts. How the heist is finished depends on the size of the player crew and where the escape vehicle is:
+
+#'''Van:''' In multiplayer, the crew will start from the docks side of the map and shoot through the trainyard to the van. In singleplayer, the player will have to snipe the remaining guards from the bridge overlooking the trainyard. The [[Lebensauger .308]] is recommended not only because of its fire rate, but also because it's easy to conceal.
+#'''Boat:''' In multiplayer, the crew will start from the side of the trainyard closest to the starting point and shoot through the trainyard. If playing in singleplayer, the player will be forced to restart because it's virtually impossible to kill all of the guards single-handedly and reach the escape zone before the escape timer runs out.
+
+This achievement can also be done on the [[Death Wish]] difficulty, but obviously more difficult due to the presence of Titan cameras. It also only can be done if the escape vehicle is the van.
+
+The crew will play out the heist normally up until the EMP parts are secured in the van. At that point, one or two players will go to the opposite end of the map, one player will go down to the basement, and, while not required but highly recommended, one player will snipe from the bridge. Once the drones turn on and return to a resting position (so the alarm doesn't go off earlier than desired), the crew member(s) near the docks will kick off the killing spree, running beneath the bridge to the escape point, the crew member on the bridge will snipe the guards the previous player(s) couldn't reach, and the last player will shoot up the basement. It's almost required that the players not on the bridge have speed-boosting skills and [[Perk Decks]].
+|-|Trivia=
+*The teaser achievements "Knowing When To Leave Requires Training" is a [http://www.goodreads.com/quotes/677779-knowing-when-to-leave-requires-training quote] from [[wikipedia:Jane Prowse|Jane Prowse]].
+*The teaser achievements "Coming In Like A Wrecking Ball" is a reference to the [[wikipedia:Miley Cyrus|Miley Cyrus]] song [[wikipedia:Wrecking Ball (Miley Cyrus song)|Wrecking Ball]].
+*'''When in Russia... Do as the Russians Do''' is a play on the saying "When in Rome, do as the Romans do".
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

@@ -1,0 +1,1514 @@
+{
+ "generated": "2026-10-10",
+ "source": "https://payday.fandom.com/ru/wiki/Категория:Ограбления_PAYDAY_2",
+ "heist_count": 76,
+ "notes": [
+  "Единственный шаблон {{Description3}} на вики отсутствует — варианты закодированы в prose, в списках под == Описание ==, в секции == Локации == и в поле |int_name шаблона «Ограбления PAYDAY 2».",
+  "|int_name в Шаблон:Ограбления PAYDAY 2 — надёжный признак варианта: несколько int_name в одном блоке с общим корнем = loot/map-варианты (branchbank_*, arm_*).",
+  "Поле |contract в инфобоксе группирует по доске контрактов (job board), а не по вариантам: например contract=6 объединяет Пересечение границы, Кристаллы на границе, Рождение небес, У подножия горы, Белый дом и др. — они НЕ являются вариантами друг друга.",
+  "«Варка мета» = Cook Off (int_name=rat, собственная карта). Это НЕ Hardcore Henry «Rack 'Em» и не переиспользует карту Станции Murkywater (int_name=dark). Статьи «Rack 'Em» на ru-вики нет.",
+  "Категория:Hardcore Henry Heists содержит только Станцию Murkywater (dark) и Точку кипения (mad); «Варка мета» в неё не входит.",
+  "У.authoritative признак DLC-группы — общая категория вида «Категория:The Bomb Heists», «Категория:The Point Break Heists», «Категория:John Wick Heists», «Категория:Hardcore Henry Heists», «Категория:Обучение PAYDAY 2», «Категория:Armored Transport».",
+  "Магазины (Ювелирный магазин / Магазин бриллиантов / Автосалон / Четыре магазина) НЕ объединены вики ни в одну группу: у каждого свой int_name (jewelry_store / family / cage / four_stores) и нет общего родителя. В игре они — карты одного контракта Shops, но вики этого не утверждает."
+ ],
+ "heists": [
+  {
+   "title": "Автосалон",
+   "name_en": "Car Shop",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление автосалона, из которого необходимо угнать спортивные автомобили. Как и в ограблении Теневой рейд, основная часть игры рассчитана на скрытое прохождение, в противном случае активируется точка невозврата.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%81%D0%B0%D0%BB%D0%BE%D0%BD",
+   "categories": [
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "cage",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Адский остров",
+   "name_en": "Hell's Island",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Лок с помощью своих связей узнал, где держат Бэйна, и теперь банда должна его вызволить.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%90%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "bph",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Алессо",
+   "name_en": "Alesso",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление хранилища GenSec Security Industries во время выступления хаус-исполнителя .",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%90%D0%BB%D0%B5%D1%81%D1%81%D0%BE",
+   "categories": [
+    "Категория:The Alesso Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "arena",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Аукцион Шаклторн",
+   "name_en": "Shacklethorne Auction",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление, целью которого является похищение артефакта, который изначально лежал в одном из сундуков.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%90%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD_%D0%A8%D0%B0%D0%BA%D0%BB%D1%82%D0%BE%D1%80%D0%BD",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "sah",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Банк GO",
+   "name_en": "GO Bank",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление небольшого банка, из которого нужно вынести временно хранимую там иностранную валюту для обмена.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BD%D0%BA_GO",
+   "categories": [
+    "Категория:The Charlie Santa Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "roberts",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Банк San Martín",
+   "name_en": "San Martín Bank",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Влад хочет, чтобы команда вытащила его ценности из банка, который принадлежит картелю «Койопа». Из-за разногласий с картелем тот не может сделать это самостоятельно.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BD%D0%BA_San_Mart%C3%ADn",
+   "categories": [
+    "Категория:San Martín Bank Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Белый дом",
+   "name_en": "The White House",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Банда совершает своё последнее и самое грандиозное ограбление.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "vit",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Бешеные псы",
+   "name_en": "Reservoir Dogs",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "В этот раз банда идёт на ограбление ювелирного магазина в Лос-Анджелесе, но оно пошло не по плану. Это ограбление является отсылкой к фильму Квентина Тарантино «Бешеные псы». На это указывает название миссии, схожее с названием фильма, локация на первом дне ограбления, а именно склад, который фигурировал убежищем в фильме, и сюжетом, который очень похож на сюжет самого фильма, за исключением тольк",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D0%B5%D1%88%D0%B5%D0%BD%D1%8B%D0%B5_%D0%BF%D1%81%D1%8B",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2"
+   ],
+   "infobox_int_name": "rvd",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Большой банк",
+   "name_en": "Big Bank",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Команду нанимает новый работодатель — Дантист, который предлагает ограбить крупнейший банк США (также это самый большой банк в истории PAYDAY). Это первое ограбление с возможностью предварительного планирования (англ. Preplanning), позволяющим спланировать действия команды на чертежах плана здания и закупить на «очки услуг» дополнительные активы, план открытия хранилища и план побега. === Активы =",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B1%D0%B0%D0%BD%D0%BA",
+   "categories": [
+    "Категория:The Big Bank Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "big",
+   "infobox_contract": "4"
+  },
+  {
+   "title": "Бомба: Доки",
+   "name_en": "Dockyard",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Бомба: Доки",
+     "en_hint": "Dockyard",
+     "source_quote": "Категория:The Bomb Heists содержит ровно Бомба: Доки и Бомба: Лес; int_name crojob1/crojob2/crojob3 + thebomb_stage_2/3 (общий корень crojob)",
+     "int_name": "crojob1 (job)/crojob2 (level)/thebomb_stage_2"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Доки — это первый из двух возможных сценариев кражи бомбы. Мясник хочет, чтобы мы достали бомбу. Она даёт нам координаты доков, в которые должен прибыть нужный груз. Судно под названием «Моретта» стоит в закрытом доке в ожидании разрешения таможни. Задача: по прибытию в верфи, нужно будет отправить корабль с причала 2В на 3В, откуда мы сможем на него подняться. После открытия ворот дока, нужно соо",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%3A_%D0%94%D0%BE%D0%BA%D0%B8",
+   "is_variant_of": "Бомба",
+   "categories": [
+    "Категория:The Bomb Heists",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "crojob1 (job)<br>crojob2 (level)<br>thebomb_stage_2",
+   "infobox_contract": "5"
+  },
+  {
+   "title": "Бомба: Лес",
+   "name_en": "Forest",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Бомба: Лес",
+     "en_hint": "Forest",
+     "source_quote": "Категория:The Bomb Heists содержит ровно Бомба: Доки и Бомба: Лес; int_name crojob1/crojob2/crojob3 + thebomb_stage_2/3 (общий корень crojob)",
+     "int_name": "crojob2 (job)/crojob3 (level)/thebomb_stage_3"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Огромное количество термобарических снарядов перевозят грузовым поездом к месту, где позже груз будет списан. Мясник нанимает банду PAYDAY, чтобы пустить под откос этот поезд, взорвав опоры моста, и украсть содержимое хранилища. === Цели === # Найти вагон с хранилищем внутри. # Использовать термит. # Ждать вертолёта. # Подключить шланг и начать заливать внутрь воду. # Оборонять его. # Использовать",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D0%BE%D0%BC%D0%B1%D0%B0%3A_%D0%9B%D0%B5%D1%81",
+   "is_variant_of": "Бомба",
+   "categories": [
+    "Категория:The Bomb Heists",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "crojob2 (job)<br>crojob3 (level)<br>thebomb_stage_3",
+   "infobox_contract": "5"
+  },
+  {
+   "title": "Бриллиант",
+   "name_en": "The Diamond",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Дантист предлагает нам совершить ограбление музея имени Маккендрика с целью похитить легендарный Бриллиант. Это можно сделать либо незаметно, либо штурмом.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82",
+   "categories": [
+    "Категория:The Diamond Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "mus",
+   "infobox_contract": "4"
+  },
+  {
+   "title": "Бруклин 10-10",
+   "name_en": "Brooklyn 10-10",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Бруклин 10-10",
+     "en_hint": "Brooklyn 10-10",
+     "source_quote": "Категория:John Wick Heists",
+     "int_name": "spa"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "В этот раз команда отправляется в Нью-Йорк, чтобы спасти из засады человека по имени Харон.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D1%80%D1%83%D0%BA%D0%BB%D0%B8%D0%BD_10-10",
+   "is_variant_of": "Набор John Wick",
+   "categories": [
+    "Категория:John Wick Heists",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Контракты Континенталя",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "spa",
+   "infobox_contract": "9"
+  },
+  {
+   "title": "Бруклинский банк",
+   "name_en": "Brooklyn Bank",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Банда отправляется в бруклинский филиал банка Harvest & Trustee за некой вещью, которую хотел заполучить Бэйн, но не успел этого сделать. === Прохождение === ==== Цели ==== * Попасть в служебное помещение * Отключить защиту * Открыть хранилище * Взорвать на полу золотую лилию и вскрыть ячейку * Забрать медальон * (опционально) Забрать дополнительную добычу * Скрыться. Лок с помощью фургона таранит",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%91%D1%80%D1%83%D0%BA%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B0%D0%BD%D0%BA",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "brb",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Варка мета",
+   "name_en": "Cook Off",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Команда вернулась в лабораторию, где раньше они готовили мет во время работы для Гектора, с целью получения денег.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%92%D0%B0%D1%80%D0%BA%D0%B0_%D0%BC%D0%B5%D1%82%D0%B0",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "rat",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Горячая линия Майами",
+   "name_en": "Hotline Miami",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "У Дантиста появился план по освобождению Хокстона, но для начала он хочет, чтобы команда оказала ему услугу, а именно — убийство Комиссара, лидера группы русской мафии, который мешает Дантисту оказывать влияние на генерального прокурора Вашингтона.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_%D0%9C%D0%B0%D0%B9%D0%B0%D0%BC%D0%B8",
+   "categories": [
+    "Категория:Hotline Miami DLC",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "mia",
+   "infobox_contract": "4"
+  },
+  {
+   "title": "Дело на Аляске",
+   "name_en": "Alaskan Deal",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Лок хочет осуществить сделку по продаже оружия у Мясника и он просит нас о помощи, но всё идёт не по плану.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%94%D0%B5%D0%BB%D0%BE_%D0%BD%D0%B0_%D0%90%D0%BB%D1%8F%D1%81%D0%BA%D0%B5",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "wwh",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "День выборов",
+   "name_en": "Election Day",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "В Вашингтоне проходят выборы в мэры города, и наш старый знакомый — сенатор по кличке Слон — хочет, чтобы его человек Боб Маккендрик выиграл на них с помощью нашей команды. Чтобы выполнить задание, команда должна перетасовать голоса в пользу Маккендрика.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BE%D0%B2",
+   "categories": [
+    "Категория:The Election Day Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "election_day",
+   "infobox_contract": "3"
+  },
+  {
+   "title": "Завтрак в Тихуане",
+   "name_en": "Breakfast in Tijuana",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "После того как Банк San Martín был ограблен, банда сбежала, но один из напарников не сумел выбраться и был схвачен полицией. Теперь его необходимо освободить.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%97%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA_%D0%B2_%D0%A2%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B5",
+   "categories": [
+    "Категория:Breakfast in Tijuana Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Зеленый мост",
+   "name_en": "Green Bridge",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк Green Bridge из PAYDAY: The Heist. В нём нам надо остановить конвой с заключенными, освободить одного из них и сопроводить до точки эвакуации, где его подбирает самолёт с помощью небесного крюка.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "glace",
+   "infobox_contract": "95"
+  },
+  {
+   "title": "Казино Golden Grin",
+   "name_en": "Golden Grin Casino",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление хранилища казино Golden Grin в качестве исполнения последней просьбы Дантиста.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE_Golden_Grin",
+   "categories": [
+    "Категория:The Golden Grin Casino Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "kenaz<br>cas",
+   "infobox_contract": "4"
+  },
+  {
+   "title": "Комната паники",
+   "name_en": "Panic Room",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк Panic Room из PAYDAY: The Heist. Игрокам предстоит ограбить наркокартель, унеся целую комнату.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "flat",
+   "infobox_contract": "95"
+  },
+  {
+   "title": "Кошмар в Убежище",
+   "name_en": "Safehouse Nightmare",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление, доступное только на Хэллоуинском Ивенте. Представляет из себя полноценное ограбление, но в локации Убежище в тёмное время суток. На карте размещены Хэллоуинские декорации.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%88%D0%BC%D0%B0%D1%80_%D0%B2_%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Контракты событий",
+    "Категория:Незавершенные статьи",
+    "Категория:Убежище"
+   ],
+   "infobox_int_name": "haunted",
+   "infobox_contract": "96"
+  },
+  {
+   "title": "Кража бриллиантов",
+   "name_en": "Diamond Heist",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк ограбления Diamond Heist из PAYDAY: The Heist.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B0%D0%B6%D0%B0_%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "dah",
+   "infobox_contract": "95"
+  },
+  {
+   "title": "Кража дракона",
+   "name_en": "Dragon Heist",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Гау хочет, чтобы мы отомстили триадам за то, что они мешают его бизнесу, в отместку за его уход. === Активы === Asset gage assignment.png|Посылки Asset-Risk-Level.gif|Уровни риска. asset-bodybags bag.png|Мешки для трупов Cost: XXXX$ Req.: Чистильщик nade asset full.png|Кейс с гранатами Cost: XXXX$ Req.: Gage Weapon Pack #01 DLC Asset-ammo-bag.png|Сумка с патронами Asset-medic-bag.png|Медицинская с",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B0%D0%B6%D0%B0_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0",
+   "categories": [
+    "Категория:Dragon Pack",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "",
+   "infobox_contract": "10"
+  },
+  {
+   "title": "Кристаллы на границе",
+   "name_en": "Border Crystals",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Кристаллы на границе",
+     "en_hint": "Border Crystals",
+     "source_quote": "int_name mex (job mex df.png) vs mex_cooking (job mex cooking df.png) — cooking/Christmas variant of the same map",
+     "int_name": "mex_cooking"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Вы знаете план, друзья. Готовьте так долго, как сможете, и это будет прекрасной прибавкой к нашим средствам. Я буду помогать по мере возможности. Койопа не будут вам рады и помогают им мои бывшие коллеги из Murkywater, так что у вас будет куча дел, но это того стоит, да?",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB%D1%8B_%D0%BD%D0%B0_%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B5",
+   "is_variant_of": "Пересечение границы",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "mex_cooking",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Крушитель",
+   "name_en": "Mallcrasher",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Владелец торгового центра отказался от защиты со стороны Влада, поэтому тот нанял нашу команду, чтобы разгромить данный торговый центр. Наша задача состоит в том, чтобы разгромить имущество в торговом центре Shield Shopping Mall на стоимость 50.000$. При этом есть возможность захватить с собой больше добычи, ограбив ювелирный магазин, вскрыв банкоматы или открыв сейфы в некоторых магазинах.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9A%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "mallcrasher",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Крысы",
+   "name_en": "Rats",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Наша задача — освободить варщиков Гектора от гангстеров Мендосы. По плану Гектора, мы должны забрать метамфетамин у его химиков, выменять его на информацию о конвое FBI и Мендосы, который бежит из страны, а затем перехватить и убить его.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9A%D1%80%D1%8B%D1%81%D1%8B",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "alex_must_die",
+   "infobox_contract": "2"
+  },
+  {
+   "title": "Лабораторные крысы",
+   "name_en": "Lab Rats",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Действие данного ограбления проходит на втором этаже дома из первого дня Крыс или Варки мета, а точнее на столе для варки мета.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_%D0%BA%D1%80%D1%8B%D1%81%D1%8B",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Контракты событий",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "nail",
+   "infobox_contract": "96"
+  },
+  {
+   "title": "Лайнер Black Cat",
+   "name_en": "Black Cat",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Влад хочет отомстить триаде Золотой кинжал за . === Активы === Asset gage assignment.png|Посылки Asset-Risk-Level.gif|Уровни риска. asset-bodybags bag.png|Мешки для трупов Cost: XXXX$ Req.: Чистильщик nade asset full.png|Кейс с гранатами Cost: XXXX$ Req.: Gage Weapon Pack #01 DLC Asset-ammo-bag.png|Сумка с патронами Asset-medic-bag.png|Медицинская сумка",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B9%D0%BD%D0%B5%D1%80_Black_Cat",
+   "categories": [
+    "Категория:Black Cat Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2",
+    "Категория:Страницы с неработающими файловыми ссылками",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Магазин бриллиантов",
+   "name_en": "Diamond Store",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "В этом ограблении Бэйн предлагает нам поживиться в очень большом ювелирном магазине сети Gioielli di Famiglia.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD_%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2",
+   "categories": [
+    "Категория:The Diamond Store Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "family",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Мастерская Санты",
+   "name_en": "Santa's Workshop",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "В данном ограблении необходимо заставить эльфов собирать нам подарки.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%B0%D0%BD%D1%82%D1%8B",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "cane",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Месть Хокстона",
+   "name_en": "Hoxton Revenge",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление, целью которого является раскрытие личности предателя, сдавшего Хокстона, и его убийство.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%8C_%D0%A5%D0%BE%D0%BA%D1%81%D1%82%D0%BE%D0%BD%D0%B0",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "hox_3 (job/level)<br>revenge (scripts)<br>hox_estate (scripts)",
+   "infobox_contract": "4"
+  },
+  {
+   "title": "Нет милосердию",
+   "name_en": "No Mercy",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк No Mercy из PAYDAY: The Heist. Банде необходимо найти и украсть заражённую кровь больного, которой через 6 лет заразят Бэйна.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9D%D0%B5%D1%82_%D0%BC%D0%B8%D0%BB%D0%BE%D1%81%D0%B5%D1%80%D0%B4%D0%B8%D1%8E",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "nmh",
+   "infobox_contract": "95"
+  },
+  {
+   "title": "Нефтяное дело",
+   "name_en": "Big Oil",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Команда должна захватить прототип термоядерного реактора Мистера Росси для Слона, чтобы он смог получить поддержку со стороны нефтяных конгломератов для приближающихся выборов.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%BE",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Завершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "welcome_to_the_jungle",
+   "infobox_contract": "3"
+  },
+  {
+   "title": "Ночной клуб",
+   "name_en": "Nightclub",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Задание, в котором мы должны ограбить владельца ночного клуба и, по совместительству, главного конкурента Влада — Дмитрия.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "Nightclub",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Ограбление байкеров",
+   "name_en": "Biker Heist",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "В этом ограблении нужно починить байк Раста и ограбить поезд с прототипом шлема, который позволяет управлять дронами силой мысли (ИМК-шлем).",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9E%D0%B3%D1%80%D0%B0%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B5%D1%80%D0%BE%D0%B2",
+   "categories": [
+    "Категория:The Biker Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "born (day 1, job)<br>chew (day 2)",
+   "infobox_contract": "3"
+  },
+  {
+   "title": "Ограбление банка",
+   "name_en": "Bank Heist",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Деньги",
+     "en_hint": "Cash",
+     "source_quote": "== Описание == Ограбление имеет четыре разновидности, которые можно различить, когда вы берётесь за контракт:\n# Деньги\n# Ячейки\n# Золото\n# Случайное",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = branchbank (level)<br>branchbank_deposit(deposit)<br>branchbank_cash (cash)<br>branchbank_prof (random)<br>branchbank_gold_prof (gold)",
+     "int_name": "branchbank_cash (cash)"
+    },
+    {
+     "ru": "Ячейки",
+     "en_hint": "Deposit",
+     "source_quote": "== Описание == Ограбление имеет четыре разновидности, которые можно различить, когда вы берётесь за контракт:\n# Деньги\n# Ячейки\n# Золото\n# Случайное",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = branchbank (level)<br>branchbank_deposit(deposit)<br>branchbank_cash (cash)<br>branchbank_prof (random)<br>branchbank_gold_prof (gold)",
+     "int_name": "branchbank_deposit(deposit)"
+    },
+    {
+     "ru": "Золото",
+     "en_hint": "Gold",
+     "source_quote": "== Описание == Ограбление имеет четыре разновидности, которые можно различить, когда вы берётесь за контракт:\n# Деньги\n# Ячейки\n# Золото\n# Случайное",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = branchbank (level)<br>branchbank_deposit(deposit)<br>branchbank_cash (cash)<br>branchbank_prof (random)<br>branchbank_gold_prof (gold)",
+     "int_name": "branchbank_gold_prof (gold)"
+    },
+    {
+     "ru": "Случайное",
+     "en_hint": "Random",
+     "source_quote": "== Описание == Ограбление имеет четыре разновидности, которые можно различить, когда вы берётесь за контракт:\n# Деньги\n# Ячейки\n# Золото\n# Случайное",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = branchbank (level)<br>branchbank_deposit(deposit)<br>branchbank_cash (cash)<br>branchbank_prof (random)<br>branchbank_gold_prof (gold)",
+     "int_name": "branchbank_prof (random)"
+    }
+   ],
+   "variant_kind": "loot",
+   "description_ru": "В этом ограблении мы должны вынести добычу из банка сети Harvest & Trustee. Ограбление имеет четыре разновидности, которые можно различить, когда вы берётесь за контракт: # Деньги # Ячейки # Золото # Случайное В первом случае мы выносим из хранилища пачки наличных, во втором — содержимое ячеек, в третьем — слитки золота, в четвёртом — может попасться любой вариант из перечисленных.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9E%D0%B3%D1%80%D0%B0%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0",
+   "categories": [
+    "Категория:PAYDAY: The Web-Series",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "branchbank (level)<br>branchbank_deposit(deposit)<br>branchbank_cash (cash)<br>branchbank_prof (random)<br>branchbank_gold_prof (gold)",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Ограбление поезда",
+   "name_en": "Train Heist",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Ограбление поезда",
+     "en_hint": "Train Heist",
+     "source_quote": "Категория:Armored Transport; Train Heist is listed inside Транспорт's == Локации == section",
+     "int_name": "arm_for"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Начинается сразу после ограбления Транспорта, если мы нашли документы в одной из ячеек в инкассаторском грузовике. Также можно купить как отдельный контракт. В этом задании мы появляемся среди горной местности рядом с железнодорожным мостом. На мосту стоит поезд, состоящий из нескольких вагонов, которые нам необходимо вскрыть. Вдоль поезда ходит охрана в количестве 6-11 человек. Рядом с мостом сто",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9E%D0%B3%D1%80%D0%B0%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0",
+   "is_variant_of": "Armored Transport",
+   "categories": [
+    "Категория:Armored Transport",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "arm_for",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Основы ведения боя",
+   "name_en": "Get the Coke",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Основы ведения боя",
+     "en_hint": "Get the Coke",
+     "source_quote": "Категория:Обучение PAYDAY 2; both infoboxes carry |contract = 97 (same Crime.net contract slot)",
+     "int_name": "short2"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Добро пожаловать в Crime.Net. Прежде чем начать свое первое большое ограбление, ознакомьтесь с основами PAYDAY 2.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B1%D0%BE%D1%8F",
+   "is_variant_of": "Обучение",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Обучение PAYDAY 2"
+   ],
+   "infobox_int_name": "short2",
+   "infobox_contract": "97"
+  },
+  {
+   "title": "Основы скрытности",
+   "name_en": "Flash Drive",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Основы скрытности",
+     "en_hint": "Flash Drive",
+     "source_quote": "Категория:Обучение PAYDAY 2; both infoboxes carry |contract = 97 (same Crime.net contract slot)",
+     "int_name": "short1"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Добро пожаловать в Crime.Net. Прежде чем начать свое первое большое ограбление, ознакомьтесь с основами PAYDAY 2.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+   "is_variant_of": "Обучение",
+   "categories": [
+    "Категория:Незавершенные статьи",
+    "Категория:Обучение PAYDAY 2",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "short1",
+   "infobox_contract": "97"
+  },
+  {
+   "title": "Особняк Булука",
+   "name_en": "Buluc's Mansion",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Влад хочет, чтобы мы отомстили лидеру картеля перед уездом из Мексики. === Активы === Asset_gage_assignment.png|Посылки Asset-Risk-Level.gif|Уровни риска asset-bodybags_bag.png|Body Bags Cost: XXXX$ Req.: Чистильщик nade_asset_full.png|Grenade Case Cost: XXXX$ Req.: Gage Weapon Pack #01 DLC Asset-ammo-bag.png|Сумка с патронами Asset-medic-bag.png|Медицинская сумка",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9E%D1%81%D0%BE%D0%B1%D0%BD%D1%8F%D0%BA_%D0%91%D1%83%D0%BB%D1%83%D0%BA%D0%B0",
+   "categories": [
+    "Категория:Buluc's Heist Pack",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Скрытный подход PAYDAY 2",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Особняк Лица со шрамом",
+   "name_en": "Scarface Mansion",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Во время очередной поставки оружия Мясник потеряла товар, команду и корабль. Теперь она хочет отомстить Эрнесто Сосе, совершившего налёт с своими головорезамии на корабль Мясника. === Активы === Asset gage assignment.png|Посылки Asset-Risk-Level.gif|Уровни риска. asset-bodybags bag.png|Body Bags Cost: XXXX$ Req.: Чистильщик nade asset full.png|Grenade Case Cost: XXXX$ Req.: Gage Weapon Pack #01 DL",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9E%D1%81%D0%BE%D0%B1%D0%BD%D1%8F%D0%BA_%D0%9B%D0%B8%D1%86%D0%B0_%D1%81%D0%BE_%D1%88%D1%80%D0%B0%D0%BC%D0%BE%D0%BC",
+   "categories": [
+    "Категория:Scarface Heist Pack",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "friend",
+   "infobox_contract": "5"
+  },
+  {
+   "title": "Первый Всемирный Банк",
+   "name_en": "First World Bank",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк First World Bank из PAYDAY: The Heist. Игрокам предстоит ограбить Первый Мировой банк.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%91%D0%B0%D0%BD%D0%BA",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "red2",
+   "infobox_contract": "95"
+  },
+  {
+   "title": "Пересечение границы",
+   "name_en": "Border Crossing",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Пересечение границы",
+     "en_hint": "Border Crossing",
+     "source_quote": "int_name mex (job mex df.png) vs mex_cooking (job mex cooking df.png) — cooking/Christmas variant of the same map",
+     "int_name": "mex"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Пока одна часть банды готовиться к штурму Адского острова и спасению Бэйна, другая собирается перехватить самолет с различными ценностями в Мексике, прямо под носом у Murkywater.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B",
+   "is_variant_of": "Пересечение границы",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "mex",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Под прикрытием",
+   "name_en": "Undercover",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк Undercover из PAYDAY: The Heist . Команде необходимо получить коды от сервера IRS при помощи одного из сотрудников — Адриана Старра, известного как «Сборщик налогов», чтобы украсть $25,000,000.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4_%D0%BF%D1%80%D0%B8%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5%D0%BC",
+   "categories": [
+    "Категория:Wolf Pack",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "man",
+   "infobox_contract": "95"
+  },
+  {
+   "title": "Подделка",
+   "name_en": "Counterfeit",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк Counterfeit из PAYDAY: The Heist. Команде необходимо украсть печатную плату и драгоценности из сейфа фальшивомонетчиков и, по желанию, напечатать фальшивые деньги. === Цели === # Пройти в подвал дома Митчелла. # Взломать панель Митчелла. ## Пройти в подвал соседнего дома и взломать панель Уилсона. # Открыть решётку, ведущую в подвал. # Просверлить сейф. # Протянуть шланг с водой к сейфу. # ",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0",
+   "categories": [
+    "Категория:Wolf Pack",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Поджигатель",
+   "name_en": "Firestarter",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Гектор нанимает нас, чтобы мы выиграли ему преимущество в войне с его главным противником — Мендосой. Нам потребуется уничтожить или унести с собой партию оружия, предназначенного для людей Мендосы, украсть сервер с информацией о деньгах Мендосы, а затем сжечь их в банке Harvest & Trustee.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4%D0%B6%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "firestarter",
+   "infobox_contract": "2"
+  },
+  {
+   "title": "Подстава с картинами",
+   "name_en": "Framing Frame",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Некий сенатор знает о связях Слона с грабителями и поэтому Слон, зная о его любви к современному искусству, просит нашу команду о том, чтобы мы выкрали из картинной галереи картины, которые этот сенатор приобрел. Потом нужно узнать местонахождение квартиры данного сенатора, используя камеры, встроенные в картины, а затем подставить его, подбросив внутрь крупную партию кокаина, либо выложив информа",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B0_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "framing_frame",
+   "infobox_contract": "3"
+  },
+  {
+   "title": "Последствия",
+   "name_en": "Aftershock",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "В данном ограблении необходимо спасти сейфы Влада.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "jolly (level)<br>holly_2 (scripts)",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Проклятая полоса препятствий",
+   "name_en": "Cursed Kill Room",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Новый кошмар с Некроклокером.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0_%D0%BF%D1%80%D0%B5%D0%BF%D1%8F%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B9",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Контракты событий",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "hvh",
+   "infobox_contract": "96"
+  },
+  {
+   "title": "Проникновение к федералам",
+   "name_en": "Breakin' Feds",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Банде необходимо вновь проникнуть в главное здание FBI и выкрасть ящик, принадлежавший Слону.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D0%B0%D0%BC",
+   "categories": [
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "tag",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Рейд Убежища",
+   "name_en": "Safehouse Raid",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Полиция знает где находится банда и теперь грабителям необходимо защищать свои деньги от полиции. Если на Убежище происходит нападение полиции, то в Crime.Net оно будет мигать красно-синим и Бэйн скажет об этом игрокам.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A0%D0%B5%D0%B9%D0%B4_%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B0",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Убежище"
+   ],
+   "infobox_int_name": "chill_combat",
+   "infobox_contract": "8"
+  },
+  {
+   "title": "Рождение небес",
+   "name_en": "Birth of Sky",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Рождение небес",
+     "en_hint": "Birth of Sky",
+     "source_quote": "Категория:The Point Break Heists; shared int_name prefix pbr",
+     "int_name": "pbr2"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Одно из первых заданий Лока, где мы помогаем ему получить часть добычи Murkywater.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81",
+   "is_variant_of": "Набор The Point Break",
+   "categories": [
+    "Категория:The Point Break Heists",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "pbr2<br>Jerry",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Симулятор козы",
+   "name_en": "Goat Simulator",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Необходимо выкрасть коз, внутри которых находится партия кокаина.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80_%D0%BA%D0%BE%D0%B7%D1%8B",
+   "categories": [
+    "Категория:The Goat Simulator Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "peta",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Скотобойня",
+   "name_en": "Slaughterhouse",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк Slaughterhouse из PAYDAY: The Heist. Мы атакуем бронированную машину, перевозящую золото, сбрасываем её на скотобойню, взламываем сейф, берём золото и уходим через грузовой контейнер.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%BE%D1%82%D0%BE%D0%B1%D0%BE%D0%B9%D0%BD%D1%8F",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "dinner",
+   "infobox_contract": "95"
+  },
+  {
+   "title": "Снежное Рождество",
+   "name_en": "White Xmas",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Влад хочет, чтобы команда спасла его пьяного пилота, который потерпел крушение во время перевозки партии колумбийского кокаина.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A1%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D0%B5_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "pines (job/level)<br>san (unique instances)",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Спасение Хокстона",
+   "name_en": "Hoxton Breakout",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Дантист организовал новое судебное разбирательство для Хокстона. Команда должна перехватить его после суда, а затем проникнуть в главный офис FBI, чтобы узнать, кто подставил Хокстона.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A5%D0%BE%D0%BA%D1%81%D1%82%D0%BE%D0%BD%D0%B0",
+   "categories": [
+    "Категория:Hoxton Breakout Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "hox (job)<br>hox_1 (day 1)<br>hox_2 (day 2)",
+   "infobox_contract": "4"
+  },
+  {
+   "title": "Станция Murkywater",
+   "name_en": "Murky Station",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Станция Murkywater",
+     "en_hint": "Murky Station",
+     "source_quote": "Категория:Hardcore Henry Heists (Darkcore/Henry — «Хадкорк Хенри» отсутствует как статья)",
+     "int_name": "dark"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "В этом ограблении игрокам предстоит проникнуть в охраняемое наемниками депо и украсть ЭМИ-бомбу, которая перевозится в железнодорожных вагонах, принадлежащим компании Murkywater.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_Murkywater",
+   "is_variant_of": "Набор Hardcore Henry",
+   "categories": [
+    "Категория:Hardcore Henry Heists",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "dark",
+   "infobox_contract": "7"
+  },
+  {
+   "title": "Сторожевые псы",
+   "name_en": "Watchdogs",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Мы выступаем в роли сторожевых псов и должны сопроводить поставку кокаина для Гектора.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D1%8B%D0%B5_%D0%BF%D1%81%D1%8B",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "watchdogs",
+   "infobox_contract": "2"
+  },
+  {
+   "title": "Схватка на улице",
+   "name_en": "Heat Street",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ремейк Heat Street из PAYDAY: The Heist. Мы вновь должны преследовать Мэтта, пока он убегает на фургоне, но в этот раз нам нужно от него нечто иное.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A1%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%83%D0%BB%D0%B8%D1%86%D0%B5",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Классические контракты",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "run",
+   "infobox_contract": "95"
+  },
+  {
+   "title": "Теневой рейд",
+   "name_en": "Shadow Raid",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление, которое предусматривает только скрытное прохождение. При провале у команды имеется одна минута, чтобы скрыться, однако побег не будет доступен до тех пор, пока указанное количество сумок с добычей не будет украдено. Гейдж заказывает ограбление частной военной компании Murkywater, который находится под охраной их собственных бойцов. Гейдж полагает, что на этом складе хранятся трофеи, ко",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A2%D0%B5%D0%BD%D0%B5%D0%B2%D0%BE%D0%B9_%D1%80%D0%B5%D0%B9%D0%B4",
+   "categories": [
+    "Категория:The Shadow Raid Heist",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "kosugi",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Точка кипения",
+   "name_en": "Boiling Point",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Точка кипения",
+     "en_hint": "Boiling Point",
+     "source_quote": "Категория:Hardcore Henry Heists (Darkcore/Henry — «Хадкорк Хенри» отсутствует как статья)",
+     "int_name": "mad"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "В этом ограблении игрокам предстоит с боем проникнуть в закрытую лабораторию, расположенную на территории лесопилки где-то в глубинке России, и похитить данные о проводимых там экспериментах.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F",
+   "is_variant_of": "Набор Hardcore Henry",
+   "categories": [
+    "Категория:Hardcore Henry Heists",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "mad",
+   "infobox_contract": "7"
+  },
+  {
+   "title": "Транспорт",
+   "name_en": "Transport",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Парк",
+     "en_hint": "Park",
+     "source_quote": "== Описание == Ограбление имеет пять локаций. ... Происходить ограбление может на нескольких локациях:\n== Локации ==\n=== Парк ===\n=== Гавань ===\n=== Центр города ===\n=== Перекресток ===\n=== Проезд ===\n=== [[Ограбление поезда]] ===",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = arm_cro (crossroads)<br>arm_hcm (downtown)<br>arm_fac (harbor)<br>arm_par (park)<br>arm_und (underpass)",
+     "int_name": "arm_par (park)"
+    },
+    {
+     "ru": "Гавань",
+     "en_hint": "Harbor",
+     "source_quote": "== Описание == Ограбление имеет пять локаций. ... Происходить ограбление может на нескольких локациях:\n== Локации ==\n=== Парк ===\n=== Гавань ===\n=== Центр города ===\n=== Перекресток ===\n=== Проезд ===\n=== [[Ограбление поезда]] ===",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = arm_cro (crossroads)<br>arm_hcm (downtown)<br>arm_fac (harbor)<br>arm_par (park)<br>arm_und (underpass)",
+     "int_name": "arm_fac (harbor)"
+    },
+    {
+     "ru": "Центр города",
+     "en_hint": "Downtown",
+     "source_quote": "== Описание == Ограбление имеет пять локаций. ... Происходить ограбление может на нескольких локациях:\n== Локации ==\n=== Парк ===\n=== Гавань ===\n=== Центр города ===\n=== Перекресток ===\n=== Проезд ===\n=== [[Ограбление поезда]] ===",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = arm_cro (crossroads)<br>arm_hcm (downtown)<br>arm_fac (harbor)<br>arm_par (park)<br>arm_und (underpass)",
+     "int_name": "arm_hcm (downtown)"
+    },
+    {
+     "ru": "Перекресток",
+     "en_hint": "Crossroads",
+     "source_quote": "== Описание == Ограбление имеет пять локаций. ... Происходить ограбление может на нескольких локациях:\n== Локации ==\n=== Парк ===\n=== Гавань ===\n=== Центр города ===\n=== Перекресток ===\n=== Проезд ===\n=== [[Ограбление поезда]] ===",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = arm_cro (crossroads)<br>arm_hcm (downtown)<br>arm_fac (harbor)<br>arm_par (park)<br>arm_und (underpass)",
+     "int_name": "arm_cro (crossroads)"
+    },
+    {
+     "ru": "Проезд",
+     "en_hint": "Underpass",
+     "source_quote": "== Описание == Ограбление имеет пять локаций. ... Происходить ограбление может на нескольких локациях:\n== Локации ==\n=== Парк ===\n=== Гавань ===\n=== Центр города ===\n=== Перекресток ===\n=== Проезд ===\n=== [[Ограбление поезда]] ===",
+     "source_quote_2": "Шаблон:Ограбления PAYDAY 2 |int_name = arm_cro (crossroads)<br>arm_hcm (downtown)<br>arm_fac (harbor)<br>arm_par (park)<br>arm_und (underpass)",
+     "int_name": "arm_und (underpass)"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Ограбление имеет пять локаций. В каждой главной вашей целью является вскрыть фургоны GenSec Security Industries, взять оттуда добычу и сбежать. Количество фургонов определяется случайным образом: от 1 до 4. С небольшой вероятностью в одной из ячеек могут находиться секретные данные. Если их забрать, то после завершения ограбления игрокам будет предложено пройти Ограбление поезда в качестве второго",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82",
+   "categories": [
+    "Категория:Armored Transport",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "arm_cro (crossroads)<br>arm_hcm (downtown)<br>arm_fac (harbor)<br>arm_par (park)<br>arm_und (underpass)",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Тюремный кошмар",
+   "name_en": "Prison Nightmare",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Мы вновь возвращаемся в мир Некроклокер, в этот раз он хочет сыграть с нами в игру в своей тюрьме.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A2%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%88%D0%BC%D0%B0%D1%80",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Контракты событий",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "help",
+   "infobox_contract": "96"
+  },
+  {
+   "title": "У подножия горы",
+   "name_en": "Beneath the Mountain",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "У подножия горы",
+     "en_hint": "Beneath the Mountain",
+     "source_quote": "Категория:The Point Break Heists; shared int_name prefix pbr",
+     "int_name": "pbr"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Лок хочет, чтобы мы атаковали секретный комплекс Murkywater. === Цели === # Проникнуть на территорию центра. # Отыскать 3 помеченных ящика и забрать взрывчатку, газовый резак и ключ-карту. # Прикрепить взрывчатку к замкам двери и взорвать их. # Пройти через шлюз во внутренний комплекс. # Вскрыть 2 хранилища с добычей. # (Опционально) вскрыть оставшиеся 2 хранилища с добычей. # Транспортировать доб",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A3_%D0%BF%D0%BE%D0%B4%D0%BD%D0%BE%D0%B6%D0%B8%D1%8F_%D0%B3%D0%BE%D1%80%D1%8B",
+   "is_variant_of": "Набор The Point Break",
+   "categories": [
+    "Категория:The Point Break Heists",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "pbr<br>Berry",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Убежище",
+   "name_en": "Safehouse",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "В октябре 2016, как часть ивента Hoxton's Housewarming Party, было введено новое убежище на замену старому.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A3%D0%B1%D0%B5%D0%B6%D0%B8%D1%89%D0%B5",
+   "categories": [
+    "Категория:Незавершенные статьи",
+    "Категория:Статьи tabview",
+    "Категория:Убежище"
+   ],
+   "infobox_int_name": "",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Украденное Рождество",
+   "name_en": "Stealing Xmas",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Влад дал своему шурину второй шанс и доверил перевозку кокаина, но нам вновь придётся спасать его.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "moon",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Украинский заключенный",
+   "name_en": "Ukrainian Prisoner",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "После Кражи дракона, Золотой кинжал собирается отомстить банде, похитив и начав пытать Влада. Теперь необходимо помочь старому другу. === Активы === Asset gage assignment.png|Посылки Asset-Risk-Level.gif|Уровни риска. asset-bodybags bag.png|Мешки для трупов Cost: XXXX$ Req.: Чистильщик nade asset full.png|Кейс с гранатами Cost: XXXX$ Req.: Gage Weapon Pack #01 DLC Asset-ammo-bag.png|Сумка с патрон",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
+   "categories": [
+    "Категория:Ukrainian Prisoner Heist",
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2",
+    "Категория:Страницы с неработающими файловыми ссылками",
+    "Категория:Страницы с нечисловыми аргументами formatnum"
+   ],
+   "infobox_int_name": "",
+   "infobox_contract": "10"
+  },
+  {
+   "title": "Украинское дело",
+   "name_en": "Ukrainian Job",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Из ювелирного магазина сети Precious Things, который мы ранее грабили в контракте Ювелирный магазин, мы должны украсть тиару. Ну и, по возможности, набить карманы украшениями. Сама тиара должна была послужить подарком Дмитрия своей невесте.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%BE",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "ukrainian_job",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Утес Генри",
+   "name_en": "Henry's Rock",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Банде необходимо достать оставшиеся два сундука на складе Murkywater в горах Анри. === Цели === # Взломать щитки. # Найти первый сундук. # Открыть доступ к сундуку и забрать его. # Найти второй сундук. # Открыть доступ к второму сундуку и забрать его. # Отключить или уничтожить турели. # Вызвать вертолёт. # (опционально) Забрать дополнительную добычу. # Сбежать",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A3%D1%82%D0%B5%D1%81_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "des",
+   "infobox_contract": "6"
+  },
+  {
+   "title": "Художественная галерея",
+   "name_en": "Art Gallery",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Данное ограбление полностью копирует первый день ограбления Подстава с картинами, поэтому цель остается прежней — выкрасть картины.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "gallery",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Четыре магазина",
+   "name_en": "Four Stores",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Мы должны ограбить четыре магазина, находящихся на одной улице: Мини-маркет «24/7», кафе Time Out!, китайский магазин Kung Bo и магазин продукции Pear. По заданию Влада, нам необходимо забрать из магазинов не менее 15,000$ и уйти.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "four_stores",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Ювелирный магазин",
+   "name_en": "Jewelry Store",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "В этом ограблении необходимо украсть драгоценности из магазина сети Precious Things. Зачастую, именно этот контракт является первым для новичков в игре, своеобразной пробой сил.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%AE%D0%B2%D0%B5%D0%BB%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD",
+   "categories": [
+    "Категория:Громкий подход PAYDAY 2",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "jewelry_store",
+   "infobox_contract": ""
+  },
+  {
+   "title": "Ядерная угроза",
+   "name_en": "Meltdown",
+   "has_variants": false,
+   "variants": [],
+   "variant_kind": "none",
+   "description_ru": "Ограбление склада Murkywater с целью захвата ядерных боеголовок для Влада.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%AF%D0%B4%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D0%B0",
+   "categories": [
+    "Категория:Незавершенные статьи"
+   ],
+   "infobox_int_name": "shoutout_raid",
+   "infobox_contract": "1"
+  },
+  {
+   "title": "Яхта",
+   "name_en": "The Yacht Heist",
+   "has_variants": true,
+   "variants": [
+    {
+     "ru": "Яхта",
+     "en_hint": "The Yacht Heist",
+     "source_quote": "Категория:John Wick Heists",
+     "int_name": "fish"
+    }
+   ],
+   "variant_kind": "map",
+   "description_ru": "Маккендрик хочет переизбрать себя на очередной срок с помощью нелегальных денег, но банда решает забрать эти деньги себе.",
+   "wiki_url": "https://payday.fandom.com/ru/wiki/%D0%AF%D1%85%D1%82%D0%B0",
+   "is_variant_of": "Набор John Wick",
+   "categories": [
+    "Категория:John Wick Heists",
+    "Категория:Контракты Континенталя",
+    "Категория:Незавершенные статьи",
+    "Категория:Скрытный подход PAYDAY 2"
+   ],
+   "infobox_int_name": "fish",
+   "infobox_contract": "9"
+  }
+ ],
+ "variant_groups": [
+  {
+   "parent_ru": "Бомба",
+   "parent_en": "The Bomb",
+   "kind": "map",
+   "evidence": "Категория:The Bomb Heists содержит ровно Бомба: Доки и Бомба: Лес; int_name crojob1/crojob2/crojob3 + thebomb_stage_2/3 (общий корень crojob)",
+   "children": [
+    "Бомба: Доки",
+    "Бомба: Лес"
+   ],
+   "children_en": [
+    "The Bomb: Dockyard",
+    "The Bomb: Forest"
+   ]
+  },
+  {
+   "parent_ru": "Пересечение границы",
+   "parent_en": "Пересечение границы",
+   "kind": "map",
+   "evidence": "int_name mex (job mex df.png) vs mex_cooking (job mex cooking df.png) — cooking/Christmas variant of the same map",
+   "children": [
+    "Пересечение границы",
+    "Кристаллы на границе"
+   ],
+   "children_en": [
+    "Border Crossing",
+    "Border Crystals"
+   ]
+  },
+  {
+   "parent_ru": "Обучение",
+   "parent_en": "Обучение",
+   "kind": "map",
+   "evidence": "Категория:Обучение PAYDAY 2; both infoboxes carry |contract = 97 (same Crime.net contract slot)",
+   "children": [
+    "Основы скрытности",
+    "Основы ведения боя"
+   ],
+   "children_en": [
+    "Flash Drive",
+    "Get the Coke"
+   ]
+  },
+  {
+   "parent_ru": "Armored Transport",
+   "parent_en": "Armored Transport",
+   "kind": "map",
+   "evidence": "Категория:Armored Transport; Train Heist is listed inside Транспорт's == Локации == section",
+   "children": [
+    "Транспорт",
+    "Ограбление поезда"
+   ],
+   "children_en": [
+    "Transport",
+    "Train Heist"
+   ]
+  },
+  {
+   "parent_ru": "Набор The Point Break",
+   "parent_en": "The Point Break Heists",
+   "kind": "map",
+   "evidence": "Категория:The Point Break Heists; shared int_name prefix pbr",
+   "children": [
+    "Рождение небес",
+    "У подножия горы"
+   ],
+   "children_en": [
+    "Birth of Sky",
+    "Beneath the Mountain"
+   ]
+  },
+  {
+   "parent_ru": "Набор Hardcore Henry",
+   "parent_en": "Hardcore Henry Heists",
+   "kind": "map",
+   "evidence": "Категория:Hardcore Henry Heists (Darkcore/Henry — «Хадкорк Хенри» отсутствует как статья)",
+   "children": [
+    "Станция Murkywater",
+    "Точка кипения"
+   ],
+   "children_en": [
+    "Murky Station",
+    "Boiling Point"
+   ]
+  },
+  {
+   "parent_ru": "Набор John Wick",
+   "parent_en": "John Wick Heists",
+   "kind": "map",
+   "evidence": "Категория:John Wick Heists",
+   "children": [
+    "Бруклин 10-10",
+    "Яхта"
+   ],
+   "children_en": [
+    "Brooklyn 10-10",
+    "The Yacht Heist"
+   ]
+  }
+ ]
+}

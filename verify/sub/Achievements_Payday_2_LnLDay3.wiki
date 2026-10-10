@@ -1,0 +1,352 @@
+<tabber>Permanent Achievements=
+{{Showhide|Achievement List|
+{{Achievement|Criminal Origins|jpg|Complete all contracts on the Normal difficulty or above. Unlocks "[[Masks (Payday 2)#Locke and Load Day 3|The Normal Skull]]" mask.}}
+{{Achievement|Hacking Crime.net|jpg|Complete all of [[Vernon Locke|Locke's]] contracts on the Normal difficulty or above.}}
+{{Achievement|Hello To You, My New Friends|jpg|Complete all of [[Vernon Locke|Locke's]] contracts on the Hard difficulty or above.}}
+{{Achievement|Mercenary for Hire|jpg|Complete all of [[Vernon Locke|Locke's]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|Locke & Load|jpg|Complete all of [[Vernon Locke|Locke's]] contracts on the Overkill difficulty or above.}}
+{{Achievement|Drain the Swamp|jpg|Complete all of [[Vernon Locke|Locke's]] contracts on the Mayhem difficulty or above.}}
+{{Achievement|FUBAR|jpg|Complete all of [[Vernon Locke|Locke's]] contracts on the Death Wish difficulty or above.}}
+{{Achievement|Completed, Fo' Sho'|jpg|Complete all of [[Vernon Locke|Locke's]] contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Mountain Climbers|jpg|Complete the [[Beneath the Mountain]] job on the Normal difficulty or above.}}
+{{Achievement|Priceless Relic Collector|jpg|Complete the [[Beneath the Mountain]] job on the Hard difficulty or above.}}
+{{Achievement|Moles with Guns|jpg|Complete the [[Beneath the Mountain]] job on the Very Hard difficulty or above.}}
+{{Achievement|Destruction From Within|jpg|Complete the [[Beneath the Mountain]] job on the Overkill difficulty or above.}}
+{{Achievement|Fo' Sho'!|jpg|Complete the [[Birth of Sky]] job on the Normal difficulty or above.}}
+{{Achievement|Enjoy Your Flight|jpg|Complete the [[Birth of Sky]] job on the Hard difficulty or above.}}
+{{Achievement|By Air, Land, and Sea|jpg|Complete the [[Birth of Sky]] job on the Very Hard difficulty or above.}}
+{{Achievement|Angels of Crime|jpg|Complete the [[Birth of Sky]] job on the Overkill difficulty or above.}}
+{{Achievement|Hello, My Friends!|jpg|Complete all of [[Vlad|Vlad's]] contracts on the Normal difficulty or above.}}
+{{Achievement|Ally From the East|jpg|Complete all of [[Vlad|Vlad's]] contracts on the Hard difficulty or above.}}
+{{Achievement|On the Rise|jpg|Complete all of [[Vlad|Vlad's]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|Madman Absolution|jpg|Complete all of [[Vlad|Vlad's]] contracts on the Overkill difficulty or above.}}
+{{Achievement|That's a 4.0 on the Heist Scale of Magnitude|jpg|Complete the [[Aftershock]] job on the Normal difficulty or above.}}
+{{Achievement|Lift With Your Legs|jpg|Complete the [[Aftershock]] job on the Hard difficulty or above.}}
+{{Achievement|A Safe Drive to L.A.|jpg|Complete the [[Aftershock]] job on the Very Hard difficulty or above.}}
+{{Achievement|Bring it Back Safe|jpg|Complete the [[Aftershock]] job on the Overkill difficulty or above.}}
+{{Achievement|Cash or Credit|jpg|Complete the [[Four Stores]] job on the Normal difficulty or above.}}
+{{Achievement|Shoplifter|jpg|Complete the [[Four Stores]] job on the Hard difficulty or above.}}
+{{Achievement|Five Finger Discount|jpg|Complete the [[Four Stores]] job on the Very Hard difficulty or above.}}
+{{Achievement|Stomping Grounds|jpg|Complete the [[Four Stores]] job on the Overkill difficulty or above.}}
+{{Achievement|Best Use of a Farm Animal|jpg|Complete the [[Goat Simulator]] job on the Normal difficulty or above.}}
+{{Achievement|Now We Know What a Goat Sounds Like|jpg|Complete the [[Goat Simulator]] job on the Hard difficulty or above.}}
+{{Achievement|You Goat Away|jpg|Complete the [[Goat Simulator]] job on the Very Hard difficulty or above.}}
+{{Achievement|Golf Oscar Alpha Tango Sierra|jpg|Complete the [[Goat Simulator]] job on the Overkill difficulty or above.}}
+{{Achievement|No Return Policy|jpg|Complete the [[Mallcrasher]] job on the Normal difficulty or above.}}
+{{Achievement|Fury Day|jpg|Complete the [[Mallcrasher]] job on the Hard difficulty or above.}}
+{{Achievement|Black Friday|jpg|Complete the [[Mallcrasher]] job on the Very Hard difficulty or above.}}
+{{Achievement|Like a Bull in a China Shop|jpg|Complete the [[Mallcrasher]] job on the Overkill difficulty or above.}}
+{{Achievement|Warehouse Workers|jpg|Complete the [[Meltdown]] job on the Hard difficulty or above.}}
+{{Achievement|Critical Mass|jpg|Complete the [[Meltdown]] job on the Very Hard difficulty or above.}}
+{{Achievement|A Little Plutonium Won't Hurt Me|jpg|Complete the [[Meltdown]] job on the Overkill difficulty or above.}}
+{{Achievement|Heist Fever|jpg|Complete the [[Nightclub]] job on the Normal difficulty or above.}}
+{{Achievement|Do the Kozak Dance|jpg|Complete the [[Nightclub]] job on the Hard difficulty or above.}}
+{{Achievement|Can't Teach a Bad Dog to Stay Off the Dance Floor|jpg|Complete the [[Nightclub]] job on the Very Hard difficulty or above.}}
+{{Achievement|Party Hard!|jpg|Complete the [[Nightclub]] job on the Overkill difficulty or above.}}
+{{Achievement|Milk and Cookies|jpg|Complete the [[Santa's Workshop]] job on the Normal difficulty or above.}}
+{{Achievement|Bad Boy Factory|jpg|Complete the [[Santa's Workshop]] job on the Hard difficulty or above.}}
+{{Achievement|All I Want for Christmas is Cocaine|jpg|Complete the [[Santa's Workshop]] job on the Very Hard difficulty or above.}}
+{{Achievement|Santa's Little Helper|jpg|Complete the [[Santa's Workshop]] job on the Overkill difficulty or above.}}
+{{Achievement|Sold Out|jpg|Complete the [[Stealing Xmas]] job on the Normal difficulty or above.}}
+{{Achievement|Stocking Stuffer|jpg|Complete the [[Stealing Xmas]] job on the Hard difficulty or above.}}
+{{Achievement|How the Winch Stole Christmas|jpg|Complete the [[Stealing Xmas]] job on the Very Hard difficulty or above.}}
+{{Achievement|Getting on the Naughty List|jpg|Complete the [[Stealing Xmas]] job on the Overkill difficulty or above.}}
+{{Achievement|Precious Delicious|jpg|Complete the [[Ukrainian Job|Ukrainian job]] on the Normal difficulty or above.}}
+{{Achievement|Heisters and Tiaras|jpg|Complete the [[Ukrainian Job|Ukrainian job]] on the Hard difficulty or above.}}
+{{Achievement|The Princess is in Another Safe!|jpg|Complete the [[Ukrainian Job|Ukrainian job]] on the Very Hard difficulty or above.}}
+{{Achievement|The Jewel in the Crown|jpg|Complete the [[Ukrainian Job|Ukrainian job]] on the Overkill difficulty or above.}}
+{{Achievement|Lambchop|jpg|Complete all of [[The Butcher]]s contracts on the Normal difficulty or above.}}
+{{Achievement|Meat Tenderizer|jpg|Complete all of [[The Butcher]]s contracts on the Hard difficulty or above.}}
+{{Achievement|Excuse me, There's a Bullet in My Pork...|jpg|Complete all of [[The Butcher]]s contracts on the Very Hard difficulty or above.}}
+{{Achievement|Well Done|jpg|Complete all of [[The Butcher]]s contracts on the Overkill difficulty or above.}}
+{{Achievement|Prime Cuts|jpg|Complete all of [[The Butcher]]s contracts on the Mayhem difficulty or above.}}
+{{Achievement|As Fit as a Butcher's Dog|jpg|Complete all of [[The Butcher]]s contracts on the Death Wish difficulty or above.}}
+{{Achievement|Everybody Owes, Everybody Pays|jpg|Complete all of [[The Butcher]]s contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Sailing Home|jpg|Complete [[the Bomb: Dockyard]] heist on the Hard difficulty or above.}}
+{{Achievement|Heavy Tariffs|jpg|Complete [[the Bomb: Dockyard]] heist on the Very Hard difficulty or above.}}
+{{Achievement|Smooth Sailing|jpg|Complete [[the Bomb: Dockyard]] heist on the Overkill difficulty or above.}}
+{{Achievement|How Much Wood Would a Heister Chuck...|jpg|Complete [[the Bomb: Forest]] heist on the Hard difficulty or above.}}
+{{Achievement|Uphill Battle|jpg|Complete [[the Bomb: Forest]] heist on the Very Hard difficulty or above.}}
+{{Achievement|Timber Train|jpg|Complete [[the Bomb: Forest]] heist on the Overkill difficulty or above.}}
+{{Achievement|That'll Leave A Scar!|jpg|Complete the [[Scarface Mansion]] job on the Normal difficulty or above.}}
+{{Achievement|Playing Rough|jpg|Complete the [[Scarface Mansion]] job on the Hard difficulty or above.}}
+{{Achievement|The Only Care I Have... is my Yayo|jpg|Complete the [[Scarface Mansion]] job on the Very Hard difficulty or above.}}
+{{Achievement|The World is Yours|jpg|Complete the [[Scarface Mansion]] job on the Overkill difficulty or above.}}
+{{Achievement|Vintage Villainy|jpg|Complete all [[:Category:Classic heists|Classic]] contracts on the Normal difficulty or above.}}
+{{Achievement|Deja Vu|jpg|Complete all [[:Category:Classic heists|Classic]] contracts on the Hard difficulty or above.}}
+{{Achievement|Just Like Old Times!|jpg|Complete all [[:Category:Classic heists|Classic]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|PAYDAY: The Heist||Complete all [[:Category:Classic heists|Classic]] contracts on the Overkill difficulty or above.|image=PAYDAY The Heist.jpg}}
+{{Achievement|Reminds Me of Myself Back in the Day!|jpg|Complete all [[:Category:Classic heists|Classic]] contracts on the Mayhem difficulty or above.}}
+{{Achievement|Glory Days|jpg|Complete all [[:Category:Classic heists|Classic]] contracts on the Death Wish difficulty or above.}}
+{{Achievement|145+ Down|jpg|Complete all [[:Category:Classic heists|Classic]] contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Ink, Paper, Roll Out the Dough|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Normal difficulty or above.}}
+{{Achievement|Hidden in Plain Sight|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Hard difficulty or above.}}
+{{Achievement|False Economy|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Very Hard difficulty or above.}}
+{{Achievement|DIY Payment|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Overkill difficulty or above.}}
+{{Achievement|I Would Like to Speak to the Manager|jpg|Complete the [[First World Bank (Payday 2)|First World Bank]] job on the Normal difficulty or above.}}
+{{Achievement|A Sense of Déjà Vu|jpg|Complete the [[First World Bank (Payday 2)|First World Bank]] job on the Hard difficulty or above.}}
+{{Achievement|First Robbed Bank|jpg|Complete the [[First World Bank (Payday 2)|First World Bank]] job on the Very Hard difficulty or above.}}
+{{Achievement|Listen Up! This Is a Robbery!|jpg|Complete the [[First World Bank (Payday 2)|First World Bank]] job on the Overkill difficulty or above.}}
+{{Achievement|Taking the High Road|jpg|Complete the [[Green Bridge (Payday 2)|Green Bridge]] job on the Normal difficulty or above.}}
+{{Achievement|Breaking the Four-Piece Suit|jpg|Complete the [[Green Bridge (Payday 2)|Green Bridge]] job on the Hard difficulty or above.}}
+{{Achievement|Rabbit Ride|jpg|Complete the [[Green Bridge (Payday 2)|Green Bridge]] job on the Very Hard difficulty or above.}}
+{{Achievement|A Bridge Too Far!|jpg|Complete the [[Green Bridge (Payday 2)|Green Bridge]] job on the Overkill difficulty or above.}}
+{{Achievement|The Heat's Around the Corner|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Normal difficulty or above.}}
+{{Achievement|Hard Street|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Hard difficulty or above.}}
+{{Achievement|Washington City Marathon|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Very Hard difficulty or above.}}
+{{Achievement|Ghetto Bonfire|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Overkill difficulty or above.}}
+{{Achievement|Keep Calm and Carry on... Shooting|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Normal difficulty or above.}}
+{{Achievement|Flying Money|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Hard difficulty or above.}}
+{{Achievement|Don't Panic|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Very Hard difficulty or above.}}
+{{Achievement|Demolition Crew|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Overkill difficulty or above.}}
+{{Achievement|Some Kind of Piggy Bank|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Normal difficulty or above.}}
+{{Achievement|Makin' Bacon|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Hard difficulty or above.}}
+{{Achievement|Black and Blue and Broken Bones|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Very Hard difficulty or above.}}
+{{Achievement|Puts the "S" in Laughterhouse.|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Overkill difficulty or above.}}
+{{Achievement|Big Fish|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Normal difficulty or above.}}
+{{Achievement|MercyKill|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Hard difficulty or above.}}
+{{Achievement|Starbreezer|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Very Hard difficulty or above.}}
+{{Achievement|ZYGON|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Overkill difficulty or above.}}
+{{Achievement|At Your Service|jpg|Complete all of [[Charon|The Continental's]] contracts on the Normal difficulty or above.}}
+{{Achievement|I'd Like a Dinner Reservation for Twelve|jpg|Complete all of [[Charon|The Continental's]] contracts on the Hard difficulty or above.}}
+{{Achievement|Bourbon Perhaps?|jpg|Complete all of [[Charon|The Continental's]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|Do I Look Civilized to You?|jpg|Complete all of [[Charon|The Continental's]] contracts on the Overkill difficulty or above.}}
+{{Achievement|Noise Complaint|jpg|Complete all of [[Charon|The Continental's]] contracts on the Mayhem difficulty or above.}}
+{{Achievement|Baba Yaga|jpg|Complete all of [[Charon|The Continental's]] contracts on the Death Wish difficulty or above.}}
+{{Achievement|Nobody is That Good...|jpg|Complete all of [[Charon|The Continental's]] contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Babysitters with Assault Rifles|jpg|Complete the [[Brooklyn 10-10]] job on the Normal difficulty or above.}}
+{{Achievement|Eye in the Sky|jpg|Complete the [[Brooklyn 10-10]] job on the Hard difficulty or above.}}
+{{Achievement|Someone to Watch Over|jpg|Complete the [[Brooklyn 10-10]] job on the Very Hard difficulty or above.}}
+{{Achievement|Guardian Angels|jpg|Complete the [[Brooklyn 10-10]] job on the Overkill difficulty or above.}}
+{{Achievement|Guppy|jpg|Complete [[the Yacht Heist]] job on the Normal difficulty or above.}}
+{{Achievement|Salmon|jpg|Complete [[the Yacht Heist]] job on the Hard difficulty or above.}}
+{{Achievement|Stingray|jpg|Complete [[the Yacht Heist]] job on the Very Hard difficulty or above.}}
+{{Achievement|Piranha|jpg|Complete [[the Yacht Heist]] job on the Overkill difficulty or above.}}
+{{Achievement|I Know Who You Are|jpg|Complete all of [[The Dentist|Dentists]] contracts on the Normal difficulty or above.}}
+{{Achievement|I Need My PAYDAY 2|jpg|Complete all of [[The Dentist|Dentists]] contracts on the Hard difficulty or above.}}
+{{Achievement|A Tooth for a Tooth|jpg|Complete all of [[The Dentist|Dentists]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|Flawless|jpg|Complete all of [[The Dentist|Dentists]] contracts on the Overkill difficulty or above.}}
+{{Achievement|Doctor of Crime|jpg|Complete all of [[The Dentist|Dentists]] contracts on the Mayhem difficulty or above.}}
+{{Achievement|Out of the Jaws of Death|jpg|Complete all of [[The Dentist|Dentists]] contracts on the Death Wish difficulty or above.}}
+{{Achievement|Jaw Dropping|jpg|Complete all of [[The Dentist|Dentists]] contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Broke the Piggy Bank|jpg|Complete [[the Big Bank]] job on the Normal difficulty or above.}}
+{{Achievement|The Big Bank Theory|jpg|Complete [[the Big Bank]] job on the Hard difficulty or above.}}
+{{Achievement|Just Like in the Movies|jpg|Complete [[the Big Bank]] job on the Very Hard difficulty or above.}}
+{{Achievement|Go Big or Go Home|jpg|Complete [[the Big Bank]] job on the Overkill difficulty or above.}}
+{{Achievement|Sparkle Sparkle|jpg|Complete [[the Diamond]] job on the Normal difficulty or above.}}
+{{Achievement|Watch Your Steps|jpg|Complete [[the Diamond]] job on the Hard difficulty or above.}}
+{{Achievement|Not Just Any Diamond|jpg|Complete [[the Diamond]] job on the Very Hard difficulty or above.}}
+{{Achievement|The Cursed Stone|jpg|Complete [[the Diamond]] job on the Overkill difficulty or above.}}
+{{Achievement|All-In!|jpg|Complete the [[Golden Grin Casino]] job on the Normal difficulty or above.}}
+{{Achievement|Royal Flush|jpg|Complete the [[Golden Grin Casino]] job on the Hard difficulty or above.}}
+{{Achievement|Dead Man's Hand|jpg|Complete the [[Golden Grin Casino]] job on the Very Hard difficulty or above.}}
+{{Achievement|JACKPOT!|jpg|Complete the [[Golden Grin Casino]] job on the Overkill difficulty or above.}}
+{{Achievement|<nowiki>*Click*</nowiki>||Complete the [[Hotline Miami]] job on the Normal difficulty or above.|image=Click.jpg}}
+{{Achievement|Prankcall|jpg|Complete the [[Hotline Miami]] job on the Hard difficulty or above.}}
+{{Achievement|Running in the 80's|jpg|Complete the [[Hotline Miami]] job on the Very Hard difficulty or above.}}
+{{Achievement|1-800-KOMISSAR|jpg|Complete the [[Hotline Miami]] job on the Overkill difficulty or above.}}
+{{Achievement|Hoxworth Redemption|jpg|Complete the [[Hoxton Breakout]] heist on the Hard difficulty or above.}}
+{{Achievement|Did Ya Miss Me?|jpg|Complete the [[Hoxton Breakout]] heist on the Very Hard difficulty or above.}}
+{{Achievement|Bring the Crew Together|jpg|Complete the [[Hoxton Breakout]] heist on the Overkill difficulty or above.}}
+{{Achievement|Snitches Get Stitches|jpg|Complete the [[Hoxton Revenge]] job on the Normal difficulty or above.}}
+{{Achievement|Breaking and Entering|jpg|Complete the [[Hoxton Revenge]] job on the Hard difficulty or above.}}
+{{Achievement|Serve Cold|jpg|Complete the [[Hoxton Revenge]] job on the Very Hard difficulty or above.}}
+{{Achievement|CLASSIFIED|jpg|Complete the [[Hoxton Revenge]] job on the Overkill difficulty or above.}}
+{{Achievement|Thanks for Your Contribution|jpg|Complete all of [[The Elephant|the Elephant's]] contracts on the Normal difficulty or above.}}
+{{Achievement|Politics Is Serious Business|jpg|Complete all of [[The Elephant|the Elephant's]] contracts on the Hard difficulty or above.}}
+{{Achievement|Fraudulent Elections|jpg|Complete all of [[The Elephant|the Elephant's]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|Friends in High Places|jpg|Complete all of [[The Elephant|the Elephant's]] contracts on the Overkill difficulty or above.}}
+{{Achievement|Throw Some Oil on the Fire|jpg|Complete the [[Big Oil]] job on the Normal difficulty or above.}}
+{{Achievement|Basic Capitalism|jpg|Complete the [[Big Oil]] job on the Hard difficulty or above.}}
+{{Achievement|Diesel is My Juice|jpg|Complete the [[Big Oil]] job on the Very Hard difficulty or above.}}
+{{Achievement|Black Gold|jpg|Complete the [[Big Oil]] job on the Overkill difficulty or above.}}
+{{Achievement|Crime Don't Rust|jpg|Complete [[the Biker Heist]] job on the Normal difficulty or above.}}
+{{Achievement|Heist to Live, Live to Heist|jpg|Complete [[the Biker Heist]] job on the Hard difficulty or above.}}
+{{Achievement|Sons of Robbery|jpg|Complete [[the Biker Heist]] job on the Very Hard difficulty or above.}}
+{{Achievement|Riding With Style|jpg|Complete [[the Biker Heist]] job on the Overkill difficulty or above.}}
+{{Achievement|Don't Forget to Vote!|jpg|Complete the [[Election Day]] job on the Normal difficulty or above.}}
+{{Achievement|Your Vote Matters!|jpg|Complete the [[Election Day]] job on the Hard difficulty or above.}}
+{{Achievement|The Most Honest Political Move|jpg|Complete the [[Election Day]] job on the Very Hard difficulty or above.}}
+{{Achievement|Democracy in Action|jpg|Complete the [[Election Day]] job on the Overkill difficulty or above.}}
+{{Achievement|The Paintings Are Looking at Me!|jpg|Complete the [[Framing Frame]] job on the Normal difficulty or above.}}
+{{Achievement|Name & Shame|jpg|Complete the [[Framing Frame]] job on the Hard difficulty or above.}}
+{{Achievement|Senator Set-up|jpg|Complete the [[Framing Frame]] job on the Very Hard difficulty or above.}}
+{{Achievement|Picture Perfect|jpg|Complete the [[Hotline Miami]] job on the Overkill difficulty or above.}}
+{{Achievement|Holiday Special|jpg|Complete all [[:Category:Event heists|Event]] contracts on the Normal difficulty or above.}}
+{{Achievement|This is Not Normal? Is It?|jpg|Complete all [[:Category:Event heists|Event]] contracts on the Hard difficulty or above.}}
+{{Achievement|Fever Dream|jpg|Complete all of [[:Category:Event heists|Event]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|Marked in the Calendar|jpg|Complete all of [[:Category:Event heists|Event]] contracts on the Overkill difficulty or above.}}
+{{Achievement|The Heisters Day Out|jpg|Complete all of [[:Category:Event heists|Event]] contracts on the Mayhem difficulty or above.}}
+{{Achievement|Expanded Reality|jpg|Complete all of [[:Category:Event heists|Event]] contracts on the Death Wish difficulty or above.}}
+{{Achievement|And Now for Something Completely Different|jpg|Complete all of [[:Category:Event heists|Event]] contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Maybe the Table Is Just Really Huge?|jpg|Complete the [[Lab Rats]] job on the Normal difficulty or above.}}
+{{Achievement|Itsy Bitsy Heisters Cooking Meth All Night Long|jpg|Complete the [[Lab Rats]] job on the Hard difficulty or above.}}
+{{Achievement|Bain, I Shrunk the Heisters|jpg|Complete the [[Lab Rats]] job on the Very Hard difficulty or above.}}
+{{Achievement|Arachnophobia|jpg|Complete the [[Lab Rats]] job on the Overkill difficulty or above.}}
+{{Achievement|Heister's Nightmare|jpg|Complete the [[Prison Nightmare]] job on the Normal difficulty or above.}}
+{{Achievement|WULULULU|jpg|Complete the [[Prison Nightmare]] job on the Hard difficulty or above.}}
+{{Achievement|Jailhouse Rock|jpg|Complete the [[Prison Nightmare]] job on the Very Hard difficulty or above.}}
+{{Achievement|Cloaker Phantasm|jpg|Complete the [[Prison Nightmare]] job on the Overkill difficulty or above.}}
+{{Achievement|Small Operation|jpg|Complete all of [[Hector|Hector's]] contracts on the Normal difficulty or above.}}
+{{Achievement|¡La Victoria es Nuestra!|jpg|Complete all of [[Hector|Hector's]] contracts on the Hard difficulty or above.}}
+{{Achievement|Bloody Pennies|jpg|Complete all of [[Hector|Hector's]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|Plata o Plomo|jpg|Complete all of [[Hector|Hector's]] contracts on the Overkill difficulty or above.}}
+{{Achievement|Hector's Heroes|jpg|Complete the [[Firestarter]] job on the Normal difficulty or above.}}
+{{Achievement|Playing With Matches|jpg|Complete the [[Firestarter]] job on the Hard difficulty or above.}}
+{{Achievement|Flame War|jpg|Complete the [[Firestarter]] job on the Very Hard difficulty or above.}}
+{{Achievement|A Burning Love for Loot|jpg|Complete the [[Firestarter]] job on the Overkill difficulty or above.}}
+{{Achievement|Cooking for Dummies|jpg|Complete the [[Rats]] job on the Normal difficulty or above.}}
+{{Achievement|Get the Rat Poison!|jpg|Complete the [[Rats]] job on the Hard difficulty or above.}}
+{{Achievement|Infestation|jpg|Complete the [[Rats]] job on the Very Hard difficulty or above.}}
+{{Achievement|Science Expertise|jpg|Complete the [[Rats]] job on the Overkill difficulty or above.}}
+{{Achievement|I Swear Officer, We are Not Transporting Drugs|jpg|Complete the [[Watchdogs]] job on the Normal difficulty or above.}}
+{{Achievement|Every Dog Has Its Day|jpg|Complete the [[Watchdogs]] job on the Hard difficulty or above.}}
+{{Achievement|A Truckload of Kicking Ass and Taking Names|jpg|Complete the [[Watchdogs]] job on the Very Hard difficulty or above.}}
+{{Achievement|Payday Transport Service|jpg|Complete the [[Watchdogs]] job on the Overkill difficulty or above.}}
+{{Achievement|Too Close to Home|jpg|Complete the [[Safe House Raid]] on the Normal difficulty or above.}}
+{{Achievement|Not in My Backyard|jpg|Complete the [[Safe House Raid]] on the Hard difficulty or above.}}
+{{Achievement|Where's Your Warrant?|jpg|Complete the [[Safe House Raid]] the Very Hard difficulty or above.{{sic}}}}
+{{Achievement|Home Invasion|jpg|Complete the [[Safe House Raid]] on the Overkill difficulty or above.}}
+{{Achievement|House Party|jpg|Complete the [[Safe House Raid]] on the Mayhem difficulty or above.}}
+{{Achievement|Heister Hospitality|jpg|Complete the [[Safe House Raid]] on the Death Wish difficulty or above.}}
+{{Achievement|Welcoming the Neighbors|jpg|Complete the [[Safe House Raid]] on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Alright Boys n Girls|jpg|Complete all of [[Jimmy|Jimmy's]] contracts on the Normal difficulty or above.}}
+{{Achievement|No Cops Were Harmed|jpg|Complete all of [[Jimmy|Jimmy's]] contracts on the Hard difficulty or above.}}
+{{Achievement|Remote Controlled Contractor|jpg|Complete all of [[Jimmy|Jimmy's]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|Truly Hardcore|jpg|Complete all of [[Jimmy|Jimmy's]] contracts on the Overkill difficulty or above.}}
+{{Achievement|This is Fucking War Baby!|jpg|Complete all of [[Jimmy|Jimmy's]] contracts on the Mayhem difficulty or above.}}
+{{Achievement|White Death|jpg|Complete all of [[Jimmy|Jimmy's]] contracts on the Death Wish difficulty or above.}}
+{{Achievement|Take Out His Beating Heart, and Fucking Eat It!|jpg|Complete all of [[Jimmy|Jimmy's]] contracts on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Modern Cold War|jpg|Complete the [[Boiling Point]] job on the Normal difficulty or above.}}
+{{Achievement|Hardcore Heisting|jpg|Complete the [[Boiling Point]] job on the Hard difficulty or above.}}
+{{Achievement|Dropping the EMP Bomb|jpg|Complete the [[Boiling Point]] job on the Very Hard difficulty or above.}}
+{{Achievement|Sawmill Massacre|jpg|Complete the [[Boiling Point]] job on the Overkill difficulty or above.}}
+{{Achievement|EMP, Easy as 1-2-3|jpg|Complete the [[Murky Station]] job on the Normal difficulty or above.}}
+{{Achievement|We Raid It Hardcore|jpg|Complete the [[Murky Station]] job on the Hard difficulty or above.}}
+{{Achievement|Explosive Cargo|jpg|Complete the [[Murky Station]] job on the Very Hard difficulty or above.}}
+{{Achievement|I Washed My Hands in Murky Water|jpg|Complete the [[Murky Station]] job on the Overkill difficulty or above.}}
+{{Achievement|We Started Real Low...|jpg|Complete all of [[Bain|Bain's]] contracts on the Normal difficulty or above.}}
+{{Achievement|Man in the Shadows|jpg|Complete all of [[Bain|Bain's]] contracts on the Hard difficulty or above.}}
+{{Achievement|4 Man Army|jpg|Complete all of [[Bain|Bain's]] contracts on the Very Hard difficulty or above.}}
+{{Achievement|We've Become the Bain of their Existence!|jpg|Complete all of [[Bain|Bain's]] contracts on the Overkill difficulty or above.}}
+{{Achievement|All Your Bass Are Belong to Us|jpg|Complete [[the Alesso Heist]] on the Normal difficulty or above.}}
+{{Achievement|The Show Must Go On|jpg|Complete [[the Alesso Heist]] on the Hard difficulty or above.}}
+{{Achievement|Eat, Sleep, Heist, Repeat|jpg|Complete [[the Alesso Heist]] on the Very Hard difficulty or above.}}
+{{Achievement|Forte to Fortissimo|jpg|Complete [[the Alesso Heist]] on the Overkill difficulty or above.}}
+{{Achievement|Heisting By Numbers|jpg|Complete the [[Art Gallery]] heist on the Normal difficulty or above.}}
+{{Achievement|Art Attack|jpg|Complete the [[Art Gallery]] heist on the Hard difficulty or above.}}
+{{Achievement|Art Lovers|jpg|Complete the [[Art Gallery]] heist on the Very Hard difficulty or above.}}
+{{Achievement|Stealing Is a Form of Art|jpg|Complete the [[Art Gallery]] heist on the Overkill difficulty or above.}}
+{{Achievement|No Thermal Drill was Harmed During the Heist|jpg|Complete the [[Bank Heist|Bank Heist: Cash]] job on the Normal difficulty or above.}}
+{{Achievement|Harvest & Not So Trustee|jpg|Complete the [[Bank Heist|Bank Heist: Cash]] job on the Hard difficulty or above.}}
+{{Achievement|Waddles of Cash|jpg|Complete the [[Bank Heist|Bank Heist: Cash]] job on the Very Hard difficulty or above.}}
+{{Achievement|Dolla Dolla Dolla Bling Bling!|jpg|Complete the [[Bank Heist|Bank Heist: Cash]] job on the Overkill difficulty or above.}}
+{{Achievement|Lockpicker|jpg|Complete the [[Bank Heist|Bank Heist: Deposit]] on the Normal difficulty or above.}}
+{{Achievement|Taking a Deposit|jpg|Complete the [[Bank Heist|Bank Heist: Deposit]] on the Hard difficulty or above.}}
+{{Achievement|Master of Unlocking|jpg|Complete the [[Bank Heist|Bank Heist: Deposit]] on the Very Hard difficulty or above.}}
+{{Achievement|Veni, Saw, Vici|jpg|Complete the [[Bank Heist|Bank Heist: Deposit]] on the Overkill difficulty or above.}}
+{{Achievement|Taking the Bars|jpg|Complete the [[Bank Heist|Bank Heist: Gold]] on the Normal difficulty or above.}}
+{{Achievement|We are Golden|jpg|Complete the [[Bank Heist|Bank Heist: Gold]] on the Hard difficulty or above.}}
+{{Achievement|Goldmember|jpg|Complete the [[Bank Heist|Bank Heist: Gold]] on the Very Hard difficulty or above.}}
+{{Achievement|Came for the Money, Stayed for the Gold|jpg|Complete the [[Bank Heist|Bank Heist: Gold]] on the Overkill difficulty or above.}}
+{{Achievement|Bank Robbery for Dummies|jpg|Complete the [[Bank Heist|Bank Heist: Random]] on the Normal difficulty or above.}}
+{{Achievement|Random Access Larceny|jpg|Complete the [[Bank Heist|Bank Heist: Random]] on the Hard difficulty or above.}}
+{{Achievement|Trustee Robbers|jpg|Complete the [[Bank Heist|Bank Heist: Random]] on the Very Hard difficulty or above.}}
+{{Achievement|Winning the Loottery|jpg|Complete the [[Bank Heist|Bank Heist: Random]] on the Overkill difficulty or above.}}
+{{Achievement|Are We There Yet?|jpg|Complete the [[Car Shop]] job on the Normal difficulty or above.}}
+{{Achievement|Student Driver|jpg|Complete the [[Car Shop]] job on the Hard difficulty or above.}}
+{{Achievement|Burning Rubber|jpg|Complete the [[Car Shop]] job on the Very Hard difficulty or above.}}
+{{Achievement|Drive It Like You Stole It|jpg|Complete the [[Car Shop]] job on the Overkill difficulty or above.}}
+{{Achievement|Grandmother's Recipe|jpg|Complete the [[Cook Off]] job on the Normal difficulty or above.}}
+{{Achievement|Bain's Bakery|jpg|Complete the [[Cook Off]] job on the Hard difficulty or above.}}
+{{Achievement|So You Think You Can Cook Meth?|jpg|Complete the [[Cook Off]] job on the Very Hard difficulty or above.}}
+{{Achievement|Kiss the Chemist|jpg|Complete the [[Cook Off]] job on the Overkill difficulty or above.}}
+{{Achievement|Being Precious|jpg|Complete the [[Diamond Store]] job on the Normal difficulty or above.}}
+{{Achievement|A Diamond Dozen|jpg|Complete the [[Diamond Store]] job on the Hard difficulty or above.}}
+{{Achievement|Diamonds, Rubies, Sapphires, Emeralds: I Take Them All|jpg|Complete the [[Diamond Store]] job on the Very Hard difficulty or above.|image=DiamondStoreVH.jpg}}
+{{Achievement|Diamonds Are a Heister's Best Friend|jpg|Complete the [[Diamond Store]] job on the Overkill difficulty or above.}}
+{{Achievement|Go, Go, Go|jpg|Complete the [[GO Bank]] job on the Normal difficulty or above.}}
+{{Achievement|pd_bank|jpg|Complete the [[GO Bank]] job on the Hard difficulty or above.}}
+{{Achievement|Clutch|jpg|Complete the [[GO Bank]] job on the Very Hard difficulty or above.}}
+{{Achievement|Greed Gets the Best of You|jpg|Complete the [[GO Bank]] job on the Overkill difficulty or above.}}
+{{Achievement|There is Always a First Time|jpg|Complete the [[Jewelry Store]] job on the Normal difficulty or above.}}
+{{Achievement|As Cool as Ice|jpg|Complete the [[Jewelry Store]] job on the Hard difficulty or above.}}
+{{Achievement|All That Glimmer isn't Gold|jpg|Complete the [[Jewelry Store]] job on the Very Hard difficulty or above.}}
+{{Achievement|Master Thief|jpg|Complete the [[Jewelry Store]] job on the Overkill difficulty or above.}}
+{{Achievement|Is There Anyone There?|jpg|Complete the [[Shadow Raid]] job on the Normal difficulty or above.}}
+{{Achievement|Murky Deals|jpg|Complete the [[Shadow Raid]] job on the Hard difficulty or above.}}
+{{Achievement|Shinobi Wibe|jpg|Complete the [[Shadow Raid]] job on the Very Hard difficulty or above.}}
+{{Achievement|Like a Shimmer Through the Night|jpg|Complete the [[Shadow Raid]] job on the Overkill difficulty or above.}}
+{{Achievement|When "X" Marks the Spot|jpg|Complete the [[Transport|Transport: Crossroads]] job on the Normal difficulty or above.}}
+{{Achievement|Crosstown Traffic|jpg|Complete the [[Transport|Transport: Crossroads]] job on the Hard difficulty or above.}}
+{{Achievement|Our Roads Cross Again|jpg|Complete the [[Transport|Transport: Crossroads]] job on the Very Hard difficulty or above.}}
+{{Achievement|Fingers and Roads Crossed|jpg|Complete the [[Transport|Transport: Crossroads]] job on the Overkill difficulty or above.}}
+{{Achievement|Making My Way Downtown|jpg|Complete the [[Transport|Transport: Downtown]] job on the Normal difficulty or above.}}
+{{Achievement|Downtown Crowd|jpg|Complete the [[Transport|Transport: Downtown]] job on the Hard difficulty or above.}}
+{{Achievement|Hit 'em Hard|jpg|Complete the [[Transport|Transport: Downtown]] job on the Very Hard difficulty or above.}}
+{{Achievement|Rush Hour|jpg|Complete the [[Transport|Transport: Downtown]] job on the Overkill difficulty or above.}}
+{{Achievement|Heisters in a Tincan|jpg|Complete the [[Transport|Transport: Harbor]] job on the Normal difficulty or above.}}
+{{Achievement|Working Class Hero|jpg|Complete the [[Transport|Transport: Harbor]] job on the Hard difficulty or above.}}
+{{Achievement|Heisty McHeistface|jpg|Complete the [[Transport|Transport: Harbor]] job on the Very Hard difficulty or above.}}
+{{Achievement|Criminal Waters|jpg|Complete the [[Transport|Transport: Harbor]] job on the Overkill difficulty or above.}}
+{{Achievement|Picnic|jpg|Complete the [[Transport|Transport: Park]] job on the Normal difficulty or above.}}
+{{Achievement|We Like Long Walks|jpg|Complete the [[Transport|Transport: Park]] job on the Hard difficulty or above.}}
+{{Achievement|No Day for Sightseeing|jpg|Complete the [[Transport|Transport: Park]] job on the Very Hard difficulty or above.}}
+{{Achievement|Stroll in the Park|jpg|Complete the [[Transport|Transport: Park]] job on the Overkill difficulty or above.}}
+{{Achievement|The Little Heister That Could|jpg|Complete the [[Transport: Train Heist]] job on the Normal difficulty or above.}}
+{{Achievement|Modern Train Robbers|jpg|Complete the [[Transport: Train Heist]] job on the Hard difficulty or above.}}
+{{Achievement|Off the Rails|jpg|Complete the [[Transport: Train Heist]] job on the Very Hard difficulty or above.}}
+{{Achievement|Because of Training|jpg|Complete the [[Transport: Train Heist]] job on the Overkill difficulty or above.}}
+{{Achievement|Midnight Ride's Over|jpg|Complete the [[Transport|Transport: Underpass]] job on the Normal difficulty or above.}}
+{{Achievement|Traffic Congestion|jpg|Complete the [[Transport|Transport: Underpass]] job on the Hard difficulty or above.}}
+{{Achievement|Hazy Heisters|jpg|Complete the [[Transport|Transport: Underpass]] job on the Very Hard difficulty or above.}}
+{{Achievement|Tunnel Vision|jpg|Complete the [[Transport|Transport: Underpass]] job on the Overkill difficulty or above.}}
+}}
+|-|Trivia=
+*Most of the names of the achievements are player suggestions from the [https://steamcommunity.com/app/218620/discussions/10/154645497345310070/ Do you know what would be a great name for an achievement?] thread.
+*'''Hello To You, My New Friends''' is a quote from [[Vernon Locke|Locke]] in [[Beneath the Mountain]], stated when the players zipline up the elevator shaft and meet Locke in person.
+*'''Locke & Load''' is a pun on the phrase "lock and load" and Locke, as well as being the name of the Beneath the Mountain heist's default soundtrack and the name of the community event the achievement was released in.
+*'''Drain the Swamp''' is a {{w|Drain the swamp|phrase}} used by American politicians, alluding to the historical draining of swamps to keep {{w|mosquito}} populations low to combat {{w|malaria}}. The phrase being attributed to Locke may indicate it is a reference to {{w|Jessica Stern}} who, in the article "Preparing for a War on Terrorism", calls on the U.S. to use foreign aid and soft power to combat ("drain") terrorism in failing/failed polities ("the swamps").
+*'''FUBAR''' is military slang for "fucked up beyond all recognition/any repair".
+*'''By Air, Land, and Sea''' refers to a quote from {{w|Winston Churchill}}, from the end of his "{{w|We shall fight on the beaches}}" speech.
+*'''Madman Absolution''' is a reference to ''{{w|Hitman: Absolution}}''.
+*'''Best Use of a Farm Animal''' was a category of the [https://store.steampowered.com/SteamAwards/2016/ 2016 Steam Awards].
+*'''Golf Oscar Alpha Tango Sierra''' is "goats" in the {{w|NATO phonetic alphabet}}.
+*'''All I Want for Christmas is You''' is a reference to "{{w|All I Want for Christmas Is You}}" by {{w|Mariah Carey}}.
+*'''How the Winch Stole Christmas''' is a pun on ''{{w|How the Grinch Stole Christmas!}}'' and "winch", which the players use in the heist to airlift the Christmas tree and escape.
+*'''The Princess is in Another Safe!''' is a reference to the [https://knowyourmeme.com/memes/but-our-princess-is-in-another-castle But Our Princess is in Another Castle] meme that originated from ''{{w|Super Mario Bros.}}''
+*'''Play Rough''' is from the [https://www.youtube.com/watch?v=a_z4IuxAqpE speech] in the final scene of ''{{w|Scarface (1983 film)|Scarface}}''.
+*'''The World is Yours''' is the tagline of the {{w|Scarface: The World Is Yours|''Scarface'' video game}}.
+*'''Reminds Me of Myself Back in the Day!''' is a quote from [[Bain]] played when the crew survives an [[Assault Waves|assault wave]].
+*'''A Bridge Too Far!''' is an [[Achievements|achievement]] from ''[[PAYDAY: The Heist]]''.
+*'''Washington City Marathon''' is not an accurate title, as [[Heat Street (Payday 2)|Heat Street]] takes place in {{w|New York City}}, rather than {{w|Washington D.C.}} as most of the rest of the heists in the game do.
+*'''Keep Calm and Carry On... Shooting''' is a reference to the {{w|Keep Calm and Carry On}} British {{w|motivational poster}} made in preparation of {{w|World War II}}, which saw [https://knowyourmeme.com/memes/keep-calm-and-carry-on a revival] 70 years later.
+*Most of [[Charon|the Continental]] achievements are quotes from the ''{{w|John Wick}}'' film.
+**'''Baba Yaga''' is what the Russian mafia Wick fights throughout the film codenames him.
+*'''The Big Bank Theory''' is a pun on the {{w|Big Bang|Big Bang theory}}.
+*'''Dead Man's Hand''' is a {{w|Dead man's hand|poker hand}} that is said to have been held by {{w|Wild Bill Hickok}} when he was murdered. It is also the name of the soundtrack for the heist.
+*'''Prankcall''' is the [[w:c:hotlinemiami:Prank Call|name of a level]] in ''{{w|Hotline Miami}}''.
+*'''Running in the 80's''' is a reference to the [https://knowyourmeme.com/memes/max-coveri-running-in-the-90s memetic song] "Running in the 90's" made by {{w|Maurizio De Jorio}} under the alias of Max Coveri.
+*'''Diesel is My Juice''' may be a reference to ''PAYDAY 2'' running on the {{w|Diesel (game engine)|Diesel engine}}.
+*'''Sons of Robbery''' is a reference to ''{{w|Sons of Anarchy}}'', in which [[Rust]]'s actor, {{w|Ron Perlman}}, played as {{w|Clay Morrow}}.
+*'''And Now for Something Completely Different''' is a reference to ''{{w|Monty Python's Flying Circus}}'', which would often use the line to open sketches, and is also the title of the {{w|And Now for Something Completely Different|1971 film}} that contained sketches from the first two seasons of ''Flying Circus'', intended for American audiences that had not seen the series.
+*'''Itsy Bitsy Heisters Cooking Meth All Night Long''' is a reference to the {{w|Itsy Bitsy Spider}} nursery rhyme.
+*'''Bain, I Shrunk the Heisters''' is a reference to ''{{w|Honey, I Shrunk the Kids}}''. A similar play on words was used as the tagline for the [[Lab Rats]] heist when it was released.
+*'''Jailhouse Rock''' refers to either {{w|Jailhouse Rock (song)|the song of the same name}} by {{w|Elvis Presley}} and/or the {{w|Jailhouse Rock (film)|musical drama film}} for which the song was composed.
+*'''¡La Victoria es Nuestra!''' is Spanish for "victory is ours".
+*'''Plata o Plomo''' is a Colombian Spanish slang phrase that translates to "silver (money) or lead (bullets)", meaning "accept the bribe or lose your life".
+*'''Hector's Heroes''' may be a reference to the American TV sitcom ''{{w|Hogan's Heroes}}''.
+*'''Cooking for Dummies''' and '''Bank Robbery for Dummies''' are references to the ''{{w|For Dummies}}'' books.
+*'''Alright Boys n Girls''' and '''This is Fucking War Baby!''' are quotes from [[Jimmy]].
+*'''All Your Bass Are Belong To Us''' is a reference to a {{w|All your base are belong to us|meme}} that originated from ''{{w|Zero Wing}}''.
+*'''Eat, Sleep, Heist, Repeat''' is likely a reference to the song "{{w|Eat, Sleep, Rave, Repeat}}" by {{w|Fatboy Slim}}.
+*'''Forte to Fortissimo''' are {{w|Dynamics (music)|music dynamics terms}} meaning "loud" and "very loud".
+*'''Veni, Saw, Vici''' is wordplay with the phrase ''{{w|Veni, vidi, vici}}'', which means "I came, ''I saw,'' I conquered".
+*'''A Diamond Dozen''' is a pun on "a dime a dozen".
+*'''Go, Go, Go''', '''pd_bank''', and '''Clutch''' are all references to ''{{w|Counter-Strike}}''.
+*'''Making My Way Downtown''' is a reference to {{w|Vanessa Carlton}}'s debut single "{{w|A Thousand Miles}}".
+*'''Heisty McHeistface''' is a reference to ''{{w|Boaty McBoatface}}''.
+*'''The Little Heister That Could''' is a reference to ''{{w|The Little Engine That Could}}''.
+*'''Modern Train Robbers''' was the name of the removed achievement for completing [[Transport: Train Heist|Train Heist]] on Death Wish.
+</tabber>
+[[Category:PAYDAY 2]]

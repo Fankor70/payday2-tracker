@@ -1,0 +1,20 @@
+<tabber>Permanent Achievements=
+{{Achievement|On the Seventh Try on Death Wish, My True Bain Gave to Me|jpg|Complete the [[Santa's Workshop]] job on the Death Wish difficulty or above.}}
+{{Achievement|Euro Bag Simulator|jpg|Complete the [[Santa's Workshop]] job after having secured at least {{color|value|100}} bags of loot on the OVERKILL difficulty or above. Unlocks the “[[Masks (Payday 2)#Normal (Achievement)|Rudolph]]” mask.}}
+{{Achievement|Only Santa Brings Gifts|jpg|In the [[Santa's Workshop]] job, secure {{color|value|10}} bags of loot without using any player equipment or assets.}}
+{{Achievement|Pumped Up and Jolly|jpg|Complete the [[Santa's Workshop]] job having all players in the crew only use shotguns. Unlocks the “[[Masks (Payday 2)#Normal (Achievement)|Christmas Cap]]” mask.}}
+{{Achievement|Santa Slays Slackers|jpg|In the [[Santa's Workshop]] job, keep all the elves alive for {{color|value|30}} minutes after the first assault starts on the OVERKILL difficulty or above.}}
+|-|Teaser=
+''The following appeared on December 7, 2015.''
+{{Teasers
+|We
+|Wish
+|You
+|A Merry
+|Christmas
+}}
+|-|Trivia=
+*The teaser achievements and the '''On the Seventh Try on Death Wish, My True Bain Gave to Me''' achievement are references to {{w|Christmas carol|Christmas carols}}, {{w|We Wish You a Merry Christmas}} and {{w|The Twelve Days of Christmas (song)|The Twelve Days of Christmas}}, respectively.
+*The '''Euro Bag Simulator''' achievement is a reference to the {{w|Euro Truck Simulator (series)|''Euro Truck Simulator'' video game series}}.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

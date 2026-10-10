@@ -1,0 +1,32 @@
+<tabber>Permanent Achievements=
+{{Achievement|Easy Release|jpg|Complete [[The Ukrainian Prisoner]] job on the Normal difficulty or above.}}
+{{Achievement|Cupcake Rescuer|jpg|Complete [[The Ukrainian Prisoner]] job on the Hard difficulty or above.}}
+{{Achievement|Free our Ukrainian!|jpg|Complete [[The Ukrainian Prisoner]] job on the Very Hard difficulty or above.}}
+{{Achievement|Vlad's Hero|jpg|Complete [[The Ukrainian Prisoner]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Leave No Ukrainian Behind|jpg|Complete [[The Ukrainian Prisoner]] job on the Mayhem difficulty or above.}}
+{{Achievement|Container Cracker|jpg|Complete [[The Ukrainian Prisoner]] job on the Death Wish difficulty or above.}}
+{{Achievement|Dockland Raider|jpg|Complete [[The Ukrainian Prisoner]] job on the Death Sentence difficulty.}}
+{{Achievement|Take care of Your Frenemies|jpg|Complete [[The Ukrainian Prisoner]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|This Calls for a Round of Sputniks!|jpg|In [[The Ukrainian Prisoner]] job, kill at least 100 enemies with a sniper rifle and complete the level with 100% or higher accuracy on the OVERKILL difficulty or above.}}
+{{Achievement|Just to Cheese Them Off|jpg|In [[The Ukrainian Prisoner]] job, find and destroy all dragon vases.}}
+{{Achievement|Thinking Ahead|jpg|In [[The Ukrainian Prisoner]] job, find and steal what Yufu Wang has hidden away.}}
+{{Achievement|For The Mad Hatter|jpg|Collect and secure the tea sets from all heists in the City of Gold campaign. Unlocks the "Laohu Dashi" Outfit.}}
+|-|Teaser=
+''The following teasers were added on June 7, 2021, and removed sometime later at an unknown date''
+{{Achievement|3 weeks||3 weeks}}
+{{Achievement|of life.||of life.}}
+{{Achievement|Cremated||Cremated}}
+{{Achievement|2 months||2 months}}
+{{Achievement|later.||later.}}
+{{Achievement|58 cm||58 cm}}
+{{Achievement|in diameter||in diameter.}}
+{{Achievement|Ran at||Ran at}}
+{{Achievement|8 km/s||8 km/s}}
+{{Achievement|Traveled about||Traveled about}}
+{{Achievement|70000000 km.||70000000 km.}}
+|-|Guide=
+|-|Trivia=
+*'''For The Mad Hatter''' is a reference to {{w|Hatter (Alice's Adventures in Wonderland)|The Mad Hatter}} from {{w|Lewis Carroll}}'s 1865 book {{w|Alice's Adventures in Wonderland}}, who is frozen in time forever stuck at 6pm in an endless tea party. The Hatter tried to sing to the foul-tempered {{w|Queen of Hearts (Alice's Adventures in Wonderland)|Queen of Hearts}} who sentenced him to death by decapitation. Father Time retaliated and froze The Mad Hatter in time out of respect for him. The "Laohu Dashi" outfit is a reference to {{w|Bruce Lee}} and his yellow jumpsuit. The name translates to "Tiger Master", referencing the black and yellow colors of the outfit.
+*The teaser achievements reference {{w|Sputnik 1}}, the world's first artificial satellite, made by the Russians in 1957. Vlad has been referred to as Sputnik multiple times. Sputnik 1 transmitted signals for 21 days before the transmitter batteries died, then 2 months later it burned up while reentering Earth's atmosphere. It had a diameter of 58cm, traveled at 8 km/s and had a cumulative distance traveled of 70,000,000 km.
+</tabber>
+[[Category:PAYDAY 2]]

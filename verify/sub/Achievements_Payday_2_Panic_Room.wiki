@@ -1,0 +1,44 @@
+<tabber>Achievements=
+{{Achievement|Keep Calm and Carry on... Shooting|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Normal difficulty or above.}}
+{{Achievement|Flying Money|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Hard difficulty or above.}}
+{{Achievement|Don't Panic|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Very Harddifficulty or above.}}
+{{Achievement|Demolition Crew|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Panic in the Projects|png|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Mayhem difficulty or above.}}
+{{Achievement|A Brush With Death|png|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Death Wish difficulty or above.}}
+{{Achievement|Forceful Eviction|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Death Sentence difficulty}}
+{{Achievement|The Definition of Safe House is Changing|png|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Death Sentence difficulty with the One Down mechanic activated..}}
+{{Achievement|Cardio Training|png|Complete [[Panic Room (Payday 2)|Panic Room]] while having the entire crew on the roof when the escape triggers and open the basement door within {{color|value|20}} sec.}}
+{{Achievement|Don't You Dare Miss|png|Complete [[Panic Room (Payday 2)|Panic Room]] on any difficulty with a total crew hit accuracy above {{color|value|200%}}}}
+{{Achievement|Quick Draw|jpg|In the [[Panic Room]] job, kill all gangsters within 60 seconds after masking up on the OVERKILL difficulty or above.}}
+{{Achievement|The Dentist Delight|png|Find and secure the giant [[Loot|toothbrush]] in the [[Panic Room (Payday 2)|Panic Room]] job.}}
+
+|-|Teasers=
+''The following appeared on July 15, 2016, and were removed on July 19, 2016.''
+{{Teasers
+|The Robbed
+|That Smiles,
+|Steals Something
+|From The
+|Thief
+}}
+
+''The following appeared on October 15, 2016.''
+{{Teasers
+|The Robbed
+|That Smiles,
+|Steals
+|Something
+|From
+|The
+|Thief
+}}
+|-|Tips=
+{{Achievement|The Dentist Delight|png|Find and secure the giant [[Loot|toothbrush]] in the [[Panic Room (Payday 2)|Panic Room]] job.}}
+[http://steamcommunity.com/sharedfiles/filedetails/?id=782816489 This guide] lists all known spawn locations for the toothbrush.
+|-|Trivia=
+*The teaser achievements are part of a quote from a play, ''{{w|Othello}}'', by {{w|William Shakespeare}}, in [http://nfs.sparknotes.com/othello/page_44.html Act 1 Scene 3].
+*The achievements for the [[Panic Room (Payday 2)|Panic Room]] heist are the first to have more teasers than released achievements.
+*'''A Brush With Death''' is from the original [[Panic Room]]'s [[Achievements#Patch 6|Overkill 145+ achievement]].
+*'''The Definition of Safe House is Changing''' is the original Panic Room's poster tagline.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

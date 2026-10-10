@@ -1,0 +1,19 @@
+<tabber>Achievements=
+{{Achievement|Valuable Ornaments|jpg|Complete the Diamond Heist on the Normal difficulty or above.}}
+{{Achievement|Some Very Expensive Rocks|jpg|Complete the Diamond Heist on the Hard difficulty or above.}}
+{{Achievement|Costly Gems|jpg|Complete the Diamond Heist on the Very Hard difficulty or above.}}
+{{Achievement|Precious Stones|jpg|Complete the Diamond Heist on the Overkill difficulty or above.}}
+{{Achievement|Shiny Pieces of Carbon|jpg|Complete the Diamond Heist on the Mayhem difficulty or above.}}
+{{Achievement|Well Guarded Jewels|jpg|Complete the Diamond Heist on the Death Wish difficulty or above.}}
+{{Achievement|Bad Code|jpg|Complete the Diamond Heist on the Death Sentence difficulty.}}
+{{Achievement|A Hard Won Price|jpg|Complete the Diamond Heist on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Blood Diamond|jpg|On the Diamond Heist secure the red diamond on Overkill difficulty or above.}}
+{{Achievement|Dead Change|jpg|Steal from the Dead}}
+{{Achievement|The Hunt for the Blue Sapphires|jpg|On the Diamond Heist find and pick up every sapphire outside the vault on the Overkill difficulty or above.}}
+|-|Guides=
+{{Achievement|Dead Change|jpg|Steal from the Dead}}
+*In order to unlock this achievement, simply go loud at any point before opening the vault, play up to the CFO being dropped into the atrium, and pick up the money bundle next to his corpse.
+{{Achievement|The Hunt for the Blue Sapphires|jpg|On the Diamond Heist find and pick up every sapphire outside the vault on the Overkill difficulty or above.}}
+*The sapphire cases automatically shut and lock themselves after going loud, meaning this achievement must be attempted during a stealth run. It can be completed at any point in the mission so long as stealth is maintained.
+</tabber>
+[[Category:PAYDAY 2]]

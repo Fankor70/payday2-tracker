@@ -1,0 +1,21 @@
+====================================================================
+ПРОВЕРКА ДАННЫХ
+====================================================================
+   wiki_listed                            853
+   in_steam_not_in_wiki_lists             498
+   in_wiki_lists_not_in_steam             9
+   total                                  1342
+   assigned_to_heists                     982
+   global                                 364
+   unaccounted                            0
+   progress                               0
+   progress_pct                           0.0
+   progress_unknown                       0
+   heists_with_progress                   0
+   heists_total_ach                       1047
+   heists_untouched                       77
+
+ОШИБОК НЕТ
+предупреждения — 2
+   [wiki_only] есть на вики, но нет в списке достижений: 3 10 to the safehouse, an artfull heist, every dog has its day, f k it we re walking, headless snowman — 9
+   [parallel_heist_overlap] достижение одновременно в хайсте и в параллельных — 1

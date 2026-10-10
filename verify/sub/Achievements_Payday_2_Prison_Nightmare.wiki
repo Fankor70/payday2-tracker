@@ -1,0 +1,25 @@
+<tabber>Permanent Achievements=
+{{Achievement|Nightmare Machine|jpg|Complete the [[Prison Nightmare]] job on the Mayhem difficulty or above.}}
+{{Achievement|All Cloakers Eve|jpg|Complete the [[Prison Nightmare]] job on the Death Wish difficulty or above.}}
+{{Achievement|Haunted House of Heisters|jpg|Complete the [[Prison Nightmare]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|A Long Night of Horrors|png|Complete the [[Prison Nightmare]] job, getting at least {{color|value|15}} keycards on the Mayhem difficulty or above without any player ever going into custody. You have to have played the heist from start to end. Unlocks the "[[Masks (Payday 2)#Halloween Event|Risen Chains]]" mask.}}
+{{Achievement|He's Got Experience|png|Complete the [[Prison Nightmare]] job on the Hard difficulty or above by having 1 player playing as [[Hoxton]], all having [[Nova's Shank]] melee weapon equipped, and are only allowed to kill enemies using Nova's Shank. You have to have played the heist from start to end. Unlocks the "[[Masks (Payday 2)#Halloween Event|Risen Houston]]" mask.}}
+{{Achievement|Salem Asylum|png|On the [[Prison Nightmare]] job, get on the train in less than {{color|value|4}} min and {{color|value|44}} sec on the Mayhem difficulty or above. You have to have played the heist from start to end. Unlocks the "[[Masks (Payday 2)#Halloween Event|Risen Wolf]]" mask.}}
+|-|Teasers=
+''The following appeared on October 25, 2016.''
+{{Achievement|You||oOooOooOo}}
+{{Achievement|Can||oOooOooOo}}
+{{Achievement|Run,||oOooOooOo}}
+{{Achievement|But||oOooOooOo}}
+{{Achievement|You Can't||oOooOooOo}}
+{{Achievement|Hide||oOooOooOo}}
+|-|Tips=
+{{Achievement|He's Got Experience|png|Complete the [[Prison Nightmare]] job on the Hard difficulty or above by having 1 player playing as [[Hoxton]], all having [[Nova's Shank]] melee weapon equipped, and are only allowed to kill enemies using Nova's Shank. You have to have played the heist from start to end. Unlocks the "[[Masks (Payday 2)#Halloween Event|Risen Houston]]" mask.}}
+Having bots enabled will void the achievement as their kills are not with melee weapons, so one will have to either do the achievement alone (and be at the mercy of [[Taser (Payday 2)|Tasers]] without [[Shockproof]] Aced) or find another player to complete the achievement with.
+|-|Trivia=
+*'''Nightmare Machine''' is an [http://nightmare.mit.edu/ artificial intelligence-driven program] created by the researchers at {{w|MIT Media Lab}} in Massachusetts that modifies ordinary photographs into horrifying images as part of a test to determine whether or not the AI can successfully scare humans.
+*'''All Cloakers Eve''' is a pun on '''All Hallows' Eve''', better known as "{{W|Halloween}}".
+*'''Haunted House of Heisters''' is a probable nod to the 1969 film ''{{W|The Haunted House of Horror}}''.
+*'''Salem Asylum''' is likely named after a Steam forum user named Salem, a notorious ''PAYDAY2'' speedrunner.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

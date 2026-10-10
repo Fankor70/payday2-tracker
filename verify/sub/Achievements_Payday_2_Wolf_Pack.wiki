@@ -1,0 +1,33 @@
+<tabber>Permanent Achievements=
+{{Achievement|Under Pressure|png|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Death Wish difficulty or above.}}
+{{Achievement|Dr. Evil|jpg|Print and secure $1,000,000 worth of counterfeit money{{color|negative|*}} in the Helicopter{{color|negative|**}} on the [[Counterfeit (Payday 2)|Counterfeit]] job. Unlocks the "[[Masks (Payday 2)#Wolf Pack DLC|Viking]]" mask, "[[Materials#Wolf Pack DLC|Houndstooth]]" material and "[[Patterns#Wolf Pack DLC|Fenris]]" pattern.<br/>{{color|negative|''*37 bags on Normal, 19 on Hard, 14 on Very Hard, 9 on Overkill, 6 on Mayhem, 5 on Death Wish, 4 on Death Sentence.<br/>**Bags secured by holding them while escaping will count towards this achievement.''}}}}
+{{Achievement|Cutting the Red Wire|jpg|Disarm the C4 on the Counterfeit job on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#Wolf Pack DLC|Dragon Head]]" mask, "[[Materials#Wolf Pack DLC|Days]]" material and "[[Patterns#Wolf Pack DLC|Kurbits]]" pattern.}}
+{{Achievement|Basement Dwellers|jpg|Don't let the cops enter the printing room on the [[Counterfeit (Payday 2)|Counterfeit]] job until the safe is opened on OVERKILL difficulty or above.}}
+{{Achievement|Crowd Control|png|On the [[Counterfeit (Payday 2)|Counterfeit]] job, have all civilians as hostages until the safe is opened.}}
+{{Achievement|In for a Dime, in for a Dollar|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Death Wish difficulty or above.}}
+{{Achievement|Not Even Once|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on OVERKILL difficulty or above without anyone in your crew getting downed or cuffed.}}
+{{Achievement|Keep Clear of the Windows|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job without killing any [[Sniper (Payday 2)|Snipers]]. Unlocks the "[[Masks (Payday 2)#Wolf Pack DLC|Hans]]" mask, "[[Materials#Wolf Pack DLC|Red White]]" material and "[[Patterns#Wolf Pack DLC|Luse]]" pattern.}}
+{{Achievement|The Saviour|png|On the [[Undercover (Payday 2)|Undercover]] job, place 10 planks on windows, vents or fences. Unlocks the "[[Masks (Payday 2)#Wolf Pack DLC|Trickster Demon]]" mask, "[[Materials#Wolf Pack DLC|Mushroom Cloud]]" material and "[[Patterns#Wolf Pack DLC|Split]]" pattern.}}
+{{Achievement|Blow-Out|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on OVERKILL difficulty or above, using only a grenade launcher or rocket launcher.}}
+|-|Teasers=
+''The following appeared on February 8, 2016. They were replaced on February 11, 2016.''
+{{Teasers
+|Fake It
+|'Til
+|You
+|Make
+|It
+|A
+|Very
+|Particular
+|Set of
+|Skills
+}}
+|-|Trivia=
+*The teaser achievements "A Very Particular Set of Skills" is part of a [https://www.youtube.com/watch?v=jZOywn1qArI quote] from the 2008 film ''[[wikipedia:Taken (film)|Taken]]''.
+*'''Under Pressure''', '''Crowd Control''', '''In for a dime, in for a Dollar''', '''The Saviour''', and '''Blow-Out''' are all (slightly modified) [[Achievements#DLC|achievements]] from ''[[PAYDAY: The Heist]]''.
+**'''Cutting the Red Wire''' is based on the achievement '''[[Counterfeit/Walkthrough#Quick hands|Quick hands]]'''.
+*'''Dr. Evil''' is a reference to the [[wikipedia:Dr. Evil|antagonist]] from the [[wikipedia:Austin Powers (film series)|''Austin Powers'' film series]].
+*'''Keep Clear of the Windows''' is a quote shared by the four original heisters regarding [[Sniper (PAYDAY: The Heist)|snipers]] in the first game.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

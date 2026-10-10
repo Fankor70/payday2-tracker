@@ -1,0 +1,33 @@
+<tabber>Permanent Achievements=
+{{Achievement|Mariachis Have More Fun|jpg|Complete the [[San Martín Bank]] job on the Normal difficulty or above. Unlocks the "The Minstrel" Outfit.}}
+{{Achievement|Is That a Gun or a Guitar?|jpg|Complete the [[San Martín Bank]] job on the Hard difficulty or above. Unlocks the "Dust Devil" variant of the "The Minstrel" Outfit.}}
+{{Achievement|Keep Playing to the Sound of Money|jpg|Complete the [[San Martín Bank]] job on the Very Hard difficulty or above.}}
+{{Achievement|Guitars And ARs|jpg|Complete the [[San Martín Bank]] job on the OVERKILL difficulty or above. Unlocks the "Skin of the Saint" variant of the "The Minstrel" Outfit.}}
+{{Achievement|Play Me a Narcocorrido|jpg|Complete the [[San Martín Bank]] job on the Mayhem difficulty or above.}}
+{{Achievement|Your Gunfire is Drowning out my Trumpet|jpg|Complete the [[San Martín Bank]] job on the Death Wish difficulty or above. Unlocks the "Teotihuacan" variant of the "The Minstrel" Outfit.}}
+{{Achievement|Mariachi Day|jpg|Complete the [[San Martín Bank]] job on the Death Sentence difficulty. Unlocks the "Calavara" variant of the "The Minstrel" Outfit.}}
+{{Achievement|The Ballad of San Martín|jpg|Complete the [[San Martín Bank]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Now Hit Me With The Music|jpg|The rhythm is the boss. Unlocks the "Sombrero" Mask.<br>''{{color|negative|Kill one of the Mariachi band members in the [[San Martín Bank]] job with the [[El Ritmo]] melee weapon.}}''}}
+{{Achievement|Gunpowder Glory|jpg|In the [[San Martín Bank]] job, let the heist go loud before anyone enters the bank and keep all enemies away from the fountain plaza until the escape is available on the OVERKILL difficulty or above. Unlocks the "Skull White" weapon color.}}
+{{Achievement|Silencioso y Codicioso|jpg|In the [[San Martín Bank]] job, complete the heist in stealth having secured all loot and emptied all deposit boxes on the OVERKILL difficulty or above. Unlocks the "Dollar Green" weapon color.}}
+{{Achievement|Only For Us Naughty Heisters|jpg|Find the hidden presents in the [[Border Crossing]], [[San Martín Bank]], [[Breakfast in Tijuana]], and [[Buluc's Mansion]] jobs. Unlocks the "Mega Sangres" mask.}}
+|-|Teaser=
+''The following teasers were added on February 21st, 2020, and removed in February 27th, 2020.''
+{{Achievement|Where are wwe now?||Where are wwe now?}}
+{{Achievement|Are wwe lost again?||Are wwe lost again? No..}}
+{{Achievement|Wea re noow vvery lost!||We are noow vvery lost!}}
+{{Achievement|we can't be sure||we can't be sure}}
+{{Achievement|if fate will be kkind..||With aall that is}}
+{{Achievement|ffound in the air.||ffound in the air.}}
+{{Achievement|Hope//Dreams and||Hope//Dreams and}}
+{{Achievement|unhingged adventures||unhingged adventures}}
+{{Achievement|we willl bring thhe fun||we willl bring thhe fun}}
+{{Achievement|iff you bring the brains!||iff you bring the brains!}}
+|-|Guide=
+*'''Only For Us Naughty Heisters''' Click on this [https://steamcommunity.com/sharedfiles/filedetails/?id=2322941991 link] to find all the present locations.
+|-|Trivia=
+*When you type in the duplicate letters in each teaser achievement into a web search url, it will bring you to https://ovk.af/glhf. The secret code is 'MYSTRONGRUSSIANPASSWORD'.
+*'''Play Me a Narcocorrido''' is a direct reference to {{w|Narcocorrido|Narcocorridos}}, a subgenre to the Regional Mexican corrido music genre whose lyrics recount the exploits of drug traffickers.
+*'''Silencioso y Codicioso''' is Spanish for "Silent and Greedy".
+</tabber>
+[[Category:PAYDAY 2]]

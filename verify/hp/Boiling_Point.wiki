@@ -1,0 +1,112 @@
+{{stub}}{{MultipleHeist2|Boiling Point|Infobox Heist}}{{Quote|There's a point beyond the boiling point.|Announcement site description.}}
+
+'''Boiling Point''' is a loud-only one-day heist in ''[[PAYDAY 2]]'', part of the [[Hardcore Henry Heists]] Pack which was released on March 31, 2016 with [[PC update history (Payday 2)#Update #97|Update #97]]. It involves the crew infiltrating a secret lab disguised as a lumber mill in Russia, marking the first heist outside of the United States.
+
+This heist is no longer available to play as of August 18, 2024, and is only available to players who had purchased the game prior to this date.
+
+==Overview==
+This heist is [[Timeline|chronologically]] the second of the two [[Hardcore Henry Heists]], since the EMP-Bomb stolen in [[Murky Station]] is used here to disable the blast doors.
+
+== Assets ==
+
+==Objectives==
+* Disable AA systems
+* Get in the lumber mill
+* Wait for the pilot to drop the EMP bomb
+* Activate and defend the EMP bomb
+* Get in the lab
+* Activate the scanner
+* Find Briefcase
+* Use the scanner to analyze test subjects
+* Defend the power box and the scanner until the process is done
+* Get the server or scan more subjects
+* Escape!
+
+==Walkthrough==
+The mission opens with the crew parachuting into the outskirts of the mission location as their plane evades anti-aircraft fire. Enemies will immediately start attacking. Before the plane can drop the EMP bomb, the crew must disable the anti-aircraft system so the pilot can get close enough. The AA system has two components; a radar and a missile battery, which are randomly located in the area outside the lumber mill.
+
+The radar must be destroyed using C4 charges. A bag of C4 will have been dropped somewhere, typically close to the crew's initial landing point; one heister can retrieve the explosives and then plant 4 charges around the radar, destroying it. The assets will surround the bag of C4, so purchasing any of them can make finding the C4 easier. The missile battery must simply be hacked and defended until the hack is complete. The two components can be handled in any order or simultaneously.
+
+Once the AA system is disabled, the pilot will drop the EMP on the lumber mill. [[Bain]] will then instruct the crew to manually fire the missile battery at the lumber yard wall in order to make an entrance, so a heister needs to interact with the missile battery again.
+
+When the crew enters the yard, they must locate the EMP bomb, activate it, and then defend it while it charges. Once the EMP goes off, a process which takes 2 minutes, the lab door will open and the secret facility can be accessed.
+
+Inside the lab, the crew must locate the x-ray scanner necessary to scan the bodies of the test subjects. The room the scanner is in may be filled with poisonous gas, which the crew must disperse by finding the corresponding vent elsewhere in the lab and shutting off the gas bottle. Alternatively, a handprint scanner on the machine may need to be bypassed using the lead scientist's hand, which must be retrieved from his corpse elsewhere in the lab.
+
+Once the scanner is usable, the crew must find a test subject's body and place it on the scanner bed, then activate the scanner. Though the corpse appears to be in a standard bodybag when it is carried and dropped, it reverts to being an exposed body when placed correctly on the scanner, and does not use up any of the heister's bodybags. They must then defend the scanner whilst it completes the procedure, as enemies will attempt to disable it by interacting with the scanner console. They may also disable the power to the scanner using a power switch located in another room, which will require the switch to be thrown and the scanner reactivated.
+
+Provided the scanner is uninterrupted, each scan takes {{Color|value|90}} seconds. After the first test subject has been scanned, the crew has the option to leave or scan more subjects for a greater reward. To continue scanning, they must find another test subject body and repeat the procedure again. There are a total of four test subject bodies that can be found throughout the lab; they can be bagged up and brought to the scanner room whilst another scan is in progress to save time.
+
+When the crew is ready to leave, they must retrieve the server storing the results from a secure room - this can be drilled, sawed, C4'd, or ECM'd open as usual, but there is also a yellow [[keycard]] somewhere in the lab which may be used to unlock it. The door can be opened before the crew has finished scanning test subjects, but once the server has been retrieved no more subjects can be scanned. Once the server is acquired, Bain will also ask the crew to search the laboratory for a briefcase before they go; this can be picked up at any time if an observant heister spots it before Bain mentions it. (This also triggers a comment about the heisters being "mind readers".)
+
+Server and briefcase in hand, the crew must then exit the lab and make their way to the extraction point by the lakeside where the plane is waiting for them. Snipers will start spawning on the lumber mill roof and the mountains surrounding the mission area at this time. Once the crew makes their way down to the waiting plane, they stash the server and extract it.
+
+==Variations==
+*The room where the bodies are scanned varies, as well as the location of the scientist whose hand you need, or the gas bottle which must be shut off. The location of the briefcase varies as well.
+*There are 2 different escape locations and drop locations.
+*The C4'ed radar can be in different locations.
+*The hacked SAM can be placed either to the left or right of the wall.
+*The drop location of the EMP Bomb varies. It may land inside the second floor of the lumber mill, in front of the electrified gates, or outside the compound.
+*On Very Hard difficulty or above, a roof-mounted [[SWAT Van Turret]] can spawn in either the entrance room in the center of the laboratory, or in the room where the bodies are scanned. In theory, there is a 60% chance this turret will spawn, although the probability is lower in practice because a turret can spawn in a different scanning room and not become activated.
+*There can be a Bulldozer or two lying prone in the passage to the labs. It will take some time for the Bulldozer to rise and pose a threat, but it's generally advised to be killed before proceeding downstairs.
+
+==Mayhem+ Changes==
+* All turrets can spawn at the same time.
+* Two Skulldozers will appear at the blast site after directing the missiles of the hacked AA system. They will not be incapacitated by the explosion and are combat ready.
+
+==The FBI Files==
+The Investigative Committee of the Russian Federation is completely blocking us out from conducting our investigation on exactly what happened by the lumberyard, but we do have an informant telling us about a hidden laboratory and inhumane experiments taking place.
+
+{{color|value|My Notes: This is messy. Way too messy. Whatever took place in Russia we know that the PAYDAY gang were involved, but to what extent is still unknown and all our attempts to find the truth is getting shut down immediately. I have contacted McKendrick to see if he can pull any strings to further our investigation, but I'm not holding my breath.}}
+
+==[[Achievements (Payday 2)|Achievements]]==
+<tabber>Achievements=
+{{Achievement|Modern Cold War|jpg|Complete the [[Boiling Point]] on the Normal difficulty or above.}}
+{{Achievement|Hardcore Heisting|jpg|Complete the [[Boiling Point]] job on the Hard difficulty or above.}}
+{{Achievement|Dropping the EMP Bomb|jpg|Complete the [[Boiling Point]] job on the Very Hard difficulty or above.}}
+{{Achievement|Sawmill Massacre|jpg|Complete the [[Boiling Point]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Hard Boiled Heisters|jpg|Complete the [[Boiling Point]] job on the Mayhem difficulty or above.}}
+{{Achievement|Red Snow|jpg|Complete the [[Boiling Point]] job on the Death Wish difficulty or above.}}
+{{Achievement|EZ|jpg|Complete the [[Boiling Point]] job on the Death Sentence difficulty.}}
+{{Achievement|What Is It Good For?|jpg|Complete the [[Boiling Point]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Crazy Ivan|jpg|Complete the [[Boiling Point]] job having everyone only using melee weapons without electricity or [[poison]]{{color|negative|*}} to kill enemies on the Very Hard difficulty or above. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Safety First]]" mask, "[[Materials#Hardcore Henry Heists|Planet]]" material and "[[Patterns#Hardcore Henry Heists|Phoenix]]" pattern.<br/>{{color|negative|''*For clarity, this means no use of the [[Buzzer]], [[Kunai Knife]], [[Electrical Brass Knuckles]], or the [[Stainless Steel Syringe]].''}}}}
+{{Achievement|Remember, No Russian|jpg|In the [[Boiling Point]] job, scan all 4 bodies without letting the mercenaries turn off the power or stop the scanner on the OVERKILL difficulty or above.}}
+{{Achievement|The Ground Is Too Cold|jpg|In the [[Boiling Point]] job, have no crew members get downed on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Zero 68]]" mask, "[[Materials#Hardcore Henry Heists|Nebula]]" material and "[[Patterns#Hardcore Henry Heists|Hexagons]]" pattern.}}
+{{Achievement|UMP for Me, UMP for You|png|Kill {{color|value|45}} Russian specials on the [[Boiling Point]] job with the [[Jackal]] submachine gun on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#John Wick Weapon Pack|Zaschita]]" mask, "[[Materials#John Wick Weapon Pack|Mist]]" material and "[[Patterns#John Wick Weapon Pack|Battle Wounds]]" pattern.}}
+{{Achievement|When in Russia... Do as the Russians Do|jpg|Complete the [[Boiling Point]] job while having your crew wear the "[[Masks (Payday 2)#Normal (CrimeFest 2015)|Russian Hat]]" mask and "[[Golden AK.762]]" assault rifle on the OVERKILL difficulty or above.<br>{{color|negative|This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements on with the Difficulties & Sniper Beta 1.3 update.}}}}
+|-|Removed=
+''The following achievement was removed sometime during 2019''
+{{Achievement|This is WAR Baby!|jpg|Complete the [[Boiling Point]] job on the Death Sentence difficulty with the One Down mechanic activated}}
+|-|Trivia=
+*'''EZ''' is written by Henry in blood during the final scene of the film {{w|Hardcore Henry}}.
+*'''When in Russia... Do as the Russians Do''' is a play on the saying "When in Rome, do as the Romans do".
+*'''What Is It Good For?''' was originally named '''This is WAR Baby!''' but was renamed at some point during 2019. 
+*'''Remember, no Russian''' is a reference to the game Call of Duty Modern Warfare 2 referencing a quote from the character Makarov.
+</tabber>
+
+==Trivia==
+*[[File:6585433.english.ogg|right]][[File:85109897.english.ogg|right]][[File:156627544.english.ogg|right]][[File:180334915.english.ogg|right]][[File:225188915.english.ogg|right]][[File:240206543.english.ogg|right]][[File:292028779.english.ogg|right]][[File:466864652.english.ogg|right]][[File:702137015.english.ogg|right]][[File:960410084.english.ogg|right]][[File:1010940289.english.ogg|right]][[File:20161021112403_1.jpg|thumb|350px|"MUDKIP IZ A LIE!"]]From the game's audio files, in the original version of Boiling Point, the heist was contracted by [[The Elephant]] (with the same agenda as [[Jimmy]]), [[Minor characters (Payday 2)#Bile|Bile]] would drop off the crew and EMP bomb and pick up the crew instead of Fedor, and the crew would use the AA missiles to blow up the radar.
+*Likewise, Bain's lines also indicate that the lead scientist's hand would've been used to open the door to the scanner room, rather than activate the scanner itself. 
+*The majority of the heist references the namesake of the heist's pack, ''{{w|Hardcore Henry}}''. The "Akan" mentioned numerous times throughout the heist is the primary antagonist of the film, the Russian mercenaries encountered throughout the heist are very similar in appearance to those employed by Akan, the super-soldiers bagged and scanned resemble those Henry fights in the finale, and while there is a shootout in a laboratory in the movie, the lab in the heist is less similar to the one in said shootout and more similar to the one the movie begins in.
+**Fedor, the character that drops off the crew, drops the EMP bomb at the lumber mill, and picks up the crew at the end of the heist does not refer to a character in the film, but rather one of its cinematographers, [http://www.imdb.com/name/nm2047156/ Fedor Lyass].
+**The briefcase the crew is required to find and take is, not a reference to the film, but to the music video [https://www.youtube.com/watch?v=Rgox84KE7iY Bad Motherfucker] by {{w|Biting Elbows}} (it and its precursor, [https://www.youtube.com/watch?v=QYm-dT24iRY The Stampede], serving as the inspiration for ''Hardcore Henry''), in which a small teleportation device is contained within a very similar briefcase. It is unknown if the briefcase in the heist contains the same contraption.
+**If the Russian mercenaries fought in the heist are Akan's henchmen, then their behavior in-game is unusual, as since their objective is to get the information on the project for their employer, they would be unconcerned about the well-being of the scientists (in fact, in the movie they are seen shooting them mercilessly), and they would most likely not be in the laboratory before the heisters without making progress on taking information on the project themselves. It seems that in the heist they have been turned into the lab's security force. This is further supported by one of their quotes, when translated directly, says that "Boss wants the hostages alive".
+*This is the first heist in the entire series to be conducted outside of the United States, with its location being somewhere within the Siberian Russia region. Being set overseas, the enemy pool of this map is also altered to suit the Russian theme, with much if not all of the enemy types encountered being reskins of existing units with additional voice lines in Russian.
+*It is unexplained why the crew has to hack the AA gun and blow up the radar, as once the missile launcher's terminal is hacked and under the crew's control, the AA gun could not fire at the plane carrying the EMP bomb, even with the radar still active. Bain may say that the radar "controls" the AA gun, but not only is there the fact in reality the radar would simply send the AA gun signals regarding the location of unfriendly aircraft and the launcher would process the information and fire at the aircraft, it brings up the question of why the AA gun has its own terminal if it is supposedly fully controlled by the radar.
+*The AA gun closely resembles the [https://en.wikipedia.org/wiki/Rapier_(missile) Rapier] missile system, which was developed for the British Army. This is unusual, as the heist is located in Russia, where such a weapon would be unlikely to be found.
+*After the EMP bomb has detonated, Bain will radio in with a heavily distorted voice due to the effects. He may even wonder if the crew can still hear him. After some time, his voice will clear up.
+**Despite this, none of the appliances in the lab area are disabled, only briefly turned off, nor are any electronic equipment (sentry guns, ECM jammers, etc...) and weapon attachments (lasers, flashlights and most sights) in use by the crew and enemies. In fact, due to the scale of the device, the EMP emitted by the bomb should be powerful enough to render all Taser units in the level damaged beyond function. It could be that the crew's electronic equipment was made EMP-resistant prior to the heist, but that still leaves the question of how the rest of the electronics in the heist survived.
+***There are two cameras at the fence guarding the lab; when the EMP bomb goes off, these cameras are broken, visibly dangling. Despite the fact there would have to be quite a bit of force in the explosion to break the cameras, especially if the bomb was dropped outside, no enemies or crew members can be harmed by it.
+*The possible scanning room with the windowed walkway is named "Медицинский осмотр комнат", reading "Medical examination of rooms" in Russian, and the scanning room with the elevated platform is named "Операционная", reading "Operating room". A more grammatically correct version of the former would be "Комната медицинского осмотра" ("Medical examination room"). The "И"'s and "Й" strangely look like the letter "H" with a slanted "bar", and the {{w|breve}} in the "Й" is depicted as a {{w|macron}}.
+*The security panel on the server room door bizarrely says "Доступ разрешен" ("Access is allowed") both before ''and'' after the keycard is inserted, only gaining the addition of an exclamation mark at the end ("Доступ разрешен!"). The "З" is also strangely shown as a mirrored version of the "E".
+**Another oddity involving the door panel is that the keycard's texture seems to have been incorrectly applied: The card's key graphic goes across the short side of the key instead of the long side, resulting in it being stretched, and the keychain is yellow instead of grey. It also incorrectly uses the GenSec keycard's model.
+*The whiteboards in the laboratory have "MUDKIP IZ A LIE!" written near the bottom, referencing the [http://knowyourmeme.com/memes/i-herd-u-liek-mudkips I Herd U Liek Mudkips] and [http://knowyourmeme.com/memes/the-cake-is-a-lie The Cake Is a Lie] memes. Additionally, next to the phrase is [[wikipedia:Mass–energy equivalence|E=mc<sup>2</sup>]].
+*The Russian Bulldozers can rarely call out "Cry some more!", referencing one of the [https://wiki.teamfortress.com/wiki/Heavy Heavy]'s lines in ''{{w|Team Fortress 2}}''.
+*The scanner will always take exactly 25 pictures for each body.
+*"Remember, no Russian" is a reference to the game Call of Duty Modern Warfare 2, where it is a quote from the character Makarov.
+{{Navbox PD2 Heists}}
+[[ru:Точка кипения]]
+[[Category:Loud-Only Heists]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Heists contracted by Jimmy]]
+[[Category:Hardcore Henry Heists]]

@@ -1,0 +1,34 @@
+<tabber>Permanent Achievements=
+{{Achievement|I'm a Swinger|jpg|In the [[Election Day]] job, complete the heist in stealth and swing the votes to the republican favour.}}
+{{Achievement|Death Wish Swinger|jpg|In the [[Election Day]] job, complete the heist in stealth and swing the votes to the republican favour on the Death Wish difficulty or above.}}
+{{Achievement|Yes We Can!|jpg|Complete the [[Election Day]] job on the Death Wish difficulty or above.}}
+{{Achievement|Master Detective|jpg|On day 1 of the [[Election Day]] job, tag the right truck.}}
+{{Achievement|Murphy's Law|jpg|On day 1 of the [[Election Day]] job, tag the wrong truck, then find nothing in the vault.}}
+{{Achievement|Hot Lava 2.0|jpg|On day 1 of the [[Election Day]] job, use the computer in stealth without ever touching the ground.}}
+{{Achievement|Storage Hunter|jpg|On day 2 of the [[Election Day]] job, steal all of the extra loot in the storage bins.}}
+|-|Removed=
+''The following achievement was removed on October 5, 2016.''
+{{Achievement|I Invented the Internet|jpg|Complete the [[Election Day]] pro job on the Death Wish difficulty.}}
+|-|Teasers=
+''The following appeared on March 13, 2014.''
+{{Teasers
+|O
+|Say
+|Can
+|You
+|See
+|By
+|The
+|Dawn's
+|Early
+|Light
+}}
+|-|Trivia=
+*The teasers of the achievements are the first several lyrics of [[wikipedia:The Star-Spangled Banner|The Star-Spangled Banner]], the USA's national anthem.
+*'''Yes We Can!''' is a reference to [[wikipedia:Barack Obama|Barack Obama's]] 2008 presidential campaign slogan.
+*The '''Hot Lava 2.0''' achievement is an achievement with the same name as an achievement ([[Panic Room/Walkthrough#Hot lava|Hot lava]]) from ''[[PAYDAY: The Heist]]'', in which you cannot let law enforcers touch graffiti in [[Panic Room]], hence 2.0 in the name.
+*'''Storage Hunter''' is a reference to the TV show "[[wikipedia:Storage Hunters|Storage Hunters]]".
+*'''Ghost Riders''' is a reference to the Marvel comic and film superhero "[[wikipedia:Ghost Rider (comics)|Ghost Rider]]", whose head is simply a bare skull.
+*The '''Master Detective''' achievement is slightly bugged. You do not actually ''need'' to tag the truck to get it, but only manage to get to the mission to sabotage the voting machines. Meaning that even if you go loud and the trucks leave the docks, you can still get this achievement by hacking the server twice for a {{color|value|100%}} chance at trailing the right truck to the warehouse.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

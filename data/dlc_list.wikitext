@@ -1,0 +1,1485 @@
+{| class="mw-collapsible collapsed" cellpadding=2 style="text-align:left; font-size:smaller; line-height:1.5; color:white; background-color:#131313; padding:.25em; width:160px"
+|- style="background-color:hsla(200,100%,50%,.4)"
+! style="width:1px" | 
+! style="padding-left: 5px" | Color Key:
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,0%,50%)" | 
+| style="padding-left: 5px" | {{color|hsl(0,0%,50%)|Pre-order}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="padding-left: 5px" | {{color|hsla(50,100%,50%,1)|Paid}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(300,100%,55%,.5)" | 
+| style="padding-left: 5px" | {{color|hsla(300,100%,55%,1)|Secret}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="padding-left: 5px" | {{color|hsla(205,99%,61%,1)|Free}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="padding-left: 5px" | {{color|hsla(34,100%,50%,1)|Event}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,100%,50%)" | 
+| style="padding-left: 5px" | {{color|hsl(0,100%,50%)|Collaboration}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="padding-left: 5px" | {{color|hsla(90,100%,50%,1)|Bundle}}
+|}
+{| class="mw-collapsible sortable collapsed" style="width:100%; text-align:center; font-size:smaller; line-height:1.5; color:white; background-color:#131313; padding:.25em" cellpadding="2"
+! colspan="10" style="background-color:hsla(200,100%,50%,.4); text-align: left; padding-left:5px" | PAYDAY 2: Content Releases Index<span style="font-weight: normal">{{•}} [[Downloadable content (Payday 2)/DLC List|{{color|white|[}}{{color|#fec372|view}}{{color|white|]}}]]{{•}} {{Edit|Downloadable content (Payday 2)/DLC List|{{color|#fec372|edit}}}}</span>
+|- style="background-color:hsla(200, 100%, 50%, .25)"
+! class=unsortable style="width:1px" | 
+! data-sort-type="text" style="width:31%; text-align: left; padding-left:5px" | Downloadable Content
+! data-sort-type="text" style="width:11%; text-align: left; padding-left:5px" | Type
+! data-sort-type="isodate" style="width:16%; text-align: left; padding-left:5px" | Released
+! data-sort-type="currency" style="width:12%; text-align: left; padding-left:5px" | Price {{color|positive|<small>(USD)</small>}}
+! style="width:6%" | PC
+! style="width:6%" | PS4
+! style="width:6%" | XB1
+! style="width:6%" | PS3
+! style="width:6%" | 360
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,0%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Career Criminal Content}}
+| style="text-align: left; padding-left:5px" | Pre-order
+| style="text-align: left; padding-left:5px" | 2013, August 13
+| style="text-align: left; padding-left:5px" | $49.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,0%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Lootbag}}
+| style="text-align: left; padding-left:5px" | Pre-order
+| style="text-align: left; padding-left:5px" | 2013, August 13
+| style="text-align: left; padding-left:5px" | $19.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Official Soundtrack}}
+| style="text-align: left; padding-left:5px" | Soundtrack
+| style="text-align: left; padding-left:5px" | 2013, August 13
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Diamond Store Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2013, September 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Party Time}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2013, October 18
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The First Annual Payday Halloween Special!}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2013, October 31
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Armored Transport}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2013, November 14
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Weapon Pack #01}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2013, December 5
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Charlie Santa Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2013, December 16
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|A Merry Payday Christmas Soundtrack}}
+| style="text-align: left; padding-left:5px" | Soundtrack
+| style="text-align: left; padding-left:5px" | 2013, December 19
+| style="text-align: left; padding-left:5px" | $0.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Sweet Tooth Mask!}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2014, January 8
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|||||||{{✘|18}}||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Infamy Update}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2014, January 22
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Weapon Pack #02}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2014, January 30
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Death Wish Update}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2014, February 27
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Election Day Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2014, March 20
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Mod Courier}}
+| style="text-align: left; padding-left:5px" | Weapon mod
+| style="text-align: left; padding-left:5px" | 2014, April 10
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Sniper Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2014, May 8
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Shadow Raid Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2014, May 29
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Humble Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2014, June 9
+| style="text-align: left; padding-left:5px" | $1.49<!--Someone please confirm the price for this Humble Mask Pack ~ Rhyzak-->
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Big Bank Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2014, June 17
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Swag Bag Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2014, June 25
+| style="text-align: left; padding-left:5px" | $7.99
+|||||||{{✘|18}}||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|The Ultimate Steal Edition}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2014, June 25
+| style="text-align: left; padding-left:5px" | $19.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Shotgun Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2014, July 3
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Assault Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2014, September 4
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Big Fat Music Update}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2014, September 18
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Heist Soundtrack}}
+| style="text-align: left; padding-left:5px" | Soundtrack
+| style="text-align: left; padding-left:5px" | 2014, September 18
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hotline Miami}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2014, September 30
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,100%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hotline Miami Exclusive Content}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2014, September 30
+| style="text-align: left; padding-left:5px" | $9.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|John Wick Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2014, October 22
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Art Gallery Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2014, October 24
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hoxton Breakout Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2014, October 27
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Old Hoxton Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2014, October 27
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Thespian Mask Pack DLC}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2014, October 29
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|||||||||{{✘|18}}
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Humble Mask Pack 2}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2014, October 30
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Second Annual Payday Halloween Special!}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2014, October 30
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Historical Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2014, November 13
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Alienware Alpha Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2014, November 21
+| style="text-align: left; padding-left:5px" | $499.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Alienware Alpha Mauler}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2014, November 21
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The White Xmas Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2014, December 4
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Clover Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2014, December 16
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Diamond Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2014, December 16
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Gage Weapon Pack Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2014, December 18
+| style="text-align: left; padding-left:5px" | $17.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|GOTY Edition}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2014, December 18
+| style="text-align: left; padding-left:5px" | $49.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Heist Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2014, December 18
+| style="text-align: left; padding-left:5px" | $13.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|New Year Update}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2015, January 2
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Dragan Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2015, January 22
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Bomb Heists}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, January 22
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Butcher's AK/CAR Mod Pack}}
+| style="text-align: left; padding-left:5px" | Weapon mod
+| style="text-align: left; padding-left:5px" | 2015, February 26
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Infamy 2.0}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2015, March 5
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,100%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hotline Miami Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, March 10
+| style="text-align: left; padding-left:5px" | {{tooltip|$14.99|+$5 for deluxe edition giving Jacket Character pack below}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,100%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Jacket Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2015, March 10
+| style="text-align: left; padding-left:5px" | {{tooltip|$5.00|Additional +$5 deluxe edition purchase upon Hotline Miami Mask Pack, cannot be purchased without}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(300,100%,55%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The COMPLETELY OVERKILL Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, March 12
+| style="text-align: left; padding-left:5px" | $19.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The OVERKILL Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2015, March 12
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Spring Break Heist Updates}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, March 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Bonnie Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2015, March 16
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Car Shop Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, March 18
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Butcher Mod Pack 2}}
+| style="text-align: left; padding-left:5px" | Weapon mod
+| style="text-align: left; padding-left:5px" | 2015, March 19
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,100%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|SpeedRunners}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, March 20
+| style="text-align: left; padding-left:5px" | $14.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hoxton Revenge Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, March 21
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Butcher's BBQ Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2015, March 25
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Butcher's Western Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2015, April 30
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Meltdown Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, May 7
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Alesso Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, May 21
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The OVERKILL B-Sides Soundtrack}}
+| style="text-align: left; padding-left:5px" | Soundtrack
+| style="text-align: left; padding-left:5px" | 2015, May 21
+| style="text-align: left; padding-left:5px" | $0.99 
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,0%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hardtime Lootbag}}
+| style="text-align: left; padding-left:5px" | Pre-order
+| style="text-align: left; padding-left:5px" | 2015, June 12
+| style="text-align: left; padding-left:5px" | $19.99
+|||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|StarVR Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, June 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Humble Mask Pack 3}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, June 13
+| style="text-align: left; padding-left:5px" | $5.49<!--Someone please confirm the price for this Humble Mask Pack ~ Rhyzak-->
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Humble Mask Pack 4}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, June 13
+| style="text-align: left; padding-left:5px" | $7.49
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Jack Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, June 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Joker Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, June 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The King Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, June 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Queen Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, June 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Sokol Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2015, June 25
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Golden Grin Casino Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, June 25
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Ninja Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2015, July 16
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Bobblehead DLC}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, August 6
+| style="text-align: left; padding-left:5px" | $28.16
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Yakuza Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2015, August 27
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The PAYDAYCON 2015 Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2015, September 3
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gage Chivalry Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2015, September 10
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The FBI Files}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2015, September 24
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Black Market Update}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2015, October 15
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Aftershock Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, October 17
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Dallas Heist Pack I}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, October 20
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Dallas Heist Pack II}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, October 23
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Third Annual Payday Halloween Special!}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, October 29
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Bodhi Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2015, December 3
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Point Break Heists}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, December 3
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Santa's Workshop Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2015, December 11
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|The Goat Simulator Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, January 14
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Dead by Daylight Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, February 4
+| style="text-align: left; padding-left:5px" | {{color|community|{{tooltip|DbD|Dead by Daylight}} Steam Community}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Wolf Pack}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, February 11
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(300,100%,55%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The COMPLETELY OVERKILL Pack II}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, February 26
+| style="text-align: left; padding-left:5px" | {{tooltip|Previous DLC|Requires the COMPLETELY OVERKILL Pack}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Jimmy Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2016, March 24
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hardcore Henry Heists}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, March 31
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Dead by Daylight Mask Pack 2}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, April 21
+| style="text-align: left; padding-left:5px" | {{color|community|{{tooltip|DbD|Dead by Daylight}} Steam Community}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Sydney Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2016, May 12
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Dead by Daylight Mask Pack 3}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, May 25
+| style="text-align: left; padding-left:5px" | {{color|community|{{tooltip|DbD|Dead by Daylight}} Steam Community}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Back to the Basics}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, June 9
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Dead by Daylight Mask Pack 4}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, June 9
+| style="text-align: left; padding-left:5px" | {{color|community|{{tooltip|DbD|Dead by Daylight}} Steam Community}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,100%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Dead by Daylight Mask Pack 5}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, June 9
+| style="text-align: left; padding-left:5px" | $29.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Humble Mask Pack 5}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, June 9
+| style="text-align: left; padding-left:5px" | $9.49<!--Someone please confirm the price for this Humble Mask Pack ~ Rhyzak-->
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Solus Project Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, June 9
+| style="text-align: left; padding-left:5px" | {{color|community|Solus Steam Community}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Biker Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2016, June 16
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|The Biker Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, June 16
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(300,100%,55%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The COMPLETELY OVERKILL Pack III}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, June 24
+| style="text-align: left; padding-left:5px" | {{tooltip|Previous DLC|Requires the COMPLETELY OVERKILL Pack}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|4 Million?!}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, June 30
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Fable Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, August 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|THE BIG SCORE DLC Bundle!}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2016, September 9
+| style="text-align: left; padding-left:5px" | $39.99
+|||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|August Event}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, September 22
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|New Difficulties}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2016, October 8
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The New Safe House}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2016, October 9
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Mafia Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, October 10
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Concussion Grenade}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2016, October 11
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hoxton Safe}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, October 12
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Medic}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2016, October 13
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Chains Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, October 14
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Mutators}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2016, October 15
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|New Shotgun}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2016, October 16
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Panic Room}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, October 17
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|John Wick Weapon Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2016, October 21
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Fourth Annual Payday Halloween Special!}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, November 3
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|PAYDAYCON 2016}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, November 11
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Gage Spec Ops Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2016, November 25
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The 45th Mask}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2016, November 25
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Stealing Xmas}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, December 8
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Scarface Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2016, December 16
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Scarface Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2016, December 16
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Year of the Fire Rooster!}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2017, January 26
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Shadow Warrior Collaboration}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2017, February 1
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Sydney Mega Mask}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2017, February 1
+| style="text-align: left; padding-left:5px" | $10
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|John Wick Heists}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2017, February 9
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Gage Russian Weapon Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2017, March 23
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|April Fool}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2017, April 1
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Heat Street}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2017, April 4
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Crime Spree, Armor Skins & Screen Filters}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2017, April 6
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Search for Kento day 6}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2017, April 8
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Pen Melee Weapon}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2017, April 8
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Loading Screen Hints}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2017, April 10
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Green Bridge}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2017, April 12
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Sangres Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2017, May 4
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsl(0,100%,50%)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Antisphere Mask Pack}}
+| style="text-align: left; padding-left:5px" | Mask
+| style="text-align: left; padding-left:5px" | 2017, June 1
+| style="text-align: left; padding-left:5px" | $11.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|THE Most Wanted DLC Bundle!}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2017, June 6
+| style="text-align: left; padding-left:5px" | $19.99
+|||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Ultimate Edition}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2017, June 12
+| style="text-align: left; padding-left:5px" | $44.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Ultimate Edition Upgrade}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2017, June 12
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|WW2 Weapon Pack}}
+| style="text-align: left; padding-left:5px" | Weapon Pack
+| style="text-align: left; padding-left:5px" | 2017, August 31
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|h3h3 Character Pack}}
+| style="text-align: left; padding-left:5px" | Character
+| style="text-align: left; padding-left:5px" | 2017, November 22
+| style="text-align: left; padding-left:5px" | $4.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|VR}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2018, March 15
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(300,100%,55%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Offshore Payday}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2018, November 1
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|The Crimewave Collection}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2019, April 29
+| style="text-align: left; padding-left:5px" | $29.99
+|||{{✘|18}}||{{✘|18}}||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Gage vs Bikers}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2019, October 25
+| style="text-align: left; padding-left:5px" | $9.98
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Legacy Collection}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2019, October 25
+| style="text-align: left; padding-left:5px" | $20.16
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Border Crossing Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2019, November 7
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Cartel Optics Mod Pack}}
+| style="text-align: left; padding-left:5px" | Weapon Mod
+| style="text-align: left; padding-left:5px" | 2019, November 7
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Tailor Pack 1}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2019, November 7
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|Border Crossing Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2019, November 7
+| style="text-align: left; padding-left:5px" | $9.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Weapon Color Pack 1}}
+| style="text-align: left; padding-left:5px" | Weapon Skin
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Federales Weapon Pack}}
+| style="text-align: left; padding-left:5px" | Weapon Pack
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Tailor Pack 2}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|San Martín Bank Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px"| {{Link1|San Martín Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $9.88
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Breakfast in Tijuana}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Fugitive Weapon Pack}}
+| style="text-align: left; padding-left:5px" | Weapon Pack
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Weapon Color Pack 2}}
+| style="text-align: left; padding-left:5px" | Weapon Skin
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Breakfast in Tijuana Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2020, February 27
+| style="text-align: left; padding-left:5px" | $9.98
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(205,99%,61%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Infamy 3.0}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2020, November 11
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Tailor Pack 3}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2020, November 11
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Gunslinger Weapon Pack}}
+| style="text-align: left; padding-left:5px" | Weapon Pack
+| style="text-align: left; padding-left:5px" | 2020, November 11
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Weapon Color Pack 3}}
+| style="text-align: left; padding-left:5px" | Weapon Skin
+| style="text-align: left; padding-left:5px" | 2020, November 11
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Buluc's Mansion Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2020, November 11
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Buluc's Mansion Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2020, November 11
+| style="text-align: left; padding-left:5px" | $10.04
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Jiu Feng Smuggler Pack}}
+| style="text-align: left; padding-left:5px" | Weapon Pack
+| style="text-align: left; padding-left:5px" | 2021, February 24
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Dragon Pack}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2021, March 17
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Jiu Feng Smuggler Pack 2}}
+| style="text-align: left; padding-left:5px" | Weapon Pack
+| style="text-align: left; padding-left:5px" | 2021, May 20
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Guardians Tailor Pack}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2021, June 16
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|The Ukrainian Prisoner Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2021, June 16
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Jiu Feng Smuggler Pack 3}}
+| style="text-align: left; padding-left:5px" | Weapon Pack
+| style="text-align: left; padding-left:5px" | 2021, September 22
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Mega City Tailor Pack}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2021, October 13
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Black Cat Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2021, October 13
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Winter Ghosts Tailor Pack}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2021, December 15
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Jiu Feng Smuggler Pack 4}}
+| style="text-align: left; padding-left:5px" | Weapon Pack
+| style="text-align: left; padding-left:5px" | 2022, February 16
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Golden Dagger Tailor Pack}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2022, March 9
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Moutain Master Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2022, March 9
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Midland Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2020, April 20
+| style="text-align: left; padding-left:5px" | $9.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Southbound Tailor Pack}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2022, April 20
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|McShay Weapon Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2022, May 11
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Midland Ranch Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2022, June 21
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Lost in Transit Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2022, July 13
+| style="text-align: left; padding-left:5px" | $9.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|High Octane Tailor Pack}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2022, July 13
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Tijuana Music Pack}}
+| style="text-align: left; padding-left:5px" | Soundtrack
+| style="text-align: left; padding-left:5px" | 2022, August 31
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|McShay Weapon Pack 2}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2022, September 21
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Payday 11th Anniversary}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2022, October 18
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Lost In Transit Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2022, October 25
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Payday Halloween Stream 2022}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2022, October 31
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Hostile Takeover Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2022, November 16 
+| style="text-align: left; padding-left:5px" | $9.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Street Smart Tailor Pack}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2022, November 16
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|McShay Mod Pack}}
+| style="text-align: left; padding-left:5px" | Weapon Mod
+| style="text-align: left; padding-left:5px" | 2022, December 15
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(34,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|A Criminal Carol}}
+| style="text-align: left; padding-left:5px" | Feature
+| style="text-align: left; padding-left:5px" | 2022, December 15
+| style="text-align: left; padding-left:5px" | {{color|community|Free}}
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|McShay Weapon Pack 3}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2023, February 1
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Hostile Takeover Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2023, February 22
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(90,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Crude Awakening Bundle}}
+| style="text-align: left; padding-left:5px" | Bundle
+| style="text-align: left; padding-left:5px" | 2023, March 22 
+| style="text-align: left; padding-left:5px" | $9.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Lawless Tailor Pack}}
+| style="text-align: left; padding-left:5px" | Outfit
+| style="text-align: left; padding-left:5px" | 2023, March 22
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|McShay Weapon Pack 4}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2023, April 26
+| style="text-align: left; padding-left:5px" | $3.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" | 
+| style="text-align: left; padding-left:5px" | {{Link1|Chinatown Music Pack}}
+| style="text-align: left; padding-left:5px" | Soundtrack
+| style="text-align: left; padding-left:5px" | 2022, May 22
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Crude Awakening Heist}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2023, June 28
+| style="text-align: left; padding-left:5px" | $6.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Espionage Weapon Pack}}
+| style="text-align: left; padding-left:5px" | Weapon
+| style="text-align: left; padding-left:5px" | 2026, April 30
+| style="text-align: left; padding-left:5px" | $2.99
+|{{✘|18}}||||||||
+|- style="background-color:hsla(0,0%,50%,.15)"
+| style="background-color:hsla(50,100%,50%,.5)" |
+| style="text-align: left; padding-left:5px" | {{Link1|Under the Hammer Heist (DLC)}}
+| style="text-align: left; padding-left:5px" | Heist
+| style="text-align: left; padding-left:5px" | 2026, September 15
+| style="text-align: left; padding-left:5px" | $4.59
+|{{✘|18}}||||||||
+|}
+{{Clear}}<noinclude>
+[[Category:Support Pages]]</noinclude>
+__INDEX__

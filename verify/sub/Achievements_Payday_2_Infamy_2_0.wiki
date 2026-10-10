@@ -1,0 +1,49 @@
+<tabber>Permanent Achievements=
+{{Achievement|Becoming Villainous|jpg|Reach the sixth level of [[Infamy]].}}
+{{Achievement|Becoming Abominable|jpg|Reach the seventh level of [[Infamy]].}}
+{{Achievement|Becoming Fiendish|jpg|Reach the eight level of [[Infamy]].}}
+{{Achievement|Becoming Heinous|jpg|Reach the ninth level of [[Infamy]].}}
+{{Achievement|Becoming Mean|jpg|Reach the tenth level of [[Infamy]].}}
+{{Achievement|Becoming Dangerous|jpg|Reach the eleventh level of [[Infamy]].}}
+{{Achievement|Becoming Fearless|jpg|Reach the twelveth level of [[Infamy]].}}
+{{Achievement|Becoming Nefarious|jpg|Reach the thirdeenth level of [[Infamy]].}}
+{{Achievement|Becoming Disreputable|jpg|Reach the fourtheenth level of [[Infamy]].}}
+{{Achievement|Becoming Fearful|jpg|Reach the fiftheenth level of [[Infamy]].}}
+{{Achievement|Becoming Opprobrious|jpg|Reach the sixteenth level of [[Infamy]].}}
+{{Achievement|Becoming Shady|jpg|Reach the seventeenth level of [[Infamy]].}}
+{{Achievement|Becoming Savage|jpg|Reach the eighteenth level of [[Infamy]].}}
+{{Achievement|Becoming Abhorrent|jpg|Reach the nineteenth level of [[Infamy]].}}
+{{Achievement|Becoming Sly|jpg|Reach the twentieth level of [[Infamy]].}}
+{{Achievement|Becoming Crafty|jpg|Reach the twenty first level of [[Infamy]].}}
+{{Achievement|Becoming Shameless|jpg|Reach the twenty second level of [[Infamy]].}}
+{{Achievement|Becoming Diabolical|jpg|Reach the twenty third level of [[Infamy]].}}
+{{Achievement|Becoming Ferocious|jpg|Reach the twenty fourth level of [[Infamy]].}}
+{{Achievement|Becoming Monstrous|jpg|Reach the twenty fifth level of [[Infamy]].}}
+|-|Teasers=
+''The following appeared on February 25, 2015. They got replaced on March 5, 2015.''
+{{Teasers
+|Nearly every
+|hour
+|of everyday
+|for the past
+|year and half.
+|Gentlemen,
+|we are
+|dealing
+|with
+|someone
+|here
+|who has
+|absolutely
+|no life.
+|How do
+|you
+|kill
+|that which
+|has no
+|life?
+}}
+|-|Trivia=
+* The Teasers reference the ''[[wikipedia:South Park|South Park]]'' episode [[wikipedia:Make Love, Not Warcraft|Make Love, Not Warcraft]], specifically a conversation between Rob Pardo and the Blizzard executive.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

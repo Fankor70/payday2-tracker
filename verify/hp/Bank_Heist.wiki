@@ -1,0 +1,201 @@
+{{MultipleHeist2|Bank Heist|Infobox Heist}}{{Quote|The Harvest & Trustee bank just got a fresh shipment of cash for transport rounds out of town for casinos, I propose we have a little 'monetary intervention' of our own, I mean they don't need it that bad, so let's hit that vault.|Contract description}}
+'''Bank Heist''' is a one-day heist in ''[[PAYDAY 2]]''.
+
+Contracted by [[Bain]], it has four standalone versions and a fifth that's part of [[Firestarter]], all of which involve the crew robbing a bank vault by either stealth or brute force.
+
+==Objectives==
+#Find the thermal drill.
+#Place the thermal drill in front of the vault door.
+#Assemble and activate the thermal drill.
+#Finish the drilling ({{color|value|360}} seconds, affected by skills).
+#''Possible:'' Drill, saw, C4, or use the key (Pre-planning option) to open a cage door within the vault.
+#Steal the appropriate loot, as follows:
+#:'''BH Cash''' : Secure {{color|value|1}} bag of money
+#:'''BH Gold''' : Secure {{color|value|1}} bag of gold
+#:'''BH Deposit''' : Reach a minimum total of {{color|value|$15,000}} after the vault opens
+#:'''BH Random''' : Will be treated as whichever variant has spawned.
+#Escape.
+
+==[[Pre-Planning]]==
+[[PC update history (Payday 2, 2014)#Update #48|Update #48]] brings pre-planning capability to all variations of Bank Heist, sharing a similar set of assets and placement options to [[The Big Bank]] job. The crew is limited to a total of {{color|value|8}} favors on all variations of Bank Heist, which does not scale with difficulty. In addition to existing assets on Bank Heist such as Ammo bags and the Vantage point, new assets that were not previously available on Bank Heist were made selectable. These include assets such as the 20-second silent alarm delay, spycams and vault key.
+{{clear}}
+{{Bank Heist/PrePlan}}
+
+==Walkthrough==
+===General===
+Players will begin with the escape van behind them in a random location. It can be near the front entrance, the side entrance, or considerably far away from the bank. There will always be four guards (3 on Normal) present in the bank, of which 3 of them patrol around and the other will be in a security room viewing through the cameras. The only civilian that wanders around inside is the bank manager who may carry a keycard. In an update, two punks will be placed in the parking lot of the bank on Overkill and above. Two ATMs are located at the entrance that can be looted while a safe may spawn in the manager's office.
+
+===Stealth===
+The first order of business is to unlock any exterior doors around the back and side of the bank. This will allow guards and the manager to wander out into the parking lot where they can be discretely neutralized. The manager should be job one, as he often carries the [[keycard]] with him which can be used for opening the security room. A player with [[Chameleon]] Aced can check his office for the keycard. Any guards that wander outside are equally recommended to target. It is also strongly advised to disable the camera operator as soon as possible, so cameras won't trigger an alarm if using the back door or teller hallway to take down guards or the manager. (However, balance that against the desire to use broken cameras to draw guards: that only works if the operator is still in position. See next paragraph.) There are four guards in total, including the camera operator, so they may all be safely eliminated without raising an alarm. Be advised that on Normal there are only three guards.
+
+One of the best ways to quickly get one guard is to see if there is a camera on the roof of the bank. In this instance, you may shoot the camera (unless playing on Mayhem or above as the camera will be indestructible), provided the camera operator is still be alive and wait for a guard to come investigate. (Note: do not leave broken cameras unattended while there are wandering guards.) Eliminate him quietly and stash the body behind the AC unit near the stairwell door. The rest of the guards will eventually wander outside, upstairs, or into one of two sweet spots. One sweet spot is the teller hallway corridor, provided there is no camera overlooking it or the camera operator is down. Guards wander past the door leading outside can be taken out without anyone noticing. The other more common, but more risky spot is the fax room. Guards walking through the fax room can be shot from the back stairwell. If it's not the last guard, bag the body and then return to the back area with it. If there are civilians facing the door, make sure to move quickly. To safely manage this, it is imperative to have a low detection risk. It is helpful at this point to have someone stationed on cameras, keeping track of the guards' positions. A clean and tidy way to do this is to break into the security room and simply take over the camera station there. Solo players can use spy camera's during Pre-Planning instead. There is also a camera feed Pre-Plan option which appears in the parking lot, but the favours are generally best used elsewhere. Do be wary when on the roof; sometimes there can be skylights giving civilians inside a clear view of much of the roof.
+
+In the meantime, it is helpful also to have another player managing the wandering pedestrians. There are only ever four at most. They may also stop spawning at some point, but the cause of this is unknown. Keep those civilians out of sight, to the point where other pedestrians won't see them before you have a chance to capture or kill them as well. It's a good idea to engage the civilians near alleyways out of sight of the bank, so you can quickly move them to cover once they're tied down. Failing that, take them through to the parking lot instead. It is best to leave the two civilians who walk on the immediate footpath parallel to the bank, as they will eventually either enter the bank and lean on the right ATM or sit on the bench outside of the bank.
+
+Once the guards and pedestrians have been handled, it is time to take the bank. It is highly advantageous to place an [[ECM Jammer|ECM]] as the go signal. This prevents any confusion and also neutralizes the civilian cell phones and cameras (if they are still active) for a short time. If there are no ECMs available, quote a time on the heist clock for everyone to move in. If you haven't taken out the camera operator and you cannot get the door open with an ECM, make this a precursor step to taking the rest of the bank. It is important to assign one person to eliminate the tellers, another to control the civilians in the lobby and a third to get down the people in the offices in back. (Note that there is a panic button in the back on Hard and above, so this is as critical as taking out the tellers!) There may also be a man sitting on a bench outside, so don't let him go unnoticed. It is important in the initial moments to watch these people carefully. Any one of them may try to run and hit the alarm if they aren't controlled quickly enough. The bank employees are top priority to be secured. There can be as many as five in the map - two in the Teller Desks and three in the offices. They will attempt to hit the alarm button above anyone else. They can be recognized by their suits, although one will have a white shirt on. The three in the offices however are slower to react and can usually be shouted down. However the two in the teller desks are more likely to hit alarm buttons under their desks. Shooting both of them can prevent this, or a riskier tactic is to walk in and melee attack both of them and then shout at them once or twice to make them drop. The latter tactic is most feasible if you're using the [[Weapon Butt]] melee attack, as it's the fastest.
+
+Having the Mastermind skill [[Stockholm Syndrome]] will allow you to quickly and more safely prevent any civilians from triggering the alarm without the need to kill anyone (provided the weapon is unsuppressed). Be aware that any left-over civilians outside will be alerted, so if you plan using it make sure the street spawns are dealt with or use an ECM.
+
+After this step, you are free to open the vault in complete safety and also to [[OVE9000|saw]] or use an ECM to open the ATMs. If playing the Deposit variation, you can leave the ATM's loot until the safe is open to trigger the escape immediately. There is no need to worry about noise at this point. The manager's office may contain a small safe.
+
+On this map, up to twenty-one civilians may be present. If you intend to tie them all up, the heist will require four players with [[Forced Friendship]] Basic.
+
+If nobody has Chameleon Aced and there isn't camera coverage of the cubicle area check if there is only a single civilian between you and the manager's office,. If so simply take them hostage first and then continue on to the manager's office. If there are two or three civilians there, it may still be possible albeit a bit risky to take them hostage and grab the keycard normally. If there are only the two people sitting at the table to the right, another alternative is to just run past them hugging the wall.
+
+===Alternate Stealth Approach===
+If the vault is located in the back (as opposed to next to the tellers), it is possible to drill the vault and retrieve the loot within without alerting most of the bank. However, this approach precludes opening the deposit boxes (and the optional inside door) with a saw (or C4). Perform the stealth steps as usual, except do not enter the lobby at any time. When the guards and cameras have been neutralized, take care of any civilians who have line-of-sight to the vault. There is only one civilian that has direct line-of-sight, but depending on spawns, he may have two companions. They can all be safely shouted down, but shooting them chances a body falling in sight of the lobby and alerting the entire bank. Once the vault is open, carefully move the loot to the van. If desired, you can still open the deposit boxes, but it will require a silenced saw. You could also pick all of them, [[Nimble]] would be useful in that case but picking them might take up to 12 minutes. Even then, it can still take as long as twelve minutes with all four players picking. For greatest efficiency, set each player up at a different end of a wall and have them work towards the middles.
+
+===Loud===
+Gather your crew, mask up and enter the bank. Make sure to capture as many civilians as possible in the initial moments. This will delay assaults and can help to divert attention as law enforcers move to free civilians instead of shooting at you. It is best to move the hostages into the security office when possible and simply bunker down outside the door to keep cops away. Barring that, at least keep the hostages together in one location. Avoid throwing grenades at all costs. If you have time, carefully positioning the civilians so that their heads are out of the line-of-sight; this will greatly reduce their chances of being rescued.
+
+Someone should run and secure the thermal drill while the rest of the crew goes in. The crew should then setup the drill as quickly as possible. Keep a close eye on the drill. Leaving it unattended invites law enforcers to shut it off, extending the heist significantly.
+
+Surviving the assaults is best done by keeping the crew together in a position with good cover and drawing the cops into choke points. The windows can be boarded up with planks that can be found in stacks in random locations around the map. Avoid leaving the bank at any point after the first five minutes; snipers will perch on the adjacent rooftops and can quickly down unsuspecting heisters, especially given the copious other cops shooting at them.
+
+Some time after going loud, a helicopter will assault the roof of the bank. Bain will usually warn the crew: "Chopper coming in, roof guys, roof!" If these cops are left unchecked, they will deploy tear gas into the ventilation duct, causing damage to any heister who walks into the cloud of gas inside the bank (civilians, cops, converted cops and team AI bots are immune). Once Bain warns you, it's advised to run to the roof and throw a grenade under the helicopter. This will stun the cops, allowing you to get closer and finish them off efficiently.
+
+At some point, after the law enforcement arrive, one or even two [[SWAT Van Turret|SWAT Van turrets]] may be summoned on the site, and will be deployed at the streets surrounding the bank. They can shoot through the windows and potentially destroy the boarded up windows.
+
+Tear gas can also be filtered through the air vents at certain points in the bank, either in the main entrance, around the offices, teller room, or the printer room.
+
+If the crew chooses to rob a bank that is comprised solely of deposit boxes, it is highly recommended that they bring along an [[Skills#Enforcer|Enforcer]] with an [[OVE9000|OVE9000 Saw]] and a copious supply of ammo bags to replenish the saw or else expect to be forced to remain inside the vault for 10 to 30 minutes in order to open enough of the deposit boxes.
+
+==Variations==
+There are three main variations of this heist, the only variable of which being the target loot that the heisters must collect in order to satisfy the contract requirements: Gold, Money bundles, or Deposit boxes. A fourth type of Bank Heist simply chooses randomly from one of the 
+three. The variations have their own pre-game briefings:
+* '''Random:''' ''"This branch bank is ready for the taking. Let's do this!"''
+* '''Cash:''' ''"Cash job in a branch bank. Let's hit this thing, should be a good win."''
+* '''Deposit:''' ''"You know I love safe deposit jobs and this one sounds sweet."''
+* '''Gold:''' ''"People, I think this job is a gold mine, almost literally."''
+
+Additionally, the heist can have various changes every time it is played regardless of target loot, which may require players to rethink their plans if they wish to stealth the heist.
+
+*The vault can be next to either exit of the printer (fax) room.
+*The camera operator room can be next to the inside staircase, or behind the teller room.
+*The bank manager does not always have the [[keycard]]. If he does not have it, it will be on the desk in his office.
+*A civilian may spawn in the parking lot behind the bank.
+*The number of cameras and their locations vary.
+*There can randomly be a small safe and/or cash bundles at the manager's office. (The safe will never be a Titan safe, so feel free to use [[Trip mine (Payday 2)|C4]] or [[Nimble]] Aced)
+*A second (cage) door inside the vault might be closed. It must be opened using a drill, saw, vault key (if purchased in pre-planning) or C4.
+*The teller cash bundles vary.
+*The side and back doors can be open or closed. (The door to the roof will always be open.)
+*Three skylights can appear on the roof. Care should be taken not to be spotted by the civilians or guards below. (Skylights are always present on Mayhem+.)
+*At least one of the doors to the tellers is always open. Sometimes however, both doors may be opened in which potentially, a guard will patrol through.
+
+==Mayhem+ changes==
+*All cameras are Titan versions.
+*The three skylights that appear on the roof will always be there. Care should be taken not to be spotted by the civilians or guards below.
+* There is a greatly increased probability that the cage door inside the vault will be closed.
+* Civilians will always try to reach a panic button, especially the employees, identifiable by their business attire.
+* During the loud part of the heist when the Helicopter insertion team arrives, it will come with a Skulldozer onboard which is capable of deploying tear gas like the other insertion team members.
+* An additional area of the bank may be filled with tear gas.
+* Two SWAT Van turrets may appear.
+
+==The FBI Files==
+Harvest and Trustee Bank has branches all over Washington. They are generally single-story constructions, with heavy rear doors, roof access and cameras that are controlled from a locked security room. Most branches will employ three or four security personnel, and teller staff are trained to lower shutters in the event of a robbery.
+
+{{Color|Value|My Notes: Forget H&T doing much to put their house in order. I recommend the construction of new training facilities for our teams, model them on these banks. Harvest and Trustee don't seem likely to change their security, as all their losses are covered by the federal government anyway.}} 
+
+==[[Achievements (Payday 2)|Achievements]] & [[Safe House#Trophies|Trophies]]==
+<tabber>Achievements=
+{{Achievement|Saint Francis|jpg|Complete the Bank Heist job after finding the 2 punks in the parking lot and bringing them next to the van, without letting them get away or die on the OVERKILL difficulty or above.<br>{{color|negative|''Can also be done on [[Firestarter]] Day 3.''}}}}
+{{Achievement|The Only One That Is True|jpg|In the Bank Heist or the [[Jewelry Store]] Jobs, find and pick up the {{color|value|five}} hidden Bullet Trophies. Unlocks “[[Masks (Payday 2)#Enter the Gungeon|The Bullet]]” mask.<br>{{color|negative|''Can also be done on [[Firestarter]] Day 3.''}}}}
+{{Achievement|A Good Haul|jpg|In any Branch Bank job, secure loot bags for a value of at least $400.000.}}
+{{Achievement|Bank Robbery for Dummies|jpg|Complete the Bank Heist: Random job on the Normal difficulty or above.}}
+{{Achievement|Random Access Larceny|jpg|Complete the Bank Heist: Random job on the Hard difficulty or above.}}
+{{Achievement|Trustee Robbers|jpg|Complete the Bank Heist: Random job on the Very Hard difficulty or above.}}
+{{Achievement|Winning the Loottery|jpg|Complete the Bank Heist: Random job on the Overkill difficulty or above.}}
+{{Achievement|Show me the Money|jpg|Complete the Bank Heist: Random job on the Mayhem difficulty or above.}}
+{{Achievement|Because That’s Where the Money Is|jpg|Complete the Bank Heist: Random job on the Death Wish difficulty or above.}}
+{{Achievement|Hey, It Looks Like You are Robbing a Bank|jpg|Complete the Bank Heist: Random job on the Death Sentence difficulty.}}
+{{Achievement|Return on Investment|jpg|Complete the Bank Heist: Random job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|No Thermal Drill was Harmed During the Heist |jpg|Complete the Bank Heist: Cash job on the Normal difficulty or above.}}
+{{Achievement|Harvest & Not So Trustee|jpg|Complete the Bank Heist: Cash job on the Hard difficulty or above.}}
+{{Achievement|Waddles of Cash|jpg|Complete the Bank Heist: Cash job on the Very Hard difficulty or above.}}
+{{Achievement|Dolla Dolla Dolla Bling Bling!|jpg|Complete the Bank Heist: Cash job on the Overkill difficulty or above.}}
+{{Achievement|Cash Only Please|jpg|Complete the Bank Heist: Cash job on the Mayhem difficulty or above.}}
+{{Achievement|Cash Is King|jpg|Complete the Bank Heist: Cash job on the Death Wish difficulty or above.}}
+{{Achievement|Rich Man's World|jpg|Complete the Bank Heist: Cash job on the Death Sentence difficulty.}}
+{{Achievement|All About the Green|jpg|Complete the Bank Heist: Cash job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Lockpicker|jpg|Complete the Bank Heist: Deposit job on the Normal difficulty or above.}}
+{{Achievement|Taking a Deposit|jpg|Complete the Bank Heist: Deposit job on the Hard difficulty or above.}}
+{{Achievement|Master of Unlocking|jpg|Complete the Bank Heist: Deposit job on the Very Hard difficulty or above.}}
+{{Achievement|Veni, Saw, Vici|jpg|Complete the Bank Heist: Deposit job on the Overkill difficulty or above.}}
+{{Achievement|Keep on Boxing|jpg|Complete the Bank Heist: Deposit job on the Mayhem difficulty or above.}}
+{{Achievement|Yes Hello, I’d Like to Make a De-paws-it|jpg|Complete the Bank Heist: Deposit job on the Death Wish difficulty or above.}}
+{{Achievement|Lockpicking Masters|jpg|Complete the Bank Heist: Deposit job on the Death Sentence difficulty.}}
+{{Achievement|Just one more|jpg|Complete the Bank Heist: Deposit job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Taking the Bars|jpg|Complete the Bank Heist: Gold job on the Normal difficulty or above.}}
+{{Achievement|We are Golden|jpg|Complete the Bank Heist: Gold job on the Hard difficulty or above.}}
+{{Achievement|Goldmember|jpg|Complete the Bank Heist: Gold job on the Very Hard difficulty or above.}}
+{{Achievement|Came for the Money, Stayed for the Gold|jpg|Complete the Bank Heist: Gold job on the Overkill difficulty or above.}}
+{{Achievement|Gold Rush|jpg|Complete the Bank Heist: Gold job on the Mayhem difficulty or above.}}
+{{Achievement|Striking Gold|jpg|Complete the Bank Heist: Gold job on the Death Wish difficulty or above.}}
+{{Achievement|Nothing Glitters Like Gold|jpg|Complete the Bank Heist: Gold job on the Death Sentence difficulty.}}
+{{Achievement|Fort Knoxed Down|jpg|Complete the Bank Heist: Gold job on the Death Sentence difficulty with the One Down mechanic activated.}}
+|-|Trophies=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-OldFaithful.png|{{Mask tooltip|Old Faithful|color=legendary|Trophy-OldFaithful.png|{{Quote|You've been through so much together. Guess it's one of those love/hate relationships.|Trophy description}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Successfully complete {{color|value|1}} [[Bank Heist|bank heist]] on the OVERKILL difficulty or above.|{{color|legendary|'''PLACEMENT:'''}}<br>Dallas' Office.}}
+Trophy-TheBullet.png|{{Mask tooltip|The Bullet|color=legendary|Trophy-TheBullet.png|{{Quote|With every bullet we shoot, we should remember there is only one, true Bullet.|Trophy description.}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Find the hidden Bullet Trophy{{sic}} in [[Bank Heist]] and [[Jewelry Store]].|{{color|legendary|'''PLACEMENT:'''}}<br>The living room.|{{color|legendary|'''NOTES:'''}}<br>Five trophy pickups are required.}}
+</gallery>
+|-|Trivia=
+*'''Saint Francis''' is apparently a mission given by [[John Wick]], with most of [[Bain]]'s lines regarding the achievement referencing John Wick. Wick, from Bain's lines, wants the two punks required for the achievement to be brought to the [[Safe House]] so he can torture them, on the grounds of them having abused a dog, evidenced by the achievement icon and its [[Side Jobs#Potential Daily Challenges|Side Job]] description.
+**If the punks are killed mid-heist, Bain will say that Wick will be disappointed that he couldn't take care of them himself, bizarrely even if John Wick is the one who killed them.
+**Even though it's heavily implied that John Wick will torture and kill them after the heist and most if not all of the player characters and Bain show disgust for them, killing the two at the bank will impose the usual cleaner penalty.
+*'''All About the Green''' is a reference to the song of the same name used in the musical ''[[wikipedia:The Wedding Singer (musical)|The Wedding Singer]]''.
+*'''Gold Rush''' is a reference to the [[wikipedia:California Gold Rush|California Gold Rush]].
+*'''Fort Knoxed down''' is a pun on "knocked down" and [[wikipedia:Fort Knox|Fort Knox]], in which is the [[wikipedia:United States Bullion Depository|United States Bullion Depository]].
+</tabber>
+
+==Gage Courier Packages==
+{{Bank Heist/Packages}}
+
+== Real Life Location ==
+<gallery>
+File:Real Life Refrences InGame.png|Real life buildings compared to in game
+File:Real Life Refrences InGame2.png|United States Capitol inconsistency
+File:Real Life Refrences InGame3.png|Bank location using real world map and Capitol
+</gallery>We can use the United States Capitol to determine where the bank would be. The Capitol is facing front to the bank. In real life there is a big concrete area at the entrance of the Capitol. In the heist (Because it cant be seen without noclip), the space is missing substantially smaller. Facing the capitol is an 2 way intersection, replaced with a single lane. The space between the Washington Monument and the Capitol is also way smaller. Where the bank would be is the Library Of Congress - John Adams Building.
+
+==Trivia==
+* The bank's vault is unrealistically loaded to the brim with valuables and money. In reality, banks ''do not'' have several hundred thousands of dollars in cash on hand at any given time, specifically ''because'' of the possibility of getting robbed.
+* Due to the random nature of deposit box contents, a given Bank Heist could provide all three types of target loot regardless of chosen contract.
+*The map is also used for the third day of the [[Firestarter]] heist, and during the beta, some sessions of Bank Heist: Cash would glitch and use the Firestarter objectives instead of the correct objectives.
+**The Gage Ops weapon case from Firestarter Day 3 can appear on all Bank Heist variations.
+*The image of the First World Bank branch from Episode 1 of the Web Series is occasionally shown when one is purchasing, or viewing an open lobby of this heist on the Crime.net screen.
+*In the small looping video when accepting the mission, showing [[Bain]] overlooking the heist, the crew enters the area BEHIND the vault, in the wall, but the text in the lower left corner says "FIRST WORLD BANK".
+* The [[wikipedia:United States Capitol|United States Capitol]] and the [[wikipedia:Washington Monument|Washington Monument]] can be seen from the roof.
+* The reinforced glass in front of the tellers is indeed tougher than regular glass windows, requiring 7 rather than 2 shots to shatter. However, it is not at all bulletproof; the tellers can simply be shot through it.
+* In the original ''PAYDAY 2'' gameplay trailer, featuring beta-stage Bank Heist variant footage, a GenSec armored truck appears (as seen in the [[Transport]] heists and [[GO Bank]]); however, this aspect was never integrated into the full game.
+* In the bank manager's office, on the bookshelf, there is a book titled "Essential Guide to Bank Robbery."
+* If an inner cage door spawns, even though the crew and possibly Bain can clearly see inside the vault and its contents, Bain will still be surprised by what it holds once the cage door is opened.
+* The "Because That's Where the Money Is" achievement is a reference to a popular quote misattributed to bank robber Willie Sutton who, when questioned about his motives for robbing a bank, was reported as giving that reply. Later it was established that this was invented by the reporter to make the story more interesting.
+* Once the "Search through the deposit boxes" objective is activated, money collected from ATM's will count towards and exceed this limit. Collecting this and instant cash from the teller hallway and/or off the manager's desk before will add to your total instant cash and therefore payout, but not continue the objective.
+* All clocks in the bank are stuck at 3:00.
+* Underneath most cameras in the main lobby is a small sign displaying the GenSec logo and small writing that reads "Area under surveillance". This will appear even if cameras do not spawn in that particular spot.
+* A player can place most deployables on the rotating sign. In some instances, they may fall off onto the ground or the roof.
+** Placing [[Trip Mine (Payday 2)|trip mines]] on the sign will cause them to immediately explode since the deployment and target areas are not static.
+* If the punks are killed from a distance, approaching their bodies will still result in Bain telling players to tie them up even though they are dead.
+* While in real life, some banks do have a security screen to protect tellers from a bank robbery, there is ''always'' at least one door that opens to where the tellers are at, which would make said screen useless.
+* One of the SWAT turret trucks is located behind the bank on a street not accessible normally, the truck has a driving animation all the way from that location to the side of the bank.
+
+==Blueprints==
+<gallery captionalign="center" columns="2" spacing="large" widths="250" orientation="none" position="center" hideaddbutton="true" bordercolor="transparent" bordersize="none">
+branchbank 1.png|Bank view
+branchbank 2.png|Map view
+</gallery>
+
+==Gallery==
+<gallery widths="310">
+2015-03-31 00002.jpg|Cash piles stored in the vault (Bank Heist: Cash).
+2015-04-05 00002.jpg|Gold piles inside the vault (Bank Heist: Gold).
+Desposit Boxes PD2.jpg|Deposit box variant.
+Bank Heist Zip Lines.jpg|The Bank Heist map zip lines.
+</gallery>
+
+{{Navbox PD2 Heists}}
+
+[[ru:Ограбление банка]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Stealth Heists]]
+[[Category:Heists contracted by Bain]]

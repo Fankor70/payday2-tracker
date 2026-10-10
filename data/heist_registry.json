@@ -1,0 +1,780 @@
+{
+ "heists": [
+  {
+   "page": "Flash Drive",
+   "name": "Flash Drive",
+   "job": "",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Flash_Drive"
+  },
+  {
+   "page": "Get the Coke",
+   "name": "Get the Coke",
+   "job": "",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Get_the_Coke"
+  },
+  {
+   "page": "Counterfeit (Payday 2)",
+   "name": "Counterfeit (Payday 2)",
+   "job": "Counterfeit",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/Counterfeit_(Payday_2)"
+  },
+  {
+   "page": "Diamond Heist (Payday 2)",
+   "name": "Diamond Heist (Payday 2)",
+   "job": "Diamond Heist",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/Diamond_Heist_(Payday_2)"
+  },
+  {
+   "page": "First World Bank (Payday 2)",
+   "name": "First World Bank (Payday 2)",
+   "job": "First World Bank",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/First_World_Bank_(Payday_2)"
+  },
+  {
+   "page": "Green Bridge (Payday 2)",
+   "name": "Green Bridge (Payday 2)",
+   "job": "Green Bridge",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/Green_Bridge_(Payday_2)"
+  },
+  {
+   "page": "Heat Street (Payday 2)",
+   "name": "Heat Street (Payday 2)",
+   "job": "Heat Street",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/Heat_Street_(Payday_2)"
+  },
+  {
+   "page": "No Mercy (Payday 2)",
+   "name": "No Mercy (Payday 2)",
+   "job": "No Mercy",
+   "contractor": "?",
+   "mode": "both",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/No_Mercy_(Payday_2)"
+  },
+  {
+   "page": "Panic Room (Payday 2)",
+   "name": "Panic Room (Payday 2)",
+   "job": "Panic Room",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/Panic_Room_(Payday_2)"
+  },
+  {
+   "page": "Slaughterhouse (Payday 2)",
+   "name": "Slaughterhouse (Payday 2)",
+   "job": "Slaughterhouse",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/Slaughterhouse_(Payday_2)"
+  },
+  {
+   "page": "Undercover (Payday 2)",
+   "name": "Undercover (Payday 2)",
+   "job": "Undercover",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": true,
+   "wiki": "https://payday.fandom.com/wiki/Undercover_(Payday_2)"
+  },
+  {
+   "page": "Art Gallery",
+   "name": "Art Gallery",
+   "job": "Art Gallery",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Art_Gallery"
+  },
+  {
+   "page": "Bank Heist",
+   "name": "Bank Heist",
+   "job": "Bank Heist",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Bank_Heist"
+  },
+  {
+   "page": "Big Oil",
+   "name": "Big Oil",
+   "job": "Big Oil",
+   "contractor": "The Elephant",
+   "mode": "both",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Big_Oil"
+  },
+  {
+   "page": "Black Cat",
+   "name": "Black Cat",
+   "job": "Black Cat",
+   "contractor": "Jiu Feng",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Black_Cat"
+  },
+  {
+   "page": "Border Crossing",
+   "name": "Border Crossing",
+   "job": "BorderCrossing",
+   "contractor": "The Continental",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Border_Crossing"
+  },
+  {
+   "page": "Breakfast in Tijuana",
+   "name": "Breakfast in Tijuana",
+   "job": "Breakfast",
+   "contractor": "The Continental",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Breakfast_in_Tijuana"
+  },
+  {
+   "page": "Breakin' Feds",
+   "name": "Breakin' Feds",
+   "job": "Breakin' Feds",
+   "contractor": "The Continental",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Breakin'_Feds"
+  },
+  {
+   "page": "Buluc's Mansion",
+   "name": "Buluc's Mansion",
+   "job": "BulucMansion",
+   "contractor": "Jiu Feng",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Buluc's_Mansion"
+  },
+  {
+   "page": "Car Shop",
+   "name": "Car Shop",
+   "job": "Car Shop",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Car_Shop"
+  },
+  {
+   "page": "Crude Awakening",
+   "name": "Crude Awakening",
+   "job": "Crude Awakening",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Crude_Awakening"
+  },
+  {
+   "page": "Diamond Store",
+   "name": "Diamond Store",
+   "job": "Diamond Store",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Diamond_Store"
+  },
+  {
+   "page": "Dragon Heist",
+   "name": "Dragon Heist",
+   "job": "DragonHeist",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Dragon_Heist"
+  },
+  {
+   "page": "Election Day",
+   "name": "Election Day",
+   "job": "Election Day",
+   "contractor": "The Elephant",
+   "mode": "both",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Election_Day"
+  },
+  {
+   "page": "Firestarter",
+   "name": "Firestarter",
+   "job": "Firestarter",
+   "contractor": "Hector",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Firestarter"
+  },
+  {
+   "page": "Four Stores",
+   "name": "Four Stores",
+   "job": "4Stores",
+   "contractor": "Vlad",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Four_Stores"
+  },
+  {
+   "page": "Framing Frame",
+   "name": "Framing Frame",
+   "job": "Framing Frame",
+   "contractor": "The Elephant",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Framing_Frame"
+  },
+  {
+   "page": "GO Bank",
+   "name": "GO Bank",
+   "job": "GO Bank",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/GO_Bank"
+  },
+  {
+   "page": "Golden Grin Casino",
+   "name": "Golden Grin Casino",
+   "job": "Golden Grin",
+   "contractor": "The Dentist",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Golden_Grin_Casino"
+  },
+  {
+   "page": "Hostile Takeover",
+   "name": "Hostile Takeover",
+   "job": "",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Hostile_Takeover"
+  },
+  {
+   "page": "Hoxton Revenge",
+   "name": "Hoxton Revenge",
+   "job": "Hoxton Revenge",
+   "contractor": "The Dentist",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Hoxton_Revenge"
+  },
+  {
+   "page": "Jewelry Store",
+   "name": "Jewelry Store",
+   "job": "Jewelry Store",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Jewelry_Store"
+  },
+  {
+   "page": "Lost In Transit",
+   "name": "Lost In Transit",
+   "job": "",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Lost_In_Transit"
+  },
+  {
+   "page": "Midland Ranch",
+   "name": "Midland Ranch",
+   "job": "Midland Ranch",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Midland_Ranch"
+  },
+  {
+   "page": "Mountain Master",
+   "name": "Mountain Master",
+   "job": "Mountain Master",
+   "contractor": "?",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Mountain_Master"
+  },
+  {
+   "page": "Murky Station",
+   "name": "Murky Station",
+   "job": "Murky Station",
+   "contractor": "Slaughterhouse",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Murky_Station"
+  },
+  {
+   "page": "Nightclub",
+   "name": "Nightclub",
+   "job": "Nightclub",
+   "contractor": "Vlad",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Nightclub"
+  },
+  {
+   "page": "San Martín Bank",
+   "name": "San Martín Bank",
+   "job": "SanMartínBank",
+   "contractor": "The Continental",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/San_Martín_Bank"
+  },
+  {
+   "page": "Scarface Mansion",
+   "name": "Scarface Mansion",
+   "job": "Scarface Mansion",
+   "contractor": "The Butcher",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Scarface_Mansion"
+  },
+  {
+   "page": "Shacklethorne Auction",
+   "name": "Shacklethorne Auction",
+   "job": "Shacklethorne Auction",
+   "contractor": "The Continental",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Shacklethorne_Auction"
+  },
+  {
+   "page": "Shadow Raid",
+   "name": "Shadow Raid",
+   "job": "Shadow Raid",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Shadow_Raid"
+  },
+  {
+   "page": "The Alesso Heist",
+   "name": "The Alesso Heist",
+   "job": "Alesso",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_Alesso_Heist"
+  },
+  {
+   "page": "The Big Bank",
+   "name": "The Big Bank",
+   "job": "Big Bank",
+   "contractor": "The Dentist",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_Big_Bank"
+  },
+  {
+   "page": "The Bomb: Dockyard",
+   "name": "The Bomb: Dockyard",
+   "job": "Dockyard",
+   "contractor": "The Butcher",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_Bomb:_Dockyard"
+  },
+  {
+   "page": "The Diamond",
+   "name": "The Diamond",
+   "job": "The Diamond",
+   "contractor": "The Dentist",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_Diamond"
+  },
+  {
+   "page": "The Ukrainian Prisoner",
+   "name": "The Ukrainian Prisoner",
+   "job": "Ukrainian Prisoner",
+   "contractor": "Jiu Feng",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_Ukrainian_Prisoner"
+  },
+  {
+   "page": "The White House",
+   "name": "The White House",
+   "job": "White House",
+   "contractor": "The Continental",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_White_House"
+  },
+  {
+   "page": "The Yacht Heist",
+   "name": "The Yacht Heist",
+   "job": "Yacht",
+   "contractor": "The Continental",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_Yacht_Heist"
+  },
+  {
+   "page": "Transport: Train Heist",
+   "name": "Transport: Train Heist",
+   "job": "Train",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Transport:_Train_Heist"
+  },
+  {
+   "page": "Ukrainian Job",
+   "name": "Ukrainian Job",
+   "job": "UJ",
+   "contractor": "Vlad",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Ukrainian_Job"
+  },
+  {
+   "page": "Under the Hammer",
+   "name": "Under the Hammer",
+   "job": "Under the Hammer",
+   "contractor": "Bain",
+   "mode": "stealth",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Under_the_Hammer"
+  },
+  {
+   "page": "Aftershock",
+   "name": "Aftershock",
+   "job": "Aftershock",
+   "contractor": "Vlad",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Aftershock"
+  },
+  {
+   "page": "Alaskan Deal",
+   "name": "Alaskan Deal",
+   "job": "Alaskan Deal",
+   "contractor": "The Continental",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Alaskan_Deal"
+  },
+  {
+   "page": "Beneath the Mountain",
+   "name": "Beneath the Mountain",
+   "job": "Mountain",
+   "contractor": "The Continental",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Beneath_the_Mountain"
+  },
+  {
+   "page": "Birth of Sky",
+   "name": "Birth of Sky",
+   "job": "Sky",
+   "contractor": "The Continental",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Birth_of_Sky"
+  },
+  {
+   "page": "Boiling Point",
+   "name": "Boiling Point",
+   "job": "Boiling Point",
+   "contractor": "Slaughterhouse",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Boiling_Point"
+  },
+  {
+   "page": "Border Crystals",
+   "name": "Border Crystals",
+   "job": "BorderCrystals",
+   "contractor": "The Continental",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Border_Crystals"
+  },
+  {
+   "page": "Brooklyn 10-10",
+   "name": "Brooklyn 10-10",
+   "job": "Brooklyn",
+   "contractor": "The Continental",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Brooklyn_10-10"
+  },
+  {
+   "page": "Brooklyn Bank",
+   "name": "Brooklyn Bank",
+   "job": "brooklyn bank",
+   "contractor": "The Continental",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Brooklyn_Bank"
+  },
+  {
+   "page": "Cook Off",
+   "name": "Cook Off",
+   "job": "Cook Off",
+   "contractor": "Bain",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Cook_Off"
+  },
+  {
+   "page": "Cursed Kill Room",
+   "name": "Cursed Kill Room",
+   "job": "Cursed Kill Room",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Cursed_Kill_Room"
+  },
+  {
+   "page": "Goat Simulator",
+   "name": "Goat Simulator",
+   "job": "GoatSim",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Goat_Simulator"
+  },
+  {
+   "page": "Hell's Island",
+   "name": "Hell's Island",
+   "job": "Hell's Island",
+   "contractor": "The Continental",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Hell's_Island"
+  },
+  {
+   "page": "Henry's Rock",
+   "name": "Henry's Rock",
+   "job": "Henry's Rock",
+   "contractor": "The Continental",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Henry's_Rock"
+  },
+  {
+   "page": "Hotline Miami",
+   "name": "Hotline Miami",
+   "job": "Hotline Miami",
+   "contractor": "The Dentist",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Hotline_Miami"
+  },
+  {
+   "page": "Hoxton Breakout",
+   "name": "Hoxton Breakout",
+   "job": "Hoxton Breakout",
+   "contractor": "The Dentist",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Hoxton_Breakout"
+  },
+  {
+   "page": "Lab Rats",
+   "name": "Lab Rats",
+   "job": "Lab Rats",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Lab_Rats"
+  },
+  {
+   "page": "Mallcrasher",
+   "name": "Mallcrasher",
+   "job": "Mallcrasher",
+   "contractor": "Vlad",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Mallcrasher"
+  },
+  {
+   "page": "Meltdown",
+   "name": "Meltdown",
+   "job": "Meltdown",
+   "contractor": "Vlad",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Meltdown"
+  },
+  {
+   "page": "Prison Nightmare",
+   "name": "Prison Nightmare",
+   "job": "Prison Nightmare",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Prison_Nightmare"
+  },
+  {
+   "page": "Rats",
+   "name": "Rats",
+   "job": "Rats",
+   "contractor": "Hector",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Rats"
+  },
+  {
+   "page": "Reservoir Dogs Heist",
+   "name": "Reservoir Dogs Heist",
+   "job": "rvd",
+   "contractor": "Bain",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Reservoir_Dogs_Heist"
+  },
+  {
+   "page": "Safe House Nightmare",
+   "name": "Safe House Nightmare",
+   "job": "Safehouse Nightmare",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Safe_House_Nightmare"
+  },
+  {
+   "page": "Safe House Raid",
+   "name": "Safe House Raid",
+   "job": "Safehouse Raid",
+   "contractor": "?",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Safe_House_Raid"
+  },
+  {
+   "page": "Santa's Workshop",
+   "name": "Santa's Workshop",
+   "job": "Santa Workshop",
+   "contractor": "Vlad",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Santa's_Workshop"
+  },
+  {
+   "page": "Stealing Xmas",
+   "name": "Stealing Xmas",
+   "job": "Stealing Xmas",
+   "contractor": "Vlad",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Stealing_Xmas"
+  },
+  {
+   "page": "The Biker Heist",
+   "name": "The Biker Heist",
+   "job": "Biker Heist",
+   "contractor": "The Elephant",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_Biker_Heist"
+  },
+  {
+   "page": "The Bomb: Forest",
+   "name": "The Bomb: Forest",
+   "job": "Forest",
+   "contractor": "The Butcher",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/The_Bomb:_Forest"
+  },
+  {
+   "page": "Transport",
+   "name": "Transport",
+   "job": "Transport",
+   "contractor": "Bain",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Transport"
+  },
+  {
+   "page": "Watchdogs",
+   "name": "Watchdogs",
+   "job": "Watchdogs",
+   "contractor": "Hector",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Watchdogs"
+  },
+  {
+   "page": "White Xmas",
+   "name": "White Xmas",
+   "job": "White Xmas",
+   "contractor": "Vlad",
+   "mode": "loud",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/White_Xmas"
+  }
+ ],
+ "escapes": [
+  {
+   "page": "Cafe Escape",
+   "name": "Cafe Escape",
+   "job": "",
+   "contractor": "?",
+   "mode": "escape",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Cafe_Escape"
+  },
+  {
+   "page": "Garage Escape",
+   "name": "Garage Escape",
+   "job": "",
+   "contractor": "?",
+   "mode": "escape",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Garage_Escape"
+  },
+  {
+   "page": "Overpass Escape",
+   "name": "Overpass Escape",
+   "job": "",
+   "contractor": "?",
+   "mode": "escape",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Overpass_Escape"
+  },
+  {
+   "page": "Park Escape",
+   "name": "Park Escape",
+   "job": "",
+   "contractor": "?",
+   "mode": "escape",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Park_Escape"
+  },
+  {
+   "page": "Street Escape",
+   "name": "Street Escape",
+   "job": "",
+   "contractor": "?",
+   "mode": "escape",
+   "classic": false,
+   "wiki": "https://payday.fandom.com/wiki/Street_Escape"
+  }
+ ]
+}

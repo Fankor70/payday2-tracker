@@ -1,0 +1,238 @@
+{{Game-Tabs|pd2=Murky Station|pd3=Turbid Station}}
+{{MultipleHeist2|Murky Station|Infobox Heist}}{{Quote|You can head over to hidden train yard and find the EMP-Bomb. Yeah? Yeah? The place will be heavily guarded by fucking Murkys, so you need to go in there silently lads.|Jimmy offering the contract.}}
+'''Murky Station''' is a stealth-only one-day heist in ''[[PAYDAY 2]]'', part of the [[Hardcore Henry Heists|Hardcore Henry Pack]] which was released on March 31, 2016 with [[PC update history (Payday 2)#Update #97|Update #97]]. It is the third stealth-only heist in the game and is contracted by the also playable character [[Jimmy]].
+
+This heist is no longer available to play as of August 18, 2024, and is only available to players who had purchased the game prior to this date.
+
+==Overview==
+This heist is [[Timeline|chronologically]] the first of the two [[Hardcore Henry Heists]] since the EMP-Bomb stolen here is used in [[Boiling Point]] to disable the blast doors. It is also the first heist that features hostile cameras in the form of drones (whereas the drone in [[Hoxton Revenge]] was allied to the Payday gang). Unlike [[Shadow Raid]], this heist does not feature [[Pre-Planning]].
+
+==Objectives==
+#Find the Murky trains
+#Hack open the Murky trains
+#Locate the EMP parts
+#Find equipment (appears only if neither EMP part is bagged prior to finding both and the crew has not found more than one security-passing item, HUD and objectives will be updated even if neither item found gives access to the EMP parts)
+#Bag the EMP parts (appears only if neither EMP part is bagged prior to finding both and the crew has found two or more security-passing items)
+#Secure the EMP parts
+#Escape
+*(Optionally) Secure more loot
+
+==Assets==
+===Purchasable===
+{{Asset|Asset-additional cameras.png|Additional Cameras|13000}}
+{{Asset|asset-bodybags bag.png|Body Bags|7000|Requires the [[Sixth Sense]] Aced skill to unlock}}
+===Intel===
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+{{Asset|asset-drone.png|Drone}}
+{{Asset|asset-emp.png|EMP Part}}
+
+==Walkthrough==
+[[File:20160403231055_1.jpg|thumb|The brightly-lit bulletin board]]The crew arrives on a bridge above the train yard. From there, they can scout the place and observe the whole map is guarded by [[Murkywater]] guards both on the surface and in the underground. Notably, a unique characteristic of this heist is the introduction of hostile drones. They appear on top of train wagons in the train yard and, like the guards, patrol around certain areas. They are still treated like security cameras, but due to the fact they hover in mid-air, [[Nimble]] cannot be applied to them.
+
+After arriving at the train yard, they will need to look out for the train wagons with a yellow panel on the side. These have to be hacked to open the individual wagons. [[ECM jammer|ECM]] rushing at the beginning is not a viable tactic, as active ECMs will disrupt the process, even barring the ability to open the physical panel.
+
+Opening and hacking the panels will take approximately 10 seconds. Heisters must be careful not to get spotted by either guards or active drones. If one is about to be detected while hacking, do not continue with the process and try to hide until NPCs/drones move away. As Bain suggests, one of the best places to not get spotted by guards, or to stash body bags and loot bags, is beneath the train cargos.
+
+Unlike [[Transport: Train Heist]], both doors of a train wagon will open, thus heisters have to exercise extreme caution to not get spotted by a guard when entering or getting off an open wagon. Being detected by a guard in the open yard will very often lead to a chain reaction, in which other guards and most notably a drone may also become quickly alerted. To mitigate this, assign a player to highlight guards with the [[Theia Magnified Scope]] on top of the bridge. Otherwise, [[Sixth Sense]] and waiting for a couple of seconds under or inside the safety of the train can be used to locate patrolling guards.
+
+Upon opening a train, players will have to find the corresponding required equipment to access the loot within it, which is either a single Bomb Part or additional loot such as Battle Rifles and Pistols. One can easily tell the difference by looking at the interior light, in which if it is red tinted, the train cargo then contains a bomb part. Past Very Hard [[difficulty]], the loot inside will be protected with additional laser barriers. Loot will always be protected in a safe that requires an external hard drive, behind thick metal bars that need thermite, behind a metal door that needs a blowtorch to breach through or behind a metal door that requires a keycard to open.
+
+If played on Normal, Hard or Very Hard difficulties, there will be a "Deliveries" board outside the train yard that tells where the additional equipment can be found. On higher difficulties, the board will be inside the train yard where detection by guards is likely.
+
+The equipment can be found either on the surface or in an underground complex directly underneath the train yard. Every equipment part can be identified through the sound they make and their surroundings; the hard drives can be found hooked up to a system with a brightly-lit computer screen that constantly beeps, the blowtorches and thermite located in a small carton box can be found by the sound of the working civilians with saw sparks being visible, and the [[keycard]]s can be found hanging on a red display above a radio with its bright green light turned on that plays random soundtracks from the game. Although only one of each equipment is needed, there will always be enough equipment for all four players to obtain, except the hard drives in which only two are obtainable.
+
+CCTVs are only present in the basement and drones occupy the train yard above, both of which have camera feeds accessible from any terminal that the hard drives can be hooked up to. Also, two loot bags always randomly spawn around the basement, which are pistols and a battle rifle. Sometimes, equipment and loot in the basement may spawn within the range of a camera. While it is possible to quickly obtain the aforementioned items before getting detected, this is often too risky due to the unreliable interaction with item hitboxes and thus necessitating the usage of Camera Loop/Nimble.
+
+After the first bomb part is obtained, Bain will immediately send over either a van or a boat to secure the loot. The van will be waiting by the bridge, while the boat will be waiting in the nearby river. After both Bomb Parts are secured, the crew can choose to go for more loot or to escape.
+
+[[File:20160402204121_1.jpg|thumb|Bulletin Board with equipment locations]]While it may seem faster to travel around the train yard to secure the loot, it is arguably safer to transport the goods around the basement interior if any train cargo with loot is not close to the loot drop off point as there is far less security present down below, plus the underground ventilation system behind the vents provides guaranteed protection against detection.
+
+If the alarm goes off, like [[Shadow Raid]], [[Car Shop]] and [[The Yacht Heist]], there will be an escape timer, wherein if the crew does not escape within the allotted time, the mission will automatically fail. On Normal and Hard difficulties, the crew has 30 seconds to escape, while on Very Hard and Overkill they have 25s, 20s on Mayhem, and 15s on Death Wish and Death Sentence.
+
+==Strategy==
+*From time to time, the drones that are located in the train yard will hover over the areas in between the wagons and become active with a distinctive chime. The light that the drones emit show their status.
+**A red light means the drones are still off but will activate soon.
+**A white light means the drones are active.
+**A blue light means they are being jammed by an [[ECM]].
+**If there is no light, the drones are off and will return to their usual positions on top of the wagons.
+*Do not rush and try to be patient. Only hack the door panels when the coast is clear. If a drone or a guard is about to get alerted, stop the hack, take cover and hide.
+*Any train cargo can be opened, providing the players with cover to hide or stash loot bags and bagged bodies inside. Alternatively, hiding under the cargos is another good tactic to stay hidden.
+**Additionally, while hiding under the train cargo containing loot that requires a blowtorch to access, if the player goes to the wheels and looks up, they can use the blowtorch on the lower half of the gate, effectively halving the time needed to access it.
+*'''On Overkill [[difficulty]] and lower, DO NOT''' shoot any drones unless forced to as they can still take off and will be spotted by a patrolling Murkywater PMC or worse, another active drone. It should only be done as a last resort.
+**If a drone's camera has been destroyed, be prepared to leave the map as soon as possible and secure any remaining loot in a hastened fashion. If an NPC spots a broken drone, deploy an ECM jammer and do not hesitate to run to the escape point.
+*Try not to get spotted by civilians as there are virtually no immediate, convenient spots to leave them tied down. The best way to take the thermite paste and blowtorch is to stay crouched behind them. Staying at either their left or right side can quickly alert them.
+** It may be possible to leave hostages undetected; civilians may spawn in certain places where no cameras are present and guards do not patrol, such as one of the long corridors containing the surface access ladder in the basement, giving players enough coverage to tie them down and move them away from view safely. Additionally, hostages will only be detected if their head is visible to enemies due to detection being in the head, which can be exploited by leaving a hostage in such a way that their head is inside of a wall.
+*Placing [[Trip mine (Payday 2)|Trip mines]] with sensor mode turned on, especially around the train yard, can help identify approaching guards to determine if an intended route is safe for a brief time. However, this can be harder to implement due to the potential presence of active drones and the occasional cramped spacing in which a guard could be nearby.
+* Since no extra guards spawn upon using up all pagers, it may be a wise policy to actively take down guards in the train yard in order to thin out their number, allowing for more breathing rooms.
+** Despite advising against it, Bain still mentions the empty spaces underneath the trains where players can stay hidden and leave body bags in without ever being detected by guards or active drones. 
+** On Normal, Hard and Very Hard difficulties, there is a minimum of 7 guards present in this heist: 5 in the train yard and 2 in the basement. On Overkill, this number is increased to 10 guards: 7 in the train yard and 3 in the basement.
+*The maximum loot bags that can be secured is 16: 2 for the EMP bomb parts and the rest for pistols and battle rifles. Sometimes, only battle rifles can be found in 2 of the train cargos.
+**There is a minimum of 7 bags of battle rifles and 1 bag of pistols. As pistols are the only type of loot that allows sprinting while carrying, be sure to stash other loot bags somewhere safe, and be cautious while moving them.
+*If any loot bags are thrown into the water, they will respawn on the nearest surface from the point where they despawn. There are three fixed respawn points for loot near the river: two points on either side of the upper ledge near the fence and one point in the middle of the small water access area below the ledge where the escape boat is located. Players must take great care to not throw loot bags over the fence as they may overshoot them over the ledge and into the water unless the fence is completely covered up. Otherwise, it is possible for a guard or a nearby active drone to see the respawned bags through the uncovered fence and consequently become alerted.
+** The safest way to throw loot bags outside of the train yard near the river without worrying about detection is to throw them directly over the wall in between the two fences where a dumpster is situated, which ensures the bags will always end up on the water access area below the ledge and out of sight even if the player overshoots them into the water. The loot bags can also be quickly secured this way if the escape boat is present and the player manages to accurately throw them onto the loot drop off point.
+*Depending on the loot wagon's placement, it is usually easier to throw bags down a ladder into the basement or behind a covered fence than to move bags through the train yard. Bags should be moved underground whenever possible as there are only two guards to manage. 
+*Unless a player cares about getting the ''Looting In The Dark'' achievement, the two guards patrolling the basement can be easily killed (while keeping an eye out for cameras, of course), to make moving bags through the underground easier. The third guard in the basement does not leave the small room that he spawns in.
+** The isolated guard in the side room will sometimes stand in front of the doorway looking out into the corridor outside, so players should still exercise caution when passing by this area.
+
+==Variations==
+*The wagons containing loot, the placement of hackable computer panels on said wagons, the locations of additional equipment, and the type of escape vehicle will be chosen randomly.
+*A side room will spawn on either side of the lower tunnels in the underground basement, patrolled by a lone guard on Overkill [[difficulty]] and higher.
+*Lower difficulties may include some vents already opened.
+*The locations of the doorways leading into the two rooms at the center of the basement will be randomly chosen.
+
+==Mayhem+ changes==
+*All drones and cameras are Titan versions.
+*The total number of guards is increased to a maximum of 11 guards: 8 in the train yard and 3 in the basement.
+*To open the vents in the basement, two screws have to be individually unscrewed first.
+*There will only be 20 seconds on the escape timer (15s past Mayhem)
+
+==The FBI Files==
+A lot is still unknown to our police department when it comes to Murkywater, but we do know that they are very serious about the business they are conducting. Having a hidden train yard where they can operate freely is no simple task, but the mercenaries still manage to do it, and every time we catch up to them they have moved their operations before we can make any arrests.
+
+{{Color|Value|'''My Notes:''' We are well aware that Murkywater have operations all over the world, including these hidden train yards right here in the US where they can transport their goods in secrecy. This is not the first time the PAYDAY gang has meddled in the affairs of the mercenary organization, and it sure as hell won't be the last.}}
+
+==Bugs==
+*[[File:20160906200334 1.jpg|thumb|right|300px|The rendering error in action.]]If the train closest to both the bridge and the riverside contains loot (and the doors at the rear end are open), one can see that the basement is not rendered when the player is not in close proximity to a manhole, allowing them to look at the skybox through the nearby manhole.
+*Keycards can be used on already-opened doors inside the train cargos.
+{{clr}}
+
+==[[Achievements (Payday 2)|Achievements]]==
+<tabber>Achievements=
+{{Achievement|EMP, Easy as 1-2-3|jpg|Complete the Murky Station job on the Normal difficulty or above.}}
+{{Achievement|We Raid It Hardcore|jpg|Complete the Murky Station job on the Hard difficulty or above.}}
+{{Achievement|Explosive Cargo|jpg|Complete the Murky Station job on the Very Hard difficulty or above.}}
+{{Achievement|I Washed My Hands in Murky Water|jpg|Complete the Murky Station job on the OVERKILL difficulty or above.}}
+{{Achievement|It's Just Drones On And On|jpg|Complete the Murky Station job on the Mayhem difficulty or above.}}
+{{Achievement|Blackout|jpg|Complete the Murky Station job on the Death Wish difficulty or above.}}
+{{Achievement|DIY EMP|jpg|Complete the Murky Station job on the Death Sentence difficulty.}}
+{{Achievement|EMPathy|jpg|Complete the Murky Station job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Crouched and Hidden, Flying Dagger|png|Kill {{color|value|8}} guards with a Throwing Weapon while crouching on the Murky Station job. The heist must be finished for any kills to count. Unlocks the "[[Masks (Payday 2)#John Wick Weapon Pack|Hotelier]]" mask, "[[Materials#John Wick Weapon Pack|Club Lights]]" material and "[[Patterns#John Wick Weapon Pack|Piety]]" pattern.}}
+{{Achievement|Ghost Run|jpg|Complete the Murky Station job within 7 minutes of starting it. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Cloaker-san]]" mask, "[[Materials#Hardcore Henry Heists|Rusty]]" material and "[[Patterns#Hardcore Henry Heists|Rebel]]" pattern.}}
+{{Achievement|Janitor|jpg|Complete the Murky Station job after hiding one body bag in each dumpster.}}
+{{Achievement|Looting in the Dark|jpg|Complete the Murky Station job by finding and securing all loot without killing anyone on the OVERKILL difficulty or above.}}
+{{Achievement|No Witnesses|jpg|Complete the Murky Station job by killing all guards and not using any [[ECM Jammer|ECM jammers]] on the OVERKILL difficulty or above.}}
+{{Achievement|The Pacifist|jpg|Complete the Murky Station job without anyone in the crew killing anyone. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Augmentation]]" mask, "[[Materials#Hardcore Henry Heists|Spaceship]]" material and "[[Patterns#Hardcore Henry Heists|Squares]]" pattern.}}
+|-|Tips=
+{{Achievement|Ghost Run|jpg|Complete the Murky Station job within 7 minutes of starting it. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Cloaker-san]]" mask, "[[Materials#Hardcore Henry Heists|Rusty]]" material and "[[Patterns#Hardcore Henry Heists|Rebel]]" pattern.}}
+This achievement is very simple to complete, especially in multiplayer, as merely all that is required is for both bomb parts to be found and secured on any difficulty and then escape.
+
+{{Achievement|The Pacifist|jpg|Complete the Murky Station job without anyone in the crew killing anyone. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Augmentation]]" mask, "[[Materials#Hardcore Henry Heists|Spaceship]]" material and "[[Patterns#Hardcore Henry Heists|Squares]]" pattern.}}
+This is also simple, and in fact can be done alongside '''Ghost Run''' easily. The achievement only requires the crew to not get caught. If a guard has detected a player out in the open and both EMP parts have been found, at that point the players can ECM rush the remainder of the heist, provided their ECMs have enough upgrades.
+
+If one desires, one can dominate the entire basement (obviously out of sight of cameras on the [[Mayhem]] difficulty) to facilitate moving bags.
+
+These same tactics can also be applied to the '''Looting in the Dark''' achievement, with the obvious difference of having to secure all of the loot in the heist.
+
+{{Achievement|Crouched and Hidden, Flying Dagger|png|Kill {{color|value|8}} guards with a Throwing Weapon while crouching on the Murky Station job. The heist must be finished for any kills to count. Unlocks the "[[Masks (Payday 2)#John Wick Weapon Pack|Hotelier]]" mask, "[[Materials#John Wick Weapon Pack|Club Lights]]" material and "[[Patterns#John Wick Weapon Pack|Piety]]" pattern.}}
+
+All available Throwing Weapons in the game are allowed for the achievement, which includes: [[Ace of Spades]], [[Shuriken]], [[Javelin]], [[Throwing Axe]], and [[Throwing Knife]].
+
+This achievement checks whether or not the player is in a crouch position when killing a guard with a throwing weapon. If the player is crouching and the killing blow to the guard is from a throwing weapon, the kill is then qualified even if the player is in mid-air (crouch jumping) while killing a guard, the guard does not die from the weapon's initial hit (after becoming alerted), or the guard was being damaged by a different type of weapon/damage. Due to this, a guard dying from the Shuriken's poison effects instead of the weapon itself does not count toward the achievement, much like the '''Shuriken Shenanigans''' achievement, so players using the Shuriken should make sure not to get caught by guards before attacking.
+
+A common misconception for this achievement is that players must get all 8 kills in one go for it to count, which is not true. Unlike other achievements, this one has a progress bar that tracks the number of any qualified kills. As long as kills that met the requirements are made and the heist is finished, the progress bar will fill up and keep count of them.
+
+While it is possible to obtain this achievement immediately by killing 8 guards in a row with a throwing weapon (only on Overkill [[difficulty]] and higher), it is not necessary unless players are looking for a challenge.
+
+{{Achievement|No Witnesses|jpg|Complete the Murky Station job by killing all guards and not using any [[ECM Jammer|ECM jammers]] on the OVERKILL difficulty or above.}}
+This achievement is trickier to obtain due to the heist's stealth requirement and the restriction of no [[ECM Jammer|ECM jammer]] usage, but still very doable on Overkill [[difficulty]] even alongside '''Janitor''' and '''Crouched and Hidden, Flying Dagger''', albeit more tedious and riskier to execute mostly in solo attempts.
+
+This achievement can also be done on higher difficulties than Overkill, though it can be seen as more of a personal challenge rather than an optimal strategy due to the presence of Titan cameras and an additional patrolling guard in the train yard. It was also presumed to be nearly impossible for solo players to complete if the escape vehicle is the boat, though it has been tested to be entirely doable with a number of factors and good preparation beforehand.
+<br /> Note that while the following instructions should work on higher difficulties, the ones regarding cameras work ''only'' on Overkill.
+
+Before starting the heist, depending on the number of crewmates, the player may need to better prepare themselves accordingly:
+* Pick an appropriate [[skill]]set, one that does not include any ECM skills, and instead one that invests in skills regarding [[Trip mine (Payday 2)|Trip mines]] and [[Sentry gun (Payday 2)|Sentry guns]]<ref>@UnknownKnightGaming (November 2, 2017). [https://www.youtube.com/watch?v=vgJRXSyWI9A&t=376s "No Witnesses Solo 1 Down (Achievement/Guide) (Payday 2)"] (Video at 6:16). ''YouTube''. Retrieved September 3, 2024.</ref> to better aid the guard killing process, especially in solo attempts.
+** This is especially true for Sentry guns, which can be set up in specific areas underneath the train cargos where they are undetectable by guards but still able to shoot them should they become alerted, requiring the player's knowledge of guard patrol routes to maximize this deployable's effectiveness.
+* A suitable Perk Deck like the [[Perk Decks#Yakuza|Yakuza]] or the [[Perk Decks#Copycat|Copycat]] with all perks relating to speed boost selected proves to be a game changer for this achievement, the latter of which tremendously accentuates speed bonuses for all types of player movements, allowing for better time management and swift maneuver.
+* It is also a viable option to bring a loud unsuppressed weapon with the goal to alert any remaining guards the player may have missed in order to pinpoint their locations using their exclamation markers at the last seconds before the alarm is tripped.
+* Aside from bringing the [[Molotov Cocktail]] for the Yakuza's Hebi Irezumi perk, if desired, consider bringing a throwing weapon (such as the [[Ace of Spades]] for those without DLCs) for the '''Crouched and Hidden, Flying Dagger''' achievement since any other throwables are of no use in this heist.
+
+There are 7 or 8 (Mayhem+) guards in the train yard and 3 guards in the basement. The crew's first course of action should be to play out the heist normally by following the objectives and simultaneously making some preparation for the killing spree.
+* Locate and bag the first EMP bomb part to have Bain send over either a van on the upper bridge side or a boat on the nearby riverside to initiate the loot drop off point and, after securing both parts, the escape zone.
+** During that process, the crew should also clear their path to escape of any obstacles, such as cutting fences beforehand.
+* Once the escape is available, the crew must decide which guards to kill first to use their pagers based on the chosen escape vehicle as this will have a significant impact on how the rest of the heist is carried out later on.
+* Once all pagers are used up, the crew must time their killing spree on the remaining guards accordingly before their pager expires.
+** Be mindful of active drones and, if possible, only start shooting once they become inactive and return to their resting positions or kill guards in places where the drones cannot detect corpses to avoid tripping the alarm earlier than desired.
+
+Depending on the size of the crew and the designated escape zone, there are several ways to first make use of all the available 4 pagers to thin out the number of guards and then employ suitable follow-up tactics to handle the remaining ones:
+<ol>
+<li>'''Multiplayer:'''</li>
+<ol style="list-style-type:upper-alpha">
+<li>'''Van:'''</li>
+* Kill all 3 guards in the basement and take out all of the cameras down there if needed, then kill one more guard in the train yard.
+* Start sweeping the whole map from the dockside and shoot through the train yard to the van. At this point, the crew should coordinate their attack and carefully plan the distribution of their members to cover more grounds rather than wing it.
+** At least two players will cover both ends of the train yard, and, while not required but highly recommended, one other player will snipe from the bridge.
+** The crew member(s) near the docks will begin the killing spree by taking out guards in the train yard, especially those under the bridge as the player sniper will not be able to shoot them from the overpass, then running toward the escape zone.
+** Meanwhile, the player on the overpass will scan the whole train yard and snipe any remaining visible guards that the player(s) near the docks may have missed.
+* Alternatively, any 4 guards in the train yard may be killed first, either randomly or based on their patrol routes to make wiping the train yard more manageable and easier to coordinate.
+** In this case, as the rest of the crew work on the last 3-4 guards in the train yard, one player will go down the basement and shoot up all 3 guards then run up the stairs toward the ladder leading up to the surface above near the starting point. So long as the player does not miss a turn in the basement, they should be able to make it to the surface and be back at the van in time.
+</ol>
+<ol style="list-style-type:upper-alpha" start="2">
+<li>'''Boat:'''</li>
+* Kill all 3 guards in the basement and take out all of the cameras down there if needed, then kill one more guard in the train yard.
+* Start from the side of the train yard closest to the starting point and shoot through the area to the riverside.
+** As the escape boat is right by the train yard's side, the crew will only need to distribute every player evenly across the yard to take out the remaining 7-8 guards in a beeline along the trains.
+** After eliminating all guards, the crew will head over the fence facing the river and cut through it, then jump off the ledge onto the water access area below where the escape zone near the boat is.
+* Alternatively, the crew may choose to kill 4 guards in the train yard first, either randomly or based on their patrol routes to make wiping the train yard much more manageable and easier to coordinate.
+** In this case, while the rest of the crew take out the 3-4 remaining guards on the surface, one player in the underground will clear out those 3 guards and hurry toward the waterline access tunnel to the escape boat. Since the path from the basement to the escape boat is much closer than to the escape van, the player should have no problem making it to the escape zone.
+</ol>
+<li>'''Solo:'''</li>
+<ol style="list-style-type:upper-alpha">
+<li>'''Van:'''</li>
+* It is ''imperative'' that all 3 guards in the basement are dealt with first. Otherwise, the player may be forced to restart as it is extremely difficult, even virtually impossible especially on Death Wish+ with the 15-second escape timer, for the player to single-handedly clear both the train yard and the basement and make it to the van in time due to the added travel distance plus the time spent on climbing ladders. Afterward, kill one more guard in the train yard, ideally the one patrolling the cargo underneath the overpass near the fence in the direction of the van.
+* After using up all 4 pagers, the player will then have to snipe the remaining guards from the overpass above the train yard behind the van.
+** The [[Lebensauger .308]] is recommended not only because of its fire rate, but also because it is easy to conceal.
+** Set up 4 Sentry guns (6 with basic [[Engineering]] for the Suppressed version and aced [[Jack Of All Trades]] to bring both versions, along with basic [[Eco Sentry]] to reduce ammo cost for deployment) underneath every end of the train cargos to provide assistance for the player in taking out guards. If done right with good timing and luck, the player can easily take out most guards while the remaining ones underneath the overpass will be handled by Sentry guns before the escape timer runs out.
+</ol>
+<ol style="list-style-type:upper-alpha" start="2">
+<li>'''Boat:'''</li>
+The player will have a couple of tactics to employ depending on the first 4 guards they kill.
+* If killing all 3 guards in the basement first, then, ideally, use the last pager on the guard patrolling the locomotive near the fence in the train yard.
+** The player will have to sweep the remaining 6-7 guards in the train yard. Choose between one end of the train yard underneath the bridge or the other facing the bridge to begin the wipe.
+** Set up Sentry guns on the opposite end of the train yard while the player is positioned on the other end. Make sure to take out any guards in sight on the player's end. If done right with good timing and luck, the player will have cleared out that end of the train yard while the rest of the guards on the other end will have been taken out by the Sentry guns before the escape timer runs out.
+*** Despite their usefulness, the player should still try to kill as many guards in the train yard as possible by themselves instead of relying solely on the Sentry guns.
+* If killing guards in the train yard first, depending on the location of the secluded side room in the basement, the player may have to consider which of the 4 guards on the surface to kill first.
+** The secluded room near the upper bridge — deal with any 4 guards whose patrol routes cover the opposite end of the train yard in the direction of the bridge.
+** The secluded room on the other end of the train yard away from the bridge — deal with any 4 guards whose patrol routes cover the area below the bridge.
+** Either way, the player will need to employ the run and gun tactic on the remaining guards on both floors, starting from one end of the train yard where the guards patrol down to the basement through the nearby access ladder.
+** Once all train yard guards are dealt with, quickly descend the nearest access ladder to the basement, take an immediate turn into the secluded room to take out the lone guard there, preferably using a loud weapon to expose the position of the last 2 guards if the alarm is not yet tripped, then rush through the basement to kill them before heading toward the waterline access tunnel to the escape boat. If done right with good timing and luck, it is possible to single-handedly kill every single guard on the surface and in the underground with a few seconds to spare for the escape.
+*** Trip mines can also be used in the basement beforehand to keep track of the 2 patrolling guards and save the player precious seconds during the final rush.
+** In cases where the player may have difficulty getting into the right position to quickly climb or drop down the ladder, slowing down the player, it is also viable to spend one of the pagers on the isolated guard in the basement's side room. In this scenario, the player will need to shoot through 4-5 guards on the surface but only 2 in the underground, possibly saving even more precious seconds by skipping the secluded room and going straight for the last 2 guards since an extra guard on the surface hardly makes any difference under normal circumstances.
+</ol>
+</ol>
+</tabber>
+
+==Trivia==
+*[[File:494306442.english.ogg|right]][[File:679018682.english.ogg|right]][[File:811962230.english.ogg|right]][[File:924258818.english.ogg|right]][[File:927333876.english.ogg|right]][[File:977746790.english.ogg|right]][[File:1013348230.english.ogg|right]]Like [[Boiling Point]] Murky Station was originally intended to be an [[The Elephant]] heist. Unused voicelines for The Elephant commenting on the heist can still be found in the game's files.
+*Upon securing the bomb parts, [[Bain]] may say "With the EMP parts secured, there is some time to kill before the escape vehicle arrives." Unused lines include the arrival of Twitch in the escape van, while in the released heist the van is where the heist starts and it never leaves the area. It might have been originally intended for the escape van to leave, or a different entry point was used.
+*Right before the heist begins, Bain will mention completing the heist will "earn favors for [[Vernon Locke|Locke]]".
+*The radio in the keycard box plays six songs from [http://overkillsoundtracks.bandcamp.com/ OVERKILL Soundtracks] in a random order:
+**'''[http://overkillsoundtracks.bandcamp.com/track/i-will-give-you-my-all I Will Give You My All]''' by Simon Viklund, heard in the [[Diamond Heist]], [[Big Oil]] Day 1, and the [[Safe House]], and remixes of it in [[Mallcrasher]], [[Nightclub]], and the [[John Wick]] introduction trailer.
+**'''[http://overkillsoundtracks.bandcamp.com/album/im-a-wild-one-2 I'm A Wild One]''' by Pat Briscoe, heard in the [[Armored Transport (DLC)|Armored Transport DLC]] trailer and referenced in the [[GO Bank]] heist.
+**'''[http://overkillsoundtracks.bandcamp.com/track/drifting-single Drifting]''', a single by Pat Briscoe, referenced in [[The Alesso Heist]].
+**'''[http://overkillsoundtracks.bandcamp.com/track/ode-allavidit Ode All'Avidità]''' by Simon Viklund, heard in the [[Big Bank (DLC)|Big Bank DLC]] trailer, and a remix used as the default soundtrack for [[Big Bank|the heist itself]].
+**'''[http://overkillsoundtracks.bandcamp.com/album/this-is-our-time This is Our Time]''' by Miles Malone, heard in the [[Hoxton Breakout]] trailer and referenced in [[The Alesso Heist]].
+**'''[http://overkillsoundtracks.bandcamp.com/track/donacdum Donacdum]''' by Simon Viklund and Carl Norén, the default soundtrack for the [[Lab Rats]] heist.
+*An assault version of the stealth only track, Pulse, was planned but ultimately was never finished. 
+**At Gamescon 2023, Simon Viklund shared a work-in-progress version of this track.<ref>https://youtu.be/kZho6pBbAhc?si=GJlLgBEhlHxbQjXe&t=1071</ref>
+
+==Gallery==
+<gallery hideaddbutton="true">
+20160402212404_1.jpg|Keycards with radio
+20160402212153_1.jpg|Working civilian (Blowtorches inside box)
+20160402213242_1.jpg|Working civilian (Thermite Paste inside box on his right(hardly visible))
+20160402213228_1.jpg|Hard Drives
+20160402204235_1.jpg|Active drone
+20160402214422_1.jpg|Not yet active drone
+20160402212951_1.jpg|Jammed drone
+20160401173446_1.jpg|A Titan drone
+</gallery>
+
+== References ==
+<references/>
+
+{{Navbox PD2 Heists}}
+[[ru:Станция Murkywater]]
+[[Category:Stealth Heists]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Heists contracted by Jimmy]]
+[[Category:Hardcore Henry Heists]]

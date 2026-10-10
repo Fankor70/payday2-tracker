@@ -1,0 +1,606 @@
+{
+ "generated": "2026-10-10",
+ "heists_checked": 19,
+ "heists": [
+  {
+   "page": "GO Bank",
+   "wiki_subpage": "GO Bank",
+   "dataset_count": 16,
+   "wiki_count": 16,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "Heist page carries an inline 9-entry table AND transcludes \"Achievements (Payday 2)/GO Bank\" (10 entries, 3 of them duplicates); the union (16 unique) is the authoritative list. Clean."
+  },
+  {
+   "page": "Diamond Heist (Payday 2)",
+   "wiki_subpage": "DiamondHeist",
+   "dataset_count": 28,
+   "wiki_count": 11,
+   "ok": false,
+   "false_positives": [
+    {
+     "id": 251,
+     "name": "Sparkle Sparkle"
+    },
+    {
+     "id": 283,
+     "name": "Watch Your Steps"
+    },
+    {
+     "id": 313,
+     "name": "Culture Vultures"
+    },
+    {
+     "id": 317,
+     "name": "Not Just Any Diamond"
+    },
+    {
+     "id": 357,
+     "name": "Devil of a Job"
+    },
+    {
+     "id": 367,
+     "name": "Cat Burglar"
+    },
+    {
+     "id": 396,
+     "name": "The Cursed Stone"
+    },
+    {
+     "id": 436,
+     "name": "Day at the Museum"
+    },
+    {
+     "id": 447,
+     "name": "Diamonds in the Rough"
+    },
+    {
+     "id": 621,
+     "name": "Smoke and Mirrors"
+    },
+    {
+     "id": 751,
+     "name": "The Jonssonligan"
+    },
+    {
+     "id": 756,
+     "name": "Honor Among Thieves"
+    },
+    {
+     "id": 835,
+     "name": "Cursed Wealth"
+    },
+    {
+     "id": 1168,
+     "name": "Maybe that Statue is Worth More"
+    },
+    {
+     "id": 1188,
+     "name": "No Heisters Here, Just Us Dinosaurs"
+    },
+    {
+     "id": 1209,
+     "name": "This Hostage Belongs in a Museum"
+    },
+    {
+     "id": 1221,
+     "name": "Worthy of Permanent Display"
+    }
+   ],
+   "missing": [],
+   "note": "Heist page transcludes \"Achievements (Payday 2)/DiamondHeist\" (11 unique). All 17 false positives belong to the SEPARATE heist \"The Diamond\" (13 of them) or are \"Holdout wave\" achievements (4) that the wiki achievements pages do not document at all."
+  },
+  {
+   "page": "Heat Street (Payday 2)",
+   "wiki_subpage": null,
+   "dataset_count": 26,
+   "wiki_count": 11,
+   "ok": false,
+   "false_positives": [
+    {
+     "id": 360,
+     "name": "Babysitters with Assault Rifles"
+    },
+    {
+     "id": 416,
+     "name": "Eye in the Sky"
+    },
+    {
+     "id": 515,
+     "name": "Someone to Watch Over"
+    },
+    {
+     "id": 660,
+     "name": "Guardian Angels"
+    },
+    {
+     "id": 769,
+     "name": "Fierce Protection"
+    },
+    {
+     "id": 861,
+     "name": "Vengeful Rain"
+    },
+    {
+     "id": 960,
+     "name": "Valkyries"
+    },
+    {
+     "id": 961,
+     "name": "A Rendezvous With Destiny"
+    },
+    {
+     "id": 997,
+     "name": "Apartment Sniper"
+    },
+    {
+     "id": 998,
+     "name": "Pass the Ammo"
+    },
+    {
+     "id": 1045,
+     "name": "Once Upon A Time in the Old Neighborhood"
+    },
+    {
+     "id": 1187,
+     "name": "Holdout in the Sun"
+    },
+    {
+     "id": 1208,
+     "name": "A Nice Day for a Hostage Situation"
+    },
+    {
+     "id": 1219,
+     "name": "Sit Them Down on the Curb"
+    },
+    {
+     "id": 1220,
+     "name": "Money on the Asphalt"
+    }
+   ],
+   "missing": [],
+   "note": "The wiki has NO achievements subpage for Heat Street; the authoritative list is the inline achievement table of heist page \"Heat Street (Payday 2)\" (11). 12 of the 16 false positives are Brooklyn 10-10 achievements (a different heist, see the Brooklyn 10-10 row), 4 are Holdout-wave achievements absent from the wiki. No genuinely missing entries."
+  },
+  {
+   "page": "Bank Heist",
+   "wiki_subpage": null,
+   "dataset_count": 46,
+   "wiki_count": 35,
+   "ok": false,
+   "false_positives": [
+    {
+     "id": 1083,
+     "name": "Hide Them in the Vault"
+    },
+    {
+     "id": 1137,
+     "name": "Tie Them to the Chairs"
+    },
+    {
+     "id": 1163,
+     "name": "Would you Rather Be Robbing the Place?"
+    },
+    {
+     "id": 1169,
+     "name": "The Hat of a Mariachi"
+    },
+    {
+     "id": 1176,
+     "name": "Break the ATM"
+    },
+    {
+     "id": 1186,
+     "name": "A Different Level of Scoring"
+    },
+    {
+     "id": 1189,
+     "name": "Scorpions and Negotiators"
+    },
+    {
+     "id": 1195,
+     "name": "Teller Hold"
+    },
+    {
+     "id": 1197,
+     "name": "Seven Mexican Standoffs"
+    },
+    {
+     "id": 1203,
+     "name": "Higher Stock Values"
+    },
+    {
+     "id": 1204,
+     "name": "The Bank Manager Must Be Worth Something"
+    },
+    {
+     "id": 1210,
+     "name": "Federales on the Run"
+    }
+   ],
+   "missing": [
+    "A Good Haul"
+   ],
+   "note": "No dedicated subpage; the authoritative list is the inline table of heist page \"Bank Heist\" (35 entries). All 14 false positives are Holdout-wave achievements that belong to First World Bank / San Martin Bank / Big Bank and that the wiki achievements pages do not list. MISSING: \"A Good Haul\" (any Branch Bank job, secure loot worth at least $400.000) is on the wiki heist page but has no id in heists[].ids."
+  },
+  {
+   "page": "Transport",
+   "wiki_subpage": null,
+   "dataset_count": 59,
+   "wiki_count": 43,
+   "ok": false,
+   "false_positives": [
+    {
+     "id": 88,
+     "name": "Heat Around the Corner"
+    },
+    {
+     "id": 163,
+     "name": "The Little Heister That Could"
+    },
+    {
+     "id": 176,
+     "name": "We're Gonna Need a Bigger Boat"
+    },
+    {
+     "id": 302,
+     "name": "Let Them Watch"
+    },
+    {
+     "id": 319,
+     "name": "Modern Train Robbers"
+    },
+    {
+     "id": 397,
+     "name": "Off the Rails"
+    },
+    {
+     "id": 448,
+     "name": "Choo Choo"
+    },
+    {
+     "id": 471,
+     "name": "Because of Training"
+    },
+    {
+     "id": 505,
+     "name": "License to Kill"
+    },
+    {
+     "id": 513,
+     "name": "3:10 to the Safe House"
+    },
+    {
+     "id": 683,
+     "name": "Affordable Healthcare"
+    },
+    {
+     "id": 708,
+     "name": "I'm Not a Crook!"
+    },
+    {
+     "id": 709,
+     "name": "Fool Me Once, Shame on -Shame on You. Fool Me - You Can't Get Fooled Again"
+    },
+    {
+     "id": 727,
+     "name": "I Did Not Have Sexual Relations With That Bulldozer"
+    },
+    {
+     "id": 768,
+     "name": "A Good Old Fashioned Train Robbery"
+    },
+    {
+     "id": 851,
+     "name": "Gravy Train"
+    },
+    {
+     "id": 1052,
+     "name": "All The Noise and The Hurry"
+    }
+   ],
+   "missing": [],
+   "note": "No subpage matches the Transport heist page (\"Achievements (Payday 2)/ArmoredTransport\" holds only 22 of the 43). False positives are Transport: Train Heist achievements (a sibling heist the dataset lists separately), 5 global mask/weapon achievements (Heat Around the Corner, License to Kill, Affordable Healthcare, I am Not a Crook!, Fool Me Once..., I Did Not Have Sexual Relations With That Bulldozer) and 2 entries that are real in-game achievements the wiki heist page simply omits/spells differently (\"All The Noise and The Hurry\"; \"Urban Hiking\" = wiki \"Urban Hikeing\", wiki also lists both \"Making My Way Downtown\" and \"Makin' My Way Downtown\")."
+  },
+  {
+   "page": "First World Bank (Payday 2)",
+   "wiki_subpage": null,
+   "dataset_count": 21,
+   "wiki_count": 17,
+   "ok": false,
+   "false_positives": [
+    {
+     "id": 1083,
+     "name": "Hide Them in the Vault"
+    },
+    {
+     "id": 1137,
+     "name": "Tie Them to the Chairs"
+    },
+    {
+     "id": 1163,
+     "name": "Would you Rather Be Robbing the Place?"
+    },
+    {
+     "id": 1186,
+     "name": "A Different Level of Scoring"
+    }
+   ],
+   "missing": [],
+   "note": "No dedicated subpage; authoritative list is the inline table of the heist page (17). All 4 false positives are Holdout-wave achievements that the wiki does not document."
+  },
+  {
+   "page": "No Mercy (Payday 2)",
+   "wiki_subpage": "No Mercy",
+   "dataset_count": 11,
+   "wiki_count": 11,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "Heist page transcludes \"Achievements (Payday 2)/No Mercy\" (12 entries, 1 duplicate, 11 unique). Clean."
+  },
+  {
+   "page": "Panic Room (Payday 2)",
+   "wiki_subpage": "Panic Room",
+   "dataset_count": 12,
+   "wiki_count": 12,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "Heist page transcludes \"Achievements (Payday 2)/Panic Room\" (13 entries, 1 duplicate, 12 unique). Clean."
+  },
+  {
+   "page": "Slaughterhouse (Payday 2)",
+   "wiki_subpage": null,
+   "dataset_count": 13,
+   "wiki_count": 13,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "No dedicated subpage; authoritative list is the inline table of heist page \"Slaughterhouse (Payday 2)\" (13). Clean. (\"Achievements (Payday 2)/TSIRRDay3\" is a mixed DLC-day page, not heist specific.)"
+  },
+  {
+   "page": "Counterfeit (Payday 2)",
+   "wiki_subpage": null,
+   "dataset_count": 13,
+   "wiki_count": 13,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "No dedicated subpage; authoritative list is the inline table of heist page \"Counterfeit (Payday 2)\" (13). Clean. (\"Achievements (Payday 2)/Wolf Pack\" only holds the Death Wish subset.)"
+  },
+  {
+   "page": "Undercover (Payday 2)",
+   "wiki_subpage": null,
+   "dataset_count": 13,
+   "wiki_count": 13,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "No dedicated subpage; authoritative list is the inline table of heist page \"Undercover (Payday 2)\" (13). Clean."
+  },
+  {
+   "page": "Green Bridge (Payday 2)",
+   "wiki_subpage": null,
+   "dataset_count": 12,
+   "wiki_count": 12,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "No dedicated subpage; authoritative list is the inline table of heist page \"Green Bridge (Payday 2)\" (13 entries, \"I Felt Bad For Him\" duplicated). Effectively clean - the only difference from the dataset is punctuation/capitalisation of \"Jack the Ripper's Prison Slippers!\" vs \"Jack the Rippers, Prison Slippers!\"."
+  },
+  {
+   "page": "Art Gallery",
+   "wiki_subpage": null,
+   "dataset_count": 12,
+   "wiki_count": 12,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "No dedicated subpage; authoritative list is the inline table of heist page \"Art Gallery\" (12). Clean."
+  },
+  {
+   "page": "Boiling Point",
+   "wiki_subpage": null,
+   "dataset_count": 13,
+   "wiki_count": 14,
+   "ok": false,
+   "false_positives": [],
+   "missing": [
+    "This is WAR Baby!"
+   ],
+   "note": "No dedicated subpage; authoritative list is the inline table of heist page \"Boiling Point\" (14). MISSING: \"This is WAR Baby!\" (complete Boiling Point on Death Sentence with One Down) is on the wiki but has no id in heists[].ids. Also note \"Red Snow\" is shared with the Hardcore Henry page."
+  },
+  {
+   "page": "Murky Station",
+   "wiki_subpage": null,
+   "dataset_count": 14,
+   "wiki_count": 14,
+   "ok": true,
+   "false_positives": [],
+   "missing": [],
+   "note": "No dedicated subpage; authoritative list is the inline table of heist page \"Murky Station\" (18 entries, 4 duplicates, 14 unique). Clean. (\"Achievements (Payday 2)/Hardcore Henry\" holds only 13 and mixes in Henry's Rock.)"
+  },
+  {
+   "page": "The Big Bank",
+   "wiki_subpage": "Big Bank",
+   "dataset_count": 22,
+   "wiki_count": 18,
+   "ok": false,
+   "false_positives": [
+    {
+     "id": 1176,
+     "name": "Break the ATM"
+    },
+    {
+     "id": 1195,
+     "name": "Teller Hold"
+    },
+    {
+     "id": 1203,
+     "name": "Higher Stock Values"
+    },
+    {
+     "id": 1204,
+     "name": "The Bank Manager Must Be Worth Something"
+    }
+   ],
+   "missing": [],
+   "note": "Checked as a companion of Bank Heist. Heist page transcludes \"Achievements (Payday 2)/Big Bank\" and adds 3 inline entries (18 unique). False positives are Holdout-wave achievements of other banks."
+  },
+  {
+   "page": "Brooklyn 10-10",
+   "wiki_subpage": null,
+   "dataset_count": 26,
+   "wiki_count": 11,
+   "ok": false,
+   "false_positives": [
+    {
+     "id": 186,
+     "name": "The Heat's Around the Corner"
+    },
+    {
+     "id": 292,
+     "name": "Hard Street"
+    },
+    {
+     "id": 453,
+     "name": "Washington City Marathon"
+    },
+    {
+     "id": 659,
+     "name": "Ghetto Bonfire"
+    },
+    {
+     "id": 788,
+     "name": "We Don't Need No Water..."
+    },
+    {
+     "id": 845,
+     "name": "It's Nice to be Nice"
+    },
+    {
+     "id": 887,
+     "name": "Running the Gauntlet"
+    },
+    {
+     "id": 978,
+     "name": "Hills Street Blues"
+    },
+    {
+     "id": 979,
+     "name": "Zookeeper"
+    },
+    {
+     "id": 988,
+     "name": "Patience is Key"
+    },
+    {
+     "id": 1072,
+     "name": "Sticky Asphalt"
+    },
+    {
+     "id": 1187,
+     "name": "Holdout in the Sun"
+    },
+    {
+     "id": 1208,
+     "name": "A Nice Day for a Hostage Situation"
+    },
+    {
+     "id": 1219,
+     "name": "Sit Them Down on the Curb"
+    },
+    {
+     "id": 1220,
+     "name": "Money on the Asphalt"
+    }
+   ],
+   "missing": [],
+   "note": "Checked as a companion of Heat Street. No dedicated subpage; authoritative list is the inline table of heist page \"Brooklyn 10-10\" (11). All 15 false positives are Heat Street achievements."
+  },
+  {
+   "page": "The Diamond",
+   "wiki_subpage": "The Diamond Heist",
+   "dataset_count": 27,
+   "wiki_count": 13,
+   "ok": false,
+   "false_positives": [
+    {
+     "id": 117,
+     "name": "Valuable Ornaments"
+    },
+    {
+     "id": 234,
+     "name": "Some Very Expensive Rocks"
+    },
+    {
+     "id": 352,
+     "name": "Costly Gems"
+    },
+    {
+     "id": 456,
+     "name": "Precious Stones"
+    },
+    {
+     "id": 639,
+     "name": "Shiny Pieces of Carbon"
+    },
+    {
+     "id": 772,
+     "name": "Well Guarded Jewels"
+    },
+    {
+     "id": 834,
+     "name": "Bad Code"
+    },
+    {
+     "id": 850,
+     "name": "Blood Diamond"
+    },
+    {
+     "id": 917,
+     "name": "A Hard Won Price"
+    },
+    {
+     "id": 1039,
+     "name": "The Hunt for the Blue Sapphires"
+    },
+    {
+     "id": 1168,
+     "name": "Maybe that Statue is Worth More"
+    },
+    {
+     "id": 1188,
+     "name": "No Heisters Here, Just Us Dinosaurs"
+    },
+    {
+     "id": 1209,
+     "name": "This Hostage Belongs in a Museum"
+    },
+    {
+     "id": 1221,
+     "name": "Worthy of Permanent Display"
+    }
+   ],
+   "missing": [],
+   "note": "Checked as the heist the Diamond Heist false positives really belong to. Heist page transcludes \"Achievements (Payday 2)/The Diamond Heist\" (7 unique) and adds 7 inline entries (13 unique). All 14 false positives are Diamond Heist (Payday 2) achievements plus Holdout-wave achievements."
+  },
+  {
+   "page": "Hotline Miami",
+   "wiki_subpage": "Hotline Miami",
+   "dataset_count": 13,
+   "wiki_count": 14,
+   "ok": false,
+   "false_positives": [],
+   "missing": [
+    "+1 (786) 519-3708"
+   ],
+   "note": "Heist page transcludes \"Achievements (Payday 2)/Hotline Miami\" (8 unique) and adds 7 inline entries (14 unique). MISSING: \"+1 (786) 519-3708\" (Hotline Miami pro job on Death Wish). The one false positive is a name-only difference (\"*Click*\")."
+  }
+ ],
+ "summary": {
+  "total_false_positives": 98,
+  "total_missing": 3
+ }
+}

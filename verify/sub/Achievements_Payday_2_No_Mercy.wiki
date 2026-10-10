@@ -1,0 +1,23 @@
+<tabber>Permanent Achievements=
+{{Achievement|Just Some Medical Students|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the Normal difficulty or above.}}
+{{Achievement|Interns on the Floor|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the Hard difficulty or above.}}
+{{Achievement|Becoming Residents|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the Very Hard difficulty or above.}}
+{{Achievement|A General Practitioner of the Medical Art|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the OVERKILL difficulty or above.}}
+{{Achievement|A Couple of Fellows|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the Mayhem difficulty or above.}}
+{{Achievement|Attending the Ill and Sick|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the Death Wish difficulty or above.}}
+{{Achievement|Consulting the Chief Physician|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the Death Sentence difficulty.}}
+{{Achievement|Filing for Malpractice|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Keeping the Cool|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] job on the hard difficulty or above without raising the alarm before reaching the ICU.}}
+{{Achievement|Nyctophobia|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] on the hard difficulty or above, getting the power back up within 5 seconds of it being shut down.}}
+{{Achievement|...or was it the blue one|jpg|In the [[No Mercy (Payday 2)|No Mercy]] job, cut the correct wire opening the ICU door security system.}}
+|-|Teaser=
+|-|Guide=
+{{Achievement|Nyctophobia|jpg|Complete the [[No Mercy (Payday 2)|No Mercy]] on the hard difficulty or above, getting the power back up within 5 seconds of it being shut down.}}
+*'''Note:''' This achievement can only be attempted before the elevator arrives, as the police will no longer try to shut down the power once it does.
+** Some players have reported it only being possible to unlock this achievement by restoring power within 5 seconds of it being cut the first time. Missing this window may render the achievement void even if power is restored on time on subsequent cuts.
+** Due to desync, it is preferable that the host be the one to turn the power back on.
+*As the minimum difficulty requirement for this achievement is Hard, the team could assign one to two players guarding the circuit breakers in the dining area, as the rest can be covered quite easily by standing ground in the ICU hallway with one member watching the elevator.
+|-|Trivia=
+*'''Nyctophobia''' is the irrational fear of darkness, which is a paraphrase of '''[[Achievements|Afraid of the dark]]''', the ''[[PAYDAY: The Heist]]'' equivalent of this achievement.
+</tabber>
+[[Category:PAYDAY 2]]

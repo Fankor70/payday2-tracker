@@ -1,0 +1,20 @@
+<tabber>Achievements=
+{{Achievement|Friendship Frozen|jpg|Complete the Alaskan Deal job on the Normal difficulty or above.}}
+{{Achievement|Chilly Deception|jpg|Complete the Alaskan Deal job on the Hard difficulty or above.}}
+{{Achievement|Ice Cold Treachery|jpg|Complete the Alaskan Deal job on the Very Hard difficulty or above.}}
+{{Achievement|A Cold Deal|jpg|Complete the Alaskan Deal job on the Overkill difficulty or above.}}
+{{Achievement|Snowy Deceit|jpg|Complete the Alaskan Deal job on the Mayhem difficulty or above.}}
+{{Achievement|Arctic Backstab|jpg|Complete the Alaskan Deal job on the Death Wish difficulty or above.}}
+{{Achievement|Boreal Betrayal|jpg|Complete the Alaskan Deal job on the Death Sentence difficulty or above.}}
+{{Achievement|Treason in Alaskan|jpg|Complete the Alaskan Deal job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Global Warming|jpg|Complete the Alaskan Deal job with all crew members using only Flamethrowers.}}
+{{Achievement|Headless Snowman|jpg|In the Alaskan Deal job find and shoot the heads off on all the snowmen.}}
+{{Achievement|The Fuel Must Flow|jpg|In the Alaskan Deal job don't let the cops cut off flow of fuel from the tank to the ship on OVERKILL difficulty or above.}}
+{{Achievement|There Was Room For Two|jpg|In the Alaskan Deal job shoot the swat{{sic}} that is hanging on to the door out in the water.}}
+|-|Trivia=
+*The name, icon and requirement for '''There Was Room For Two''' are a reference to the much-debated scene in James Cameron's 1997 film {{W|Titanic (1997 film)|''Titanic''}}, in which the protagonist Jack refuses to climb aboard the wooden plank Rose was lying on over the fears that their combined weight will cause it to sink, which has since been debunked.
+**Despite what's stated in the requirement, the policemen in question are not SWAT members, and use the model of regular kevlar-vested DCPD officers instead.
+**The cops are internally named Kate and Leo, as a reference to actors {{W|Kate Winslet}} and {{W|Leonardo DiCaprio}}, who played Rose and Jack in the movie, respectively.
+**The debug message for this achievement reads "GOT TITANIC ACHIEVEMENT".
+</tabber>
+[[Category:PAYDAY 2]]

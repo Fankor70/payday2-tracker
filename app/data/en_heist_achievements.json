@@ -1,0 +1,3139 @@
+{
+ "Art Gallery": [
+  {
+   "name": "Heisting By Numbers",
+   "desc": "Complete the Art Gallery heist on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Art Attack",
+   "desc": "Complete the Art Gallery heist on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Art Lovers",
+   "desc": "Complete the Art Gallery heist on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Stealing Is a Form of Art",
+   "desc": "Complete the Art Gallery heist on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "I Know What I Like",
+   "desc": "Complete the Art Gallery heist on the Mayhem difficulty or above",
+   "crew4": false
+  },
+  {
+   "name": "State of the Art",
+   "desc": "Complete the Art Gallery heist on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Connoisseurs of the Fine Arts",
+   "desc": "Complete the Art Gallery heist on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Painting with Blood",
+   "desc": "Complete the Art Gallery heist on the Death Sentence with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Masterpiece",
+   "desc": "In the Art Gallery heist, secure all paintings in stealth without killing any security guards.",
+   "crew4": false
+  },
+  {
+   "name": "The Turtle Always Wins",
+   "desc": "In the Art Gallery job, complete the heist in stealth within 4 minutes with each crew member wearing the Improved Combined Tactical Vest and no Armor Kit deployable equipped. Unlocks the \"Classic Stock\" for the AK weapon family, \"2 Piece Stock\" for the AK and CAR weapon families, \"Pachy\" mask, \"Fossil\" material and \"Prehistoric Predator\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "The Wolf Lures You to Your Grave",
+   "desc": "In the Art Gallery job, kill two of the patrolling guards in stealth in the bathroom. Unlocks the \"E.M.O. Foregrip\" and the \"OVAL Foregrip\" for the CAR weapon family and the \"Aftermarket Shorty\" for the PARA submachine gun.",
+   "crew4": false
+  },
+  {
+   "name": "Van Gogh to Hell",
+   "desc": "In the Art Gallery heist, throw a painting onto a toilet.",
+   "crew4": false
+  }
+ ],
+ "Bank Heist": [
+  {
+   "name": "Saint Francis",
+   "desc": "Complete the Bank Heist job after finding the 2 punks in the parking lot and bringing them next to the van, without letting them get away or die on the OVERKILL difficulty or above.Can also be done on Firestarter Day 3.",
+   "crew4": false
+  },
+  {
+   "name": "The Only One That Is True",
+   "desc": "In the Bank Heist or the Jewelry Store Jobs, find and pick up the five hidden Bullet Trophies. Unlocks “The Bullet” mask.Can also be done on Firestarter Day 3.",
+   "crew4": false
+  },
+  {
+   "name": "A Good Haul",
+   "desc": "In any Branch Bank job, secure loot bags for a value of at least $400.000.",
+   "crew4": false
+  },
+  {
+   "name": "Bank Robbery for Dummies",
+   "desc": "Complete the Bank Heist: Random job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Random Access Larceny",
+   "desc": "Complete the Bank Heist: Random job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Trustee Robbers",
+   "desc": "Complete the Bank Heist: Random job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Winning the Loottery",
+   "desc": "Complete the Bank Heist: Random job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Show me the Money",
+   "desc": "Complete the Bank Heist: Random job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Because That’s Where the Money Is",
+   "desc": "Complete the Bank Heist: Random job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hey, It Looks Like You are Robbing a Bank",
+   "desc": "Complete the Bank Heist: Random job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Return on Investment",
+   "desc": "Complete the Bank Heist: Random job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "No Thermal Drill was Harmed During the Heist",
+   "desc": "Complete the Bank Heist: Cash job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Harvest & Not So Trustee",
+   "desc": "Complete the Bank Heist: Cash job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Waddles of Cash",
+   "desc": "Complete the Bank Heist: Cash job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Dolla Dolla Dolla Bling Bling!",
+   "desc": "Complete the Bank Heist: Cash job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Cash Only Please",
+   "desc": "Complete the Bank Heist: Cash job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Cash Is King",
+   "desc": "Complete the Bank Heist: Cash job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Rich Man's World",
+   "desc": "Complete the Bank Heist: Cash job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "All About the Green",
+   "desc": "Complete the Bank Heist: Cash job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Lockpicker",
+   "desc": "Complete the Bank Heist: Deposit job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Taking a Deposit",
+   "desc": "Complete the Bank Heist: Deposit job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Master of Unlocking",
+   "desc": "Complete the Bank Heist: Deposit job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Veni, Saw, Vici",
+   "desc": "Complete the Bank Heist: Deposit job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Keep on Boxing",
+   "desc": "Complete the Bank Heist: Deposit job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Yes Hello, I’d Like to Make a De-paws-it",
+   "desc": "Complete the Bank Heist: Deposit job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Lockpicking Masters",
+   "desc": "Complete the Bank Heist: Deposit job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Just one more",
+   "desc": "Complete the Bank Heist: Deposit job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Taking the Bars",
+   "desc": "Complete the Bank Heist: Gold job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "We are Golden",
+   "desc": "Complete the Bank Heist: Gold job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Goldmember",
+   "desc": "Complete the Bank Heist: Gold job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Came for the Money, Stayed for the Gold",
+   "desc": "Complete the Bank Heist: Gold job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Gold Rush",
+   "desc": "Complete the Bank Heist: Gold job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Striking Gold",
+   "desc": "Complete the Bank Heist: Gold job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Nothing Glitters Like Gold",
+   "desc": "Complete the Bank Heist: Gold job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Fort Knoxed Down",
+   "desc": "Complete the Bank Heist: Gold job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Big Oil": [
+  {
+   "name": "I Knew What I Did Was Wrong",
+   "desc": "On day 1 of the Big Oil job, enter the basement, open the ATM machines and take the loot.",
+   "crew4": false
+  },
+  {
+   "name": "Doctor Fantastic",
+   "desc": "On day 2 of the Big Oil job, complete the heist with the first engine being correct.",
+   "crew4": false
+  },
+  {
+   "name": "Dr. Miserable",
+   "desc": "On day 2 of the Big Oil job, complete the heist with the last engine being correct on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "House Keeping",
+   "desc": "In the Big Oil job, complete day one in stealth on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Boston Saints",
+   "desc": "Complete the Big Oil job, with at least one other player, all using suits and Akimbo Bernetti 9 Pistols on the OVERKILL difficulty or above.This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements on with the Difficulties & Sniper Beta 1.3 update.",
+   "crew4": false
+  },
+  {
+   "name": "A Junkyard Full Of Junkies",
+   "desc": "On day 1 of the Big Oil job, kill all of the bikers within 1 minute of the heist starting.",
+   "crew4": false
+  },
+  {
+   "name": "Damn it, Bile...",
+   "desc": "On day 2 of the Big Oil job, have Bile trigger the alarm.",
+   "crew4": false
+  },
+  {
+   "name": "Throw Some Oil on the Fire",
+   "desc": "Complete the Big Oil job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Basic Capitalism",
+   "desc": "Complete the Big Oil job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Diesel is My Juice",
+   "desc": "Complete the Big Oil job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Black Gold",
+   "desc": "Complete the Big Oil job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Who Killed the Lights?",
+   "desc": "Complete the Big Oil job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Changing the World...",
+   "desc": "Complete the Big Oil job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Slick Heisting",
+   "desc": "Complete the Big Oil job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Dirty Energy",
+   "desc": "Complete the Big Oil job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Car Shop": [
+  {
+   "name": "Tag, You're It!",
+   "desc": "In the Car Shop job, be the first player in a four-man crew to reach the docks.",
+   "crew4": true
+  },
+  {
+   "name": "Gone in 240 Seconds",
+   "desc": "In the Car Shop job, complete the heist within 4 minutes. Unlocks \"The Tids\" mask.",
+   "crew4": false
+  },
+  {
+   "name": "Are We There Yet?",
+   "desc": "Complete the Car Shop job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Student Driver",
+   "desc": "Complete the Car Shop job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Burning Rubber",
+   "desc": "Complete the Car Shop job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Drive It Like You Stole It",
+   "desc": "Complete the Car Shop job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "You've Got a Fast Car",
+   "desc": "Complete the Car Shop job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "High Octane",
+   "desc": "Complete the Car Shop heist on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Petrolhead",
+   "desc": "Complete the Car Shop job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Long Gone",
+   "desc": "Complete the Car Shop job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Counterfeit (Payday 2)": [
+  {
+   "name": "Ink, Paper, Roll Out the Dough",
+   "desc": "Complete the Counterfeit job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hidden in Plain Sight",
+   "desc": "Complete the Counterfeit job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "False Economy",
+   "desc": "Complete the Counterfeit job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "DIY Payment",
+   "desc": "Complete the Counterfeit job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Pool Party",
+   "desc": "Complete the Counterfeit job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Under Pressure",
+   "desc": "Complete the Counterfeit job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "An incident Over on Keel Street",
+   "desc": "Complete the Counterfeit job on the Death Sentence difficulty",
+   "crew4": false
+  },
+  {
+   "name": "Bodhi's Pool Repair Crew",
+   "desc": "Complete the Counterfeit job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Basement Dwellers",
+   "desc": "Don't let the cops enter the printing room on the Counterfeit job until the safe is opened on OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Crowd Control",
+   "desc": "On the Counterfeit job, have all civilians as hostages until the safe is opened.",
+   "crew4": false
+  },
+  {
+   "name": "Cutting the Red Wire",
+   "desc": "Disarm the C4 on the Counterfeit job on the OVERKILL difficulty or above. Unlocks the \"Dragon Head\" mask, \"Days\" material and \"Kurbits\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Dr. Evil",
+   "desc": "Print and secure $1,000,000 worth of counterfeit money* in the Helicopter** on the Counterfeit job. Unlocks the \"Viking\" mask, \"Houndstooth\" material and \"Fenris\" pattern.*37 bags on Normal, 19 on Hard, 14 on Very Hard, 9 on Overkill, 6 on Mayhem, 5 on Death Wish, 4 on Death Sentence.**Bags secured by holding them while escaping will count towards this achievement.",
+   "crew4": false
+  },
+  {
+   "name": "Why?",
+   "desc": "On the Counterfeit job, place a body bag on the grill.",
+   "crew4": false
+  }
+ ],
+ "Diamond Store": [
+  {
+   "name": "The One Who Declared Himself the Hero",
+   "desc": "In the Hoxton Breakout Day 1 Heist or the Diamond Store Job, find and pick up the five hidden Cultist Trophies. Unlocks “The Cultist” mask.",
+   "crew4": false
+  },
+  {
+   "name": "Hostage Situation",
+   "desc": "In the Diamond Store job, don't let any civilians escape, die or leave the Diamond store. Until all bags of loot from the diamond store are secured on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Being Precious",
+   "desc": "Complete the Diamond Store job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Diamond Dozen",
+   "desc": "Complete the Diamond Store job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Diamonds, Rubies, Sapphires, Emeralds: I Take Them All",
+   "desc": "Complete the Diamond Store job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Diamonds Are a Heister's Best Friend",
+   "desc": "Complete the Diamond Store job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Truly Outrageous",
+   "desc": "Complete the Diamond Store job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Tough As Diamonds",
+   "desc": "Complete the Diamond Store job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Stealing and Dealing",
+   "desc": "Complete the Diamond Store job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Bag Throwing Simulator",
+   "desc": "Complete the Diamond Store job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Election Day": [
+  {
+   "name": "Reputation Beyond Reproach",
+   "desc": "In the Breaking Ballot heist in the Election Day job, complete the heist with you and your four man crew without letting anyone getting downed, cloaked or cuffed on the Death Wish difficulty or above.",
+   "crew4": true
+  },
+  {
+   "name": "Speedlock Holmes",
+   "desc": "On day 1 of the Election Day job, tag the right truck and leave within a minute of the start of the heist.",
+   "crew4": false
+  },
+  {
+   "name": "Don't Forget to Vote!",
+   "desc": "Complete the Election Day job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Your Vote Matters!",
+   "desc": "Complete the Election Day job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Most Honest Political Move",
+   "desc": "Complete the Election Day job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Democracy in Action",
+   "desc": "Complete the Election Day job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "4 More Years",
+   "desc": "Complete the Election Day job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Suporting Your Candiate",
+   "desc": "Complete the Election Day job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Only Losers Play Fair",
+   "desc": "Complete the Election Day job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Firestarter": [
+  {
+   "name": "Hector's Heroes",
+   "desc": "Complete the Firestarter job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Playing With Matches",
+   "desc": "Complete the Firestarter job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Flame War",
+   "desc": "Complete the Firestarter job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Burning Love for Loot",
+   "desc": "Complete the Firestarter job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Fat of the Land",
+   "desc": "Complete the Firestarter job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "I'm a Firestarter",
+   "desc": "Complete the Firestarter job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Some People Want to See the World Burn",
+   "desc": "Complete the Firestarter job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Got Money to Burn",
+   "desc": "Complete the Firestarter job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "For Daisy",
+   "desc": "Finish the Firestarter job on the OVERKILL difficulty or above with your crew only using the Contractor pistol. Unlocks the \"Daisy\" mask, \"Dog Fur\" material and \"Daisies\" pattern.This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements on with the Difficulties & Sniper Beta 1.3 update.",
+   "crew4": false
+  },
+  {
+   "name": "Guessing Game",
+   "desc": "On day 2 of the Firestarter job, complete the heist in stealth without hacking the computer.",
+   "crew4": false
+  },
+  {
+   "name": "Here Comes the Pain Train",
+   "desc": "In the Firestarter job, complete the heist on OVERKILL difficulty or above, with all days done in loud and with a crew of 4 players using unmodified \"AK Rifle\" rifles and \"PARA\" submachine guns. Unlocks the \"DMR Kit AK.762\" and the \"Low Drag Magazine\" for the AK weapon family, \"Timothy\" mask, \"Prehistorical\" material and \"Dinosaur Stripes\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "It's Getting Hot in Here",
+   "desc": "In the Firestarter job, complete day 3 with you and your crew staying inside the vault while all of the money burns out on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Lord of War",
+   "desc": "On day 1 of the Firestarter job, steal all the weapons from the hangar.",
+   "crew4": false
+  },
+  {
+   "name": "The First Line",
+   "desc": "On day 3 of the Firestarter job, find the rare hockey poster of the OVERKILL hockey team.",
+   "crew4": false
+  },
+  {
+   "name": "Wasteful",
+   "desc": "In the Firestarter job, complete day one having burned all weapons on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "You Can Run, but Not Hide",
+   "desc": "Find and secure the goat in the Firestarter heist on the OVERKILL difficulty or above.From January 27, 2016, to June 2, 2016, awarded one Goat safe and drill.",
+   "crew4": false
+  },
+  {
+   "name": "Saint Francis",
+   "desc": "Complete the Bank Heist job after finding the 2 punks in the parking lot and bringing them next to the van, without letting them get away or die on the OVERKILL difficulty or above.Can also be done on Firestarter Day 3.",
+   "crew4": false
+  },
+  {
+   "name": "Into the Lion’s Den",
+   "desc": "Complete the Firestarter pro job on the Death Wish difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Guessing Game",
+   "desc": "On day 2 of the Firestarter job, complete the heist in stealth without hacking the computer.",
+   "crew4": false
+  }
+ ],
+ "First World Bank (Payday 2)": [
+  {
+   "name": "I Would Like to Speak to the Manager",
+   "desc": "Complete the First World Bank job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Sense of Déjà Vu",
+   "desc": "Complete the First World Bank job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "First Robbed Bank",
+   "desc": "Complete the First World Bank job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Listen Up! This Is a Robbery!",
+   "desc": "Complete the First World Bank job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Just Walk Straight Into the Bank",
+   "desc": "Complete the First World Bank job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "CVL+",
+   "desc": "Complete the First World Bank heist on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bank on Me",
+   "desc": "Complete the First World Bank job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "First World Problems",
+   "desc": "Complete the First World Bank job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Au Ticket",
+   "desc": "In the First World Bank job, find the Titan Safe and collect the special item inside.From October 22nd, 2015, to January 14th, 2016, awarded one First World safe and drill.",
+   "crew4": false
+  },
+  {
+   "name": "Cloaker Fear",
+   "desc": "Finish the First World Bank job on the OVERKILL difficulty or above by securing all additional money bags while not using the loot vent bag shortcut for the additional money bags.",
+   "crew4": false
+  },
+  {
+   "name": "Down Payment",
+   "desc": "On the First World Bank job, kill the bank manager with the Money Bundle melee weapon.",
+   "crew4": false
+  },
+  {
+   "name": "Federal Assurance",
+   "desc": "In the First World Bank job, kill all Bulldozers in the vault within 30 seconds after jumping down the hole.",
+   "crew4": false
+  },
+  {
+   "name": "Hidden Hostages",
+   "desc": "Finish the First World Bank job with 6 or more hostages alive behind the wall by the elevators in the main lobby.",
+   "crew4": false
+  },
+  {
+   "name": "1337",
+   "desc": "Complete the First World Bank job in stealth under 13 minutes and 37 seconds.",
+   "crew4": false
+  },
+  {
+   "name": "Original Heisters",
+   "desc": "In the First World Bank job, complete the heist from start on the OVERKILL difficulty or above with a full player lobby using all 4 characters from the PAYDAY: The Heist crew, Reinfeld Shotguns and Bernetti 9 Pistols.This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements with the Difficulties & Sniper Beta 1.3 update.",
+   "crew4": true
+  },
+  {
+   "name": "OVERDRILL",
+   "desc": "In the First World Bank job, solve the PAYDAY: The Heist secret on the Death Wish difficulty or above and enter the OVERVAULT. To complete this challenge, you have to have played the heist from start to end.",
+   "crew4": false
+  },
+  {
+   "name": "The One That Had Many Names",
+   "desc": "In the Shadow Raid or the First World Bank Jobs, find and pick up the five hidden Robot Trophies. Unlocks \"The Robot” mask.",
+   "crew4": false
+  }
+ ],
+ "Four Stores": [
+  {
+   "name": "Cash or Credit",
+   "desc": "Complete the Four Stores job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Shoplifter",
+   "desc": "Complete the Four Stores job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Five Finger Discount",
+   "desc": "Complete the Four Stores job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Stomping Grounds",
+   "desc": "Complete the Four Stores job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Window Shopper",
+   "desc": "Complete the Four Stores job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Becoming a Regular",
+   "desc": "Complete the Four Stores job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Four Heister Discount",
+   "desc": "Complete the Four Stores job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Platinum Card",
+   "desc": "Complete the Four Stores job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Yeah He's a Gold Digger",
+   "desc": "In the Four Stores job, find a gold bar in a safe.",
+   "crew4": false
+  },
+  {
+   "name": "The One That Survived",
+   "desc": "In the GO Bank or the Four Stores Jobs, find and pick up the five hidden Marine Trophies. Unlocks “The Marine” mask.",
+   "crew4": false
+  }
+ ],
+ "Green Bridge (Payday 2)": [
+  {
+   "name": "Taking the High Road",
+   "desc": "Complete the Green Bridge job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Breaking the Four-Piece Suit",
+   "desc": "Complete the Green Bridge job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Rabbit Ride",
+   "desc": "Complete the Green Bridge job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Bridge Too Far!",
+   "desc": "Complete the Green Bridge job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Jack the Ripper's Prison Slippers!",
+   "desc": "Complete the Green Bridge job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Jack Rabbit Parole",
+   "desc": "Complete the Green Bridge job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Thank You for Flying With OVERKILL Airline",
+   "desc": "Complete the Green Bridge job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Beat the Shield",
+   "desc": "Complete the Green Bridge job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "I Felt Bad For Him",
+   "desc": "On the Green Bridge job, leave a doctor bag for the dead man in a suit.",
+   "crew4": false
+  },
+  {
+   "name": "Caution! Wet Floors",
+   "desc": "On the Green Bridge job, on the OVERKILL difficulty or above finish the heist having never touched the ground while escorting the convict from the van to the scaffolding.",
+   "crew4": false
+  },
+  {
+   "name": "Back to Prison",
+   "desc": "On the Green Bridge job, free and then zip-tie all extra prisoners from the prison vans. You need to have played from the start.",
+   "crew4": false
+  },
+  {
+   "name": "Attacked Helicopter",
+   "desc": "In the Green Bridge job, kill the helicopter turret before the plane picks up the prisoner on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "I Felt Bad For Him",
+   "desc": "On the Green Bridge job, leave a doctor bag for the dead man in a suit.",
+   "crew4": false
+  }
+ ],
+ "Heat Street (Payday 2)": [
+  {
+   "name": "The Heat's Around the Corner",
+   "desc": "Complete the Heat Street job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hard Street",
+   "desc": "Complete the Heat Street job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Washington City Marathon",
+   "desc": "Complete the Heat Street job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Ghetto Bonfire",
+   "desc": "Complete the Heat Street job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "We Don't Need No Water",
+   "desc": "Complete the Heat Street job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Running the Gauntlet",
+   "desc": "Complete the Heat Street job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Sticky Asphalt",
+   "desc": "Complete the Heat Street job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Hills Street Blues",
+   "desc": "Complete the Heat Street job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Its Nice To Be Nice",
+   "desc": "Complete the Heat Street job without killing any civilians. on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Patience Is Key",
+   "desc": "Complete the Heat Street job without using any gas cans.",
+   "crew4": false
+  },
+  {
+   "name": "Zookeeper",
+   "desc": "On the Heat Street job, find and steal all animal posters and escape.",
+   "crew4": false
+  }
+ ],
+ "Slaughterhouse (Payday 2)": [
+  {
+   "name": "Some Kind of Piggy Bank",
+   "desc": "Complete the Slaughterhouse job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Makin' Bacon",
+   "desc": "Complete the Slaughterhouse job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Black and Blue and Broken Bones",
+   "desc": "Complete the Slaughterhouse job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Puts the \"S\" in Laughterhouse.",
+   "desc": "Complete the Slaughterhouse job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Of Pigs and Pigs.",
+   "desc": "Complete the Slaughterhouse job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Dead Meat",
+   "desc": "Complete the Slaughterhouse job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Lots of Pigs, But no Pigs",
+   "desc": "Complete the Slaughterhouse job on the Death Sentence difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Slaughterfest",
+   "desc": "Complete the Slaughterhouse job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "But How?",
+   "desc": "In the Slaughterhouse job, get the armored truck to drop without shooting at the wires on which it is suspended.",
+   "crew4": false
+  },
+  {
+   "name": "Making a Statement",
+   "desc": "Finish the Slaughterhouse job on the OVERKILL difficulty or above without anyone killing a single sniper.",
+   "crew4": false
+  },
+  {
+   "name": "Not Hard Enough",
+   "desc": "Complete the Slaughterhouse job on the OVERKILL difficulty or above while Captain Winters is still present on the level.",
+   "crew4": false
+  },
+  {
+   "name": "Pork Royale",
+   "desc": "In the Slaughterhouse job, find the marked pig, secure it in the container and then finish the heist on OVERKILL or above.From October 24th, 2015, to January 14th, 2016, awarded one Slaughter safe and drill.",
+   "crew4": false
+  },
+  {
+   "name": "Pyromaniacs",
+   "desc": "In the Slaughterhouse job, pick up two gasoline tanks within 30 seconds of entering the slaughterhouse.",
+   "crew4": false
+  }
+ ],
+ "Undercover (Payday 2)": [
+  {
+   "name": "Big Fish",
+   "desc": "Complete the Undercover job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "MercyKill",
+   "desc": "Complete the Undercover job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Starbreezer",
+   "desc": "Complete the Undercover job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "ZYGON",
+   "desc": "Complete the Undercover job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Tax Return",
+   "desc": "Complete the Undercover job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "In for a Dime, in for a Dollar",
+   "desc": "Complete the Undercover job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Downtown Parking",
+   "desc": "Complete the Undercover job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Death and Taxes",
+   "desc": "Complete the Undercover job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Blow-Out",
+   "desc": "Complete the Undercover job on OVERKILL difficulty or above, using only a grenade launcher or rocket launcher.",
+   "crew4": false
+  },
+  {
+   "name": "I Feel Like Robin Hood!",
+   "desc": "Complete the Undercover job with every crew member using only a bow without any modifications on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Keep Clear of the Windows",
+   "desc": "Complete the Undercover job without killing any Snipers. Unlocks the \"Hans\" mask, \"Red White\" material and \"Luse\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Not Even Once",
+   "desc": "Complete the Undercover job on OVERKILL difficulty or above without anyone in your crew getting downed or cuffed.",
+   "crew4": false
+  },
+  {
+   "name": "The Saviour",
+   "desc": "On the Undercover job, place 10 planks on windows, vents or fences. Unlocks the \"Trickster Demon\" mask, \"Mushroom Cloud\" material and \"Split\" pattern.",
+   "crew4": false
+  }
+ ],
+ "Aftershock": [
+  {
+   "name": "That's a 4.0 on the Heist Scale of Magnitude",
+   "desc": "Complete the Aftershock job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Lift With Your Legs",
+   "desc": "Complete the Aftershock job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Safe Drive to L.A.",
+   "desc": "Complete the Aftershock job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bring it Back Safe",
+   "desc": "Complete the Aftershock job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Can You See The Light?",
+   "desc": "Complete the Aftershock job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Aftershocked",
+   "desc": "Complete the Aftershock job on Death Wish difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Vlad's First Response Team",
+   "desc": "Complete the Aftershock job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Disaster Tourist",
+   "desc": "Complete the Aftershock job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "400 Bucks",
+   "desc": "I may be homeless, but at least I have a sick knife.Tie or kill a specific homeless civilian in Aftershock and take his knife.",
+   "crew4": false
+  },
+  {
+   "name": "400 Bucks",
+   "desc": "I may be homeless, but at least I have a sick knife. Tie or kill a specific homeless civilian in Aftershock and take his knife.",
+   "crew4": false
+  }
+ ],
+ "Framing Frame": [
+  {
+   "name": "Painting Yourself Into a Corner",
+   "desc": "On day 1 of the Framing Frame job, steal all sold paintings without being seen.",
+   "crew4": false
+  },
+  {
+   "name": "Big Deal",
+   "desc": "On day 2 of the Framing Frame job, trade 9 paintings.",
+   "crew4": false
+  },
+  {
+   "name": "I Wasn't Even There!",
+   "desc": "On day 3 of the Framing Frame job, send the gold by zip-line without ever tripping the alarm.",
+   "crew4": false
+  },
+  {
+   "name": "Afraid of the Dark",
+   "desc": "On day 3 of the Framing Frame job, while doing plan B, do not let law enforcers pull the power.",
+   "crew4": false
+  },
+  {
+   "name": "The Wolf Lures You to Your Grave",
+   "desc": "In the Art Gallery job, kill two of the patrolling guards in stealth in the bathroom. Unlocks the \"E.M.O. Foregrip\" and the \"OVAL Foregrip\" for the CAR weapon family and the \"Aftermarket Shorty\" for the PARA submachine gun.",
+   "crew4": false
+  },
+  {
+   "name": "Van Gogh to Hell",
+   "desc": "In the Art Gallery heist, throw a painting onto a toilet.",
+   "crew4": false
+  },
+  {
+   "name": "We Do It Live!",
+   "desc": "Complete the Framing Frame job on the OVERKILL difficulty or above with each crew member using no skills, wearing suits, wielding sniper rifles and Judge shotguns.From December 17th, 2015, to January 14th, 2016, awarded one Christmas safe and drill.This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements on with the Difficulties & Sniper Beta 1.3 update.",
+   "crew4": false
+  },
+  {
+   "name": "The Paintings Are Looking at Me!",
+   "desc": "Complete the Framing Frame job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Name & Shame",
+   "desc": "Complete the Framing Frame job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Senator Set-up",
+   "desc": "Complete the Framing Frame job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Picture Perfect",
+   "desc": "Complete the Framing Frame job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "What a Flat!",
+   "desc": "Complete the Framing Frame job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Moonlighting",
+   "desc": "Complete the Framing Frame job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "An Artfull Heist",
+   "desc": "Complete the Framing Frame job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Frames Per Second?",
+   "desc": "Complete the Framing Frame job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Big Deal",
+   "desc": "On day 2 of the Framing Frame job, trade 9 paintings.",
+   "crew4": false
+  },
+  {
+   "name": "Afraid of the Dark",
+   "desc": "On day 3 of the Framing Frame job, while doing plan B, do not let law enforcers pull the power.",
+   "crew4": false
+  },
+  {
+   "name": "The Wolf Lures You to Your Grave",
+   "desc": "In the Art Gallery job, kill two of the patrolling guards in stealth in the bathroom. Unlocks the \"E.M.O. Foregrip\" and the \"OVAL Foregrip\" for the CAR weapon family and the \"Aftermarket Shorty\" for the PARA submachine gun.",
+   "crew4": false
+  }
+ ],
+ "GO Bank": [
+  {
+   "name": "The One That Survived",
+   "desc": "In the GO Bank or the Four Stores Jobs, find and pick up the five hidden Marine Trophies. Unlocks “The Marine” mask.",
+   "crew4": false
+  },
+  {
+   "name": "Go, Go, Go",
+   "desc": "Complete the GO Bank job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "pd_bank",
+   "desc": "Complete the GO Bank job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Clutch",
+   "desc": "Complete the GO Bank job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Greed Gets the Best of You",
+   "desc": "Complete the GO Bank job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "I Would Like to Move My Money to a Bank That Doesn't Get Robbed",
+   "desc": "Complete the GO Bank job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Cash in Before You Cash Out!",
+   "desc": "Complete the GO Bank job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "We Can Be Trusteed",
+   "desc": "Complete the GO Bank job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "The Global Elite",
+   "desc": "Complete the GO Bank job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Golden Grin Casino": [
+  {
+   "name": "All-In!",
+   "desc": "Complete the Golden Grin Casino job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Royal Flush",
+   "desc": "Complete the Golden Grin Casino job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Dead Man's Hand",
+   "desc": "Complete the Golden Grin Casino job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "JACKPOT!",
+   "desc": "Complete the Golden Grin Casino job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Let the Chips Fall",
+   "desc": "Complete the Golden Grin Casino job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The House Doesn't Always Win",
+   "desc": "Complete the Golden Grin Casino job on the Death Sentence difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Ocean's Four",
+   "desc": "Complete the Golden Grin Casino job on the Death Sentence difficulty with the One Down mechanic enabled.",
+   "crew4": false
+  }
+ ],
+ "Hoxton Revenge": [
+  {
+   "name": "Snitches Get Stitches",
+   "desc": "Complete the Hoxton Revenge job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Breaking and Entering",
+   "desc": "Complete the Hoxton Revenge job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Serve Cold",
+   "desc": "Complete the Hoxton Revenge job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "CLASSIFIED",
+   "desc": "Complete the Hoxton Revenge job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Wankers Get Shanked",
+   "desc": "Complete the Hoxton Revenge job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Dish Best Served Cold",
+   "desc": "Complete the Hoxton Revenge job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The UnSafe House",
+   "desc": "Complete the Hoxton Revenge job on the Death Sentence difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Not the Forgiving Kind",
+   "desc": "Complete the Hoxton Revenge job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Silent But Deadly",
+   "desc": "Complete the Hoxton Revenge job without triggering the alarm.",
+   "crew4": false
+  },
+  {
+   "name": "I'm An Avenger!",
+   "desc": "Kill the traitor.Unlocks The Hard Hat",
+   "crew4": false
+  }
+ ],
+ "Jewelry Store": [
+  {
+   "name": "There is Always a First Time",
+   "desc": "Complete the Jewelry Store job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "As Cool as Ice",
+   "desc": "Complete the Jewelry Store job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "All That Glimmer isn't Gold",
+   "desc": "Complete the Jewelry Store job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Master Thief",
+   "desc": "Complete the Jewelry Store job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bling Bling Gone",
+   "desc": "Complete the Jewelry Store job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Snatch and Grab",
+   "desc": "Complete the Jewelry Store job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The_heister27",
+   "desc": "Complete the Jewelry Store job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Fire Sale",
+   "desc": "Complete the Jewelry Store job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Diamonds Are Forever",
+   "desc": "In the Jewelry Store job, steal and secure 4 bags without the escape car leaving the first time.",
+   "crew4": false
+  },
+  {
+   "name": "Private Party",
+   "desc": "In the Jewelry Store job, don't let the cops enter the jewelry store until the van comes back on OVERKILL difficulty or above. Unlocks the \"DMR Kit AMR-16\" and the \"L5 Magazine\" for the CAR weapon family, \"Vincent\" mask, \"Feathers\" material and \"Dinosaur Scars\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "The Only One That Is True",
+   "desc": "In the Bank Heist or the Jewelry Store Jobs, find and pick up the five hidden Bullet Trophies. Unlocks “The Bullet” mask.Can also be done on Firestarter Day 3.",
+   "crew4": false
+  },
+  {
+   "name": "Private Party",
+   "desc": "In the Jewelry store job, don't let the cops enter the jewelry store until the van comes back on OVERKILL difficulty or above. Unlocks the \"DMR Kit AMR-16\" and the \"L5 Magazine\" for the CAR weapon family, \"Vincent\" mask, \"Feathers\" material and \"Dinosaur Scars\" pattern.",
+   "crew4": false
+  }
+ ],
+ "Murky Station": [
+  {
+   "name": "EMP, Easy as 1-2-3",
+   "desc": "Complete the Murky Station job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "We Raid It Hardcore",
+   "desc": "Complete the Murky Station job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Explosive Cargo",
+   "desc": "Complete the Murky Station job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "I Washed My Hands in Murky Water",
+   "desc": "Complete the Murky Station job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "It's Just Drones On And On",
+   "desc": "Complete the Murky Station job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Blackout",
+   "desc": "Complete the Murky Station job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "DIY EMP",
+   "desc": "Complete the Murky Station job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "EMPathy",
+   "desc": "Complete the Murky Station job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Crouched and Hidden, Flying Dagger",
+   "desc": "Kill 8 guards with a Throwing Weapon while crouching on the Murky Station job. The heist must be finished for any kills to count. Unlocks the \"Hotelier\" mask, \"Club Lights\" material and \"Piety\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Ghost Run",
+   "desc": "Complete the Murky Station job within 7 minutes of starting it. Unlocks the \"Cloaker-san\" mask, \"Rusty\" material and \"Rebel\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Janitor",
+   "desc": "Complete the Murky Station job after hiding one body bag in each dumpster.",
+   "crew4": false
+  },
+  {
+   "name": "Looting in the Dark",
+   "desc": "Complete the Murky Station job by finding and securing all loot without killing anyone on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "No Witnesses",
+   "desc": "Complete the Murky Station job by killing all guards and not using any ECM jammers on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Pacifist",
+   "desc": "Complete the Murky Station job without anyone in the crew killing anyone. Unlocks the \"Augmentation\" mask, \"Spaceship\" material and \"Squares\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Ghost Run",
+   "desc": "Complete the Murky Station job within 7 minutes of starting it. Unlocks the \"Cloaker-san\" mask, \"Rusty\" material and \"Rebel\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "The Pacifist",
+   "desc": "Complete the Murky Station job without anyone in the crew killing anyone. Unlocks the \"Augmentation\" mask, \"Spaceship\" material and \"Squares\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Crouched and Hidden, Flying Dagger",
+   "desc": "Kill 8 guards with a Throwing Weapon while crouching on the Murky Station job. The heist must be finished for any kills to count. Unlocks the \"Hotelier\" mask, \"Club Lights\" material and \"Piety\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "No Witnesses",
+   "desc": "Complete the Murky Station job by killing all guards and not using any ECM jammers on the OVERKILL difficulty or above.",
+   "crew4": false
+  }
+ ],
+ "Nightclub": [
+  {
+   "name": "Heist Fever",
+   "desc": "Complete the Nightclub job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Do the Kozak Dance",
+   "desc": "Complete the Nightclub job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Can't Teach a Bad Dog to Stay Off the Dance Floor",
+   "desc": "Complete the Nightclub job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Party Hard!",
+   "desc": "Complete the Nightclub job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "This was easier in the tutorial...",
+   "desc": "Complete the Nightclub job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Blood on the Dance Floor",
+   "desc": "Complete the Nightclub job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Shoot to the Beat",
+   "desc": "Complete the Nightclub job on the Death Sentence dificulty.",
+   "crew4": false
+  },
+  {
+   "name": "Not on the Guest List",
+   "desc": "Complete the Nightclub job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Everyday I'm Shovelin'",
+   "desc": "On the Nightclub heist, kill 25 law enforcers using your shovel. Unlocks the Short Barrel for the Raven shotgun.",
+   "crew4": false
+  },
+  {
+   "name": "Hey Mr. DJ",
+   "desc": "In the Nightclub job, have 12 hostages or more on the dance floor when you escape. Unlocks the \"Aluminum Grip\" for the AK weapon family, the \"Aluminum Foregrip\" for the Krinkov submachine gun and the \"LW Upper Receiver\" for the CAR weapon family.Note: Untied hostages will count toward this achievement if they are intimidated.",
+   "crew4": false
+  },
+  {
+   "name": "I'm Going All-in!",
+   "desc": "In the Nightclub job, put a bag filled with money on the poker table.",
+   "crew4": false
+  },
+  {
+   "name": "Keep the Party Going",
+   "desc": "In the Nightclub job, zip-tie the DJ and bring him to the escape zone by the escape van.",
+   "crew4": false
+  },
+  {
+   "name": "Let them Boogie",
+   "desc": "Complete the Nightclub job, without setting off the alarm on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "OVE SAW 72000",
+   "desc": "In the Nightclub job, complete the heist on any difficulty with each crew member using the OVE 9000 saw as primary and secondary weapons. Unlocks the \"THRUST Upper Receiver\", \"THRUST Lower Receiver\" and \"Long Ergo Foregrip\" for the CAR weapon family.",
+   "crew4": false
+  },
+  {
+   "name": "The Eighth and Final Rule",
+   "desc": "On the Nightclub job, kill 50 law enforcers using your fists.",
+   "crew4": false
+  }
+ ],
+ "Scarface Mansion": [
+  {
+   "name": "That'll Leave a Scar!",
+   "desc": "Complete the Scarface Mansion job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Playing Rough",
+   "desc": "Complete the Scarface Mansion job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Only Care I Have... is my Yayo",
+   "desc": "Complete the Scarface Mansion job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The World is Yours",
+   "desc": "Complete the Scarface Mansion job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Casa de Palma",
+   "desc": "Complete the Scarface Mansion job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Settling a Scar",
+   "desc": "Complete the Scarface Mansion job within 15 minutes in loud on the OVERKILL difficulty and above.If the heist is completed in stealth, the achievement will still be granted.",
+   "crew4": false
+  }
+ ],
+ "Shadow Raid": [
+  {
+   "name": "I Have No Idea What I'm Doing",
+   "desc": "In the Shadow Raid job, complete the heist in stealth while having the Vulcan Minigun and HRL-7 Rocket Launcher equipped.",
+   "crew4": false
+  },
+  {
+   "name": "The One That Had Many Names",
+   "desc": "In the Shadow Raid or the First World Bank Jobs, find and pick up the five hidden Robot Trophies. Unlocks \"The Robot” mask.",
+   "crew4": false
+  },
+  {
+   "name": "Is There Anyone There?",
+   "desc": "Complete the Shadow Raid job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Murky Deals",
+   "desc": "Complete the Shadow Raid job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Shinobi Wibe",
+   "desc": "Complete the Shadow Raid job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Like a Shimmer Through the Night",
+   "desc": "Complete the Shadow Raid job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Shadows Are Your Friends",
+   "desc": "Complete the Shadow Raid job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Operation: PayNight",
+   "desc": "Complete the Shadow Raid job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Like Taking Candy From a Heavily Armed Military Force",
+   "desc": "Complete the Shadow Raid job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "I Will Succeed With Dignity",
+   "desc": "In the Shadow Raid job, complete the heist without using any pre-planning favors on OVERKILL difficulty or above.",
+   "crew4": false
+  }
+ ],
+ "The Alesso Heist": [
+  {
+   "name": "All Your Bass Are Belong to Us",
+   "desc": "Complete the Alesso Heist on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Show Must Go On",
+   "desc": "Complete the Alesso Heist on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Eat, Sleep, Heist, Repeat",
+   "desc": "Complete the Alesso Heist on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Forte to Fortissimo",
+   "desc": "Complete the Alesso Heist on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "I Put It on Repeat",
+   "desc": "Complete the Alesso Heist on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "F Sharp",
+   "desc": "Complete the Alesso Heist on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Dance Dance GenSec",
+   "desc": "Complete the Alesso Heist on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "The Big Bank": [
+  {
+   "name": "You Can Only Plan to Fail",
+   "desc": "Complete the Big Bank job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Piggy Broke the Bank",
+   "desc": "Complete the Big Bank job on the One Down difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Matrix With Lasers",
+   "desc": "In the Big Bank job, open the vault by using the \"Beast\" drill and escape using the C4 Tunneling asset without killing any snipers on Death Wish difficulty or above.Allows you to use thermite (and stealth?). You can kill the snipers behind the C4 tunnel wall without failing this achievement.",
+   "crew4": false
+  }
+ ],
+ "The Yacht Heist": [
+  {
+   "name": "Guppy",
+   "desc": "Complete The Yacht Heist job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Salmon",
+   "desc": "Complete The Yacht Heist job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Stingray",
+   "desc": "Complete The Yacht Heist job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Piranha",
+   "desc": "Complete The Yacht Heist job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hammerhead",
+   "desc": "Complete The Yacht Heist job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Great White",
+   "desc": "Complete The Yacht Heist job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Megalodon",
+   "desc": "Complete The Yacht Heist job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Leviathan",
+   "desc": "Complete The Yacht Heist job on the Death Sentence difficulty with the One Down mechanic activated..",
+   "crew4": false
+  },
+  {
+   "name": "Thalassophobia",
+   "desc": "Complete The Yacht Heist job within 6 minutes, on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Pacifish",
+   "desc": "Complete The Yacht Heist job without killing anyone. Unlocks the \"Sailor\" mask, \"Neon Blue\" material and \"Hotel Pattern\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Blood in the Water",
+   "desc": "Complete The Yacht Heist job after having killed every security guard on the boat. Unlocks the \"Captain\" mask, \"Black Suede\" material and \"Continental\" pattern.",
+   "crew4": false
+  }
+ ],
+ "Transport: Train Heist": [
+  {
+   "name": "Let Them Watch",
+   "desc": "Finish the Train heist without any of your crew members killing any enemy snipers.",
+   "crew4": false
+  },
+  {
+   "name": "We’re Gonna Need a Bigger Boat",
+   "desc": "On the Train heist, steal and secure 20 bags worth of ammo.",
+   "crew4": false
+  },
+  {
+   "name": "The Little Heister That Could",
+   "desc": "Complete the Transport: Train Heist job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Modern Train Robbers",
+   "desc": "Complete the Transport: Train Heist job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Off the Rails",
+   "desc": "Complete the Transport: Train Heist job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Because of Training",
+   "desc": "Complete the Transport: Train Heist job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "3:10 to the Safehouse",
+   "desc": "Complete the Transport: Train Heist job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Choo Choo",
+   "desc": "Complete the Transport: Train Heist job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Gravy Train",
+   "desc": "Complete the Transport: Train Heist job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "A Good Old Fashioned Train Robbery",
+   "desc": "Complete the Transport: Train Heist job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Ukrainian Job": [
+  {
+   "name": "Precious Delicious",
+   "desc": "Complete the Ukrainian job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Heisters and Tiaras",
+   "desc": "Complete the Ukrainian job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Princess is in Another Safe!",
+   "desc": "Complete the Ukrainian job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Jewel in the Crown",
+   "desc": "Complete the Ukrainian job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Getting Back at Dmitri",
+   "desc": "Complete the Ukrainian Job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Wedding Crashers",
+   "desc": "Complete the Ukrainian Job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Pretty Pretty Princesses",
+   "desc": "Complete the Ukrainian Job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Dmitri, Dearest of All My Friends!",
+   "desc": "Complete the Ukrainian Job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "I'm Sure No One Heard That",
+   "desc": "On the Ukrainian Job, finish the heist in stealth after triggering the alarm with the metal detectors.",
+   "crew4": false
+  },
+  {
+   "name": "Let's Do Th...",
+   "desc": "In the Ukrainian job, complete the heist within 35 seconds.",
+   "crew4": false
+  }
+ ],
+ "Beneath the Mountain": [
+  {
+   "name": "Mountain Climbers",
+   "desc": "Complete the Beneath the Mountain job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Priceless Relic Collector",
+   "desc": "Complete the Beneath the Mountain job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Moles with Guns",
+   "desc": "Complete the Beneath the Mountain job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Destruction From Within",
+   "desc": "Complete the Beneath the Mountain job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Blood is Thicker Than Murkywater",
+   "desc": "Complete the Beneath the Mountain job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hall of the Mountain King",
+   "desc": "Complete the Beneath the Mountain job on the Death Wish difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Bunker Buddies",
+   "desc": "Complete the Beneath the Mountain job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Not Radical Enough For You?",
+   "desc": "Complete the Beneath the Mountain job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Clean House",
+   "desc": "In the Beneath the Mountain job, secure all of the loot from the vaults and mountain-top in the escape helicopter. Unlocks the “Tawhiri” mask, “Flow” material and “Sun Avatar” pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Commando Crew",
+   "desc": "In the Beneath the Mountain job, open the 4 vaults that contain loot within 10 minutes of starting the heist on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Juggernauts",
+   "desc": "Complete the Beneath the Mountain job on the OVERKILL difficulty or above without any player going down.",
+   "crew4": false
+  }
+ ],
+ "Birth of Sky": [
+  {
+   "name": "Fo' Sho'!",
+   "desc": "Complete the Birth of Sky job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Enjoy Your Flight",
+   "desc": "Complete the Birth of Sky job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "By Air, Land, and Sea",
+   "desc": "Complete the Birth of Sky job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Angels of Crime",
+   "desc": "Complete the Birth of Sky job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Mile High Club",
+   "desc": "Complete the Birth of Sky job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Sky Is the Limit",
+   "desc": "Complete the Birth of Sky job on the Death Wish difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Theft From Above",
+   "desc": "Complete the Birth of Sky job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Making it Rain",
+   "desc": "Complete the Birth of Sky job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Pinpoint Landing",
+   "desc": "In the Birth of Sky job, parachute into the diner through a hole in the roof.",
+   "crew4": false
+  },
+  {
+   "name": "No Blood On The Carpet",
+   "desc": "In the Birth of Sky job, release the money without having any player take health damage on the OVERKILL difficulty or above. Unlocks the “Oro” mask, “Glade” material and “Tribal Wave” pattern.",
+   "crew4": false
+  },
+  {
+   "name": "1... 2... 3... JUMP!",
+   "desc": "In the Birth of Sky job, have the entire crew jump out of the airplane within 1 minute and 23 seconds on the OVERKILL difficulty or above. Unlocks the “Maui” mask, “Wade” material and “Ornamental Crown” pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Black Tie Event",
+   "desc": "Complete the Birth of Sky job using only pistols and a Two Piece Suit on OVERKILL or above. You have to have been in the heist from start to receive this achievement.This achievement allows any akimbo weaponry in the primary slot, not just pistols.",
+   "crew4": false
+  },
+  {
+   "name": "Mellon",
+   "desc": "In the Birth of Sky job, find all 9 rings.",
+   "crew4": false
+  },
+  {
+   "name": "Expert Landing",
+   "desc": "In the Birth of Sky job, have all players land on the roof of any building, car or other structure and together get 200 kills before ever touching the ground on Death Wish difficulty or aboveCrew AI will not void this achievement if they are on the ground, nor will they ever add to the kill count.",
+   "crew4": false
+  },
+  {
+   "name": "Mellon",
+   "desc": "In the Birth of Sky job, find all 9 rings.",
+   "crew4": false
+  }
+ ],
+ "Boiling Point": [
+  {
+   "name": "Modern Cold War",
+   "desc": "Complete the Boiling Point on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hardcore Heisting",
+   "desc": "Complete the Boiling Point job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Dropping the EMP Bomb",
+   "desc": "Complete the Boiling Point job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Sawmill Massacre",
+   "desc": "Complete the Boiling Point job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hard Boiled Heisters",
+   "desc": "Complete the Boiling Point job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Red Snow",
+   "desc": "Complete the Boiling Point job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "EZ",
+   "desc": "Complete the Boiling Point job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "What Is It Good For?",
+   "desc": "Complete the Boiling Point job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Crazy Ivan",
+   "desc": "Complete the Boiling Point job having everyone only using melee weapons without electricity or poison* to kill enemies on the Very Hard difficulty or above. Unlocks the \"Safety First\" mask, \"Planet\" material and \"Phoenix\" pattern.*For clarity, this means no use of the Buzzer, Kunai Knife, Electrical Brass Knuckles, or the Stainless Steel Syringe.",
+   "crew4": false
+  },
+  {
+   "name": "Remember, No Russian",
+   "desc": "In the Boiling Point job, scan all 4 bodies without letting the mercenaries turn off the power or stop the scanner on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "The Ground Is Too Cold",
+   "desc": "In the Boiling Point job, have no crew members get downed on the OVERKILL difficulty or above. Unlocks the \"Zero 68\" mask, \"Nebula\" material and \"Hexagons\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "UMP for Me, UMP for You",
+   "desc": "Kill 45 Russian specials on the Boiling Point job with the Jackal submachine gun on the OVERKILL difficulty or above. Unlocks the \"Zaschita\" mask, \"Mist\" material and \"Battle Wounds\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "When in Russia... Do as the Russians Do",
+   "desc": "Complete the Boiling Point job while having your crew wear the \"Russian Hat\" mask and \"Golden AK.762\" assault rifle on the OVERKILL difficulty or above.This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements on with the Difficulties & Sniper Beta 1.3 update.",
+   "crew4": false
+  },
+  {
+   "name": "This is WAR Baby!",
+   "desc": "Complete the Boiling Point job on the Death Sentence difficulty with the One Down mechanic activated",
+   "crew4": false
+  }
+ ],
+ "Brooklyn 10-10": [
+  {
+   "name": "Babysitters with Assault Rifles",
+   "desc": "Complete the Brooklyn 10-10 job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Eye in the Sky",
+   "desc": "Complete the Brooklyn 10-10 job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Someone to Watch Over",
+   "desc": "Complete the Brooklyn 10-10 job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Guardian Angels",
+   "desc": "Complete the Brooklyn 10-10 job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Fierce Protection",
+   "desc": "Complete the Brooklyn 10-10 job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Vengeful Rain",
+   "desc": "Complete the Brooklyn 10-10 job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Once Upon A Time in the Old Neighborhood",
+   "desc": "Complete the Brooklyn 10-10 job on the Death Sentence",
+   "crew4": false
+  },
+  {
+   "name": "Valkyries",
+   "desc": "Complete the Brooklyn 10-10 job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "A Rendezvous with Destiny",
+   "desc": "On the Brooklyn 10-10 job, reach Charon within 6 minutes on the OVERKILL difficulty or above. Unlocks the \"Lady Liberty\" mask, \"Underground Neon\" material and \"Baba Yaga\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Apartment Sniper",
+   "desc": "Complete the Brooklyn 10-10 job from start, by having all team members using Sniper Rifles and the OVE9000 saws on the OVERKILL difficulty or above.This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements on with the Difficulties & Sniper Beta 1.3 update.",
+   "crew4": false
+  },
+  {
+   "name": "Pass the Ammo",
+   "desc": "Complete the Brooklyn 10-10 job from start, after deploying 8 ammo bags in the ammo cage on the OVERKILL difficulty or above. Unlocks the \"Birds of Prey\" mask, \"Carbon Fiber Weave\" material and \"Hood Stripes\" pattern.",
+   "crew4": false
+  }
+ ],
+ "Cook Off": [
+  {
+   "name": "F in Chemistry",
+   "desc": "On day 1 of the Rats job or the Cook Off job, blow up the lab.",
+   "crew4": false
+  },
+  {
+   "name": "Full Measure",
+   "desc": "On day 1 of the Rats job, cook and secure 7 bags worth of meth without blowing up the lab on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Kiss the Chef",
+   "desc": "In the Cook Off job, cook 25 bags of meth on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Grandmother's Recipe",
+   "desc": "Complete the Cook Off job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bain's Bakery",
+   "desc": "Complete the Cook Off job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "So You Think You Can Cook Meth?",
+   "desc": "Complete the Cook Off job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Kiss the Chemist",
+   "desc": "Complete the Cook Off job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Clowns Can Cook Too",
+   "desc": "Complete the Cook Off job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Cooking By the Book",
+   "desc": "Complete the Cook Off job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "My Compliments to the Chef",
+   "desc": "Complete the Cook Off job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "In the Name of Heisenberg",
+   "desc": "Complete the Cook Off job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Cursed Kill Room": [
+  {
+   "name": "Say Hello To My Halloween Friend!",
+   "desc": "In the Cursed Kill Room job, Acquire all 7 \"Deadly Sins\" masks.",
+   "crew4": false
+  },
+  {
+   "name": "Faster! Faster! I can do it faster!",
+   "desc": "In the Cursed Kill Room job, open at least 6 safes in a single run on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Dead, Wrapped in Plastic",
+   "desc": "Complete the Cursed Kill Room job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Fast Track to Hell",
+   "desc": "Complete the Cursed Kill Room job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "If It Bleeds, Kill It",
+   "desc": "Complete the Cursed Kill Room job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Nowhere to Run",
+   "desc": "Complete the Cursed Kill Room job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Chaos Breeds Order",
+   "desc": "Complete the Cursed Kill Room job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bain's Lament",
+   "desc": "Complete the Cursed Kill Room job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Little Past Midnight",
+   "desc": "Complete the Cursed Kill Room job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "All You Need Is A Knife",
+   "desc": "Complete the Cursed Kill Room job on the Death Sentence with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Goat Simulator": [
+  {
+   "name": "Best Use of a Farm Animal",
+   "desc": "Complete the Goat Simulator job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Now We Know What a Goat Sounds Like",
+   "desc": "Complete the Goat Simulator job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "You Goat Away",
+   "desc": "Complete the Goat Simulator job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Golf Oscar Alpha Tango Sierra",
+   "desc": "Complete the Goat Simulator job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "There is no Goat Level",
+   "desc": "Complete the Goat Simulator job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "GOTs!",
+   "desc": "Complete the Goat Simulator job on the Death Sentence difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "You Goat to be Kidding Me...",
+   "desc": "Complete the Goat Simulator job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Pro Goat",
+   "desc": "Complete the Goat Simulator pro job on the Death Wish difficulty.",
+   "crew4": false
+  }
+ ],
+ "Hotline Miami": [
+  {
+   "name": "*Click*",
+   "desc": "Complete the Hotline Miami job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Prankcall",
+   "desc": "Complete the Hotline Miami job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Running in the 80's",
+   "desc": "Complete the Hotline Miami job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "1-800-KOMISSAR",
+   "desc": "Complete the Hotline Miami job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Well in Russia Asshole Facks You!",
+   "desc": "Complete the Hotline Miami job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Yes, I Rather Like Hurting Other People, Thank You For Asking",
+   "desc": "Complete the Hotline Miami job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Dennis' Menace",
+   "desc": "Complete the Hotline Miami job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Hoxton Breakout": [
+  {
+   "name": "Why Don’t We Just Use a Spoon?",
+   "desc": "Complete the Hoxton Breakout heist on any difficulty. Unlocks \"Hoxton\" as a playable character and the \"Nova's Shank\" melee weapon.",
+   "crew4": false
+  },
+  {
+   "name": "Hoxworth Redemption",
+   "desc": "Complete the Hoxton Breakout job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Did Ya Miss Me?",
+   "desc": "Complete the Hoxton Breakout job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bring the Crew Together",
+   "desc": "Complete the Hoxton Breakout job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Wankers Beware",
+   "desc": "Complete the Hoxton Breakout job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "No Bars Can Hold Me",
+   "desc": "Complete the Hoxton Breakout heist on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hoxit",
+   "desc": "Complete the Hoxton Breakout heist on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Still Got That Lucky Dollar?",
+   "desc": "Complete the Hoxton Breakout job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Situation Normal",
+   "desc": "In the Hoxton Breakout job, complete day 2 without using a single keycard on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Tabula Rasa",
+   "desc": "In the Hoxton Breakout job, complete the heist on OVERKILL difficulty or above with each crew member using no skills, wearing suits, wielding Golden AK.762 rifles and Chicago Typewriter submachine guns. Unlocks a new skill slot.",
+   "crew4": false
+  },
+  {
+   "name": "Watch The Power Switch!",
+   "desc": "On day 2 of the Hoxton Breakout job, don't let the cops turn off the power while Hoxton is in the server room on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Wind of Change",
+   "desc": "In the Hoxton Breakout job, complete the heist while you and your four man crew are wearing one different \"Historical\" mask each on OVERKILL difficulty or above. Unlocks the Discrete Stock and Short Barrel for the Nagant sniper rifle, Precision Barrel for the Broomstick pistol, Extended Mag and Long Barrel for the Patchett L2A1 submachine gun and the Heatsinked Suppressed Barrel for the Buzzsaw 42 light machine gun.",
+   "crew4": true
+  },
+  {
+   "name": "The One Who Declared Himself the Hero",
+   "desc": "In the Hoxton Breakout Day 1 Heist or the Diamond Store Job, find and pick up the five hidden Cultist Trophies. Unlocks “The Cultist” mask.",
+   "crew4": false
+  }
+ ],
+ "Lab Rats": [
+  {
+   "name": "Not Scary Enough",
+   "desc": "Complete the Lab Rats job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Skill Shot",
+   "desc": "In the Lab Rats job, secure a bag in the secret area. Unlocks the \"Invader\" mask.",
+   "crew4": false
+  },
+  {
+   "name": "Trick or Treat!",
+   "desc": "In the Lab Rats job, complete the Cloaker event on OVERKILL difficulty or above. Unlocks the \"Satan\" mask.",
+   "crew4": false
+  },
+  {
+   "name": "Maybe the Table Is Just Really Huge?",
+   "desc": "Complete the Lab Rats job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Itsy Bitsy Heisters Cooking Meth All Night Long",
+   "desc": "Complete the Lab Rats job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bain, I Shrunk the Heisters",
+   "desc": "Complete the Lab Rats job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Arachnophobia",
+   "desc": "Complete the Lab Rats job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Rats and Meatballs",
+   "desc": "Complete the Lab Rats job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Petty Crimes",
+   "desc": "Complete the Lab Rats job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "I survived Lab Rats on One Down And All I Got Was This Achievement",
+   "desc": "Complete the Lab Rats job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Mallcrasher": [
+  {
+   "name": "No Return Policy",
+   "desc": "Complete the Mallcrasher job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Fury Day",
+   "desc": "Complete the Mallcrasher job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Black Friday",
+   "desc": "Complete the Mallcrasher job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Like a Bull in a China Shop",
+   "desc": "Complete the Mallcrasher job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A $2000 Sports Car",
+   "desc": "Complete the Mallcrasher job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Came in Like a Wrecking Ball",
+   "desc": "Complete the Mallcrasher job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Throwing a Tantrum",
+   "desc": "Complete the Mallcrasher job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "I'll Break Your Malls",
+   "desc": "Complete the Mallcrasher job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "$1.8M Speedrun",
+   "desc": "In the Mallcrasher job, loot $1,800,000 in loose cash within 50 seconds of starting the heist on the OVERKILL difficulty. Unlocks the \"Scope Mount\" and \"PBS Suppressor\" for the AK weapon family, \"Alfred\" mask, \"Dawn\" material and \"Dinosaur Skull\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Self Checkout",
+   "desc": "In the Mallcrasher job, finish the heist and escape within 3 minutes.",
+   "crew4": false
+  },
+  {
+   "name": "Shoot the Glass!",
+   "desc": "In the Mallcrasher job, destroy all windows in the mall.",
+   "crew4": false
+  },
+  {
+   "name": "$1.8M Speedrun",
+   "desc": "In the Mallcrasher job, loot $1,800,000 in loose cash within 50 seconds of starting the heist on the OVERKILL difficulty. Unlocks the \"Scope Mount\" and \"PBS Suppressor\" for the AK weapon family, \"Alfred\" mask, \"Dawn\" material and \"Dinosaur Skull\" pattern.",
+   "crew4": false
+  },
+  {
+   "name": "Self Checkout",
+   "desc": "In the Mallcrasher job, finish the heist and escape within 3 minutes.",
+   "crew4": false
+  },
+  {
+   "name": "Shoot the Glass!",
+   "desc": "In the Mallcrasher job, destroy all windows in the mall.",
+   "crew4": false
+  }
+ ],
+ "Meltdown": [
+  {
+   "name": "Sunday Drive",
+   "desc": "Complete the Meltdown job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Warehouse Workers",
+   "desc": "Complete the Meltdown job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Critical Mass",
+   "desc": "Complete the Meltdown job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Little Plutonium Won't Hurt Me",
+   "desc": "Complete the Meltdown job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Now is the Nuclear Winter of Our Discontent",
+   "desc": "Complete the Meltdown job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Magnitude of Trouble",
+   "desc": "Complete the Meltdown job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Dr. Strangevlad",
+   "desc": "Complete the Meltdown job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Prison Nightmare": [
+  {
+   "name": "Heister's Nightmare",
+   "desc": "Complete the Prison Nightmare job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "WULULULU",
+   "desc": "Complete the Prison Nightmare job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Jailhouse Rock",
+   "desc": "Complete the Prison Nightmare job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Cloaker Phantasm",
+   "desc": "Complete the Prison Nightmare job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "On the Edge of Madness",
+   "desc": "Complete the Prison Nightmare job on the Death Sentence difficulty.",
+   "crew4": false
+  }
+ ],
+ "Rats": [
+  {
+   "name": "Cooking for Dummies",
+   "desc": "Complete the Rats job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Get the Rat Poison!",
+   "desc": "Complete the Rats job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Infestation",
+   "desc": "Complete the Rats job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Science Expertise",
+   "desc": "Complete the Rats job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Captain Cook",
+   "desc": "Complete the Rats job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Breaking Bad",
+   "desc": "Complete the Rats job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Exterminator",
+   "desc": "Complete the Rats job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "My Chemical Brothers",
+   "desc": "Complete the Rats job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Caribbean Pirate",
+   "desc": "On day 2 of the Rat job, bring additional meth bags to the trade, but steal your payment instead.",
+   "crew4": false
+  },
+  {
+   "name": "Cooking With Style",
+   "desc": "Complete the Rats job with you and your four man crew having Combined Tactical Vests, Vulcan Miniguns, HRL-7 Rocket Launchers and General Overkill masks equipped on the OVERKILL difficulty or above.",
+   "crew4": true
+  },
+  {
+   "name": "F in Chemistry",
+   "desc": "On day 1 of the Rats job or the Cook Off job, blow up the lab.",
+   "crew4": false
+  },
+  {
+   "name": "Four Monkeys",
+   "desc": "In the Rats job, complete the heist while you and your four man crew are wearing one different \"Shotgun Pack\" mask each on OVERKILL difficulty or above.",
+   "crew4": true
+  },
+  {
+   "name": "Full Measure",
+   "desc": "On day 1 of the Rats job, cook and secure 7 bags worth of meth without blowing up the lab on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "I Am the One Who Knocks",
+   "desc": "On day 1 of the Rats job, cook 3 bags worth of meth without letting any law enforcer enter the house.",
+   "crew4": false
+  },
+  {
+   "name": "Short Fuse",
+   "desc": "On day 3 of the Rats job, get away with 7 bags without defusing any bombs.",
+   "crew4": false
+  },
+  {
+   "name": "If You Can’t Take the Heat...",
+   "desc": "Complete the Rats pro job on the Death Wish difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "They See Me Baggin', They Hatin'",
+   "desc": "On the Garage escape, get away with 8 bags.",
+   "crew4": false
+  }
+ ],
+ "Reservoir Dogs Heist": [
+  {
+   "name": "Clowns to the Left of Me, Jokers to the Right",
+   "desc": "Complete the Reservoir Dogs job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Just Shut up and Take My Money!",
+   "desc": "On day 1 of the Reservoir Dogs job, hit the cashier in the Garnet Group boutique with the Money Bundle melee weapon.",
+   "crew4": false
+  },
+  {
+   "name": "Silver Tongue",
+   "desc": "On day 1 of the Reservoir Dogs job, convert the cashier in the Garnet Group boutique to fight for you.",
+   "crew4": false
+  }
+ ],
+ "Safe House Nightmare": [
+  {
+   "name": "Cheerful Child",
+   "desc": "In the Safe House Nightmare job find the correct baby mask on the Normal difficulty. Unlocks the \"Happy Baby\" mask.",
+   "crew4": false
+  },
+  {
+   "name": "Gilliam's Sweet Little Baby",
+   "desc": "In the Safe House Nightmare job find the correct baby mask on the Hard difficulty. Unlocks the \"Brazil Baby\" mask.",
+   "crew4": false
+  },
+  {
+   "name": "Temper Tantrum",
+   "desc": "In the Safe House Nightmare job find the correct baby mask on the Very Hard difficulty. Unlocks the \"Angry Baby\" mask.",
+   "crew4": false
+  },
+  {
+   "name": "Water Works",
+   "desc": "In the Safe House Nightmare job find the correct baby mask on the OVERKILL difficulty. Unlocks the \"Cry Baby\" mask.",
+   "crew4": false
+  },
+  {
+   "name": "First Nightmare",
+   "desc": "Complete the Safe House Nightmare job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Second Nightmare",
+   "desc": "Complete the Safe House Nightmare job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Third Nightmare",
+   "desc": "Complete the Safe House Nightmare job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Fourth Nightmare",
+   "desc": "Complete the Safe House Nightmare job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Fifth Nightmare",
+   "desc": "Complete the Safe House Nightmare job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Sixth Nightmare",
+   "desc": "Complete the Safe House Nightmare on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Seventh Nightmare",
+   "desc": "Complete the Safe House Nightmare on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "A Horrible Seventh Nightmare",
+   "desc": "Complete the Safe House Nightmare on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Safe House Raid": [
+  {
+   "name": "Too Close to Home",
+   "desc": "Complete the Safe House Raid on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Not in My Backyard",
+   "desc": "Complete the Safe House Raid on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Where's Your Warrant?",
+   "desc": "Complete the Safe House Raid the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Home Invasion",
+   "desc": "Complete the Safe House Raid on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "House Party",
+   "desc": "Complete the Safe House Raid on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Heister Hospitality",
+   "desc": "Complete the Safe House Raid on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Castle Doctrine",
+   "desc": "Complete the Safe House Raid on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Welcoming the Neighbors",
+   "desc": "Complete the Safe House Raid on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "The Raid Gang",
+   "desc": "Complete the Safe House Raid job and don't let the cops pick up any bags on the Death Wish difficulty or above.Enemies are allowed to pick up the bags, but not carry them off-map.",
+   "crew4": false
+  }
+ ],
+ "Santa's Workshop": [
+  {
+   "name": "Milk and Cookies",
+   "desc": "Complete the Santa's Workshop job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bad Boy Factory",
+   "desc": "Complete the Santa's Workshop job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "All I Want for Christmas is Cocaine",
+   "desc": "Complete the Santa's Workshop job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Santa's Little Helper",
+   "desc": "Complete the Santa's Workshop job on the OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "SIX DOZERS CHARGING",
+   "desc": "Complete the Santa's Workshop job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "By a Christmas Miracle",
+   "desc": "Complete the Santa's Workshop job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "On my Twelfth Try on One Down, The True Pain Began",
+   "desc": "Complete the Santa's Workshop job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "The Biker Heist": [
+  {
+   "name": "Crime Don't Rust",
+   "desc": "Complete the Biker Heist job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Heist to Live, Live to Heist",
+   "desc": "Complete the Biker Heist job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Sons of Robbery",
+   "desc": "Complete the Biker Heist job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Riding With Style",
+   "desc": "Complete the Biker Heist job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Harley Harley Harley Wroom! Davidson",
+   "desc": "Complete the Biker Heist job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Pain Train",
+   "desc": "Complete the Biker Heist job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Highly Mother-Fucking-Dangerous",
+   "desc": "Complete the Biker Heist job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Transport": [
+  {
+   "name": "I Do What I Do Best, I Take Scores",
+   "desc": "While wearing the \"Hockey Heat\" mask, finish any Armored Transport heist 15 times on OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "But Wait - There's More!",
+   "desc": "On any Armored Transport heist, find the plans for the Train Heist.",
+   "crew4": false
+  },
+  {
+   "name": "If You Liked It You Should Have Put a Ring on It",
+   "desc": "Finish any Armored Transport heist, Having Secured at Least 9 Bags of Gold.",
+   "crew4": false
+  },
+  {
+   "name": "When \"X\" Marks the Spot",
+   "desc": "Complete the Transport: Crossroads job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Crosstown Traffic",
+   "desc": "Complete the Transport: Crossroads job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Our Roads Cross Again",
+   "desc": "Complete the Transport: Crossroads job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Fingers and Roads Crossed",
+   "desc": "Complete the Transport: Crossroads job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Caught in the Crossfire",
+   "desc": "Complete the Transport: Crossroads job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "At a Crossroads",
+   "desc": "Complete the Transport: Crossroads job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "See You at the Crossroads",
+   "desc": "Complete the Transport: Crossroads job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Why Did The Heister Cross The Road?",
+   "desc": "Complete the Transport: Crossroads job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Making My Way Downtown",
+   "desc": "Complete the Transport: Downtown job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Downtown Crowd",
+   "desc": "Complete the Transport: Downtown job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hit 'em Hard",
+   "desc": "Complete the Transport: Downtown job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Rush Hour",
+   "desc": "Complete the Transport: Downtown job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Bright Lights, Broke City",
+   "desc": "Complete the Transport: Downtown job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Downtown Madness",
+   "desc": "Complete the Transport: Downtown job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Makin' My Way Downtown",
+   "desc": "Complete the Transport: Downtown job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Crime.net Street Party",
+   "desc": "Complete the Transport: Downtown job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Heisters in a Tincan",
+   "desc": "Complete the Transport: Harbor job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Working Class Hero",
+   "desc": "Complete the Transport: Harbor job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Heisty McHeistface",
+   "desc": "Complete the Transport: Harbor job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Criminal Waters",
+   "desc": "Complete the Transport: Harbor job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Harboring Criminals",
+   "desc": "Complete the Transport: Harbor job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Shipment and Handling",
+   "desc": "Complete the Transport: Harbor job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Logistics Fee",
+   "desc": "Complete the Transport: Harbor job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "A Steel Container of Professional Badasses",
+   "desc": "Complete the Transport: Harbor job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Picnic",
+   "desc": "Complete the Transport: Park job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "We Like Long Walks",
+   "desc": "Complete the Transport: Park job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "No Day for Sightseeing",
+   "desc": "Complete the Transport: Park job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Stroll in the Park",
+   "desc": "Complete the Transport: Park job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Park Clean Up",
+   "desc": "Complete the Transport: Park job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Walk in the Park",
+   "desc": "Complete the Transport: Park job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Urban Hikeing",
+   "desc": "Complete the Transport: Park job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Holding Court in the Street",
+   "desc": "Complete the Transport: Park job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "Midnight Ride's Over",
+   "desc": "Complete the Transport: Underpass job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Traffic Congestion",
+   "desc": "Complete the Transport: Underpass job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Hazy Heisters",
+   "desc": "Complete the Transport: Underpass job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Tunnel Vision",
+   "desc": "Complete the Transport: Underpass job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Mistified",
+   "desc": "Complete the Transport: Underpass job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "It’s Always Foggy in Washington D.C.",
+   "desc": "Complete the Transport: Underpass job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Ride Through Foggy Bottom",
+   "desc": "Complete the Transport: Underpass job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Fog This Shit I'm Out!",
+   "desc": "Complete the Transport: Underpass job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "Watchdogs": [
+  {
+   "name": "Coming in Hot",
+   "desc": "On day 1 of the Watchdogs job, don't let the cops shoot and destroy your getaway vehicle.",
+   "crew4": false
+  },
+  {
+   "name": "Fish A.I.",
+   "desc": "On day 2 of the Watchdogs job, throw a loot bag into the sea, hoping fish move away as it gets near.Note: Bags that are thrown into the sea will respawn in the truck next to where the coke bags were initially dropped off.",
+   "crew4": false
+  },
+  {
+   "name": "Unusual Suspects",
+   "desc": "In the Watchdogs job, complete the heist while you and your four man crew are wearing one different Assault Pack mask each on OVERKILL difficulty or above. Unlocks the Light Foregrip for the Gecko 7.62 rifle, Tactical Foregrip for the Gewehr 3 rifle, Long Barrel for the Clarion rifle, “Void” material and “Death” pattern.",
+   "crew4": true
+  },
+  {
+   "name": "We Are Rockstars On This Job",
+   "desc": "Complete the Watchdogs job with each crew member using no skills, wielding the AMCAR Rifle and Chimano 88 Pistol on OVERKILL difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Out Of Bounds",
+   "desc": "On day 2 of the Watchdogs job, secure 12 bags without letting any law enforcer enter the warehouse on OVERKILL difficulty.All 12 bags must be secure on a boat. Carrying them to the escape won't grant the achievement. Can be achieved on higher than OVERKILL difficulty aswell.",
+   "crew4": false
+  },
+  {
+   "name": "I Swear Officer, We are Not Transporting Drugs",
+   "desc": "Complete the Watchdogs job on the Normal difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Every Dog Has Its Day",
+   "desc": "Complete the Watchdogs job on the Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "A Truckload of Kicking Ass and Taking Names",
+   "desc": "Complete the Watchdogs job on the Very Hard difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Payday Transport Service",
+   "desc": "Complete the Watchdogs job on the Overkill difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Dallas Security Firm",
+   "desc": "Complete the Watchdogs job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Special Delivery",
+   "desc": "Complete the Watchdogs job on the Death Wish difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Avoiding the Dog Pound",
+   "desc": "Complete the Watchdogs job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "Fight Like Cornered Animals",
+   "desc": "Complete the Watchdogs job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  }
+ ],
+ "White Xmas": [
+  {
+   "name": "His Beard Was as White as Coke",
+   "desc": "Complete the White Xmas job on the Mayhem difficulty or above.",
+   "crew4": false
+  },
+  {
+   "name": "Drunk Flying",
+   "desc": "Complete the White Xmas job on the Death Sentence difficulty.",
+   "crew4": false
+  },
+  {
+   "name": "",
+   "desc": "Complete the White Xmas job on the Death Sentence difficulty with the One Down mechanic activated.",
+   "crew4": false
+  },
+  {
+   "name": "What's in the Box?",
+   "desc": "On the White Xmas job open 40 packages before escaping on the OVERKILL difficulty or above.",
+   "crew4": false
+  }
+ ]
+}

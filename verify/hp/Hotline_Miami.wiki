@@ -1,0 +1,251 @@
+{{For|heist|the DLC|Hotline Miami (DLC)}}
+{{MultipleHeist2|Hotline Miami|Infobox Heist}}{{Quote|I will help secure the release of your colleague, but help has a price. Right now, the price is the elimination of this self-styled Commissar.|The Dentist offering the heist.}}
+'''Hotline Miami''' is a two-day heist in ''[[PAYDAY 2]]'' released on September 30, 2014, in a [[Hotline Miami (DLC)|DLC of the same name]]. It is the second contract offered by [[The Dentist]] and is a tribute to ''{{w|Hotline Miami}}'', a video game by [[Dennaton Games]].<ref>http://www.overkillsoftware.com/hotlinemiami/</ref><ref>http://store.steampowered.com/app/219150/</ref>
+
+A two-day job, Bain clarifies that the crew is attacking a Russian criminal dubbed "[[Minor characters (Payday 2)#The Commissar|The Commissar]]". Firstly, players must anger him by killing his thugs and destroying his property (such as cars and a gas station) so that he will expose himself to threaten the crew - thus allowing Bain to trace his calls. Secondly the crew must locate and assassinate him.
+
+In the Payday lore, this heist acts as one of the prerequisite heists leading up to [[Hoxton Breakout]], as the Commissar has ties with the District Attorney; by killing the former, The Dentist will be able to apply leverage to the DA, having him lower security around [[Hoxton]] and stage a retrial, thus allowing the crew to perform the breakout.
+{{TOC limit|3}}
+==Day 1 (Hotline Miami)==
+===[[Pre-Planning]]===
+Players will be given {{color|value|6}} favors to work with.
+{{Hotline Miami/PrePlanDay1}}
+
+===Objectives===
+#Eliminate the Russian mobsters
+#Wait for Bain to trace the Commissar's call
+#Find some gasoline
+#Set the cars on fire
+#Wait for Bain to trace the Commissar's call
+#Destroy the gas station
+#Wait for Bain to trace the Commissar's call
+#Wait for Bile to drop the present
+#Search for a basement
+#Break through the hatch
+#Defend the pick-up and keep the engine running
+#Get inside the basement
+#Search for the correct address
+#Escape!
+====Optional objectives====
+#Find the meth lab and either destroy it or cook meth.
+#Secure the loot.
+
+===Walkthrough===
+Spawning in the street, the crew must first kill several mobsters located around the motel, who will flee into hotel rooms, boarding the windows behind them. Visible claymore mines spawn on numerous hotel doors, and must be avoided or detonated to prevent player damage.
+
+One pair of rooms on the upper floor will contain a meth lab, where players must add ingredients according to the diagram on the wall; it is always muriatic acid (Mu) first, followed by caustic soda (Cs), and then hydrogen chloride (HCl). The lab can be used, blown up or ignored without affecting the outcome of the mission.
+
+After eliminating the mobsters, the crew must destroy cars by picking up gas cans, placing them on four separate cars, and shooting the canisters to ignite them. After four cars have been ignited, one player must collect C4 from the DeLorean escape car, and detonate the four gas station pumps; as when detonating a security door, the charges are only armed when all four have been placed. Players are advised to move away from the gas station before it explodes to avoid being damaged or incapacitated.
+
+Next, players must locate a partially concealed hatch in one of the bottom floor rooms, visible by the poorly replaced carpet; the hatch can be discovered and carpet removed at any time, but breaking the hatch only works after the gas station is destroyed. Bile will (after a short delay) drop a tow cable from his helicopter, which the crew needs to connect to a nearby pickup truck. Once connected, the truck has to be started (and must be defended for approximately {{color|value|1}} minute) in order to breach the hatch. With the hatch breached, players must enter the hidden bunker beneath the apartments. The bunker contains mobsters and gates (which can be drilled, [[Portable Saw|sawed]], or [[Trip Mine (Payday 2)|detonated]]). Once inside, players must open crates, and search for the correct barcode.
+
+The crates are placed by location (according to a large map nearby) and Bain informs the crew of the target's general region. The unusable crate contents are always the same, and are placed to match the map: Shaw will be ''furs'', Downtown will be ''cigars'', Foggy Bottom will be ''vodka'', West End will be ''chemicals'', and Georgetown will be ''rockets''. Once the general location is acquired, players must process barcodes from that area's respective crates, defending the machine from police while it processes. Once the scan is complete and the Commissar's location has been pinpointed, the crew is free to escape at their leisure.
+
+===Strategy===
+* Players should search for crowbars as early as possible in the heist - the more players with crowbars, the faster the basement section can be completed. Possible locations include the meth lab, the alley behind the motel, around each stairwell, and around the gas station.
+** Finding the basement hatch should also be a priority in order to save time.
+* Killing mobsters is an important step to keep the heist from stalling. After several minutes, the police will simply arrive and Bain will advance the objective, assuming the mobsters had run off though they may still be present in the motel.
+* Bain will tell the heisters where the Commissar is hidden almost as soon as he traces the call after the gas station explosion. Remembering this information will avoid the crew waiting for him to repeat himself once the basement is opened.
+* The recipe order of the meth is Muriatic Acid, Caustic Soda and Hydrogen Chloride.
+* The meth available during Day 1 is very valuable and can provide a significant amount of additional cash at the end of the heist. Thus, it is recommended to cook as much meth as possible and bring back a maximum of meth-loot bags.
+* It is very easy to make a mistake when cooking the meth on Day 1 which will blow up the meth lab, leaving it unusable. The best way not to get lost in the ingredients order, is to have one heister cook each bag and provide all 3 ingredients needed, and not mix ingredients between several heisters. Wait your turn if you see the meth lab is in use. Alternatively, keep an eye on the mission equipment each heister is carrying - once you see that no-one has a partial set of ingredients, you can start to cook.
+** When a meth ingredient has just been properly used, some clearly visible smoke will be emitted on top of the cooking recipient. This is an easy way to remember the order the ingredients have been placed so far.
+* As a big part of the meth ingredients comes from the bottom floor bunker, it is better to cook the meth at the end of the run, after having decoded the barcode and before escaping. At this stage, each player usually may bring one pack of 3 ingredients. On easier difficulties, it may be viable to have one or two people cook the ingredients already in the lab while the others complete the main objectives.
+* To bring back the meth bags to the DeLorean, players may use the back alley surrounding the whole motel. There are usually fewer enemies into this back alley, and it is easier to run around the motel from behind to reach the DeLorean than doing the same from the front of the motel. Players may additionally use the back windows to directly reach the back alley, often protecting them from enemy fire.
+* Take care when placing gas cans as the smoke may obscure heisters' line of sight when dealing with sniper across the street. It is also advised to check the trunks of vehicles for loot before setting them on fire.
+* Many sniper enemies may spawn during Day 1, particularly as the difficulty level increases. Take time to kill them all, as you will not be able to get to the DeLorean without coming under heavy fire. Be aware that some may spawn on top of the motel itself.
+* Civilians will often spawn at the gas station. It is advisable to bring them to safety to avoid losing hostages.
+* Money bags can spawn randomly in the rooms, and in varying positions. Search each room thoroughly, and take note of which rooms have been searched.
+
+==Day 2 (Four Floors)==
+===[[Pre-Planning]]===
+Players will be given {{color|value|6}} favors to work with. All assets in Day 2 are dead drops.
+{{Hotline Miami/PrePlanDay2}}
+
+===Objectives===
+#Put on your mask
+#Chase the Commissar
+#Breach the entrance
+#Wait for the thermal drill
+#Pick up the thermal drill and place it onto the vault
+#Defend the drill
+#Kill the Commissar
+#Wait for the helicopter
+#Escape!
+====Optional Objectives====
+#Save the hostage before he explodes
+#Secure the loot
+
+===Walkthrough===
+The crew starts in crates in a storage room along with a few Mobsters. After putting your masks on, the crates open and the heist starts. Entering a small courtyard, one player must collect C4 charges and blow open the entrance to the Apartment Building.
+
+Once you've entered the building, the Commissar will escape through an elevator, forcing the crew to fight through the three story building. The building itself is heavily decayed, and is essentially a randomly generated maze, which also includes a randomly spawning security gate (that can be drilled or sawed to open, a non-upgraded drill takes 60 seconds) and blocked stairwells. Care should still be taken as claymores can spawn at the door entrances. Once enemies are alerted, the police will assault the building, and The Commissar's crew starts flushing their stash of uncut cocaine; the faster the crew reaches the penthouse, the more loot that can be secured.
+
+Once the crew reaches the penthouse, the main doors must be breached with C4. The Commissar will always seal himself inside his personal vault, forcing the crew to drill it open; Bile soon drops a thermal drill, that must be set-up and defended for around four to six minutes. During this assault, a gunship owned by the Commissar will occasionally fire on the penthouse, firing rockets into the room and setting it ablaze. The shots from the gunship will instantly stop the drill. After three strikes, a valve wheel can be turned to activate the sprinklers. The fire will take several seconds to extinguish.
+
+Once open, the Commissar emerges from the vault and personally fights the crew (see [[Enemies (Payday 2)#Unique Opponents|his Enemies page entry]] for more details). Once he is dead, the crew can take the remaining cocaine and any cash inside the vault and escape by helicopter.
+
+===Strategy===
+* An objective marker will appear on the bag of C4 once a player approaches the door that needs breaching, triggering this may save a few seconds when going for speed compared to checking all the potential bag locations by hand.
+* The hostage just outside the starting room will usually not be reached and freed by the police, while not useful for a hostage trade it can still cause assault wave delays or trigger skills and perks that react to hostages. Do note that someone will have to run all the way back down to that hostage should a crewmember be taken into custody.
+* The trickiest part of the "maze" is usually finding the ramp up from the first floor to the second, however the ramp always spawns after the cage door and in a collapsed section between two apartments and therefore must be located between two doorways spaced quite far apart along the corridor.
+* Bringing a shotgun can help greatly in navigating through the maze as a player will be able to blast the doorknobs off of doors with minimal aiming.
+* It is recommended that at least one player has a loadout with a [[OVE9000 Saw|saw]] to expedite bypassing the gate in the building.
+* Be careful when passing through doors. Some doorways are armed with trip mines that can seriously injure or even down a heister. If one is encountered, make sure to shoot the mine before proceeding.
+* After the helicopter gunship attacks, when the apartment is on fire, a heister equipped with the [[Armor#Improved Combined Tactical Vest|Improved Combined Tactical Vest]] and the right skills and perks may be able to restart the drill while suffering only armor damage. This may provide big time saving for the team as it is not necessary to extinguish the fire for the drill to be restarted.
+** Standing in front of the sofas by the vault allows you to take no fire damage at all, allowing players to restart the drill without any risk provided that the drill is on the left or rear, and that snipers have been eliminated beforehand.
+* The fire caused by the Commissar's gunship can destroy loot bags if they are left in there for too long. Don't place loot bags in the same room as the Commissar's vault, which is where the fire stays. The unbagged cocaine on the table isn't affected by the fire though.
+** Because Crew AI hold bags by just attaching the bag to their back and having it follow them rather than it having the same "carrying" properties like players, loot bags can be destroyed by the fire if a Crew AI holding one gets too close to the fire.
+* Because of the possible fire and a large number of enemies (often also involving many snipers), it is best to avoid waiting in the Commissar's apartment or the rear corridor. Usually, best places to fight are the two little rooms just next to the corridor, where players can concentrate their fire and prevent being shot by the snipers or hurt by the fire.
+* When the Commissar exits from his vault, players can leave the Commissar to fight with the police. The objective will still count as completed if the Commissar is killed by the police instead of the players.
+* Generally, it is better not to bag the cocaine right away, and leave it on the table as is. The reason is that as long as the cocaine stays on the table, the police cannot steal it, and it cannot be destroyed by the fires the Commissar's gunship causes. Players should wait until the Commissar is dead and escape has arrived to begin bagging cocaine and taking it to the escape helicopter.
+* If the players reach the penthouse with loot bags, the best place to store them is on the top shelf in the security room, since the police cannot reach that high to pick up the bags.
+
+==Variations==
+===Day 1===
+* There can be loot (a bag of money inside a case) inside two of the cars that can be burnt. Other cars may contain a used body bag, an empty weapon case, or nothing.[[File:HM_lootable_cars.jpg|thumb|300px|The two cars that may spawn a money bag in their trunks.]]
+* The hotel rooms can contain money bags, which vary in quantity and location. Large piles of loose cash can spawn throughout the map, also varying in amount.
+* The location of the hatch into the basement can differ. However, the hatch rug area will '''never''' have objects on top of it, and it will always be near one of the pickup trucks on the ground floor; this can aid finding the hatch, because it will be near a pickup truck that the gasoline cannot be placed on.
+* The format of the basement can vary depending on the motel room it spawns in. Whilst the area itself remains the same, both the underground passage and the basement entrance gate depend on where the hatch spawns.
+* The Commissar's location can vary depending on where Bain traces the call to. By extension, the barcode needed will depend on said location.
+* One top floor area, consisting of two rooms with the walls opened, will always contain a meth lab, though its exact location will vary. Bain will not provide instructions; the crew will find a recipe posted on one of the walls. The lab can either be used (as the meth is very valuable, and can significantly increase job payout), ignored completely, or set off by intentionally using the wrong ingredient.
+* The amount of ingredients to cook meth can vary. There can be between four and eight sets of ingredients, with most of the ingredients being in the hidden basement. The boxes in the rooms with the meth lab can also carry between one and three ingredients each.
+* The security cages in the back of the bunker will contain light cocaine bags on the Normal, Hard and Very Hard difficulties, while containing heavier weapons on Overkill and above. The amount varies between 2 and 3 in either case.
+* Crowbars spawn in different locations. Typically, one will spawn in the bunker, though others can be found around the motel (such as near the top floor vending machines or the ice-crate under the stairs).
+* The bunker crates contain meth ingredients or useless items representing the area the crates are headed.
+* The Commissar's helicopter gunship can appear at any time, and there's a rare chance it will fire at the motel.
+* The DeLorean's spawn will vary between 2 locations. One next to the gas station, the other one at the opposite end of the road.
+
+===Day 2===
+* The layout of the map is extremely random, and therefore the correct path through will also be different each time; this extends between floors one to three, as stairwells will be blocked between some levels, and inter-floor ramps spawn in several locations.
+* Enemy tripmines will spawn in certain areas, and can be hidden amongst the debris and through doorways. They can be detonated by shooting at them.
+* The hostage (the man with a bomb in his chest) has a set number of spawn points and only one can exist. Additionally, there can be 1-4 bags of money next to him as well.
+* After breaching the Commissar's apartment, up to 3 [[Bulldozer (Payday 2)|Bulldozers]] can spawn at either side, and will target any living mobsters and the crew.
+* Sometimes a smoke grenade will be triggered in the middle of a corridor. One of four police enemies will be waiting:
+** A trio of blue SWAT
+** Two SWAT Shields and a Taser
+** A Cloaker
+** A Bulldozer
+* The amount of money in the Commissar's vault varies between one and three bags depending on difficulty.
+* Whilst always nine total bags, the amount of cocaine ''remaining'' depends on difficulty and player speed. [http://steamcommunity.com/sharedfiles/filedetails/?id=267214370 The Long Guide]  notes that once the Commissar reaches the penthouse (25 seconds after breaching), a time limit starts: once the limit hits eight minutes remaining, one bag will be flushed per minute until it is all lost. The starting time depends on difficulty, which are as follows:
+** 11 minutes total on Normal or Hard. The first bag is lost 3 minutes 25 seconds after breaching.
+** 10 minutes total on Very Hard or Overkill. First bag is 2m 25s after breaching.
+** 9 minutes total on Deathwish. First bag is 1m 25s after breaching.
+* The thermal drill can drop in one of three locations on the fourth floor, including: the main balconies, through a skylight right outside the penthouse, or further along the halls.
+* The sprinkler valve is random between 3 different locations. 2 on the fourth floor and 1 on the third floor.
+* The vault door to the Commissar's vault may face different directions, although it will never face the direction of the cocaine table.
+* The gunship may fire at the drill more than once, requiring the crew to activate a different sprinkler valve.
+
+==Mayhem+ changes==
+===Day 1===
+* There will only be one crowbar in the map, located in the basement behind one of the caged doors.
+
+==The FBI Files==
+An assassination attempt on Grigori Beria. A Russian mob boss known by the alias “The Commissar”. His record shows that he has been involved in a range of criminal activity, including prostitution, drug manufacture and distribution, murder, and guns. The assassination involved two locations. Firstly, a motel on the outskirts of town, which was well-known to us as a hang-out for The Commissar’s men, and, secondly, a high-rise apartment block.
+
+{{Color|Value|My Notes: We can’t be seen to take sides. We gotta be merciless. Much as I’d like to let these two go at it, wipe each out, we have to go in. Maybe tactics aimed at mitigating casualties, because Bain’s crew left these places looking like warzones.}}
+
+==Bugs==
+[[File:20160513210843 1.jpg|300px|thumb|A money bag in the floor.]]
+*On Day 1, loot bags can fall into the floor beneath the window in Room 102. This does not render them unreachable and they can still be grabbed.
+*On Day 1, it is possible to go up to a radiator by one of the windows and get stuck. If you stand up you can glitch through the floor. By using this glitch one can avoid being shot at all, though at the same time you may fall out the map. Players fallen out of the map will respawn at the host's position, however.
+*On Day 1, if you give the machine the correct barcode on the first try without Bain prompting you, you can get stuck on the "Search for the correct barcode" objective.
+
+==[[Achievements (Payday 2)|Achievements]]==
+
+{{:Achievements (Payday 2)/Hotline Miami}}
+<tabber>Post-release achievements=
+{{Achievement|<nowiki>*Click*</nowiki>||Complete the [[Hotline Miami]] job on the Normal difficulty or above.|image=Click.jpg}}
+{{Achievement|Prankcall|jpg|Complete the [[Hotline Miami]] job on the Hard difficulty or above.}}
+{{Achievement|Running in the 80's|jpg|Complete the [[Hotline Miami]] job on the Very Hard difficulty or above.}}
+{{Achievement|1-800-KOMISSAR|jpg|Complete the [[Hotline Miami]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Well in Russia Asshole Facks You!|jpg|Complete the [[Hotline Miami]] job on the Mayhem difficulty or above.}}
+{{Achievement|Yes, I Rather Like Hurting Other People, Thank You For Asking|jpg|Complete the [[Hotline Miami]] job on the Death Sentence difficulty.}}
+{{Achievement|Dennis' Menace|jpg|Complete the [[Hotline Miami]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+</tabber>
+==Trivia==
+* Aside from the heist in its entirety being a homage to ''[[wikipedia:Hotline Miami|Hotline Miami]]'', there are several references to the game throughout the heist:
+** The crew arrives on the scene on the first day in a {{w|DeLorean DMC-12}}, in reference to the [[w:c:hotlinemiami:Acado GT|car]] that the main player character drives in the game.
+** The Commissar's Mobsters encountered throughout the heist are based on the [[w:c:hotlinemiami:Russian Mafia|Russian Mafia mobsters]] in the ''Hotline Miami'' games.
+*** The mobsters encountered in the heist more so resemble the ones featured on the ''Hotline Miami'' cover art rather than those in the games themselves.
+** More mobsters arrive on Day 1 in black vans. At the end of the ''Hotline Miami'' level [[w:c:hotlinemiami:Deadline|Deadline]], a black van filled with Russian mobsters rams through the wall, the van's driver and its passengers serving as the boss of the level.
+** Civilians found on Day 2 are similar in appearance to [[w:c:hotlinemiami:Beard|Beard]] and [[w:c:hotlinemiami:The Janitors|The Janitors]] from ''Hotline Miami''.
+** The hostage situation in Day 2 slightly resembles a mission from ''Hotline Miami'', [[w:c:hotlinemiami:Tension|Tension]], in which the protagonist is sent to clear out a building filled with Russian mobsters that have taken another [[w:c:hotlinemiami:Tattoo Artist|masked killer captive]]. In the original mission, the captive is trapped in a room with an interrogator, and the explosives are rigged to the doors such that opening any one of the doors will detonate the explosives.
+** The Commissar is a reference to [[w:c:hotlinemiami:The Father|The Father]] from Hotline Miami, with both being the head of the respective game's Russian mafia, wearing similar clothing, and wielding machine guns when fought.
+* It is never explained how even a three-player crew manages to arrive and leave the scene on the first day in the DeLorean, as the car only has two seats, one for the driver and a passenger, [[File:2014-10-01 00001.jpg|thumb|300px|The Rasputin portrait in the Commissar's suite.]]and by the end of the day, the car is usually filled with so many loot bags that it is physically impossible for even one person to fit in the car.
+* There is a painting of {{w|Grigori Rasputin}} in the Commissar's penthouse suite. The same picture can be found in Dimitri's office in the [[Nightclub]] heist and as loot in [[Shadow Raid]].
+* The fight against the Commissar himself is a possible reference to the movie ''{{w|Scarface (1983 film)|Scarface}}'', where the protagonist (a drug kingpin) dies fighting hitmen sent by his enemy. This is repeated entirely in the [[Scarface Mansion]].
+* Day 2 of Hotline Miami is very similar in several ways to [[Panic Room]]:
+** The heisters will have to fight through a dilapidated apartment that also serves as a gang hideout.
+** The heist revolves around a panic room in the building.
+* This is the first heist in the game to feature the updated AI script of NPC infighting, between the Commissar's mobsters and law enforcers, as normally all enemies are scripted to fight the crew alongside each other. This AI script is now applied to all other heists with gangsters/bikers and the police.
+* If you take time during the start of Day 2 of Hotline Miami and not get to the Commissar in time to save the Cocaine being flushed down the toilet, [[Bain]] will get rather noticeably upset and angry, almost begging for the crew to get to the top floor and save the cocaine.
+* The instructions for cooking meth on the diagram is in order of [[Bain]]'s description of meth ingredients required (Muriatic Acid, Caustic Soda, and Hydrogen Chloride). This shows that the meth lab of the Motel is considerably more organized.
+* The manner in which the crew produces meth in this map presents several inaccuracies or hazards.
+** None of the characters can be seen using protective equipment of any kind when cooking is in progress. The minimum required safety gear is a gas-proof breathing mask with adequate filtration. The crew's ballistic face masks has open eyeholes and ports at the nose for ease of breathing during use, which is '''not''' adequate. Not wearing proper gear can result in accidental intoxication, or suffocation via the fumes generated during the cooking process.
+** The cooling/crystalizing process is absent, meaning if that bizarre concoction were to work in real life, it would produce hot meth sludge instead of the intended version.
+** Caustic soda is also known as sodium hydroxide, a strong base. Muriatic acid and hydrogen chloride are identical chemicals at the molecular level, with the former being a solution of the latter. In real life, combining muriatic acid or hydrogen chloride with caustic soda yields aqueous sodium chloride (salt water). This is most likely done to prevent players from attempting to cook meth in real life.
+*** Additionally, most of the chemicals are erroneously represented with wrong components and/or symbols.
+**** The chemicals are listed as elements rather than compounds on their icons (Hydrogen Chloride is listed as Hcl rather than HCl, for example).
+**** Muriatic Acid is aqueous Hydrogen Chloride and would normally appear as HCl. The chemical symbol of Mu does not correspond to any known substance, be it an element or compound.
+**** Caustic Soda appears as the symbol for Cesium (Cs) instead of how it is represented in reality (NaOH). This was done simply for the ease of player recognition, as the initials for Caustic Soda are also CS.
+* This is the second heist to feature an assassination objective as Day 2 cannot be completed until the Commissar is dead. The first to feature an assassination objective was Day 3 of [[Rats]] which called for the elimination of the escaping Mendoza gang members.
+* The [https://www.youtube.com/watch?v=LxIm3uROQlI song] heard in the DeLorean is from a TV in [[Four Stores]] that was removed on release. It can also be heard in [[Jacket]]'s room in the [[Safe House]].
+* Bain might sometimes say "Some men just want to watch the wheels burn!" when igniting a car on Day 1, which is a reference to ''{{w|The Dark Knight (film)|The Dark Knight}}''.
+* At the start of Day 2, the mobsters outside the crates might talk about [[Minor characters (Payday 2)|Ilija The Sniper]] and his cooperation with the PAYDAY gang. They also add that the Commissar would pay Ilija a lot of money for him to return, suggesting that Ilija once worked for the Commissar before working with the PAYDAY gang.
+* Hotline Miami is the only heist thus far to depict pornographic material; On monitors in both days, there is an image of a bare woman sprawled on a bed.
+* When the heist was first released, Bile arrived in a police helicopter with turned on spotlight, in later updates, he flies his own helicopter again.
+* Bain will sometimes complain about the slowness of the scanner, saying it comes from the 60s or wondering if the Commissar brought it all the way from Russia.
+*There is a chance that the civilian that spawns outside the starting room (where the Payday gang emerge from the boxes), will look like Beard from Hotline Miami 1 & 2. This could potentially also be a reference to how Jacket sees all the clerks as Beard in the first Hotline Miami, since this civilian is wearing what looks like a Blockbuster or video rental store uniform, which is one of the stores Jacket will stop at after a mission in Hotline Miami.
+*Jacket was heavily implied to be the reduced mobsters asset since; he appears in the trailer, is known for clearing rooms of russian mobsters in Hotline Miami, and at the time of release wasn't a playable heister.
+** Since Jacket is now a playable heister there is less of a chance that he is the reduced mobsters asset, although this hasn't been confirmed nor denied by Overkill, likely since no one has asked them yet.
+
+{{clr}}
+
+==References==
+{{Reflist}}
+
+==Gallery==
+<tabber>Screenshots=
+<gallery hideaddbutton="true">
+PAYDAY 2 Hotline Miami DLC 14121127625987.jpg|Dallas upstairs.
+payday 2 hotline miami.jpg|Crew members in the courtyard.
+ss c89f32cccaafe7b49a7e34af8b88b55d2b4bb53b.600x338-1024.jpg|Players out front of the motel.
+DAllas WOlf.jpg|Dallas and Wolf surrounded by burning cars.
+2015-06-06 00002.jpg|The meth lab's cooking instructions on Day 1.
+2014-11-19 00001.jpg|The map in Day 1 along with images of goods coming from many of the Commissar's possible locations.
+2014-11-02 00001.jpg|The crew sees the Commissar taking the elevator up, signaling the start of the chase.
+2014-10-22 00001.jpg|The Commissar's gunship about to open fire on the crew during Day 2
+2014-11-05 00010.jpg|Russian Mobsters. Note the different weapons of each of the Mobsters.
+2014-11-05 00011.jpg|The Commissar.
+2014-11-05 00013.jpg|Side view of The Commissar. Note the bag of money in the back of the vault, and the Lightweight Ballistic Vest he is wearing.
+</gallery>
+|-|Blueprints=
+<gallery captionalign="center" columns="2" spacing="large" widths="250" orientation="none" position="center" hideaddbutton="true" bordercolor="transparent" bordersize="none hideaddbutton="true">
+hm-day1-1st-floor-layout.png|1st Floor Layout
+hm-day1-ground-floor-layout.png|Ground Floor Layout
+hm-day1-motel-blueprints.png|Motel Blueprints
+</gallery>
+<gallery captionalign="center" columns="2" spacing="large" widths="250" orientation="none" position="center" hideaddbutton="true" bordercolor="transparent" bordersize="none" hideaddbutton="true">
+hm-day2-fourth-floor-penthouse.png|Fourth Floor/Penthouse Layout
+hm-day2-third-floor.png|Third Floor Layout
+hm-day2-second-floor.png|Second Floor Layout
+hm-day2-first-floor.png|First Floor Layout
+hm-day2-ground-floor-courtyard.png|Ground Floor/Courtyard Layout
+</gallery>
+|-|Videos=
+<gallery position="center" widths="300" hideaddbutton="true">
+PAYDAY 2 Hotline Miami DLC Teaser|Teaser video for the Hotline Miami DLC.
+Payday 2 Soundtrack - Evil Eye Website|Soundtrack from the Presentation Website.
+Payday 2 Soundtrack - Evil Eye (Hotline Miami DLC)|Evil Eye - Hotline Miami Day 1.
+Payday 2 Soundtrack - Hot Pursuit (Hotline Miami DLC)|Hot Pursuit - Hotline Miami Day 2.
+</gallery>
+</tabber>
+
+{{Navbox PD2 Heists}}
+
+[[ru:Горячая линия Майами]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Hotline Miami DLC]]
+[[Category:Loud-Only Heists]]
+[[Category:Heists contracted by The Dentist]]

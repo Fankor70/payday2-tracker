@@ -1,0 +1,42 @@
+<tabber>Permanent Achievements=
+{{Achievement|Trip to the Coast|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job on the Normal difficulty or above.}}
+{{Achievement|Stomped on a Spider|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job on the Hard difficulty or above.}}
+{{Achievement|Shipwreck Survivor|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job on the Very Hard difficulty or above.}}
+{{Achievement|Salem's Lot|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Hey, you guys!|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job on the Mayhem difficulty or above.}}
+{{Achievement|Even Death May Die|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job on the Death Wish difficulty or above.}}
+{{Achievement|Never Say Die|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job on the Death Sentence difficulty.}}
+{{Achievement|Going once...|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|The Auction Cry|jpg|Complete the [[Shacklethorne Auction|Shacklethorne]] job in Stealth within {{color|value|5}} minutes on the OVERKILL difficulty or above.}}
+{{Achievement|Press [F] to Pay Respects||Press [F] to pay respects.|image=Press F to Pay Respects.jpg}}
+{{Achievement|Heavy Metal|jpg|In the [[Shacklethorne Auction|Shacklethorne]] job, use the metal detectors to find a civilian that is carrying something heavy. Unlocks the [[Monkey Wrench]] weapon.}}
+|-|Teasers=
+''The following were added on July 30, 2018. They got removed on August 15, 2018.''
+{{Achievement|A naturally||A naturally}}
+{{Achievement|crystalline||crystalline}}
+{{Achievement|inorganic||inorganic}}
+{{Achievement|solid||solid}}
+{{Achievement|with an||with an}}
+{{Achievement|ordered||ordered}}
+{{Achievement|structure,||structure,}}
+{{Achievement|it fits||it fits}}
+{{Achievement|the properties||the properties}}
+{{Achievement|of a mineral.||of a mineral.}}
+|-|Guides=
+{{Achievement|Press [F] to Pay Respects||Press [F] to pay respects.|image=Press F to Pay Respects.jpg}}
+
+In one of the auction rooms in the heist, there is a display case containing Lindenhurst's mummified corpse. Either open it with the glass cutter or by smashing it open, then interact with the corpse to obtain the achievement.
+
+{{Achievement|Heavy Metal|jpg|In the [[Shacklethorne Auction|Shacklethorne]] heist, use the metal detectors to find a [[Civilians|civilian]] that is carring{{sic}} something heavy. Unlocks the [[Monkey Wrench]] weapon.}}
+
+There is a blue-outfitted civilian in the storage area that must be tied down and escorted to go through the metal detectors at the estate entrance. The metal detectors must be on, meaning they haven't been disabled manually and the alarm hasn't gone off. The metal detectors can be maneuvered around by jumping on and off the tables next to them.
+
+The amount of cameras in the estate require either killing the camera operator or liberal usage of [[ECM Jammer]]s/[[Pocket ECM]]s.
+
+It is recommended to attempt this on the Normal difficulty, as there will only be the camera operator, the guards patrolling the upper floor, the guard watching the metal detectors, one guard patrolling the ground floor (who can be easily avoided), and one guard looking out into the courtyard (who will likely not notice the civilian).
+|-|Trivia=
+*The teasers describe the physical properties of {{w|ice}}.
+*'''Even Death May Die''' is an excerpt of the quote ''"That is not dead which can eternal lie. And with strange aeons even death may die."'' from the {{W|Necronomicon}}.
+*'''Press [F] to Pay Respects''' is a reference to the [https://knowyourmeme.com/memes/press-f-to-pay-respects now-memetic action prompt] in the 2014 video game ''{{W|Call of Duty: Advanced Warfare}}'', in which the player character (and by extension the player) is forced to perform such action at a funeral in order to proceed.
+</tabber>
+[[Category:Support Pages]]

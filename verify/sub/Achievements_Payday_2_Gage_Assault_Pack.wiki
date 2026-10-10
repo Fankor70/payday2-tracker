@@ -1,0 +1,42 @@
+<tabber>Permanent Achievements=
+{{Achievement|Precision Aiming|jpg|Kill {{color|value|25}} [[Bulldozer (Payday 2)|Bulldozers]] using the [[Gewehr 3]] Rifle. Unlocks the Sniper Barrel for the [[Clarion]] rifle, Sniper Stock, Sniper Grip and Sniper Foregrip for the [[Gecko 7.62]] rifle, Precision Stock, Precision Foregrip, Precision Grip and the DMR Kit for the Gewehr 3 rifle as well as the “[[Masks (Payday 2)#Gage Assault Pack DLC|Black Death]]” mask.}}
+{{Achievement|Big Bada Boom|jpg|Kill at least {{color|value|four}} enemies with one [[GL40 (Payday 2)|GL40]] grenade launcher shot. Unlocks the Sawed-off Stock for the GL40 grenade launcher and the “[[Masks (Payday 2)#Gage Assault Pack DLC|Crow Goblin]]” mask.}}
+{{Achievement|Army of One|jpg|Equip the [[GL40 (Payday 2)|GL40]] grenade launcher, the [[Locomotive 12G (Payday 2)|Locomotive]] shotgun and the [[Armors#Improved Combined Tactical Vest|Improved Combined Tactical Vest]]. Unlocks the CQB Foregrip and Plastic Stock for the [[Gecko 7.62]] rifle.}}
+{{Achievement|So Many Choices|jpg|Own one of every [[Gage Assault Pack]] weapon in the game. Unlocks the Short Barrel for the [[Clarion]] rifle, Light Stock for the [[Gecko 7.62]] rifle, Plastic Foregrip and Assault Kit for the [[Gewehr 3]] rifle, “[[Materials#Gage Assault Pack DLC|Evil]]” material and “[[Patterns#Gage Assault Pack DLC|Vicious]]” pattern.}}
+{{Achievement|Artillery Barrage|jpg|Kill {{color|value|25}} enemies at {{color|value|40}} meters or more using only the [[GL40 (Payday 2)|GL40]] grenade launcher. Unlocks the Wooden Stock for the [[Gecko 7.62]] rifle, Pirate Barrel for the GL40 grenade launcher, “[[Materials#Gage Assault Pack DLC|Bone]]” material and “[[Patterns#Gage Assault Pack DLC|Muerte]]” pattern.}}
+{{Achievement|Unusual Suspects|jpg|In the [[Watchdogs]] job, complete the heist while you and your {{color|value|four}} man crew are wearing one different Assault Pack mask each on OVERKILL difficulty or above. Unlocks the Light Foregrip for the [[Gecko 7.62]] rifle, Tactical Foregrip for the [[Gewehr 3]] rifle, Long Barrel for the [[Clarion]] rifle, “[[Materials#Gage Assault Pack DLC|Void]]” material and “[[Patterns#Gage Assault Pack DLC|Death]]” pattern.}}
+{{Achievement|Not Today|jpg|Kill a jumping [[Cloaker (Payday 2)|Cloaker]] using the [[GL40 (Payday 2)|GL40]] grenade launcher. Unlocks the Wooden Stock, Retro Grip and Wooden Foregrip for the [[Gewehr 3]] rifle.}}
+{{Achievement|Hammertime|jpg|Kill {{color|value|25}} [[Enemies (Payday 2)#Gangs|thugs]] using the [[Ding Dong Breaching Tool|Ding Dong breaching tool]] melee weapon. Unlocks the “[[Materials#Gage Assault Pack DLC|Frost]]” material and “[[Patterns#Gage Assault Pack DLC|Emperor]]” pattern.}}
+{{Achievement|Rabbit Hunting|jpg|Kill {{color|value|10}} [[Cloaker (Payday 2)|Cloakers]] using the [[Gecko 7.62]] rifle. Unlocks the Skeletal Stock, Fabulous Stock and Fabulous Foregrip for the Gecko 7.62 rifle as well as the “[[Masks (Payday 2)#Gage Assault Pack DLC|Volt]]” mask.}}
+{{Achievement|Tour de Clarion|jpg|Kill {{color|value|200}} enemies using the [[Clarion]] rifle. Unlocks the Suppressed Barrel and G2 Grip for the Clarion rifle as well as the “[[Masks (Payday 2)#Gage Assault Pack DLC|Professor Wrath]]” mask.}}
+|-|Teasers=
+''The following appeared on August 26, 2014. They were replaced on September 4, 2014, with the release of the [[Gage Assault Pack]].''
+{{Teasers
+|It is
+|fatal
+|to
+|enter
+|a war
+|without
+|the
+|will
+|to win
+|it
+}}
+|-|Tips=
+{{Achievement|Precision Aiming|jpg|Kill {{color|value|25}} [[Bulldozer (Payday 2)|Bulldozers]] using the [[Gewehr 3]] Rifle. Unlocks the Sniper Barrel for the [[Clarion]] rifle, Sniper Stock, Sniper Grip and Sniper Foregrip for the [[Gecko 7.62]] rifle, Precision Stock, Precision Grip and the DMR Kit for the Gewehr 3 rifle as well as the “[[Masks (Payday 2)#Gage Assault Pack DLC|Black Death]]” mask.<br/>{{color|negative|''Also unlocks the Precision Foregrip for the Gewehr 3.''}}}}
+The fastest and safest way to spawn and kill 25 bulldozers is to continually repeat the first few minutes of [[Meltdown]] on Normal difficulty. A single green bulldozer will spawn in one of the Murkywater cargo containers who can be found and killed before restarting the heist.
+{{Achievement|Artillery Barrage|jpg|Kill {{color|value|25}} enemies at {{color|value|40}} meters or more using only the [[GL40 (Payday 2)|GL40]] grenade launcher. Unlocks the Wooden Stock for the [[Gecko 7.62]] rifle, Pirate Barrel for the GL40 grenade launcher, “[[Materials#Gage Assault Pack DLC|Bone]]” material and “[[Patterns#Gage Assault Pack DLC|Muerte]]” pattern.}}
+As above, the start of Meltdown will offer a range of targets at 40m or more - many of the guards in the yard are this far away and a carefully aimed shot can even reach guards on the warehouse roof. The heist can then be restarted as many times as required. Heists with a Vantage point asset typically offer appropriate distance to get the achievement, to make sure you are in range, bring a secondary with a sight that has range measuring features, such as Reconnaissance Sight x2.
+{{Achievement|Not Today|jpg|Kill a jumping [[Cloaker (Payday 2)|Cloaker]] using the [[GL40 (Payday 2)|GL40]] grenade launcher. Unlocks the Wooden Stock, Retro Grip and Wooden Foregrip for the [[Gewehr 3]] rifle.}}
+Numerous viable strategies exist for this achievement, but as general advice, players should aim to position themselves behind some sort of low cover (tables, counters, cars), do some damage to a Cloaker with a secondary weapon, then approach the cover - when the Cloaker starts his jump, fire at the cover itself and the area-of-effect damage should kill him. On the PC version, damaging the Cloaker prior to the jump is not required on the Very Hard difficulty.
+|-|Trivia=
+* The teaser achievements form a slightly modified version of a [http://www.brainyquote.com/quotes/quotes/d/douglasmac125177.html quote] by {{w|Douglas MacArthur}}.
+* '''Unusual Suspects''' is a reference to the 1995 film ''{{w|The Usual Suspects}}''.
+* '''Not Today''' is a reference to the ''{{w|Game of Thrones}}'' TV series, being an answer to the question "What do we say to (the god of) Death?".
+* '''Hammertime''' is a reference to the American rapper {{w|MC Hammer}} who coined the phrase and used it in a number of songs and TV shows.
+* '''Tour de Clarion''' is a reference to the {{w|Tour de France}}, the Clarion being manufactured in France.
+* '''Big Bada Boom''' is a reference to a quote from the 1997 science fiction movie ''{{w|The Fifth Element}}''.
+</tabber><noinclude>
+[[Category:Support Pages]]
+</noinclude>

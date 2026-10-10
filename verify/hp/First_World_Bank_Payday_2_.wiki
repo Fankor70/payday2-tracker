@@ -1,0 +1,220 @@
+{{Game-Tabs|pdth=First World Bank|pd2=First World Bank (Payday 2)|pd3=First World Bank (Payday 3)}}
+{{MultipleHeist2|First World Bank|Infobox Heist}}{{Quote|Time to cash out.|Poster tagline}}
+'''First World Bank''' is a heist from ''[[PAYDAY: The Heist]]'' introduced to ''[[PAYDAY 2]]'' on day 6 of [[PAYDAY 2 Community Events#CrimeFest 2015|CrimeFest 2015]]. It takes place in a bank of the same name.
+
+==Overview==
+{{Quote|Everyone likes to make a spectacular entrance and this is going to be one for the books. Two cans of thermite should be enough to make our own personal VIP entrance in to the First World Bank Vault. After that it's just getting out with the cash...|In-game description.}}
+First World Bank requires the players to break into the vault of a large bank and steal four duffel-bags worth of cash. The heist begins with the players casing the bank to locate the manager and get a security keycard. Afterward, they will drill through a security gate and use thermite to burn a hole into the bank's vault. Once they have the money, the crew will use C4 to blow a hole in a wall and make their escape.
+{{clr}}
+==Objectives==
+<tabber>Loud=
+#Enter the bank
+#Find the bank manager and get his keycard
+#Locate and enter the server room
+#Get the drill and the thermite
+#Start the drill
+#Disable magnetic lock
+#Drill the gates
+#Pour out the thermite to melt the floor
+#Melt the floor
+#Empty the vault
+#Drop off the loot
+#Get through the lobby
+#Blow up the wall
+#Secure the loot ({{color|value|4}} (Normal/Hard), {{color|value|6}} (Very Hard/Overkill), {{color|value|8}} (Mayhem+)
+##(optional) Secure extra loot
+#Escape
+{{clr}}
+|-|Stealth=
+#Enter the bank
+#Find the bank manager and get his keycard
+#Locate and enter the server room
+#Disable the metal detectors
+#Find the gate's security codes
+#Meet our insider at the gates
+#Gain access to vault doors
+#Empty the vault
+#Drop off the loot
+#Follow our insider
+#Secure the loot ({{color|value|4}} (Normal/Hard), {{color|value|6}} (Very Hard/Overkill), {{color|value|8}} (Mayhem+)
+##(optional) Secure extra loot
+#Escape
+</tabber>
+
+==Assets==
+===Purchasable===
+{{Asset|asset-bodybags bag.png|Body Bags|7000|Requires the [[Sixth Sense]] Aced skill to unlock}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC}}
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+
+===Intel===
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+
+==Walkthrough==
+Before the heist begins, Bain informs the crew that their insider hid a drill and two cans of thermite in a photocopy machine in the server room, to help if the plan goes loud, leaving them to locate the bank manager in order to retrieve the gear.
+<tabber>Stealth=
+The beginning task remains the same; find the manager and retrieve his keycard. The difficulty can vary, as he may be located in an isolated spot to the chance he is found on the lobby, pacing back and forth with his cell phone behind a wall where the bank tellers are located. Sometimes, he may spawn nearby a security camera, thus it may be required to either deploy an ECM jammer or eliminate the camera operator.
+
+The next step is to disable the metal detectors. There are three electricity boxes that need to be rewired, all on the second floor; one inside the server room and two at various locations. It is strongly advised to locate and remember their positions in casing mode, as well as having team members stay unmasked to identify a passing guard when hacking an electricity box.
+
+To enter the vault area stealthily,  the gate's security codes from one of the computers in an office area must be retrieved. It will always be on the opposite side of the vault entrance. If the camera operator is not dealt with, it may be advised to have the [[Nimble]] skill as often, a camera will overlook the computers. After finding the correct computer, the insider will then assist in unlocking the door by ordering the guards to leave. However, despite the insider informing players it is clear, there may be another lingering guard that will patrol around thus it is imperative to remain careful.
+
+Once in, access to the vault doors must be gained by inserting a keycard into a slot inside the vault area's camera room and another, quickly, at the vault doors' slot. One keycard always spawns on the lower counter in the vault camera room, and the other will spawn on the desk in the vault lobby, in the conference room adjacent to the vault camera room, or on the upper counter in the camera room. This time, there is another camera operator but being a civilian, he does not carry a pager and can be tied down. However, there will be additional guards present, sometimes even other civilians.
+
+Empty the vault and drop the bags through the vent at the vault area's lobby. Get out by following the insider to the exit route, and get through the back office. A Titan Safe can be found in this area (on a conference table or on the floor, both near the garage exit) containing the item for the '''Au Ticket''' achievement. Finally, proceed down the stairwell, stash the loot, and escape. Be aware that there is a chance of police spawning in the passage to the garage, their gunfire will alert all civilians in the rear office.
+|-|Loud=
+Once the drill is attached to the security door leading to the back half of the bank, the crew will have to defend themselves while resetting the drill when it jams. Someone will also have to disable magnetic lock using a terminal in one of the offices upstairs in the upper management section of the bank. Snipers occasionally spawn outside the windows, including over skylights, so the crew must be aware when restarting the drill or traveling the front of the bank. After the drill finishes, the crew must make their way to a counting room above the vault and use the thermite to melt through the floor. Using both cans of thermite makes the process go more quickly (in Single Player, this means the player must make a return trip to the photocopy machine).
+
+Once inside the vault, the crew must fill their duffel bags with the cash and wait for law enforcement to open the vault doors for their escape. While inside, there are also a number of loose bundles of cash both on the tables and in deposit boxes that can be taken for a small additional reward. After the doors open, an objective of throwing the bags down a vent will appear. Using this vent is strongly advised unless you are going for an achievement. When the crew is ready to leave, they must make their way back to the executive offices through the lobby (as security shutters will have blocked off the stairs next to the door they drilled), blow a hole into the neighboring building using C4, and navigate to the underground garage, where they escape via a garbage truck.
+</tabber>
+===Money Bundle Locations===
+Please note they are only worth $1,000 (or $1,300 with [[Chameleon]] aced) and will hardly affect payout, they are only there as a nod to the first game.
+
+Below is a list of all the possible locations where there may be money bundles:
+{{showhide|Money bundles|
+*On a brown filing cabinet in a separate office room in the Drill Area.
+*Under the desk on the computer of the manger's office in Management.
+*On a shelf with a TV in the manager's office in Management.
+*Under the desk on the computer next to the manager's office in Management.
+*There are one or two on the desk in the room where you place the thermite.
+*There are several in the vault, a pile on a cart and 3-4 in an open deposit box.
+*On a desktop computer tower on the desk across from the large conference table that is in front of the projector screen in Second Office Building.
+*Another money bundle is often found in the last office room before the stairs to the escape truck.}}
+
+==Differences from PAYDAY: The Heist==
+* Unlike the original, the players must carry bags, and more than four.
+** To help with carrying the bags, there's a vent in the security center which leads down to the garage next to the dump truck where the bags are deposited.
+* This version allows the heist to be completed in stealth.
+* Due to the PAYDAY 2 engine's semi-randomized map geometry system, the layout of the bank may change, as the drill area can be in a different spot. Also variable is the location of the photocopier room where you grab the drill and thermite paste.
+* Several lootable ATMs are present.
+* The guard outside the bank manager's office no longer appears (if the manager is in within his office). As such, players can walk in without breaking stealth (in the original game, walking inside at any point will trigger the heist). Instead, a security camera may spawn inside and/or guards will patrol frequently in the room.
+* If going loud:
+** It is no longer possible to obtain the drill and a can of thermite at the same time. Players must interact with each one separately.
+** The crew uses a thermal drill for the security gate instead of a normal one.
+** Enemies (and occasionally, 2 civilians) now spawn within the vault. In some cases, up to four [[Bulldozer (Payday 2)|Bulldozers]] will appear (depending on difficulty).
+** Erasing the security footage is no longer an objective. Instead, players must access a computer to release a magnetic lock to continue drilling.
+** On Very Hard and above there's a 70% chance a SWAT Turret may spawn in the lobby during the escape sequence.
+** The escape is no longer timed.
+
+==Mayhem+ Changes==
+*All cameras are replaced with Titan cameras.
+*[[Overdrill#Overdrill|Overdrill]] is enabled on Death Wish and above.
+
+==The FBI Files==
+Conducted early in the morning, this bank job carries all the hallmarks of a classic job by the Payday gang. Forcing their way through to the rear area, the gang used thermite to melt their way down to the vault interior. As police forces gathered outside the front, the gang used C4 explosives to blast through to the neighboring office, and made their escape before local commanders knew the heist was over. Inside help is suspected and we are currently investigating the backgrounds of the staff for likely collaborators.
+
+{{color|value|My Notes: Why the hell weren’t we watching this one? Jesus Christ, one of the biggest banks in the DC area - of course they were going to hit it. And that escape….just shows how rigid the thinking of our commanders is. Might be time to clear the decks there. Bain really caught us with our pants down, and gave us a spanking we deserved for it.}}
+
+==Bugs==
+*The bank manager has a tendency to be unresponsive to shouts and intimidation. Occasionally he will stand back up and attempt to run within seconds of being intimidated. In other situations, he may be continuously alerted but will not respond, forcing players to kill him to obtain his [[keycard]].
+*If the heist goes loud while the Insider NPC is active, she will start walking randomly, sometimes running, and sometimes pulling a [[Bronco .44 (Payday 2)|Bronco .44]] revolver, though still running away as a civilian, neither being shot by police nor shooting at the police.
+*If [[Bulldozer (Payday 2)|Bulldozers]] have been scripted to spawn inside the vault due to playing on a higher difficulty, this can prevent new ones from spawning above the vault until they have been dealt with. When going for the Overdrill achievement, new Dozer spawns can potentially be halted entirely due to the number of Dozers present in the normal vault.
+*If the player successfully stealths the heist until the vault is opened with the keycards and the heist goes loud, enemies are still able to go through the hole where the thermite would've been placed if the heist had gone loud earlier, even though there's no thermite placed.
+*If you enter the vault while playing with another human player, but they do not enter with you, the game will begin an exchange without the other player, causing you to reply to your own question.
+*Sometimes when following the insider NPC to the door of the offices in stealth, she will phase through the floor back to the vault. This will cause you to wait until she has walked all the way back up to the door before it opens.
+
+==[[Achievements (Payday 2)#CrimeFest 2015|Achievements]]==
+<tabber>Achievements=
+{{Achievement|I Would Like to Speak to the Manager|jpg|Complete the First World Bank job on the Normal difficulty or above.}}
+{{Achievement|A Sense of Déjà Vu|jpg|Complete the First World Bank job on the Hard difficulty or above.}}
+{{Achievement|First Robbed Bank|jpg|Complete the First World Bank job on the Very Hard difficulty or above.}}
+{{Achievement|Listen Up! This Is a Robbery!|jpg|Complete the First World Bank job on the Overkill difficulty or above.}}
+{{Achievement|Just Walk Straight Into the Bank|jpg|Complete the First World Bank job on the Mayhem difficulty or above.}}
+{{Achievement|CVL+|png|Complete the First World Bank heist on the Death Wish difficulty or above.}}
+{{Achievement|Bank on Me|jpg|Complete the First World Bank job on the Death Sentence difficulty.}}
+{{Achievement|First World Problems|jpg|Complete the First World Bank job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Au Ticket|png|In the First World Bank job, find the Titan Safe and collect the special item inside.<br />''{{color|negative|From October 22nd, 2015, to January 14th, 2016, awarded one [[Safes (Gameplay)|First World safe and drill]].}}''}}
+{{Achievement|Cloaker Fear|png|Finish the First World Bank job on the OVERKILL difficulty or above by securing all additional money bags while not using the loot vent bag shortcut for the additional money bags.}}
+{{Achievement|Down Payment|jpg|On the First World Bank job, kill the bank manager with the [[Money Bundle]] melee weapon.}}
+{{Achievement|Federal Assurance|jpg|In the First World Bank job, kill all Bulldozers in the vault within 30 seconds after jumping down the hole.}}
+{{Achievement|Hidden Hostages|png|Finish the First World Bank job with {{color|value|6}} or more hostages alive behind the wall by the elevators in the main lobby.}}
+{{Achievement|1337|png|Complete the First World Bank job in stealth under 13 minutes and 37 seconds.}}
+{{Achievement|Original Heisters|png|In the First World Bank job, complete the heist from start on the OVERKILL difficulty or above with a full player lobby using all 4 characters from the [[PAYDAY: The Heist]] crew, [[Reinfeld 880|Reinfeld]] Shotguns and [[Bernetti 9]] Pistols.<br>{{color|negative|This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements with the Difficulties & Sniper Beta 1.3 update.}}}}
+{{Achievement|OVERDRILL|png|In the First World Bank job, solve the [[PAYDAY: The Heist]] secret on the Death Wish difficulty or above and enter the OVERVAULT. To complete this challenge, you have to have played the heist from start to end.}}
+{{Achievement|The One That Had Many Names|jpg|In the [[Shadow Raid]] or the First World Bank Jobs, find and pick up the {{color|value|five}} hidden Robot Trophies. Unlocks "[[Masks (Payday 2)#Enter the Gungeon|The Robot]]” mask.}}
+
+|-|Teasers=
+{{Teasers
+|He Was
+|Messing
+|Around
+|In The
+|Server
+|Room
+|Boom
+}}
+|-|Trophies=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-TheRobot.png|{{Mask tooltip|The Robot|color=legendary|Trophy-TheRobot.png|{{Quote|Machine, Mechano-man, Can-opener, Number 4. This Robot has had many names!|Trophy description.}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Find the hidden Robot Trophy{{sic}} on [[Shadow Raid]] and [[First World Bank (Payday 2)|First World Bank]].|{{color|legendary|'''PLACEMENT:'''}}<br>The living room.|{{color|legendary|'''NOTES:'''}}<br>Five trophy pickups are required.}}
+</gallery>
+|-|Trivia=
+*'''Original Heisters''' is the first achievement to require the specific usage of certain characters, in this case the four original crew members ([[Dallas]], [[Chains]], [[Wolf]], [[Hoxton]]) from the first game.
+*The '''OVERDRILL''' achievement's description references how most heist-related [[achievements]] in ''[[PAYDAY: The Heist]]'' would state "To complete this challenge, you simply have to enter the vault." at the end of the achievement description, for the [[Challenges|challenge]] would not be considered completed if one joined a game mid-progress, and the achievement would not be awarded.
+*The assembled title of this heist's teaser achievements forms a part of one of the [[Minor characters#Bank manager|Bank Manager's]] most memorable quotes from the original heist (''"...he was messing around in the server room..."'').
+</tabber>
+
+==Trivia==
+*In the Manager's office, there's a sign in there that says" The Bawss" on the Manager's Desk.
+*This is the first heist from ''[[PAYDAY: The Heist]]'' to return in ''[[PAYDAY 2]]''.
+*The police in this heist reuses the patrol cars from PAYDAY: The Heist. As a result, the patrol cars bear the insignia of the NYPD, even though the heist supposedly takes place in Washington D.C.
+*The code for the gates is [[w:c:starwars:1138|1138]]. Additionally, Bain's insider may mention an "older code checking out", as a subtle reference to ''{{w|Return of the Jedi|Star Wars Episode VI: Return of the Jedi}}'' when she meets up with the crew outside the vault's outer gate.
+**Alternatively, it could be a reference to the shutter code asset in [[Ukrainian Job]], which is revealed to also be 1138 when purchased. Chronologically, this would be an older code that checks out, too.
+**It's also a number reference to George Lucas' earlier work - [https://en.wikipedia.org/wiki/THX_1138 THX-1138]
+*Bain has a chance to state that his credit score is good while the player is searching for the code in stealth. This ironically suggests that Bain has an account at the bank he is having robbed.
+*The Overdrill secret makes a return in this heist and grants an achievement if the Overvault is successfully opened (on Death Wish or above).
+**There are 70 bags of gold in the Overvault.
+**If doing Overdrill, the crew steals exactly {{color|money|560}} gold bars from the vault, each worth {{color|money|$73,671.87}} on Death Wish.
+*Like with [[Diamond Heist]] from ''PAYDAY: The Heist'' going with [[The Diamond|The Diamond heist]], Payday 2's First World Bank has an updated version of its theme, Gun Metal Grey, aptly titled Gun Metal Grey 2015.
+*In homage to the first game, once the lobby has been cleared of guards and the first assault has yet to arrive, a random AI-controlled crew member will stand on one of the tables in the lobby and give the [https://youtu.be/E1RRu1DRtXg?t=1m45s "Neal McCauley speech"].
+*Gameplay footage of this heist was leaked one day prior to its release, being featured as parts of the [[Ksp 58]]'s weapon demonstration clips on the rewards site.
+*After spawning, if the player turns around, they can see the escape van driving away.
+*The bank's vault is unrealistically loaded to the brim with valuables and money. In reality, banks ''do not'' have several hundred thousands of dollars in cash on hand at any given time, specifically ''because'' of the possibility of getting robbed.
+*Body bags can be thrown into the vent near the vault.
+*If controlled by human players, at least two heisters may exchange humorous conversation when taking the money stacks in the vault. One of them asks if they are taking enough money while the other says no and states to take it all.
+*If a circuit box panel is opened right before the heist goes loud, it can still be hacked, although this will not bring any benefits.
+*The Shields that wait outside the vault and guard the escape route are always FBI Shields, even on Normal, Hard and Death Sentence difficulties. Also, FBI Field, Veteran, and Rescue team agents are encountered in the offices even on normal and hard.
+*Found in the bank's basement right before the garbage truck escape, one of the dumpsters nearby has an Almir's Toast slice with the message: "never gonna give- never gonna give- never gonna give you up". This is a reference to Rick Astley's 1987 song ''{{W|Never Gonna Give You Up}}''.
+*On [[Hell's Island]], Bain makes a comment about gold in the First World Bank and "Mayan stuff." Most likely, he's referring to Overdrill, as that is the only gold stored within the bank. This effectively means that Overdrill is considered canon to the lore of [[PAYDAY 2]].
+*Upon starting the heist, statue on the left balcony has a 0.01% chance to be placed upside down.
+*Unlike other heists with a security room, the door to it is a normal Metal door, able to be lockpicked instead. The same applies to the Diamond Heist
+
+==Experience==
+* {{color|cyan|+2,000}} on completion
+* {{color|positive|+2,000}} on opening server room
+* {{color|money|+1,000}} per secured money bag
+* Stealth only:
+** {{color|positive|+1,000}} on finding code
+** {{color|positive|+2,000}} on inside man opening vault area
+** {{color|positive|+2,000}} on opening vault
+** {{color|money|+1,500}} per rewired box
+* Loud only:
+** {{color|positive|+2,000}} on disabling the magnetic lock
+** {{color|positive|+4,000}} on drill finishing
+** {{color|positive|+6,000}} on thermite burning through the floor into the vault
+** {{color|positive|+2,000}} on planting C4 on the wall
+** {{color|positive|+2,000}} extra on completion
+** {{color|positive|+40,000}} on entering the Overvault
+** {{color|money|+143}} per secured gold bag
+
+==Gallery==
+<gallery widths="229" spacing="large" orientation="landscape" position="center">
+SC 1.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+SC 2.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+SC 3.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+SC 4.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+SC 5.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+SC 6.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+</gallery>
+
+==Video==
+<gallery widths="300" spacing="large" orientation="landscape" position="center">
+PAYDAY 2 Soundtrack - Gun Metal Grey 2015|Gun Metal Grey 2015 - First World Bank Theme.
+</gallery>
+
+{{Navbox PD2 Heists}}
+[[ru:Первый Всемирный Банк]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Stealth Heists]]
+[[Category:Classic heists]]

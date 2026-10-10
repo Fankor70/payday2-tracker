@@ -1,0 +1,20 @@
+<tabber>Permanent Achievements=
+{{Achievement|Heisters of the Round Table|jpg|Complete any heist on the OVERKILL difficulty or above with 4 players using only [[Gage Chivalry Pack]] masks, primary weapons, melee weapons and [[Armors#Ballistic Vest|Ballistic Vests]] or heavier armors. Unlocks the "[[Masks (Payday 2)#Gage Chivalry Pack DLC|Agatha Knight Veteran]]" mask, "[[Materials#Gage Chivalry Pack DLC|Blooded]]" material and "[[Patterns#Gage Chivalry Pack DLC|Agatha]]" pattern.}}
+{{Achievement|Their Armor Is Thick and Their Shields Broad|jpg|Kill 10 [[Shield (Payday 2)|shields]] with a [[Gage Chivalry Pack]] melee weapon in a single heist. Unlocks the "[[Masks (Payday 2)#Gage Chivalry Pack DLC|Agatha Vanguard Veteran]]" mask, "[[Materials#Gage Chivalry Pack DLC|Chain Armor]]" material and "[[Patterns#Gage Chivalry Pack DLC|Medieval]]" pattern.}}
+{{Achievement|Skewer|jpg|Kill a [[Cloaker (Payday 2)|Cloaker]] with the [[Javelin]] throwable. Unlocks the "[[Masks (Payday 2)#Gage Chivalry Pack DLC|Mason Knight Veteran]]" mask, "[[Materials#Gage Chivalry Pack DLC|Scale Armor]]" material and "[[Patterns#Gage Chivalry Pack DLC|Mason]]" pattern.}}
+{{Achievement|Black Knight|jpg|Kill a [[Bulldozer (Payday 2)#Black Bulldozer|black Bulldozer]] with the [[Great Sword]] melee weapon. Unlocks the "[[Masks (Payday 2)#Gage Chivalry Pack DLC|Mason Vanguard Veteran]]" mask, "[[Materials#Gage Chivalry Pack DLC|Forged]]" material and "[[Patterns#Gage Chivalry Pack DLC|Checkered Out]]" pattern.}}
+|-|Teasers=
+''The following appeared on September 8, 2015. They were replaced on September 10, 2015.''
+{{Teasers
+|Upon his royal face
+|there is no note
+|how dread an army
+|hath enrounded him
+}}
+|-|Trivia=
+*The teaser achievements are part of a quote from a play, ''[[wikipedia:Henry V (play)|Henry V]]'', by [[wikipedia:William Shakespeare|William Shakespeare]], near the end of [http://shakespeare.mit.edu/henryv/henryv.4.0.html Act 4's prologue].
+*The '''Heisters of the Round Table''' achievement title is a reference to [[wikipedia:King Arthur|King Arthur's]] [[wikipedia:Round Table|Knights of the Round Table]].
+*'''Their Armor is Thick and Their Shields Broad''' is a quote made by [[w:c:lotr:Gimli|Gimli, son of Glóin]] in ''[[wikipedia:The Lord of the Rings: The Two Towers|The Lord of the Rings: The Two Towers]]''.
+*'''Black Knight''' is a reference to the [[wikipedia:Black Knight (Arthurian legend)|character of the same name]] in Arthurian legend.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

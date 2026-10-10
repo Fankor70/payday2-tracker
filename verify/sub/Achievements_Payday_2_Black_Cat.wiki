@@ -1,0 +1,36 @@
+<tabber>Permanent Achievements=
+{{Achievement|Land Lubber Pickpocket|jpg|Complete the [[Black Cat]] job on the Normal difficulty or above.}}
+{{Achievement|First Mate of Thieving|jpg|Complete the [[Black Cat]] job on the Hard difficulty or above.}}
+{{Achievement|Captain Heister|jpg|Complete the [[Black Cat]] job on the Very Hard difficulty or above.}}
+{{Achievement|Master of the Poop Deck|jpg|Complete the [[Black Cat]] job on the OVERKILL difficulty or above.}}
+{{Achievement|All the Loot (and the Seafood Buffet Too)|jpg|Complete the [[Black Cat]] job on the Mayhem difficulty or above.}}
+{{Achievement|Death on the High Seas|jpg|Complete the [[Black Cat]] job on the Death Wish difficulty or above.}}
+{{Achievement|Sink the Titanic|jpg|Complete the [[Black Cat]] job on the Death Sentence difficulty.}}
+{{Achievement|Second Star to the Right, then Straight On 'Til Morning|jpg|Complete the [[Black Cat]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Swimming Cat, Silent Burglar|jpg|In the [[Black Cat]] job on the OVERKILL difficulty or above, complete the heist in stealth while you and your crew used only melee weapons.}}
+{{Achievement|One Claw Beam Cutter|jpg|In the [[Black Cat]] job on the OVERKILL difficulty or above, complete the heist in loud having used only one saw at the time to cut the vault beams.}}
+{{Achievement|Secret Sea Safecracker|jpg|In the [[Black Cat]] job on the OVERKILL difficulty or above, find and open Xun Kang's secret safe.}}
+{{Achievement|Master of Floatation|jpg|In the [[Black Cat]] job on the Mayhem difficulty or above, throw 8 body bags overboard and complete the heist in stealth without having killed any civilians.}}
+{{Achievement|For The Mad Hatter|jpg|Collect and secure the tea sets from all heists in the City of Gold campaign. Unlocks the "Laohu Dashi" Outfit.}}
+|-|Teaser=
+''The following teasers were added on September 22, 2021, and removed sometime later at an unknown date''
+{{Achievement|No future was there in Chicago for||a mobster man like me}}
+{{Achievement|So I left the wind and went to seek||my fortune in DC}}
+{{Achievement|I signed up with a man||his name was Bain you see}}
+{{Achievement|Six minutes into the heist||we ran into the MPD}}
+{{Achievement|We escaped with our van||and tried to make a run}}
+{{Achievement|Ahead we saw the blue lights||and our running now was done}}
+{{Achievement|Bright green eyes came charging us||with batons in their hands}}
+{{Achievement|A swift kick to the face||and you'll follow their commands}}
+{{Achievement|Sure, I tried to dodge away||but I wasn't that lucky}}
+{{Achievement|It's all just fun and games until||you end up in custody}}
+{{Achievement|Time flies when you take the loot, my crew||time flies when you take the loot}}
+{{Achievement|Yeah, It's all just fun and games, my crew||until you get the boot}}
+|-|Guide=
+|-|Trivia=
+*'''Land Lubber Pickpoket''', '''First Mate of Thieving''', '''Captain Heister''' and '''Master of the Poop Deck''' all reference pirates.
+*'''Sink the Titanic''' obviously references the {{w|Titanic|RMS Titanic}}, a massive cruise ship that was sunk by an iceberg on its maiden voyage.
+*'''Second Star to the Right, then Straight On 'Til Morning''' are the directions to 'Neverland' that Peter Pan gives in the {{w|Peter Pan (1953 film)|1953 Peter Pan Movie}}.
+*'''For The Mad Hatter''' is a reference to {{w|Hatter (Alice's Adventures in Wonderland)|The Mad Hatter}} from {{w|Lewis Carroll}}'s 1865 book {{w|Alice's Adventures in Wonderland}}, who is frozen in time forever stuck at 6pm in an endless tea party. The Hatter tried to sing to the foul-tempered {{w|Queen of Hearts (Alice's Adventures in Wonderland)|Queen of Hearts}} who sentenced him to death by decapitation. Father Time retaliated and froze The Mad Hatter in time out of respect for him. The "Laohu Dashi" outfit is a reference to {{w|Bruce Lee}} and his yellow jumpsuit. The name translates to "Tiger Master", referencing the black and yellow colors of the outfit.
+</tabber>
+[[Category:PAYDAY 2]]

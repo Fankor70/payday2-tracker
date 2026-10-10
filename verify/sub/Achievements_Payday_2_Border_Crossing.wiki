@@ -1,0 +1,42 @@
+<tabber>Permanent Achievements=
+{{Achievement|A Stroll Across the Border|jpg|Complete the [[Border Crossing]] job on the Normal difficulty or above.}}
+{{Achievement|A Morning Like Any Other|jpg|Complete the [[Border Crossing]] job on the Hard difficulty or above.}}
+{{Achievement|Blood on the Sand|jpg|Complete the [[Border Crossing]] job on the Very Hard difficulty or above.}}
+{{Achievement|Like Walking in With a Guitar Case Full of Guns|jpg|Complete the [[Border Crossing]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Export Tax|jpg|Complete the [[Border Crossing]] job on the Mayhem difficulty or above.}}
+{{Achievement|Satan's Lapdog|jpg|Complete the [[Border Crossing]] job on the Death Wish difficulty or above.}}
+{{Achievement|Death in the Desert|jpg|Complete the [[Border Crossing]] job on the Death Sentence difficulty.}}
+{{Achievement|Once Upon a Down in Mexico|jpg|Complete the [[Border Crossing]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Identity Theft|jpg|In the [[Border Crossing]] job, find 4 Murkywater uniforms. Unlocks the "Murkywater Uniform" Outfit.}}
+{{Achievement|Two-Step Verification|jpg|In the [[Border Crossing]] job, secure all 4 pieces of the Roman armor and finish the heist. Unlocks the "Hippika" Mask.}}
+{{Achievement|Only For Us Naughty Heisters|jpg|Find the hidden presents in the [[Border Crossing]], [[San Martín Bank]], [[Breakfast in Tijuana]], and [[Buluc's Mansion]] jobs. Unlocks the "Mega Sangres" mask.}}
+|-|Teaser=
+''The following teasers were added on November 1, 2019, and removed sometime later at an unknown date''
+{{Achievement|My||My}}
+{{Achievement|Dear||Dear}}
+{{Achievement|Friends,||Friends,}}
+{{Achievement|It's||It's}}
+{{Achievement|Ripe||Ripe}}
+{{Achievement|Time||Time}}
+{{Achievement|We||We}}
+{{Achievement|Get||Get}}
+{{Achievement|Back||Back}}
+{{Achievement|To||To}}
+{{Achievement|Work,||Work,}}
+{{Achievement|Yeah?||Yeah?}}
+{{Achievement|I||I}}
+{{Achievement|Know||Know}}
+{{Achievement|A||A}}
+{{Achievement|Great||Great}}
+{{Achievement|Place||Place}}
+{{Achievement|For||For}}
+{{Achievement|Plunder.||Plunder.}}
+|-|Guide=
+*'''Identity Theft''' Click on this [https://steamcommunity.com/sharedfiles/filedetails/?id=1907305696 link] to find all the uniform locations.
+*'''Only For Us Naughty Heisters''' Click on this [https://steamcommunity.com/sharedfiles/filedetails/?id=2322941991 link] to find all the present locations.
+|-|Trivia=
+* '''Like Walking in With a Guitar Case Full of Guns''' is a reference to Robert Rodriguez's {{W|Mexico Trilogy}}, where the protagonist, El Mariachi, as well as his compatriots, are famously known for stowing large caches of firearms inside their guitar cases to smuggle them into restricted areas where they may conduct business.
+* Likewise, '''Once Upon a Down in Mexico''' is a reference to the third film in the Mexico Trilogy, ''{{W|Once Upon a Time in Mexico}}''.
+* Outside of achievement purposes, the four sets of Murkywater uniforms found as part of '''Identity Theft''' are very likely the same outfits worn in [[The White House]].
+</tabber>
+[[Category:PAYDAY 2]]

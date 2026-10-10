@@ -1,0 +1,18 @@
+<tabber>Permanent Achievements=
+{{Achievement|Recycling|jpg|Pick up {{color|value|100}} arrows.}}
+{{Achievement|The Nobel Prize|jpg|Kill {{color|value|3}} [[Enemies (Payday 2)|enemies]] at the same time with the [[Dynamite]].}}
+{{Achievement|Hedgehog|jpg|Get {{color|value|10}} or more arrows stuck in a [[Bulldozer (Payday 2)|Bulldozer]] at the same time.}}
+{{Achievement|Fastest Gun in the West|jpg|Kill {{color|value|6}} [[Enemies (Payday 2)|law enforcers]] within {{color|value|6}} seconds of killing the first while hipfiring with the [[Peacemaker .45]] Revolver.}}
+|-|Teasers=
+''The following appeared on April 28, 2015 and were replaced on April 30, 2015.''
+{{Teasers
+|The Good
+|The Bad
+|And
+|The Ugly
+}}
+|-|Trivia=
+*The teaser achievements ("The Good", "The Bad", "And", "The Ugly") are references to the famous Western film [[wikipedia:The Good, the Bad and the Ugly|The Good, the Bad and the Ugly]].
+*The '''Nobel Prize''' achievement is named after [[wikipedia:Alfred_Nobel|Alfred Nobel]], the inventor of dynamite and the Nobel Prizes.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

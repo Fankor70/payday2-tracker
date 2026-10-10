@@ -1,0 +1,15 @@
+<tabber>Permanent Achievements=
+{{Achievement|Becoming Infamous|jpg|Reach the {{color|value|first}} level of [[Infamy]].}}
+{{Achievement|Becoming Disgraceful|jpg|Reach the {{color|value|second}} level of [[Infamy]].}}
+{{Achievement|Becoming Wicked|jpg|Reach the {{color|value|third}} level of [[Infamy]].}}
+{{Achievement|Becoming Notorious|jpg|Reach the {{color|value|fourth}} level of [[Infamy]].}}
+{{Achievement|Becoming Vicious|jpg|Reach the {{color|value|fifth}} level of [[Infamy]].}}
+|-|Teasers=
+The following appeared on January 13, 2014, and were replaced when [[PC update history (Payday 2)#Update #22|Update #22]] was released on January 22, 2014.
+{{Achievement|You put on the mask||and lost your good name|}}
+{{Achievement|You robbed the bank||and lost your good name|}}
+{{Achievement|You fought the law||and lost your good name|}}
+{{Achievement|You done the crime||and lost your good name|}}
+{{Achievement|You'll do the time||to earn your scandalous repute|}}
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

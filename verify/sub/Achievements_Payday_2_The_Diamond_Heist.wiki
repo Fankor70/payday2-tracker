@@ -1,0 +1,35 @@
+<tabber>Permanent Achievements=
+'''Ownership required'''<br/>
+{{Achievement|Honor Among Thieves|jpg|In [[the Diamond]] job, complete the heist while you and your {{color|value|four}} man crew are wearing one different "[[Masks (Payday 2)#The Diamond Heist DLC|Diamond heist]]" mask each on OVERKILL difficulty or above.}}
+
+'''Achievable without owning DLC'''<br/>
+{{Achievement|Devil of a Job|jpg|Complete [[the Diamond]] job on the Death Wish difficulty or above.}}
+{{Achievement|Cat Burglar|jpg|In [[the Diamond]] job, complete the heist without triggering the alarm. Unlocks "[[Masks (Payday 2)#The Diamond Heist DLC|The Cursed One]]" mask, "[[Materials#The Diamond Heist DLC|Sand]]" material and "[[Patterns#The Diamond Heist DLC|Hieroglyphs]]" pattern.}}
+{{Achievement|Culture Vultures|jpg|In [[the Diamond]] job, secure {{color|value|10}} bags of additional loot. Unlocks the "[[Masks (Payday 2)#The Diamond Heist DLC|Medusa]]" mask, "[[Materials#The Diamond Heist DLC|Rusting Metal]]" material and "[[Patterns#The Diamond Heist DLC|Runes]]" pattern.}}
+{{Achievement|Smoke and Mirrors|jpg|In [[the Diamond]] job, steal [[Loot#Loot Bag Values|the Diamond]] and escape in under {{color|value|10}} minutes. Unlocks the "[[Masks (Payday 2)#The Diamond Heist DLC|Pazuzu]]" mask, "[[Materials#The Diamond Heist DLC|Diamond]]" material and "[[Patterns#The Diamond Heist DLC|Horus]]" pattern.}}
+{{Achievement|Diamonds in the Rough|jpg|In [[the Diamond]] job, complete the heist, diamond puzzle and steal the Diamond after the alarm has been triggered on OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#The Diamond Heist DLC|Anubis]]" mask, "[[Materials#The Diamond Heist DLC|Mummy Bandages]]" material and "[[Patterns#The Diamond Heist DLC|Hawk Helm]]" pattern.}}
+|-|Teasers=
+''The following appeared on December 10, 2014. They were replaced on December 16, 2014.''
+{{Teasers
+|Affliction
+|Curse
+|Bane
+|Plague
+|Blight
+|Corruption
+|Ouch
+}}
+|-|Tips=
+{{Achievement|Smoke and Mirrors|jpg|In [[the Diamond]] job, steal [[Loot#Loot Bag Values|the Diamond]] in under {{color|value|10}} minutes. Unlocks the "[[Masks (Payday 2)#The Diamond Heist DLC|Pazuzu]]" mask, "[[Materials#The Diamond Heist DLC|Diamond]]" material and "[[Patterns#The Diamond Heist DLC|Horus]]" pattern.}}
+This achievement is especially difficult as, even on a perfect speed run on Normal, the crew will be pressed for time; as such, it is highly recommended that everyone holds sprinting perks and/or picking bonuses. Additionally, both playing alone or with friends carry their own disadvantages: coordinating means the hacks and loud escape can be summoned immediately, but playing offline allows players to pause and memorize the maze path.
+
+Regardless of approach, security must be disabled quickly, meaning either: sprinting to security whilst breaking alarmed cases to promptly trigger the {{Color|value|200}} second hack objective; or swiftly navigating between white doors and floors to find four boxes in stealth. Once the lasers are off or the shutters raised, the crew will be down a few minutes, meaning the time-locks must be started promptly and watched vigilantly; since the locks take a minimum of {{Color|value|120}} seconds and have a long interact time, any additional delays can make or break the attempt.
+
+Once inside the Diamond room, players will have just a few minutes to bypass the tile puzzle and, once the Diamond is grabbed, secure it and escape; since alarms do not impact the achievement, players should strongly consider sprinting straight out the door rather than carefully crossing back. Players attempting stealth should consider using the Bag Man asset with the aced [[ECM Specialist]] to hurry through the final objectives, and those choosing loud ''must'' trigger the chopper immediately lest the {{Color|value|120}} second chopper response time ruin the run.
+
+To summarize, the restrictions on timers means that, between spawn and escape, stealth players need only give account for the time locks. However, loud attempts require {{Color|value|200}} seconds to hack security, {{Color|value|120}}/{{Color|value|150}} seconds for time locks, and then {{Color|value|120}} seconds for the chopper, meaning players only have 2 minutes 40 seconds (or 2 minutes 10 seconds on Overkill or Deathwish) to complete all other objectives and the tile puzzle.
+
+{{Achievement|Diamonds in the Rough|jpg|In [[the Diamond]] job, complete the heist, diamond puzzle and steal the Diamond after the alarm has been triggered on OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#The Diamond Heist DLC|Anubis]]" mask, "[[Materials#The Diamond Heist DLC|Mummy Bandages]]" material and "[[Patterns#The Diamond Heist DLC|Hawk Helm]]" pattern.}}
+Despite the unclear description, the achievement is pretty straightforward: try and get as close to the diamond's vault door as you can, dealing with both timelocks if possible. If you make it that far without triggering the alarm, you won't have to hack the security PC to access the remainder of the objectives. At this point, get yourself detected (i.e. by throwing a grenade) and let security sound the alarm. Then complete the tile puzzle before the cops can arrive and signal the chopper to secure the diamond. It should be noted, however, that while easy enough given the time to work, players should be cautious of all enemy characters, who can set off the gas should they step on a tile; whilst friendly AI characters will not set off the trap, allies gained through the [[Joker]] skill ''will'' activate tiles, so take care if playing as a Mastermind.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

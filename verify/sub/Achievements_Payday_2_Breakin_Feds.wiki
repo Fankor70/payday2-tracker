@@ -1,0 +1,47 @@
+<tabber>Permanent Achievements=
+{{Achievement|Donut Run|jpg|Complete the [[Breakin' Feds]] job on the Normal difficulty or above.}}
+{{Achievement|Cordial Infiltration|jpg|Complete the [[Breakin' Feds]] job on the Hard difficulty or above.}}
+{{Achievement|Breaking Protocol|jpg|Complete the [[Breakin' Feds]] job on the Very Hard difficulty or above.}}
+{{Achievement|Sticking it to the Commissioner|jpg|Complete the [[Breakin' Feds]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Don't Wake the Feds|jpg|Complete the [[Breakin' Feds]] job on the Mayhem difficulty or above.}}
+{{Achievement|Crimes and Misdemeanors|jpg|Complete the [[Breakin' Feds]] job on the Death Wish difficulty or above.}}
+{{Achievement|The Fall of Solomon|jpg|Complete the [[Breakin' Feds]] job on the Death Sentence difficulty.}}
+{{Achievement|Garrett's Foil|jpg|Complete the [[Breakin' Feds]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|A Moment of Silence|jpg|In the [[Breakin' Feds]] job, don't alert or kill any guards until [[Solomon Garrett|Commissioner Garrett]] used the toilet on OVERKILL difficulty or above.}}
+{{Achievement|Stalker|jpg|In the [[Breakin' Feds]] job, have [[Solomon Garrett|Commissioner Garret]] marked at all time after he left his office, until you have opened his safe.}}
+{{Achievement|Staple Relationship|jpg|In the [[Breakin' Feds]] job, find, rescue and return the stapler to the small office.}}
+{{Achievement|Bloody Grinch|jpg|Complete the [[Breakin' Feds]] heist or the [[Buluc's Mansion]] heist on the Mayhem difficulty or above in stealth and everyone on your crew dressed in Christmas outfits and masks, without using any pagers. Because nobody has ever seen Santa. Unlocks the "Lightbringer" Weapon Charm.}}
+|-|Teasers=
+''The following teasers were added on April 18, 2018, and removed April 23, 2018.''
+{{Achievement|Burglary||Burglary}}
+{{Achievement|also called||also called}}
+{{Achievement|breaking and entering||breaking and entering}}
+{{Achievement|and sometimes||and sometimes}}
+{{Achievement|housebreaking||housebreaking}}
+{{Achievement|is an unlawful||is an unlawful}}
+{{Achievement|entry into a building||entry into a building}}
+{{Achievement|or other location||or other location}}
+{{Achievement|for the purposes||for the purposes}}
+{{Achievement|of committing||of committing}}
+{{Achievement|an offence.||an offence.}}
+|-|Tips=
+{{Achievement|Stalker|jpg|In the [[Breakin' Feds]] job, have [[Solomon Garrett|Commissioner Garret]] marked at all time after he left his office, until you have opened his safe.}}
+
+The easier, and likely intended, approach is to have 1 or 2 players constantly marking Garrett either manually or with [[Sixth Sense]] while the safe is handled by the other player(s). If Garrett walks back inside the office before the safe is opened, safe locations to keep him marked with Sixth Sense are behind the printer in the kitchen (on the left side of the building) and behind the desk at the cubicle just outside his office (on the right side of the building).
+
+A single-player alternative is to ace [[More Firepower]] and place [[Trip mine (Payday 2)|sensors]] in the locations where he will stand after he leaves his office, outside his door, and in the paths he walks, though this obviously requires extensive knowledge of the paths he takes, and also leaving a few trip mines to mark him in his office in case the safe isn't opened on the first attempt.
+
+Regardless of the approach taken, all players involved acing [[High Value Target]] can help greatly with getting the achievement.
+
+Note that if Garrett is lured out a fourth time with the food (either due to difficulty in acquiring/inputting the code or trying to get the '''A Moment of Silence''' achievement), the code to the safe will have to be punched in almost immediately, as Garrett despawns shortly after entering the restroom, and thus cannot be marked.
+
+{{Achievement|Staple Relationship|jpg|In the [[Breakin' Feds]] job, find, rescue and return the stapler to the small office.}}
+
+A red stapler has to be found and returned to the cluttered office near where Garrett's office can spawn in the left side of the building. The stapler counts as equipment, and can only be placed by, and the achievement awarded to, the player that picked up the stapler.
+
+The stapler spawns in one of 14 locations, which are noted in [https://steamcommunity.com/sharedfiles/filedetails/?id=1368968819 this guide].
+|-|Trivia=
+*The teasers are text taken from the {{w|Wikipedia}} article on {{w|burglary}}.
+*'''A {{w|Moment of silence|Moment of Silence}}''' refers to the contemplation in which individuals hold a silent moment, as a gesture of respect for someone's recent passing.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

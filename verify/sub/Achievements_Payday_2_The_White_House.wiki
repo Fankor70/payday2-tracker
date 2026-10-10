@@ -1,0 +1,19 @@
+<tabber>Permanent Achievements=
+{{Achievement|Strolling through the Rose Garden|jpg|Complete the [[The White House|White House]] job on the Normal difficulty or above.}}
+{{Achievement|Just Like John Adams|jpg|Complete the [[The White House|White House]] job on the Hard difficulty or above.}}
+{{Achievement|Don't Forget to Vote|jpg|Complete the [[The White House|White House]] job on the Very Hard difficulty or above.}}
+{{Achievement|Setting Your Sights On 1600 Penn|jpg|Complete the [[The White House|White House]] job on the OVERKILL difficulty or above.}}
+{{Achievement|A Hearing in Congress|jpg|Complete the [[The White House|White House]] job on the Mayhem difficulty or above.}}
+{{Achievement|A Night at the Theater|jpg|Complete the [[The White House|White House]] job on the Death Wish difficulty or above.}}
+{{Achievement|Party Like it's 1812|jpg|Complete the [[The White House|White House]] job on the Death Sentence difficulty.}}
+{{Achievement|Taking the Oval Office in Style|jpg|Complete the [[The White House|White House]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|A Heist to Remember|jpg|Find a fitting souvenir from the [[The White House|White House]] and take it with you.<br>''{{color|negative|Pick up the toast in the P.E.O.C}}''}}
+{{Achievement|Big Brother|jpg| Complete the [[The White House|White House]] job in stealth and without destroying a single camera on the OVERKILL difficulty or above.}}
+{{Achievement|President For a Day|jpg|Complete the [[The White House|White House]] job while wearing any presidential mask on the OVERKILL difficulty or above.<br>''{{color|negative|Also allows use of the "[[Masks (Payday 2)#The Big Bank Heist DLC|The First American]]" mask.}}''}}
+{{Achievement|The End|jpg|Complete the PAYDAY 2 Secret.<br>''{{color|negative|Replaces the '''Secret Achievement'''.}}''}}
+|-|Teaser=
+|-|Trivia=
+*'''Big Brother''' is the synonym for abuse of government power, particularly in respect to civil liberties, often specifically related to mass surveillance. 
+** The term itself originated from {{W|George Orwell|George Orwell's}} 1949 novel ''{{W|Nineteen Eighty-Four}}'', where Big Brother is the supreme figurehead of Oceania, a totalitarian state wherein the ruling party Ingsoc wields total power "for its own sake" over the inhabitants, giving rise to the phrase ''"Big Brother is watching you"''. Generally, the idea conveys a line of propaganda, meaning citizens have to follow what a dictatorial government wants them to do, and if they do not, Big Brother will know, as it spies on them all the time.
+</tabber><noinclude>
+[[Category: Support Pages]]</noinclude>

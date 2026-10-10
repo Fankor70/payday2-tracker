@@ -1,0 +1,37 @@
+<tabber>Permanent Achievements=
+{{Achievement|You Got Your Patch!|jpg|Complete [[The Biker Heist]] job on the Death Wish difficulty or above.}}
+{{Achievement|Scavenger|jpg|In the first day of [[The Biker Heist]] job, find the secret item. Unlocks the "[[Masks (Payday 2)#The Biker Heist DLC|Flaming Skull]]" mask, "[[Materials#The Biker Heist DLC|Shiny and Chrome]]" material and "[[Patterns#The Biker Heist DLC|Fire Tire]]" pattern.}}
+{{Achievement|Let the Man Work|jpg|In the first day of [[The Biker Heist]] job, let Mike the mechanic finish the bike without any interruptions on the OVERKILL difficulty or above. Unlocks "[[Masks (Payday 2)#The Biker Heist DLC|The Classic]]" mask, "[[Materials#The Biker Heist DLC|Hotrod]]" material and "[[Patterns#The Biker Heist DLC|Engine]]" pattern.}}
+{{Achievement|Full Throttle|jpg|Complete the second day of [[The Biker Heist]] job within 120 seconds on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#The Biker Heist DLC|Speed Devil]]" mask, "[[Materials#The Biker Heist DLC|Devil Eye]]" material and "[[Patterns#The Biker Heist DLC|Skull Wing]]" pattern.}}
+{{Achievement|Eye for an Eye|jpg|In the second day of [[The Biker Heist]] job, destroy the helicopter [[SWAT Van Turret|turret]]. Unlocks the "[[Masks (Payday 2)#The Biker Heist DLC|Road Rage]]" mask, "[[Materials#The Biker Heist DLC|Chromey]]" material and "[[Patterns#The Biker Heist DLC|Biker Face]]" pattern.}}
+|-|Removed=
+''The following achievement was removed on October 5, 2016.''
+{{Achievement|Welcome to the Club!|jpg|Complete [[The Biker Heist]] pro job on the Death Wish difficulty.}}
+|-|Teasers=
+''The following appeared on June 13, 2016.''
+{{Teasers|
+Anybody Can|
+Do a Heist.|
+The Trouble Comes|
+Comes When|
+You Need|
+To Escape
+}}
+|-|Tips=
+{{Achievement|Scavenger|jpg|In the first day of [[The Biker Heist]] job, find the secret item. Unlocks the "[[Masks (Payday 2)#The Biker Heist DLC|Flaming Skull]]" mask, "[[Materials#The Biker Heist DLC|Shiny and Chrome]]" material and "[[Patterns#The Biker Heist DLC|Fire Tire]]" pattern.}}
+The "secret item" is a comically oversized bottle. It spawns in one of four locations: In the vantage point, the bar, the roof's supporting structure above the bar area, and in the bunker. Due to a possible spawn location being in the vantage point, players that want this achievement will require owning the [[Gage Sniper Pack]] DLC or have a friend that owns it, and since it can spawn in the bunker, which can not be opened unless the bike seat is required for the bike, multiple tries may be required to get it.
+
+{{Achievement|Let the Man Work|jpg|In the first day of [[The Biker Heist]] job, let Mike the mechanic finish the bike without any interruptions on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#The Biker Heist DLC|The Classic]]" mask, "[[Materials#The Biker Heist DLC|Hotrod]]" material and "[[Patterns#The Biker Heist DLC|Engine]]" pattern.}}
+The easiest way to accomplish this is to simply set a [[Sentry gun (Payday 2)|sentry gun]] on each side of the mechanic and replace them when they run out of ammo. To counter Maximum Force Responders and [[Shield (Payday 2)|Shields]], acing the [[Engineering]] skill and setting them to AP Rounds mode is recommended.
+
+{{Achievement|Full Throttle|jpg|Complete the second day of [[The Biker Heist]] job within 120 seconds on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#The Biker Heist DLC|Speed Devil]]" mask, "[[Materials#The Biker Heist DLC|Devil Eye]]" material and "[[Patterns#The Biker Heist DLC|Skull Wing]]" pattern.}}
+A crew of at least 2 human players is recommended, to get past welding objectives faster and to help up other crew members quickly. It is almost required for at least one of the crew to have [[Inspire]] aced to not only speed up the run to the front of the train, but also to swiftly help up downed crew members. Acing [[Close By]]/[[Lock N' Load]] is a good idea to deal with nuisance enemies while still keeping up the fast pace. Wearing armor heavier than the [[Armors#Heavy Ballistic Vest|Heavy Ballistic Vest]] is strongly recommended against.
+
+The enemies that spawn can mostly be avoided, unless they are directly in the path towards a door. [[Sniper (Payday 2)|Snipers]] and [[SWAT Van Turret|turrets]] only pose significant threat when a crew member is downed or the crew needs to weld open a door, and can otherwise be ignored.
+
+The Biker Boss at the front end of the train can only take up to 800 damage per shot, making the [[Thanatos .50 cal]] and [[HRL-7]] ''extremely'' ineffective at killing her. The best way to deal with her quickly is to pair a high damage-per-second weapon with aced [[Swan Song]], for example the [[Akimbo Krinkov]].
+|-|Trivia=
+*The teaser achievements are a reference to a [http://www.brainyquote.com/quotes/quotes/e/evelknieve601462.html quote] by [[wikipedia:Evel Knievel|Evel Knievel]].
+*The '''Scavenger''' achievement icon was changed close to release, the heist's [http://www.overkillsoftware.com/games/biker/ announcement site] shows that its icon used to be of the mask it unlocked.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

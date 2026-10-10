@@ -1,0 +1,18 @@
+Бомба: Доки / Бомба: Лес <- Бомба
+    Категория:The Bomb Heists содержит ровно Бомба: Доки и Бомба: Лес; int_name crojob1/crojob2/crojob3 + thebomb_stage_2/3 (общий корень crojob)
+Пересечение границы / Кристаллы на границе <- Пересечение границы
+    int_name mex (job mex df.png) vs mex_cooking (job mex cooking df.png) — cooking/Christmas variant of the same map
+Основы скрытности / Основы ведения боя <- Обучение
+    Категория:Обучение PAYDAY 2; both infoboxes carry |contract = 97 (same Crime.net contract slot)
+Транспорт / Ограбление поезда <- Armored Transport
+    Категория:Armored Transport; Train Heist is listed inside Транспорт's == Локации == section
+Рождение небес / У подножия горы <- Набор The Point Break
+    Категория:The Point Break Heists; shared int_name prefix pbr
+Станция Murkywater / Точка кипения <- Набор Hardcore Henry
+    Категория:Hardcore Henry Heists (Darkcore/Henry — «Хадкорк Хенри» отсутствует как статья)
+Бруклин 10-10 / Яхта     <- Набор John Wick
+    Категория:John Wick Heists
+
+IN-ARTICLE VARIANTS:
+  Ограбление банка [loot]: Деньги=Cash, Ячейки=Deposit, Золото=Gold, Случайное=Random
+  Транспорт [map]: Парк=Park, Гавань=Harbor, Центр города=Downtown, Перекресток=Crossroads, Проезд=Underpass

@@ -1,0 +1,35 @@
+<tabber>Permanent Achievements=
+'''Ownership required'''
+{{Achievement|Wanted|jpg|While wearing the "[[Masks (Payday 2)#Gage Weapon Pack .2301 DLC|Dolph]]" mask, kill 100 [[Enemies (Payday 2)|law enforcers]] using only the [[AK5]] rifle.}}
+{{Achievement|3000 Miles to the Safe House|jpg|While wearing the "[[Masks (Payday 2)#Gage Weapon Pack .2301 DLC|Jean-Claude]]" mask, kill 100 [[Enemies (Payday 2)|law enforcers]] using only the [[Kobus 90]] submachine gun.}}
+{{Achievement|Commando|jpg|While wearing the "[[Masks (Payday 2)#Gage Weapon Pack .2301 DLC|Arnold]]" mask, kill 100 [[Enemies (Payday 2)|law enforcers]] using only the [[UAR]] rifle.}}
+{{Achievement|Public Enemies|jpg|While wearing the "[[Masks (Payday 2)#Gage Weapon Pack .2301 DLC|Chuck]]" mask, kill 100 [[Enemies (Payday 2)|law enforcers]] using only the [[Crosskill]] pistol.}}
+{{Achievement|Inception|jpg|Kill 100 [[Enemies (Payday 2)|law enforcers]] using only the [[Eagle Heavy]] rifle.}}
+{{Achievement|Hard Corps|jpg|Kill 100 [[Enemies (Payday 2)|law enforcers]] using only the [[SpecOps]] submachine gun.}}
+{{Achievement|Above the Law|jpg|Kill 100 [[Enemies (Payday 2)|law enforcers]] using only the [[Signature .40]] pistol.}}
+
+'''Achievable without owning DLC'''
+{{Achievement|Fire in the Hole!|jpg|Throw 100 [[Frag Grenade|grenades]].}}
+{{Achievement|Share the Love|jpg|Buy the [[Assets#Grenade Case|grenade case asset]] 100 times.}}
+{{Achievement|Guns are Like Shoes|jpg|Fill up 72 weapon slots.}}
+|-|Teasers=
+''The following appeared on November 26, 2013, and were replaced at the release of [[Gage Weapon Pack 01|Gage Weapon Pack #01]] on December 5.''
+{{Teasers
+|This is my Rifle
+|This is my Gun
+|This is for Heisting
+|This is for Fun!
+|This is my Saw
+|This is my Primary
+|This is my Secondary
+|This is my C4
+|This is my Drill
+|These are for Heisting, these are for Fun!
+}}
+|-|Trivia=
+* The teasers are a reference to a [https://www.youtube.com/watch?v=4kU0XCVey_U quote] from [[wikipedia:Full Metal Jacket|Full Metal Jacket]].
+* '''Commando''' is a reference to the 1985 film ''[[wikipedia:Commando (1985 film)|Commando]]'', starring [[wikipedia:Arnold Schwarzenegger|Arnold Schwarzenegger]] who is referenced in the name and description of the mask received upon its completion.
+* The '''Public Enemies''' achievement is a reference to the Long Island hip-hop group [[wikipedia:Public Enemy (group)|Public Enemy]] and its lead vocalist, rapper [[wikipedia:Chuck D|Chuck D]].
+* '''Inception''' is a reference to a scene in the film ''[[wikipedia:Inception|Inception]]'' where the character Arthur fires on the host's "defenses" using an [[wikipedia:FN SCAR|FN-SCAR]], though the variant used in said film is a 5.56x45mm FN SCAR-L instead of the SCAR-H the Eagle Heavy was based on.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

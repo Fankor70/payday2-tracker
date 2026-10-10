@@ -1,0 +1,18 @@
+<tabber>Permanent Achievements=
+{{Achievement|Nothing Personal|png|Kill {{color|value|30}} [[Sniper (Payday 2)|snipers]] with any sniper rifle on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#John Wick Weapon Pack|Mustang]]" mask, "[[Materials#John Wick Weapon Pack|Tire]]" material and "[[Patterns#John Wick Weapon Pack|One Shot]]" pattern.}}
+{{Achievement|Crouched and Hidden, Flying Dagger|png|Kill {{color|value|8}} guards with a throwing weapon while crouching on the [[Murky Station]] job. The heist must be finished for any kills to count. Unlocks the "[[Masks (Payday 2)#John Wick Weapon Pack|Hotelier]]" mask, "[[Materials#John Wick Weapon Pack|Club Lights]]" material and "[[Patterns#John Wick Weapon Pack|Piety]]" pattern.}}
+{{Achievement|UMP for Me, UMP for You|png|Kill {{color|value|45}} Russian specials on the [[Boiling Point]] job with any submachine gun on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#John Wick Weapon Pack|Zaschita]]" mask, "[[Materials#John Wick Weapon Pack|Mist]]" material and "[[Patterns#John Wick Weapon Pack|Battle Wounds]]" pattern.}}
+{{Achievement|For Daisy|png|Finish the [[Firestarter]] job on the OVERKILL difficulty or above with your crew using only pistols. Unlocks the "[[Masks (Payday 2)#John Wick Weapon Pack|Daisy]]" mask, "[[Materials#John Wick Weapon Pack|Dog Fur]]" material and "[[Patterns#John Wick Weapon Pack|Daisies]]" pattern.}}
+|-|Teasers=
+''The following appeared on October 16, 2016. They were replaced on October 20, 2016.''
+{{Teasers
+|Anger
+|is the
+|strongest
+|force
+}}
+|-|Trivia=
+*'''Crouched and Hidden, Flying Dagger''' is likely a reference to the film ''{{w|Crouching Tiger, Hidden Dragon}}''. It's also a possible (albeit less likely) reference to another ''wuxia'' film, ''{{w|House of Flying Daggers}}''.
+</tabber><noinclude>
+[[Category:Support Pages]]
+</noinclude>

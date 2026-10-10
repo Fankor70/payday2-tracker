@@ -1,0 +1,30 @@
+<tabber>Permanent Achievements=
+{{Achievement|You Cockroaches Wanna Play Rough?|jpg|Complete the [[Scarface Mansion]] job on the Mayhem difficulty or above.}}
+{{Achievement|Every Dog Has His Day|jpg|Complete the [[Scarface Mansion]] job on the Death Wish difficulty or above.}}
+{{Achievement|Say Good Night to the Bad Guy|jpg|Complete the [[Scarface Mansion]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Say Hello to My Big Friend|jpg|On the [[Scarface Mansion]] job, kill the boss on the Overkill difficulty or above. Unlocks the "[[Masks (Payday 2)#Scarface Heist DLC|Panthera Tigris]]" mask, "[[Materials#Scarface Heist DLC|Black Marble]]" material and "[[Patterns#Scarface Heist DLC|Diablada]]" pattern.}}
+{{Achievement|Look at These Pelicans Fall|jpg|On the [[Scarface Mansion]] job, find and shoot the two pink flamingos. Unlocks the "[[Masks (Payday 2)#Scarface Heist DLC|Exalted]]" mask, "[[Materials#Scarface Heist DLC|Oxidized Copper]]" material and "[[Patterns#Scarface Heist DLC|Liberty Flame]]" pattern.}}
+{{Achievement|What? You Want Me to Dance?|jpg|Complete the [[Scarface Mansion]] job in stealth in 13 minutes or less on the Mayhem difficulty or above. Unlocks the "[[Masks (Payday 2)#Scarface Heist DLC|Barrori Flex]]" mask, "[[Materials#Scarface Heist DLC|Red Velvet]]" material and "[[Patterns#Scarface Heist DLC|Coin]]" pattern.}}
+|-|Teasers=
+''The following appeared on December 13, 2016.''
+{{Teasers
+|Doing
+|Heists
+|Is
+|Better
+|With
+|Friends
+}}
+|-|Tips=
+{{Achievement|Look at These Pelicans Fall|jpg|On the [[Scarface Mansion]] job, find and shoot the two pink flamingos. Unlocks the "[[Masks (Payday 2)#Scarface Heist DLC|Exalted]]" mask, "[[Materials#Scarface Heist DLC|Oxidized Copper]]" material and "[[Patterns#Scarface Heist DLC|Liberty Flame]]" pattern.}}
+The flamingo ornaments spawn in two of 6 different locations, all beyond the boundaries of the map, making the use of high-accuracy weapons almost required for the achievement. For their exact locations, consult [http://steamcommunity.com/sharedfiles/filedetails/?id=819024454 this guide].
+|-|Trivia=
+*The achievement names are references to quotes from the 1983 film upon which the [[Scarface Heist (DLC)|Scarface Heist DLC]] and [[Scarface Character Pack]] are based upon, ''{{w|Scarface (1983 film)|Scarface}}'', all of which from {{w|Tony Montana}}.
+**'''You Cockroaches Wanna Play Rough?''' and '''Say Hello to My Big Friend''' are based on Tony Montana's [https://www.youtube.com/watch?v=a_z4IuxAqpE speech] in the final scene.
+**'''Every Dog Has His Day''' is a quote from Tony Montana in the [https://www.youtube.com/watch?v=958GzzqgWnw scene] where he kills [[w:c:scarface:Mel Bernstein|Mel Bernstein]].
+**'''Say Good Night to the Bad Guy''' is from Tony Montana's [https://www.youtube.com/watch?v=Yky4QtRX_DI speech] in the restaurant scene after getting in an argument with {{w|Elvira Hancock}}.
+**'''Look at These Pelicans Fall''' is based on a quote from the [https://www.youtube.com/watch?v=cs8I_mlOG2Q bathtub scene].
+**'''What? You Want Me to Dance?''' is from the [https://www.youtube.com/watch?v=FI4BrXPMeZo dance club scene].
+</tabber><noinclude>
+[[Category:Support Pages]]
+</noinclude>

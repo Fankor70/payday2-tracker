@@ -1,0 +1,81 @@
+{{MultipleHeist2|Art Gallery|Infobox Heist}}{{Quote|We rolled this gallery last year for [[The Elephant]]. This time, we do it for us.|Bain offering the heist.}}
+The '''Art Gallery''' is a heist contracted by [[Bain]]. It was released on the 24th of October 2014 as part of [[PAYDAY 2 Community Events#CrimeFest 2014|CrimeFest 2014]]  as a community level. It takes place on the exact same map, and has the exact same objectives as [[Framing Frame]] Day 1, with the exception that more paintings may be required than Framing Frame's 4. It is also the third heist to include the Pre-Planning feature, preceded by [[Hotline Miami]] and [[Big Bank]] respectively. Art Gallery is the fifth free heist released for ''PAYDAY 2''.
+
+==Objectives==
+===Stealth===
+# Steal at least {{Color|value|6}} paintings marked with a red "sold" mark.
+# Escape.
+===Loud===
+# Get into the security room.
+# Override the system to open the paintings locks. ({{Color|value|299}} seconds) Alternatively use the OVE9000 to saw open the bars.
+# Steal at least {{Color|value|6}} paintings marked with a red "sold" mark.
+# Escape.
+
+==[[Pre-Planning]]==
+Similarly to the [[Big Bank]] heist, the crew has to plan ahead by placing assets on either day. Unlike Big Bank, however, pre-planning is less central. As primary objectives have no variables (such as the vault cracking choice in The Big Bank), players can only place dead drops or backup.
+
+Dead drops such as Ammo or Doctor Bags are often situated in their usual Framing Frame locations.
+{{Framing Frame/PrePlanDay1}}
+
+==Walkthrough==
+Art Gallery plays out the same way as Framing Frame Day 1, and thus the same rules apply.
+Every lobby has one camera located on a wall, it is advisable to take out the camera operator which will disable the cameras. Be aware that passing guards will notice a destroyed camera.
+
+A laser will spawn between two random lobbies. Lasers detects the crew and paintings passing through them even with an ECM deployed.
+
+Should stealth break at any given moment, metal bars will cover the paintings. The computer in the security room can be hacked in order to raise the bars allowing the paintings to be taken or an Enforcer can use the [[OVE9000|OVE9000 saw]] to cut the bars off.
+
+Security shutters will also close on the Halls A and E, sealing the crew inside until the police arrives on the scene and open them.
+
+===Tips===
+*You can draw nearby guards by triggering the hand drier (by crouching beneath it) in the restroom.
+*When going onto the roof it may be useful to open the skylights above the exhibits with the marked paintings to ease with repeated entrance.
+*You can throw the paintings through the small rectangular windows near the ceiling to safely place them on the roof to avoid running in and out too often.
+*Killing four guards will trigger a extra guard to spawn, case the outside & roof of the gallery, then leave.
+
+==Variations==
+*There are two entryways instead of Framing Frame's default one.
+*The security room can spawn in either Hall A, Hall C, or Hall E.
+*On Normal difficulty there will be 6 guards, 7 on Hard and Very Hard, and 8 on higher difficulties.
+*An extra guard can spawn at the exterior bathroom door as you unlock it.
+
+==Mayhem+ Changes==
+* All cameras are Titan cameras.
+
+==The FBI Files==
+The Capitol Art Gallery is one of DC’s leading galleries, hosting exhibitions ranging from 17th Century Swedish masterpieces to modern Singaporean pop-art. This burglary saw the disappearance of several modern masterpieces. Art crime has always been very lucrative. Theft, smuggling, and forgery have driven an insatiable black-market.
+
+{{Color|Value|My Notes: The gallery is a compact and highly porous facility, with multiple ways in and out. The skylights seem to be particularly vulnerable. Seems like the notoriety brings visitors, so maybe the gallery isn’t interested in boosting security.}}
+
+==[[Achievements (Payday 2)|Achievements]]==
+<tabber>Achievements=
+{{Achievement|Heisting By Numbers|jpg|Complete the Art Gallery heist on the Normal difficulty or above.}}
+{{Achievement|Art Attack|jpg|Complete the Art Gallery heist on the Hard difficulty or above.}}
+{{Achievement|Art Lovers|jpg|Complete the Art Gallery heist on the Very Hard difficulty or above.}}
+{{Achievement|Stealing Is a Form of Art|jpg|Complete the Art Gallery heist on the Overkill difficulty or above.}}
+{{Achievement|I Know What I Like|jpg|Complete the Art Gallery heist on the Mayhem difficulty or above}}
+{{Achievement|State of the Art|jpg|Complete the Art Gallery heist on the Death Wish difficulty or above.}}
+{{Achievement|Connoisseurs of the Fine Arts|jpg|Complete the Art Gallery heist on the Death Sentence difficulty.}}
+{{Achievement|Painting with Blood|jpg|Complete the Art Gallery heist on the Death Sentence with the One Down mechanic activated.}}
+{{Achievement|Masterpiece|jpg|In the Art Gallery heist, secure all paintings in stealth without killing any security guards.}}
+{{Achievement|The Turtle Always Wins|jpg|In the Art Gallery job, complete the heist in stealth within 4 minutes with each crew member wearing the [[Armor#Improved Combined Tactical Vest|Improved Combined Tactical Vest]] and no [[Armor Bag|Armor Kit]] deployable equipped. Unlocks the "[[Classic Stock]]" for the AK weapon family, "[[2 Piece Stock]]" for the AK and CAR weapon families, "[[Masks (Payday 2)#The Butcher's AK/CAR Mod Pack DLC|Pachy]]" mask, "[[Materials#The Butcher's AK/CAR Mod Pack DLC|Fossil]]" material and "[[Patterns#The Butcher's AK/CAR Mod Pack DLC|Prehistoric Predator]]" pattern.}}
+{{Achievement|The Wolf Lures You to Your Grave|jpg|In the Art Gallery job, kill two of the patrolling guards in stealth in the bathroom. Unlocks the "E.M.O. Foregrip" and the "OVAL Foregrip" for the CAR weapon family and the "Aftermarket Shorty" for the [[Para|PARA]] submachine gun.}}
+{{Achievement|Van Gogh to Hell|jpg|In the Art Gallery heist, throw a painting onto a toilet.}}
+|-|Trivia=
+*'''I Know What I Like''' is from Art Gallery's briefing screen.
+*'''The Turtle Always Wins''' references the {{w|The Tortoise and the Hare}}, a fable where the Tortoise wins a race against an overconfident hare.
+*'''Van Gogh to Hell''' is named after {{w|Vincent Van Gogh}}, a Dutch artist who worked during the 19th Century.
+</tabber>
+
+==Trivia==
+* Art Gallery, both stand-alone and as part of [[Framing Frame]], is the first non-[[The Dentist|Dentist]] heist to feature Pre-Planning.
+* Similar to [[Cook Off]], this heist is a single-day variation of another heist.
+* It's never explained why the crew only steals "sold" paintings rather than all of them, as unlike Framing Frame, the crew does this heist solely for themselves rather than an interested buyer for those specific paintings.
+
+{{Navbox PD2 Heists}}
+
+[[ru:Художественная галерея]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Community items]]
+[[Category:Stealth Heists]]
+[[Category:Heists contracted by Bain]]

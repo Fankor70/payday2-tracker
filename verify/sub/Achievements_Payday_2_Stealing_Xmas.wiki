@@ -1,0 +1,33 @@
+<tabber>Permanent Achievements=
+{{Achievement|Sold Out|jpg|Complete the [[Stealing Xmas]] job on the Normal difficulty or above.}}
+{{Achievement|Stocking Stuffer|jpg|Complete the [[Stealing Xmas]] job on the Hard difficulty or above.}}
+{{Achievement|How the Winch Stole Christmas|jpg|Complete the [[Stealing Xmas]] job on the Very Hard difficulty or above.}}
+{{Achievement|Getting on the Naughty List|jpg|Complete the [[Stealing Xmas]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Snowfall|jpg|Complete the [[Stealing Xmas]] job on the Mayhem difficulty or above.}}
+{{Achievement|Snowstorm|jpg|Complete the [[Stealing Xmas]] job on the Death Wish difficulty or above.}}
+{{Achievement|Christmas Greetings From Russia|jpg|Complete the [[Stealing Xmas]] job on the Death Sentence difficulty or above.}}
+{{Achievement|Thundersnow|jpg|Complete the [[Stealing Xmas]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Christmas Party|jpg|On the [[Stealing Xmas]] job, escape the heist while keeping at least {{color|value|10}} zip-tied [[civilians]] alive within the {{color|value|4}} pillars around the Christmas tree.}}
+{{Achievement|The Grinch|jpg|On the [[Stealing Xmas]] job, secure all additional loot on the OVERKILL difficulty or above.}}
+{{Achievement|Imitations|jpg|On the [[Stealing Xmas]] job, find and take both Paycheck masks. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Paycheck Dallas]]" and "[[Masks (Payday 2)#Normal (Achievement)|Paycheck Chains]]" masks.}}
+|-|Teasers=
+''The following appeared on December 6, 2016 and were replaced on December 8, 2016.''
+{{Achievement|Keep||Keep}}
+{{Achievement|Cool||Cool}}
+{{Achievement|And||And}}
+{{Achievement|Commit||Commit}}
+{{Achievement|A||A}}
+{{Achievement|Felony||Felony}}
+|-|Tips=
+{{Achievement|Imitations|jpg|On the [[Stealing Xmas]] job, find and take both Paycheck masks. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Paycheck Dallas]]" and "[[Masks (Payday 2)#Normal (Achievement)|Paycheck Chains]]" masks.}}
+The masks have 6 known locations throughout the mall, though the masks do not share spawn locations, with each having 3 unique spawns. For their exact locations, consult [http://steamcommunity.com/sharedfiles/filedetails/?id=814648556 this guide].
+
+{{Achievement|The Grinch|jpg|On the [[Stealing Xmas]] job, secure all additional loot on the OVERKILL difficulty or above.}}
+There are exactly 9 loot bags to steal on all difficulties. The shoe store and tech store both have a back room with loot inside, with the shoe store having a few money bundles and a money bag, and the tech store having several money bundles and phones and two money bags, one of which in a safe that has to be drilled/lockpicked/blown open.
+
+Note that the heist does not need to be completed after securing all loot, as the achievement is rewarded automatically.
+|-|Trivia=
+*The teasers may be a reference to the ''{{w|Keep Calm and Carry On}}'' motivational posters.
+*'''The Grinch''' is an obvious reference to ''{{w|How the Grinch Stole Christmas!}}''.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

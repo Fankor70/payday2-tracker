@@ -1,0 +1,58 @@
+<tabber>
+Permanent Achievements=
+{{Achievement|Welcome to Texas|jpg|Complete the Midland Ranch job on the Normal difficulty or above.}}
+{{Achievement|Gun Runner|jpg|Complete the Midland Ranch job on the Hard difficulty or above.}}
+{{Achievement|Giddyup!|jpg|Complete the Midland Ranch job on the Very Hard difficulty or above.}}
+{{Achievement|Showdown at Midland Ranch|jpg|Complete the Midland Ranch job on the Overkill difficulty or above.}}
+{{Achievement|Outlaw Country|jpg|Complete the Midland Ranch job on the Mayhem difficulty or above.}}
+{{Achievement|Bigger in Texas|jpg|Complete the Midland Ranch job on the Death Wish difficulty or above.}}
+{{Achievement|The Magnificent Four|jpg|Complete the Midland Ranch job on the Death Sentence difficulty.}}
+{{Achievement|How the Ranch was Won|jpg|Complete the Midland Ranch job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Caddyshacked|jpg|In the Midland Ranch job on the OVERKILL difficulty or above, kill 100 enemies with a golf cart.}}
+{{Achievement|Lucky Streak|jpg|In the Midland Ranch job, find all horseshoes hidden around the ranch.}}
+{{Achievement|Marshal Law|jpg|In the Midland Ranch job on the OVERKILL difficulty or above, use the turret to kill 4 US Marshal Sharpshooters.}}
+{{Achievement|Texas Treasures|jpg|In the Midland Ranch job on the OVERKILL difficulty or above, acquire a rare treasure.}}
+|-|Teaser=
+''The following teasers were added on June 10th, 2020, and removed on June 21th, 2020.''
+{{Achievement|To a town in Midland Texas rode four strangers one fine day.||}}
+{{Achievement|Hardly spoke to folks around them, and had masks upon display.||}}
+{{Achievement|No one dared to ask their business, no one dared to greet these guests.||}}
+{{Achievement|For the strangers there among them had large guns and heavy vests.||}}
+{{Achievement|Guns and Vests.||}}
+{{Achievement|It was early in the morning when they rode out to the ranch.||}}
+{{Achievement|Riding from the north, they made ready their advance.||}}
+{{Achievement|They are here some heisting, came the whisper all around.||}}
+{{Achievement|They are here to do some business, something is going down.||}}
+{{Achievement|Is going down.||}}
+{{Achievement|From the ranch, you heard commotion, a fight I do believe.||}}
+{{Achievement|and later in that evening the four strangers took their leave.||}}
+|-|Trivia=
+* The teaser achievement names are a reference to the song [https://www.youtube.com/watch?v=zzICMIu5zFY Big Iron].
+* The achievement "How the Ranch was Won" is a play on the phrase "How the West was Won".
+|-|Tips=
+{{Achievement|Texas Treasures|jpg|In the Midland Ranch job on the OVERKILL difficulty or above, acquire a rare treasure.}}
+To complete this achievement, the player must find three objects hidden around the map, and combine them at the anvil in Barn C.
+==='''Hammer'''===
+The hammer can be found in three possible locations:
+<gallery>
+hammer_1.png|On the second floor of Barn B, next to the turret overlooking the shooting range.
+hammer_2.png|On the ground next to the anvil, in Barn C.
+hammer_3.png|On a table near the radio at the back of the patio.
+</gallery>
+==='''Star Mould'''===
+The mould can be found in three possible locations. It can be very hard to spot due to its small size.
+<gallery>
+mould_1.png|On the second floor of Barn B, near the turret overlooking the courtyard.
+mould_2.png|On the second floor of Barn B, near the turret overlooking the left side of the barn.
+mould_3.png|On a barrel next to a shack, near the kitchen side of the ranch house.
+</gallery>
+==='''Silver Bar'''===
+To find the silver bar stash, the player must first acquire a crowbar. Once obtained, the player can interact with the wall located under the stairs on the right side of Barn B. Doing so will break the wall and reveal a box full of silver bars.
+<gallery>
+Silver wall.png| The exposed box of silver, after breaking open the wall.
+</gallery>
+</br>
+Once all three items are obtained, the player must place all three items on the anvil located in Barn C. Doing so will create a sheriff's badge, and award the achievement once picked up.
+
+</tabber>
+[[Category:Achievement Icons]]

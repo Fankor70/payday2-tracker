@@ -1,0 +1,958 @@
+{{Game-Tabs|pdth=Achievements|pd2=Achievements (Payday 2)|pd3=Achievements (Payday 3)|raid=Achievements (RAID: World War II)}}'''Achievements''', also known as '''Trophies''', are optional goals introduced to reward skillful play, encourage varied play-styles, or simply track progress through the game. They are distinct from the Safe House [[Safe House#Trophies|Trophy]] system, although some goals are shared between the two.
+
+New players should be aware that most achievements are purely superficial, only serving as a form of bragging rights and/or proof of one achieving certain impressive feats. Some (especially those included within a DLC), however, will reward the player with a [[Masks (Payday 2)|mask]] (usually bundled with a [[Patterns|pattern]] and a [[Materials|material]]); others may give weapon modifications. The simplest way to find these achievements is to search the text on this page (Ctrl+F on windows, Command+F for MacOS) for the word "unlock". To find achievements that unlock weapon modifications, instead use the phrase "for the".
+
+: '''Note:''' {{color|negative|''Achievements on the {{color|value|Playstation 4}} and {{color|value|Xbox One}} versions of ''PAYDAY 2'' do '''not''' award mods, masks, etc...''}}
+Starting with the [[#Halloween Event 2013|2013 Halloween Event]], temporary "teaser" achievements are added to achievement pages prior to an update that contains new achievements. The teasers are removed when the new achievements are live.
+
+Introduced in [[PC update history (Payday 2)#Update #171|Update #171]] were '''achievement milestones''', which are reached by unlocking certain numbers of achievements, with more milestones added as achievements are added to the game. All achievement milestones grant [[continental coins]], with some also giving cosmetic rewards.
+
+{| class="wikitable mw-collapsible mw-collapsed" width="100%" style="text-align: center"
+| colspan="3" | '''Achievement Milestones'''
+|- 
+! Milestone
+! [[Continental coins|Continental Coin]] Reward
+! Additional reward
+|- style="background-color:hsla(200, 100%, 50%, 0.2)"
+| 20
+| 4
+|-
+| 50
+| 8
+|- style="background-color:hsla(200, 100%, 50%, 0.2)"
+| 90
+|12
+|[[File:Mega Famine.png|32px]] '''Mega Famine'''
+|-
+| 140
+| 16
+|-style="background-color:hsla(200, 100%, 50%, 0.2)"
+| 200
+| 20
+|[[File:Mega Conquest.png|32px]] '''Mega Conquest'''
+|-
+| 270
+| 24
+|-style="background-color:hsla(200, 100%, 50%, 0.2)"
+| 350
+| 28
+|[[File:Mega Tormentor.png|32px]] '''Mega Tormentor'''
+|-
+| 450
+| rowspan="7" | 36
+|-style="background-color:hsla(200, 100%, 50%, 0.2)"
+| 550
+|[[File:Mega Arch Nemesis.png|32px]] '''Mega Arch Nemesis'''
+|-
+| 650
+|-style="background-color:hsla(200, 100%, 50%, 0.2)"
+| 750
+|[[File:Mega Rad Mutant.png|32px]] '''Mega Rad Mutant'''
+|-
+| 850
+|-style="background-color:hsla(200, 100%, 50%, 0.2)"
+| 950
+|[[File:Mega Greed.png|32px]] '''Mega Greed'''
+|-
+| 1000
+|[[File:The Great Immortal.png|32px]] '''The Great Immortal'''<br>[[File:Armor-immortal-python.png|32px]] '''Immortal Python Armor'''<br><!-- placeholder for the weird icon in the milestone list -->[[File:Akimbo-Para-Immortal-Python.png|32px]] '''Immortal Python Weapon Skin'''<br>{{color|negative|Immortal Python skins were changed into weapon colors on Update #201}}
+|}
+
+{{AchieveTOC}}
+
+==General==
+<tabber>Achievements=
+{{Achievement|Coming in Hot|jpg|On day 1 of the [[Watchdogs]] job, don't let the cops shoot and destroy the escape vehicle.}}
+{{Achievement|Fish A.I.|jpg|On day 2 of the Watchdogs job, throw a loot bag into the sea, hoping fish move away as it gets near.}}
+{{Achievement|F in Chemistry|jpg|On day 1 of the [[Rats]] job or the [[Cook Off]] job, blow up the lab.}}
+{{Achievement|Caribbean Pirate|jpg|On day 2 of the Rats job, bring additional meth bags to the trade, but steal your payment instead.}}
+{{Achievement|Short Fuse|jpg|On day 3 of the Rats job, get away with {{color|value|7}} bags without defusing any bombs.}}
+{{Achievement|Painting Yourself Into a Corner|jpg|On day 1 of the [[Framing Frame]] job, steal all sold paintings without being seen.}}
+{{Achievement|Big Deal|jpg|On day 2 of the Framing Frame job, trade {{color|value|9}} paintings.}}
+{{Achievement|I Wasn't Even There!|jpg|On day 3 of the Framing Frame job, send the gold by zip-line without ever tripping the alarm.}}
+{{Achievement|I Knew What I Did Was Wrong|jpg|On day 1 of the [[Big Oil]] job, enter the basement, open the [[Loot#Loose item values|ATM machines]] and take the loot.}}
+{{Achievement|Doctor Fantastic|jpg|On day 2 of the Big Oil job, complete the heist with the {{color|value|first}} engine being correct.}}
+{{Achievement|Diamonds Are Forever|jpg|In the [[Jewelry Store|Jewelry store]] job, steal and secure {{color|value|4}} bags without the escape car leaving the first time.}}
+{{Achievement|Let's Do Th...|jpg|In the [[Ukrainian Job|Ukrainian job]], complete the heist within {{color|value|35}} seconds.}}
+{{Achievement|Yeah He's a Gold Digger|jpg|In the [[Four Stores]] job, find a gold bar in a safe.}}
+{{Achievement|I'm Going All-in!|jpg|In the [[Nightclub]] job, put a bag filled with money on the poker table.}}
+{{Achievement|Shoot the Glass!|jpg|In the [[Mallcrasher]] job, destroy all windows in the mall.}}
+{{Achievement|Lord of War|jpg|On day 1 of the [[Firestarter]] job, steal all the weapons from the hangar.}}
+{{Achievement|Guessing Game|jpg|On day 2 of the Firestarter job, complete the heist in stealth without hacking the computer.}}
+{{Achievement|The First Line|jpg|On day 3 of the Firestarter job, find the [[Loot#Loose item values|rare hockey poster]] of the OVERKILL hockey team.}}
+{{Achievement|King of the Hill|jpg|In the [[Park Escape|Park escape]], ensure that no [[Enemies (Payday 2)|law enforcement]] enters the park before the escape van arrives.}}
+{{Achievement|You Shall Not Pass!|jpg|In the [[Overpass Escape|Overpass escape]], don't let the cops set foot on the bridge before you can escape.}}
+{{Achievement|Cappuccino to Go, Please|jpg|In the [[Cafe Escape|Cafe escape]], secure all loot and escape within {{color|value|30}} seconds of the escape van arriving.}}
+{{Achievement|Bullet Dodger|jpg|In the [[Street Escape|Street escape]], complete the escape without killing any [[Sniper (Payday 2)|enemy snipers]].}}
+{{Achievement|They See Me Baggin', They Hatin'|jpg|On the [[Garage Escape|Garage escape]], get away with {{color|value|8}} bags.}}
+{{Achievement|Tip the Scales|jpg|Add money to the scales<br>''{{color|negative|The Lady Justice statue can be found in the new Safehouse by upgrading John Wick's Shooting Range to level 3.}}''}}
+{{Achievement|How Do You Like Me Now?|jpg|Equip an [[Armors|armor]] for the first time.}}
+{{Achievement|Man of Iron|jpg|Equip the [[Armors#Improved Combined Tactical Vest|Improved Combined Tactical Vest]].}}
+{{Achievement|Would You Like Your Receipt?|jpg|Buy a [[Weapons (Payday 2)|weapon]] for the first time.}}
+{{Achievement|Armed to the Teeth|jpg|Modify a weapon for the first time.}}
+{{Achievement|Fully Loaded|jpg|Own {{color|value|9}} weapons.}}
+{{Achievement|Weapon Collector|jpg|Own {{color|value|18}} weapons.}}
+{{Achievement|Masked Villain|jpg|Modify a [[Masks (Payday 2)|mask]] for the first time.}}
+{{Achievement|No One Cared Who I Was...|jpg|Until I put on the mask.}}
+{{Achievement|I Got It, I Got It!|jpg|Catch a bag mid-air.}}
+{{Achievement|No Turning Back|jpg|Complete your first job.}}
+{{Achievement|I'm a Healer-Tank-Damage-Dealer|jpg|Spend {{color|value|10}} skill points in each [[Skills|skill tree]].}}
+{{Achievement|Spend Money to Make Money|jpg|Spend ${{color|value|1.000.000}} in total cash.}}
+{{Achievement|Going Places|jpg|Gain ${{color|value|1.000.000}} in total spendable cash.}}
+{{Achievement|You Gotta Start Somewhere|jpg|Reach [[Reputation (Payday 2)|reputation]] level {{color|value|5}}.}}
+{{Achievement|Guilty of Crime|jpg|Reach reputation level {{color|value|10}}.}}
+{{Achievement|Smooth Criminal|jpg|Reach reputation level {{color|value|25}}.}}
+{{Achievement|Armed and Dangerous|jpg|Reach reputation level {{color|value|50}}.}}
+{{Achievement|Career Criminal|jpg|Reach reputation level {{color|value|75}}.}}
+{{Achievement|Most Wanted|jpg|Reach reputation level {{color|value|100}}.}}
+|-|Trivia=
+* '''No One Cared Who I Was...''' is a part of a quote by [[wikipedia:Bane (comics)|Bane]] from ''[[wikipedia:The Dark Knight Rises|The Dark Knight Rises]]''.
+** The conditions required for completing the achievement are a reference to the second part of the quote:"...until I put on the mask."
+** The achievement's icon was also Overkill producer [http://steamcommunity.com/profiles/76561197971723118 Almir's] Steam avatar for a long time.
+* '''Yeah He's a Gold Digger''' is a reference to [[wikipedia:Kanye West|Kanye West]]'s song "[[wikipedia:Gold Digger (Kanye West song)|Gold Digger]]".
+* '''Fish A.I.''' is a joke about [[wikipedia:Infinity Ward|Infinity Ward]], who showcased their fish A.I. in ''[[wikipedia:Call of Duty: Ghosts|Call of Duty: Ghosts]]'' as a big achievement.
+**The description of the achievement is also a reference to the joke, due to the fish AI in ''Ghosts'' simply moves away when the player moves near.
+* '''Lord of War''' is a reference to the [[wikipedia:Lord of War|film of the same name]], which is about an illegal arms dealer.
+* '''You Shall Not Pass!''' is a quote by [[wikipedia:Gandalf|Gandalf]] in ''[[wikipedia:The Lord of the Rings: The Fellowship of the Ring|The Lord of the Rings: The Fellowship of the Ring]]'' film.
+* '''Man of Iron''' is a reference to the Marvel Comic character [[wikipedia:Iron Man|Iron Man]].
+** Additionally, it could be a reference to the DC Comic character [[wikipedia:Superman|Superman]], who is frequently called "Man of Steel".
+* '''Smooth Criminal''' is a reference to the [[wikipedia:Michael Jackson|Michael Jackson]] [[wikipedia:Smooth Criminal|song of the same name]].
+* '''They See Me Baggin', They Hatin''' is a reference to the song "[[wikipedia:Ridin' (Chamillionaire song)|Ridin']]" by [[wikipedia:Chamillionaire|Chamillionaire]].
+* An '''F in Chemistry''' is the lowest possible grade one may receive in American and British school systems, alluding to the crew's failure to add the correct ingredient and causing the lab to explode.
+* '''Caribbean Pirate''' is a reference to the Disney movie franchise ''[[wikipedia:Pirates of the Caribbean (film series)|Pirates of the Caribbean]]''.
+* '''Doctor Fantastic''' is likely a reference to the Marvel character Dr. Reed Richards, a.k.a. [[wikipedia:Mister Fantastic|Mister Fantastic]] of the [[wikipedia:Fantastic Four|Fantastic Four]]. He is a doctorate and a scientist who invents many high-tech devices, similar to the fusion engine stolen in [[Big Oil]].
+* '''Diamonds are Forever''' is a reference to the [[wikipedia:James Bond|James Bond]] [[wikipedia:Diamonds Are Forever (novel)|novel]] and [[wikipedia:Diamonds Are Forever (film)|film]] of the same name.
+* '''Shoot the Glass!''' is a likely reference to the film ''[[wikipedia:Die Hard|Die Hard]]''. The antagonist Hans Gruber orders his henchman to shoot out glass windows when he discovers that protagonist [[wikipedia:John McClane|John McClane]] is barefoot.
+* '''The First Line''' is likely a reference to the first forward line in the game of [[wikipedia:Ice hockey|Ice hockey]].
+* '''Tip the Scales''' is still possible to do even if players have overlevelled and cannot enter the old [[Laundromat Safe House]]. By upgrading [[Safe House#Rooms|John Wick's Shooting Range]] to level 3, the Lady Justice statue can be found in the Kill Room.
+* The '''Armed to the Teeth''' achievement's icon depicts a [[Crosskill]] equipped with the [[Punisher Compensator]], Tactical Pistol Light, and [[12rnd Mag.]] mods.
+* The '''Fully Loaded''' achievement's icon depicts, from left to right, top to bottom: The [[Crosskill]], [[Deagle]], [[Bernetti 9]], [[CMP]], [[Bronco .44 (Payday 2)|Bronco .44]] with the Pocket Surprise Barrel, [[Chimano 88]], [[Krinkov]] without a stock, and [[Locomotive 12G (Payday 2)|Locomotive 12G]].
+* The '''Weapon Collector''' achievement's icon depicts, from left to right, top to bottom: The [[Crosskill]], [[Deagle]], [[Chimano 88]], [[Krinkov]] without a stock, [[Bernetti 9]], [[CMP]], [[Mark 10]], [[Bronco .44 (Payday 2)|Bronco .44]] with the Pocket Surprise Barrel, [[STRYK 18c]] with the [[Extended Mag (STRYK 18c)|Extended Mag]], [[Kobus 90]], [[Para]] with the Shorter Than Short Stock, [[UAR]], [[M308 (Payday 2)|M308]], [[Locomotive 12G (Payday 2)|Locomotive 12G]], and [[JP36]].
+|-|Tips=
+{{Achievement|Guessing Game|jpg|On day 2 of the [[Firestarter]] job, complete the heist in stealth without hacking the computer.}}
+Play on Normal difficulty so that there are only three to four boxes to choose from, as opposed to four to five. Because the two correct wires are randomized, the probability of correctly guessing which two wires to cut is ~33.3% if there are three boxes, and ~16.7% if there are four.
+
+{{Achievement|They See Me Baggin', They Hatin'|jpg|On the [[Garage Escape|Garage escape]], get away with 8 bags.}}
+Possibly the best place to do this would be in the [[Rats]] job. The [[Transporter]] skill is helpful for moving bags.
+
+On Day 1, cook at least six bags of meth. Meth bags are lighter than money bags, so cooking extra meth would make the escape somewhat easier, but a lot of time is given for an escape with eight bags anyway. If you encounter the Garage escape on Day 1, then restart the heist because it cannot be encountered on Day 2, making the achievement impossible.
+
+On Day 2, make the trade. If you traded in at least six bags of meth, then there will be three extra money bags in the room with the intel. Grab enough money bags so that you will end up with at least eight loot bags total after you steal back the meth.
+
+If you do not encounter the Garage escape on Day 2, then restart the heist. Otherwise, bring a saw or shaped charges if possible to open doors faster. Once the escape starts, throw at least eight of the bags onto the level above, towards the corner with the staircase that leads to the surface (4 or 5 o'clock when you spawn). Run to the bags, open the door to the nearby staircase and the door at the top of the staircase, and transport the bags to the escape van.
+</tabber>
+
+==PlayStation-exclusive Trophy==
+This trophy is awarded to anyone who achieved all other trophies.{{Achievement|Completely OVERKILL (PS3) / Kingpin (PS4)|3 = Complete everything. OVERKILL salutes you!|image = Platinum.png}}
+
+==2nd Payday Birthday==
+''This achievement requires membership in the'' [http://steamcommunity.com/games/218620 PAYDAY 2 ''Official Group on Steam''].
+{{Achievement|Like an Angry Bear!|jpg|Equip the "[[Masks (Payday 2)#Community|Mark]]" mask. Celebrating 2 years of heists, you can now unlock the "Mark" mask by simply joining the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].}}
+
+==Halloween Event 2013==
+<tabber>Permanent Achievements=
+{{Achievement|From Russia With Love|jpg|While wearing the “[[Masks (Payday 2)#Community|Mark]]” mask, finish 25 of [[Vlad]]'s jobs on the OVERKILL difficulty or above.}}
+{{Achievement|I Am the One Who Knocks|jpg|On day 1 of the [[Rats]] job, cook 3 bags worth of meth without letting any [[Enemies (Payday 2)|law enforcer]] enter the house.}}
+{{Achievement|Full Measure|jpg|On day 1 of the Rats job, cook and secure 7 bags worth of meth without blowing up the lab on the OVERKILL difficulty or above.}}
+{{Achievement|Afraid of the Dark|png|On day 3 of the [[Framing Frame]] job, while doing plan B, do not let [[Enemies (Payday 2)|law enforcers]] pull the power.}}
+{{Achievement|Witch Doctor|jpg|While wearing the “[[Masks (Payday 2)#Halloween 2013 Event|Witch]]” mask from the Halloween event, revive 50 crew members.}}
+{{Achievement|It’s Alive! IT’S ALIVE!|jpg|While wearing the “[[Masks (Payday 2)#Halloween 2013 Event|Frank]]” mask from the Halloween event, get electrocuted by a [[Taser (Payday 2)|Taser]] 25 times.}}
+{{Achievement|Pump-Action|jpg|While wearing the “[[Masks (Payday 2)#Halloween 2013 Event|Pumpkin]]” mask from the Halloween event, kill 666 [[Enemies (Payday 2)|enemies]] using only [[:Category:Shotguns|shotguns]].}}
+{{Achievement|No One Can Hear You Scream|jpg|While wearing the “[[Masks (Payday 2)#Halloween 2013 Event|Venomorph]]” mask from the Halloween event, silently kill 50 [[Enemies (Payday 2)|enemies]] using only [[:Category:Melee|melee]].}}
+{{Achievement|The Pumpkin King Made Me Do It!|jpg|Kill 666 [[Enemies (Payday 2)|enemies]] using only the [[Interceptor .45|Interceptor 45]] pistol.}}
+{{Achievement|Christmas Came Early|jpg|Equip the [[Interceptor .45|Interceptor 45]] pistol. Celebrating Halloween, you can now unlock the Interceptor 45 pistol by simply joining the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].}}
+{{Achievement|Cheerful Child|jpg|In the [[Safe House Nightmare]] job find the correct baby mask on the Normal difficulty. Unlocks the "[[Masks (Payday 2)#Halloween Event|Happy Baby]]" mask.}}
+{{Achievement|Gilliam's Sweet Little Baby|jpg|In the [[Safe House Nightmare]] job find the correct baby mask on the Hard difficulty. Unlocks the "[[Masks (Payday 2)#Halloween Event|Brazil Baby]]" mask.}}
+{{Achievement|Temper Tantrum|jpg|In the [[Safe House Nightmare]] job find the correct baby mask on the Very Hard difficulty. Unlocks the "[[Masks (Payday 2)#Halloween Event|Angry Baby]]" mask.}}
+{{Achievement|Water Works|jpg|In the [[Safe House Nightmare]] job find the correct baby mask on the OVERKILL difficulty. Unlocks the "[[Masks (Payday 2)#Halloween Event|Cry Baby]]" mask.}}
+|-|Old=
+''These achievements were initially released with Safe House Nightmare, but were changed in Update #174 to separate the masks from the difficulty completion ladder.''
+{{Achievement|First Nightmare||This is a secret achievement. It is only obtainable during the Annual Halloween Event!<br>''{{color|negative|Complete the [[Safe House Nightmare]] on the Normal difficulty and collect the correct baby mask.}}''|image=First Nightmare old.jpg}}
+{{Achievement|Second Nightmare||This is a secret achievement. It is only obtainable during the Annual Halloween Event!<br>''{{color|negative|Complete the [[Safe House Nightmare]] on the Hard difficulty and collect the correct baby mask.}}''|image=Second Nightmare old.jpg}}
+{{Achievement|Third Nightmare||This is a secret achievement. It is only obtainable during the Annual Halloween Event!<br>''{{color|negative|Complete the [[Safe House Nightmare]] on the Very Hard difficulty and collect the correct baby mask.}}''|image=Third Nightmare old.jpg}}
+{{Achievement|Fourth Nightmare||This is a secret achievement. It is only obtainable during the Annual Halloween Event!<br>''{{color|negative|Complete the [[Safe House Nightmare]] on the OVERKILL difficulty and collect the correct baby mask.}}''|image=Fourth Nightmare old.jpg}}
+|-|Teasers=
+''The following got replaced during the [[PC update history (Payday 2) Old#Update 16|Halloween Update]].''
+{{Achievement|7 little pumpkins||Sitting on a gate.}}
+{{Achievement|The first one said,||"Oh, my it's getting late!"}}
+{{Achievement|The second one said,||"There are witches in the air!"}}
+{{Achievement|The third one said,||"Well, I don't care!"}}
+{{Achievement|The fourth one said,||"Let's run and run and run!"}}
+{{Achievement|The fifth one said,||"I'm ready for some fun!"}}
+{{Achievement|The sixth one said,||"But I forgot my gun!"}}
+{{Achievement|The seventh one said,||"Help! I just got downed!"}}
+{{Achievement|Ooooo went the wind||And out went the lights}}
+{{Achievement|And the seven little pumpkins||Rolled out of sight.}}
+|-|Trivia=
+* The achievement '''I Am the One Who Knocks''' is a ''{{w|Breaking Bad}}'' reference, being a quote from protagonist {{w|Walter White (Breaking Bad)|Walter White}}. The achievement '''Full Measure''' is also a reference to the show, as there is an [[w:c:breakingbad:Full Measure|episode with the same name]] and the supporting character [[w:c:breakingbad:Mike Ehrmantraut|Mike Ehrmantraut]] has a "No more half measures" speech which has become quite popular among the fan base.
+* '''From Russia With Love''' is a reference to the {{w|James Bond}} {{w|From Russia, with Love (novel)|novel}} and {{w|From Russia, with Love (film)|film}} of the same name.
+* '''It’s Alive! IT’S ALIVE!''' is a reference to a quote from {{w|Mary Shelley}}'s {{w|Frankenstein}} novel.
+* '''Pump-Action''' is a pun on ''pump''kins and pump-action shotguns.
+* '''No One Can Hear You Scream''' is a reference to the tagline of the 1979 film ''{{w|Alien (film)|Alien}}''.
+* '''The Pumpkin King Made Me Do It!''' is likely a reference to {{w|Golden Earring|Golden Earring's}} song "{{w|Cut (Golden Earring album)|The Devil Made Me Do It}}". It may also reference the film ''{{w|The Nightmare Before Christmas}}'', as Halloween Town is ruled over by the Pumpkin King.
+* '''Gilliam's Sweet Little Baby''' refers to ''{{w|Brazil (1985 film)|Brazil}}'', the film the achievement's mask is based on, being directed by {{w|Terry Gilliam}}.
+</tabber>
+
+==Armored Transport DLC==
+{{/ArmoredTransport}}
+
+==Gage Weapon Pack #01==
+{{/Gage Weapon Pack 01}}
+
+==Christmas Event 2013==
+{{/GO Bank}}
+===Soundtrack Achievement===
+<tabber>Achievement=
+{{Achievement|Reindeer Games|jpg|Complete a heist while you and your four man crew are wearing one different ”[[Masks (Payday 2)#A Merry Payday Christmas Soundtrack DLC|Santa]]” mask each.}}
+|-|Trivia=
+* '''Reindeer Games''' is likely a reference to the 2000 film ''{{w|Reindeer Games}}''.
+** Alternatively, it could be a reference to the line "They never let poor Rudolph // join in any reindeer games" from the well-known Christmas carol "{{w|Rudolph the Red-Nosed Reindeer}}".
+</tabber>
+
+===Celebration===
+''The following only require membership in the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].''
+{{Achievement|Merry Christmas!|jpg|Equip the "[[Masks (Payday 2)#Community|Happy Santa]]" mask. Celebrating the release of the free [[GO Bank|Charlie Santa Heist]], you can now unlock the "Happy Santa" mask by simply joining the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].}}
+
+==Infamy==
+{{/Infamy}}
+
+==Gage Weapon Pack #02==
+{{/Gage Weapon Pack 02}}
+
+==Death Wish==
+{{/Deathwish}}
+
+==Election Day==
+{{/Election Day}}
+
+===Additional Achievement===
+{{Achievement|Ghost Riders|jpg|Complete a heist while you and your four man crew are wearing one different [[Masks (Payday 2)#Death Wish Update|difficulty mask]] each.}}
+
+===Celebration===
+''The following only require membership in the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].''
+{{Achievement|A Vote For Change|jpg|Equip the [[Chimano Custom]] pistol. Celebrating the release of the [[Election Day]] Heist, you can now unlock the Chimano Custom pistol by simply joining the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].}}
+
+==Gage Mod Courier==
+{{/Gage Mod Courier}}
+
+==Gage Sniper Pack==
+{{/Gage Sniper Pack}}
+
+==Shadow Raid==
+{{/Shadow Raid}}
+
+==Big Bank (DLC)==
+{{/Big Bank}}
+
+==Gage Shotgun Pack==
+{{/Gage Shotgun Pack}}
+
+==Gage Assault Pack==
+{{/Gage Assault Pack}}
+
+==Hotline Miami (DLC)==
+{{/Hotline Miami}}
+
+==CrimeFest 2014==
+<tabber>Permanent Achievements=
+{{Achievement|State of the Art|jpg|Complete the [[Art Gallery]] heist on the Death Wish difficulty or above.}}
+{{Achievement|Why Don’t We Just Use a Spoon?|jpg|Complete the [[Hoxton Breakout]] heist on the Normal difficulty or above. Unlocks "[[Hoxton]]" as a playable character and the "[[Nova's Shank]]" melee weapon.}}
+{{Achievement|No Bars Can Hold Me|jpg|Complete the [[Hoxton Breakout]] heist on the Death Wish difficulty or above.}}
+{{Achievement|Cavity|jpg|Hurt an enemy using the [[Nova's Shank]] melee weapon.}}
+|-|Removed=
+''The following achievement was removed on October 5, 2016.''
+{{Achievement|Havoc in the Streets|jpg|Complete the [[Hoxton Breakout]] pro job heist on Death Wish difficulty.}}
+|-|Teasers=
+''The following appeared during the Crimefest event on October 22, 2014.''
+{{Teasers
+|
+}}
+
+''The following appeared on October 24, 2014. The teaser achievement "Squek" was replaced on October 24, 2014, with the State of the Art achievement. The remaining teasers were replaced on October 27, 2014.''
+{{Teasers
+|Squek
+|I
+|am
+|free
+|!
+}}
+</tabber>
+
+==Halloween Event 2014==
+<tabber>Permanent Achievement=
+{{Achievement|Sixth Nightmare|jpg|This is a secret achievement. It is only obtainable during the Annual Halloween Event!<br>''{{color|negative|Complete the [[Safe House Nightmare]] on the Death Wish difficulty or above.}}''}}
+|-|Old=
+{{Achievement|Fifth Nightmare||This is a secret achievement. It is only obtainable during the Annual Halloween Event!<br>''{{color|negative|Complete the [[Safe House Nightmare]] on the Death Wish difficulty.}}''|image=Fifth Nightmare old.jpg}}
+|-|Teaser=
+''The following appeared on October 29, 2014.''
+{{Teasers
+|Fifth Nightmare
+}}
+</tabber>
+
+==Gage Historical Pack==
+{{/Gage Historical Pack}}
+
+==Christmas Event 2014==
+{{/Xmas 2014}}
+
+==The Diamond Heist==
+{{/The Diamond Heist}}
+
+===Additional===
+{{Achievement|Tabula Rasa|jpg|In the [[Hoxton Breakout]] job, complete the heist on OVERKILL difficulty or above with each crew member using no skills, wearing [[Armors#Two-Piece Suit|suits]], wielding [[Golden AK.762]] rifles and [[Chicago Typewriter]] submachine guns. Unlocks a new skill slot.}}
+
+==Happy New Years 2015==
+<tabber>Permanent Achievement=
+{{Achievement|Knockout!|jpg|Knock out a [[Bulldozer (Payday 2)|Bulldozer]] using the [[OVERKILL Boxing Gloves|OVERKILL boxing gloves]]. Unlocks "[[Masks (Payday 2)#Normal (Achievement)|The Champ]]" mask.}}
+|-|Teaser=
+''The following appeared on December 17, 2014 and was replaced January 2, 2015.''
+{{Teasers
+|Knockout
+}}
+</tabber>
+
+==The Bomb==
+{{/The Bomb}}
+
+==The Butcher's AK/CAR Mod Pack==
+{{/AK-CAR Mod Pack}}
+
+==Infamy 2.0==
+{{/Infamy 2.0}}
+
+==The OVERKILL Pack==
+{{/OVERKILL Pack}}
+
+==Spring Break Event==
+<tabber>Permanent Achievements=
+{{Achievement|Speedlock Holmes|jpg|On day 1 of the [[Election Day]] job, tag the right truck and leave within {{color|value|a minute}} of the start of the heist.}}
+{{Achievement|Nothing Out of the Ordinary|jpg|Answer {{color|value|4}} pagers by yourself within {{color|value|90}} seconds from first to last pager.}}
+{{Achievement|Situation Normal|jpg|In the [[Hoxton Breakout]] job, complete day 2 without using {{color|value|a single}} keycard on the OVERKILL difficulty or above.}}
+{{Achievement|Keep the Party Going|jpg|In the [[Nightclub]] job, zip-tie the DJ and bring him to the escape zone by the escape van.}}
+{{Achievement|It's Getting Hot in Here|jpg|In the [[Firestarter]] job, complete day 3 with you and your crew staying inside the vault while all of the money burns out on the Death Wish difficulty.}}
+{{Achievement|Cooking By the Book|jpg|Complete the [[Cook Off]] job on the Death Wish difficulty or above.}}
+{{Achievement|Tag, You're It!|jpg|Be the {{color|value|first}} player in a {{color|value|four}} man crew to reach the docks.}}
+{{Achievement|A Dish Best Served Cold|jpg|Complete the [[Hoxton Revenge]] job on the Death Wish difficulty or above.}}
+{{Achievement|Silent But Deadly|jpg|Complete the Hoxton Revenge job without triggering the alarm.}}
+{{Achievement|Gone in 240 Seconds|jpg|In the [[Car Shop]] job, complete the heist within {{color|value|4}} minutes. Unlocks "[[Masks (Payday 2)#Normal (Achievement)|The Tids]]" mask.}}
+{{Achievement|I'm An Avenger!|jpg|Kill the traitor.<br>''{{color|negative|Unlocks [[Masks (Payday 2)#Hoxton Revenge|The Hard Hat]]}}''}}
+|-|Teasers=
+''The following appeared on March 9, 2015. The teasers gradually got replaced by the actual achievements between 13 and 21 March, 2015.''
+{{Teasers
+|Rib
+|Loin
+|Flank
+|Chuck
+|Rack
+|Ham
+|High
+|Score
+|Easy
+|As
+|Pie!
+|Payback
+|Time!
+}}
+|-|Trivia=
+* '''Gone in 240 Seconds''' is a reference to the 1974 film ''{{w|Gone in 60 Seconds (1974 film)|Gone In 60 Seconds}}'' and the 2000 remake {{w|Gone in 60 Seconds (2000 film)|of the same name}}, both of which also includes stealing expensive automobiles.
+* '''Speedlock Holmes''' is a pun on {{w|Sherlock Holmes}}, a fictional detective found in novels and short stories which have been adapted many times for stage, radio, TV as well as movies.
+* '''Tag, You're It!''' is a reference to the children's game of {{w|Tag (game)|tag}}.
+* '''A Dish Best Served Cold''' is a reference to the phrase "Revenge is a dish best served cold."
+* '''Cooking By the Book''' is a reference to the [https://www.youtube.com/watch?v=UYrkQL1bX4A song of the same name] from the children's show ''{{w|LazyTown}}'', which had [http://knowyourmeme.com/memes/cooking-by-the-book gone viral].
+</tabber>
+
+==The Butcher's BBQ Pack==
+{{/BBQ Pack}}
+
+===Additional===
+<tabber>Permanent Achievements=
+{{Achievement|High Octane|jpg|Complete the [[Car Shop]] heist on the Death Wish difficulty or above.}}
+{{Achievement|Pink Slip|jpg|Enter a drivable [[Vehicles|vehicle]].}}
+|-|Teasers=
+''The following appeared on March 24, 2015 and were replaced on March 26, 2015.''
+{{Teasers
+|On
+|Off
+}}
+|-|trivia=
+*A '''Pink Slip''' is an idiom for a vehicle title.
+</tabber>
+
+==The Butcher's Western Pack==
+{{/Western Pack}}
+
+==Meltdown==
+{{/Meltdown}}
+
+==The Alesso Heist==
+{{/The Alesso Heist}}
+
+==Golden Grin Casino==
+{{/Golden Grin Casino}}
+
+==Gage Ninja Pack==
+{{/Gage Ninja Pack}}
+
+==Gage Chivalry Pack==
+{{/Gage Chivalry Pack}}
+
+==Update #78==
+{{Achievement|Choo Choo|jpg|Complete the [[Transport: Train Heist]] job on the Death Wish difficulty or above.}}
+
+==CrimeFest 2015==
+<tabber>Permanent Achievements=
+{{Achievement|Aftershocked|jpg|Complete the [[Aftershock]] job on Death Wish difficulty or above.}}
+{{Achievement|400 Bucks|png|I may be homeless, but at least I have a sick knife.<br>''{{color|negative|Tie or kill a specific homeless civilian in [[Aftershock]] and take his knife.}}''}}
+{{Achievement|Hidden Hostages|png|Finish the [[First World Bank (Payday 2)|First World Bank]] job with {{color|value|6}} or more hostages alive behind the wall by the elevators in the main lobby.}}
+{{Achievement|1337|png|Complete the First World Bank job in stealth under 13 minutes and 37 seconds.}}
+{{Achievement|Original Heisters|png|In the First World Bank job, complete the heist from start on the OVERKILL difficulty or above with a full player lobby using all 4 characters from the [[PAYDAY: The Heist]] crew, [[Reinfeld 880|Reinfeld]] Shotguns and [[Bernetti 9]] Pistols.}}
+{{Achievement|Cloaker Fear|png|Finish the First World Bank job on the OVERKILL difficulty or above by securing all additional money bags while not using the loot vent bag shortcut for the additional money bags.}}
+{{Achievement|CVL+|png|Complete the First World Bank heist on the Death Wish difficulty or above.}}
+{{Achievement|OVERDRILL|png|In the First World Bank job, solve the [[PAYDAY: The Heist]] secret on the Death Wish difficulty or above and enter the OVERVAULT. To complete this challenge, you have to have played the heist from start to end.}}
+{{Achievement|Au Ticket|png|In the First World Bank job, find the Titan Safe and collect the special item inside.<br>''{{color|negative|From October 22nd, 2015, to January 14th, 2016, awarded one [[Safes (Gameplay)|First World safe and drill]].}}''}}
+{{Achievement|Not Hard Enough|png|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the OVERKILL difficulty or above while [[Captain Winters]] is still present on the level.}}
+{{Achievement|But How?|png|In the Slaughterhouse job, get the armored truck to drop without shooting at the wires on which it is suspended.}}
+{{Achievement|Making a Statement|png|Finish the Slaughterhouse job on the OVERKILL difficulty or above without anyone killing a single [[Sniper (Payday 2)|sniper]].}}
+{{Achievement|Pyromaniacs|png|In the Slaughterhouse job, pick up two gasoline tanks within {{color|value|30}} seconds of entering the slaughterhouse.}}
+{{Achievement|Dead Meat|png|Complete the Slaughterhouse job on the Death Wish difficulty or above.}}
+{{Achievement|Pork Royale|png|In the Slaughterhouse job, find the marked pig, secure it in the container and then finish the heist on OVERKILL or above.<br>''{{color|negative|From October 24th, 2015, to January 14th, 2016, awarded one [[Safes (Gameplay)|Slaughter safe and drill]].}}''}}
+{{Achievement|I Want to Get Away|png|Jump. Unlocks the [[Masks (Payday 2)#Normal (Achievement)|Funnyman]] mask.}}
+{{Achievement|Bunnyhopping|png|Jump {{color|value|100}} times within {{color|value|30}} seconds. Unlocks the [[Masks (Payday 2)#Normal (Achievement)|No Me Gusta]] mask.}}
+{{Achievement|I Never Asked For This|png|Don't jump a single time during an entire heist. Unlocks the [[Masks (Payday 2)#Normal (Achievement)|Rageface]] mask.}}
+{{Achievement|Jump! Jump! Jump!|png|Finish a heist without it ever going more than {{color|value|4}} seconds between you jumping. Unlocks the [[Masks (Payday 2)#Normal (Achievement)|Dawg]] mask.}}
+|-|Teasers Day 3=
+{{Teasers
+|Helping an
+|Old Friend
+}}
+|-|Teasers Day 6=
+{{Teasers
+|He Was
+|Messing
+|Around
+|In The
+|Server
+|Room
+}}
+|-|Teasers Day 8=
+{{Teasers
+|Boom
+}}
+|-|Teasers Day 9=
+{{Teasers
+|Shazam
+|Alakazam
+|Hocus Pocus
+|Abracadabra
+|Sim Sala Bim
+}}
+|-|Teasers Day 10=
+{{Teasers
+|Open Sesame
+|Paper Planes
+|Envelope
+|Stamp Stamp
+|Pen and Paper and Pen
+}}
+|-|Tips=
+{{Achievement|400 Bucks|png|I may be homeless, but at least I have a sick knife.<br>''{{color|negative|Tie or kill a specific homeless civilian in [[Aftershock]] and take his knife.}}''}}[[File:Knifeciv.jpg|50px|thumb|right]]
+The knife will always be on a hobo that wears a blue hood. The civilian will always run to escape the map, meaning players will have to be quick to tie him down or shoot him.
+
+{{Achievement|Bunnyhopping|png|Jump {{color|value|100}} times within {{color|value|30}} seconds. Unlocks the [[Masks (Payday 2)#Normal (Achievement)|No Me Gusta]] mask.}}
+The achievement can easily be obtained by simply mashing the jump button while standing in a doorway.
+
+{{Achievement|I Never Asked For This|png|Don't jump a single time during an entire heist. Unlocks the [[Masks (Payday 2)#Normal (Achievement)|Rageface]] mask.}}
+This can be accomplished on most maps even in solo, meaning earning this achievement is a simple matter of avoiding jump-requiring shortcuts or ignoring muscle memory if nothing else. Also note that falling off of elevated surfaces does not invalidate the achievement.
+
+Currently, the only map that absolutely requires at least one jump to complete thus impossible to obtain the achievement on is [[Undercover (Payday 2)|Undercover]], where players have to jump to escape to the helicopter.
+
+{{Achievement|Jump! Jump! Jump!|png|Finish a heist without it ever going more than {{color|value|4}} seconds between you jumping. Unlocks the [[Masks (Payday 2)#Normal (Achievement)|Dawg]] mask.}}
+The only heists that do not require interactions equal to or longer than 4 seconds are [[Mallcrasher]], [[Santa's Workshop]], [[White Xmas]], and [[Jewelry Store]] on lower difficulties, meaning one can feasibly solo these heists and get the achievement, the former two provided that the player mask up and jump immediately.
+
+Obviously, entering [[Police Custody#Bleedout|bleedout]] would void the achievement unless revived with [[Inspire]] aced almost immediately.
+|-|Trivia=
+*'''400 Bucks''' is a reference to [https://facepunch.com/showthread.php?t=1489016&p=48924662&viewfull=1#post48924662 one of the level designers who spent $400 USD on a knife] in ''{{w|Counter-Strike: Global Offensive}}''.
+*'''Original Heisters''' is the first achievement to require the specific usage of certain characters, in this case the four original crew members ([[Dallas]], [[Chains]], [[Wolf]], [[Hoxton]]) from the first game.
+*The '''OVERDRILL''' achievement's description references how most heist-related [[achievements]] in ''[[PAYDAY: The Heist]]'' would state "To complete this challenge, you have to have played the heist from the start." at the end of the achievement description, for the [[Challenges|challenge]] would not be considered completed if one joined a game mid-progress, and the achievement would not be awarded.
+*The assembled title of [[First World Bank (Payday 2)|PAYDAY 2 First World Bank's]] teaser achievements forms a part of one of the [[Minor characters#Bank manager|Bank Manager's]] most memorable quotes from the original heist (''"...he was messing around in the server room..."'').
+*'''But How?''' is an [[Slaughterhouse/Walkthrough#Unique achievements|achievement]] from the first game.
+*'''I Never Asked For This''' is a likely reference to ''{{w|Deus Ex: Human Revolution}}'' where it is a memorable quote from the game's protagonist [[w:c:deusex:Adam Jensen|Adam Jensen]] when asked for his opinions on the transhuman augmentations he received.
+</tabber>
+
+==Halloween Event 2015==
+<tabber>Permanent Achievements=
+{{Achievement|Skill Shot|png|In the Lab Rats job, secure a bag in the secret area. Unlocks the "[[Masks (Payday 2)#Halloween Event|Invader]]" mask.}}
+{{Achievement|Trick or Treat!|png|In the Lab Rats job, complete the Cloaker event on OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#Halloween Event|Satan]]" mask.}}
+{{Achievement|Not Scary Enough|png|Complete the [[Lab Rats]] job on the Death Wish difficulty or above.}}
+|-|Teasers=
+''The following appeared on October 28, 2015.''
+{{Teasers
+|Trick
+|Treat
+}}
+''The Or teaser achievement was added to previously released teasers on October 29, 2015. They were replaced on October 29, 2015.''
+{{Teasers
+|Trick
+|Treat
+|Or
+}}
+</tabber>
+
+==The Point Break Heists==
+{{/The Point Break Heists}}
+
+==Christmas Event 2015==
+{{/Santa Workshop}}
+
+==Update #93==
+{{Achievement|We Do It Live!|jpg|Complete all days of the [[Framing Frame]] job on the OVERKILL difficulty or above with each crew member using no skills, wearing [[Armors#Two-Piece Suit|suits]], wielding [[Platypus 70]] sniper rifles and [[The Judge|Judge]] shotguns.<br>{{color|negative|''From December 17th, 2015, to January 14th, 2016, awarded one [[Safes (Gameplay)|Christmas safe and drill]].''}}}}
+
+==Goat Simulator Heist==
+{{/Goat Simulator}}
+
+==Hotfix 94.2==
+<tabber>Permanent Achievement=
+{{Achievement|You Can Run, but Not Hide|jpg|Find and secure the goat in the [[Firestarter]] heist on the OVERKILL difficulty or above.<br>{{color|negative|''From January 27, 2016, to June 2, 2016, awarded one [[Safes (Gameplay)|Goat safe and drill]].''}}}}
+|-|Teaser=
+''The following appeared on January 26, 2016. They were replaced on January 27, 2016.''
+{{Achievement|Server Shenanigans}}
+</tabber>
+
+==Wolf Pack==
+{{/Wolf Pack}}
+
+==Hotfix 95.1==
+''Note: This achievement was removed from the game on October 5, 2016.''
+{{Achievement|Pro Goat|jpg|Complete the [[Goat Simulator]] pro job on the Death Wish difficulty.}}
+
+==Hardcore Henry Heists==
+{{/Hardcore Henry}}
+
+==Hotfix 97.4==
+<tabber>Permanent Achievements=
+{{Achievement|Saint Francis|jpg|Complete the [[Bank Heist]] job after finding the 2 punks in the parking lot and bringing them next to the van, without letting them get away or die on the OVERKILL difficulty or above.<br>{{color|negative|''Can also be done on [[Firestarter]] Day 3.''}}}}
+{{Achievement|High Times|jpg|In [[The Bomb: Dockyard]] job, cook 2 bags of meth and secure them.}}
+{{Achievement|Looting in the Dark|jpg|Complete the [[Murky Station]] job by finding and securing all loot without killing anyone on the OVERKILL difficulty or above.}}
+{{Achievement|Mellon|jpg|In the [[Birth of Sky]] job, find all 9 rings.}}
+{{Achievement|Kiss the Chef|jpg|In the [[Cook Off]] job, cook 25 bags of meth on the OVERKILL difficulty or above.}}
+|-|Teasers=
+''The following appeared on April 19, 2016.''
+{{Teasers|
+A Criminal|
+Always Returns|
+To The|
+Scene Of|
+The Crime
+}}
+|-|Tips=
+{{Achievement|Mellon|jpg|In the [[Birth of Sky]] job, find all 9 rings.}}
+The rings only spawn in the buildings and have 31 (of which 30 known) spawn locations. For their exact locations, consult [http://steamcommunity.com/sharedfiles/filedetails/?id=670085047 this guide].
+|-|Trivia=
+*'''Saint Francis''' is apparently a mission given by [[John Wick]], with most of [[Bain]]'s lines regarding the achievement referencing John Wick. Wick, from Bain's lines, wants the two punks required for the achievement to be brought to the [[Safe House]] so he can torture them, on the grounds of them having abused a dog, evidenced by the achievement icon and its [[Side Jobs#Daily Side Jobs|Side Job]] description.
+**If the punks are killed mid-heist, Bain will say that Wick will be disappointed that he couldn't take care of them himself, bizarrely even if John Wick is the one who killed them.
+**Even though it's heavily implied that John Wick will torture and kill them after the heist and most if not all of the player characters and Bain show disgust for them, killing the two at the bank will impose the usual cleaner penalty.
+*'''High Times''' is a [[wikipedia:High Times|magazine devoted to the publication of cannabis]]. It's also a pun on "high tides".
+*'''Mellon''' is a reference to ''[[wikipedia:The Lord of the Rings|The Lord of the Rings]]'', the rings based on the [[wikipedia:Rings of Power|Rings of Power]]. Without the [[Cleaner]] skill aced, they're worth $1,954, the year ''The Lord of the Rings'' came out, and having to acquire 9 rings is a reference to how 9 of the Rings of Power were intended for man. On the rings are [[wikipedia:Elvish languages (Middle-earth)|Elvish]] inscriptions reading "One gang to rule them all in the hunt for riches and glory," referencing the inscription on the [[wikipedia:One Ring|One Ring]], "One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them." Additionally, "mellon" is the Elvish word for "friend", and the ring assets in the files are named "material_onering".
+</tabber>
+
+==The Biker Heist==
+{{/The Biker Heist}}
+
+==Hoxton's Housewarming Party Day 1==
+{{/HHPDay1}}
+
+==Hoxton's Housewarming Party Day 10==
+{{/Panic Room}}
+
+==John Wick Weapon Pack==
+{{/JW Weapon Pack}}
+
+==Halloween Event 2016==
+{{/Prison Nightmare}}
+
+==Gage Spec Ops Pack==
+{{/Gage Spec Ops Pack}}
+
+==Christmas Event 2016==
+{{/Stealing Xmas}}
+
+==Scarface Heist==
+{{/Scarface Mansion}}
+
+==John Wick Heists Pack==
+{{/John Wick Heists}}
+
+==Gage Russian Weapon Pack==
+{{/Gage Russian Weapon Pack}}
+
+==The Search for Kento==
+<tabber>Achievements=
+{{Achievement|We Don't Need No Water|png|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Mayhem difficulty or above.}}
+{{Achievement|Running the Gauntlet|png|Complete the Heat Street job on the Death Wish difficulty or above.}}
+{{Achievement|Hills Street Blues|png|Complete the Heat Street job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Zookeeper|png|On the Heat Street job, find and steal all animal posters and escape.}}
+{{Achievement|Patience Is Key|png|Complete the Heat Street job without using any gas cans.}}
+{{Achievement|Its Nice To Be Nice|png|Complete the Heat Street job without killing any [[civilian]]s on the Hard difficulty or above.}}
+{{achievement|Indulge in Crime|png|Reach rank 50 in the Crime Spree.}}
+{{achievement|Revel in Criminal Activity|png|Reach rank 100 in the Crime Spree.}}
+{{achievement|A Vast Amount of Unlawful Transgressions|png|Reach rank 250 in the Crime Spree.<br>{{color|negative|''Unlocks the [[Masks (Payday 2)#The Search for Kento|Mega Rust]] mask.''}}}}
+{{Achievement|Jack the Ripper's Prison Slippers!|png|Complete the [[Green Bridge (Payday 2)|Green Bridge]] job on the Mayhem difficulty or above.}}
+{{Achievement|Jack Rabbit Parole|png|Complete the Green Bridge job on the Death Wish difficulty or above.}}
+{{Achievement|Beat the Shield|png|Complete the Green Bridge job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|I Felt Bad For Him|png|On the Green Bridge job, leave a [[Doctor bag (Payday 2)|doctor bag]] for the dead man in a suit.}}
+{{Achievement|Caution! Wet Floors|png|On the Green Bridge job, on the OVERKILL difficulty or above finish the heist having never touched the ground while escorting the convict from the van to the scaffolding.}}
+{{Achievement|Back to Prison|png|On the Green Bridge job, free and then zip-tie all extra prisoners from the prison vans. You need to have played from the start.}}
+|-|Teasers=
+''The following got added on April 3, 2017. They were replaced on April 4, 2017.''
+{{Teasers|
+Speed|
+Is|
+The|
+Essence|
+Of|
+War|
+}}
+''The following appeared on April 5, 2017, and were replaced the same day.''
+{{Achievement|Oh shiiiittt||NEW_ACHIEVEMENT_DESC_2081_8}}
+{{Achievement|Cloaker!!||NEW_ACHIEVEMENT_DESC_2081_9}}
+{{Achievement|wululululULULULULU!||NEW_ACHIEVEMENT_DESC_2081_10}}
+''The achievements above were given proper descriptions after initially being added. They were replaced on April 6, 2017.''
+{{Achievement|Oh shiiiittt||Oh shiiiittt}}
+{{Achievement|Cloaker!!||Cloaker!!}}
+{{Achievement|wululululULULULULU!||wululululULULULULU!}}
+''The following appeared on April 11, 2017. They were replaced on April 12, 2017.''
+{{Teasers|
+Friends|
+Are|
+Known|
+First|
+In|
+Hardships|
+}}
+|-|Tips=
+{{Achievement|Zookeeper|png|On the [[Heat Street (Payday 2)|Heat Street]] job, find and steal all animal posters and escape.}}
+There are 8 animal posters throughout the heist. For their exact locations, consult [http://steamcommunity.com/sharedfiles/filedetails/?id=898647051 this guide].
+|-|Trivia=
+*'''Speed Is The Essence Of War''' is quote by {{W|Sun Tzu}}.
+</tabber>
+
+==Enter the Gungeon==
+<tabber>Achievements=
+{{Achievement|The Only One That Is True|jpg|In the [[Bank Heist]] or the [[Jewelry Store]] Jobs, find and pick up the {{color|value|five}} hidden Bullet Trophies. Unlocks “[[Masks (Payday 2)#Enter the Gungeon|The Bullet]]” mask.}}
+{{Achievement|The One That Had Many Names|jpg|In the [[Shadow Raid]] or the [[First World Bank (Payday 2)|First World Bank]] Jobs, find and pick up the {{color|value|five}} hidden Robot Trophies. Unlocks "[[Masks (Payday 2)#Enter the Gungeon|The Robot]]” mask.}}
+{{Achievement|The One That Survived|jpg|In the [[GO Bank]] or the [[Four Stores]] Jobs, find and pick up the {{color|value|five}} hidden Marine Trophies. Unlocks “[[Masks (Payday 2)#Enter the Gungeon|The Marine]]” mask.}}
+{{Achievement|The One Who Declared Himself the Hero|jpg|In the [[Hoxton Breakout]] Day 1 Heist or the [[Diamond Store]] Job, find and pick up the {{color|value|five}} hidden Cultist Trophies. Unlocks “[[Masks (Payday 2)#Enter the Gungeon|The Cultist]]” mask.}}
+|-|Teaser=
+''The following got added on October 5, 2017. They were replaced the same day.''
+{{Teasers|
+When|
+The|
+Bullets|
+Fly
+}}
+|-|Tips=
+The trophies only spawn once per heist, necessitating playing them multiple times to unlock their achievements. However, they are counted towards the achievements immediately, so the players can simply find the heist's trophy, restart, and repeat.
+
+The trophies spawn in several different locations, marked in [http://steamcommunity.com/sharedfiles/filedetails/?id=1158889307 this guide]. Notably, one of the Bullet Trophy spawns in [[Jewelry Store]] is on the vantage point, so unless the player(s) owns the [[Gage Sniper Pack]] and purchases the vantage point asset every time, more than 5 restarts may be necessary for the achievement.
+</tabber>
+
+==Locke and Load==
+<tabber>Day 3=
+{{/LnLDay3}}
+|-|Day 5=
+{{/AlaskanDeal}}
+|-|Day 9=
+{{/DiamondHeist}}
+|-|Teasers=
+''The following teasers were added on October 20, 2017 and changed over the course of the event, being removed on October 27. The teasers are slightly altered/reordered text from the {{w|Red herring}} article on {{w|Wikipedia}}.''
+{{#tag:tabber|Day 2=
+{{Achievement|A red herring||A red herring}}
+{{Achievement|literary device that||literary device that}}
+{{Achievement|leads readers or||leads readers or}}
+{{Achievement|audiences towards a||audiences towards a}}
+{{Achievement|false conclusion.||false conclusion.}}
+{{Achievement|is something that||is something that}}
+{{Achievement|misleads or distracts||misleads or distracts}}
+{{Achievement|from a relevant||from a relevant}}
+{{Achievement|or important issue.||or important issue.}}
+{{Achievement|It may be||It may be}}
+{{Achievement|either a logical||either a logical}}
+{{Achievement|fallacy or||fallacy or}}
+{{!}}-{{!}}Day 3=
+{{Achievement|A red herring||A red herring}}
+{{Achievement|is something that||is something that}}
+{{Achievement|misleads or distracts||misleads or distracts}}
+{{Achievement|from a relevant||from a relevant}}
+{{Achievement|or important issue.||or important issue.}}
+{{Achievement|It may be||It may be}}
+{{Achievement|a logical fallacy||a logical fallacy}}
+{{Achievement|or a literary device||or a literary device}}
+{{Achievement|that leads readers||that leads readers}}
+{{Achievement|towards a false conclusion.||towards a false conclusion.}}
+{{!}}-{{!}}Day 5=
+{{Achievement|A red herring||A red herring}}
+{{Achievement|is something that||is something that}}
+{{Achievement|misleads or distracts||misleads or distracts}}
+{{Achievement|from a relevant||from a relevant}}
+{{Achievement|or important issue.||or important issue.}}
+{{Achievement|It may be||It may be}}
+{{Achievement|a logical fallacy||a logical fallacy}}
+{{Achievement|towards a false conclusion.||towards a false conclusion.}}
+{{Achievement|or a literary device||or a literary device}}
+{{Achievement|that leads readers||that leads readers}}
+}}
+</tabber>
+
+==Reservoir Dogs==
+{{/Reservoir Dogs}}
+
+==Christmas Event 2017==
+{{/Brooklyn Bank}}
+
+==Death Sentence==
+{{/DeathSentence}}
+
+==Update #174==
+<tabber>Permanent Achievements=
+''The following were added on March 15, 2018 to separate the baby mask achievements from the difficulty completion ladder, with the original achievements being renamed.''
+{{Achievement|First Nightmare|jpg|Complete the [[Safe House Nightmare]] on the Normal difficulty or above.}}
+{{Achievement|Second Nightmare|jpg|Complete the [[Safe House Nightmare]] on the Hard difficulty or above.}}
+{{Achievement|Third Nightmare|jpg|Complete the [[Safe House Nightmare]] on the Very Hard difficulty or above.}}
+{{Achievement|Fourth Nightmare|jpg|Complete the [[Safe House Nightmare]] on the Overkill difficulty or above.}}
+|-|Teasers=
+''The following were added on March 8, 2018 and replaced on March 15.''
+{{Achievement|Some things||Some things}}
+{{Achievement|keep you||keep you}}
+{{Achievement|up at||up at}}
+{{Achievement|night||night}}
+</tabber>
+
+==Spring Break 2018==
+<tabber>Day 1=
+{{/Breakin' Feds}}
+|-|Day 3=
+{{/TSIRRDay3}}
+|-|Day 7=
+{{/Henry's Rock}}
+|-|Teasers=
+''The following were added on March 20, 2018. They got removed on March 29, 2018 without being replaced by actual achievements. The teasers are text taken from the {{w|Wikipedia}} article "{{w|List of conspiracy theories}}".''
+{{Achievement|Many||Many}}
+{{Achievement|unproven||unproven}}
+{{Achievement|with||with}}
+{{Achievement|varying||varying}}
+{{Achievement|degrees of||degrees of}}
+{{Achievement|frequently||frequently}}
+{{Achievement|related||related}}
+{{Achievement|to||to}}
+{{Achievement|clandestine||clandestine}}
+{{Achievement|government||government}}
+{{Achievement|plans||plans}}
+{{Achievement|and||and}}
+{{Achievement|elaborate||elaborate}}
+{{Achievement|murder||murder}}
+{{Achievement|plots.||plots.}}
+{{Achievement|These||These}}
+{{Achievement|theories||theories}}
+{{Achievement|usually||usually}}
+{{Achievement|deny||deny}}
+{{Achievement|consensus or||consensus or}}
+{{Achievement|cannot be||cannot be}}
+{{Achievement|proven||proven}}
+{{Achievement|using||using}}
+{{Achievement|the historical||the historical}}
+{{Achievement|or scientific||or scientific}}
+{{Achievement|method.||method.}}
+{{Achievement|The theories||The theories}}
+{{Achievement|is||is}}
+{{Achievement|often||
+{{Achievement|considered||considered}}
+{{Achievement|the||the}}
+{{Achievement|institutional||institutional}}
+{{Achievement|analysis.||analysis.}}
+</tabber>
+
+==Shacklethorne Auction==
+{{/ICEBREAKER}}
+
+==CrimeFest 2018==
+<tabber>Hell's Island=
+{{/Hell's Island}}
+|-|No Mercy=
+{{/No Mercy}}
+|-|White House=
+{{/The White House}}
+|-|Day 8=
+{{/BKDay8}}
+|-|Teasers=
+''The following were added on October 23, 2018.''
+{{Achievement|He that||He that}}
+{{Achievement|fights and run||fights and run}}
+{{Achievement|away, may||away, may}}
+{{Achievement|turn and fight||turn and fight}}
+{{Achievement|another day;||another day;}}
+{{Achievement|but he that||but he that}}
+{{Achievement|is in battle||is in battle}}
+{{Achievement|slain,||slain,}}
+{{Achievement|will never||will never}}
+{{Achievement|rise to||rise to}}
+{{Achievement|fight again.||fight again.}}
+{{Achievement|Here's||Here's}}
+{{Achievement|a few||a few}}
+{{Achievement|more||more}}
+{{Achievement|that||that}}
+{{Achievement|I've||I've}}
+{{Achievement|managed||managed}}
+{{Achievement|to recover.||to recover.}}
+{{Achievement|No idea||No idea}}
+{{Achievement|what they||what they}}
+{{Achievement|mean||mean}}
+{{Achievement|but...||but...}}
+{{Achievement|A few times||A few times}}
+{{Achievement|every year,||every year,}}
+{{Achievement|there are||there are}}
+{{Achievement|some jobs||some jobs}}
+{{Achievement|that pop up,||that pop up,}}
+{{Achievement|where you'll||where you'll}}
+{{Achievement|meet so||meet so}}
+{{Achievement|many skulls||many skulls}}
+{{Achievement|that you||that you}}
+{{Achievement|think it||think it}}
+{{Achievement|was made up.||was made up.}}
+{{Achievement|This should||This should}}
+{{Achievement|be sufficant||be sufficant}}
+{{Achievement|to help||to help}}
+{{Achievement|you on||you on}}
+{{Achievement|your quest.||your quest.}}
+{{Achievement|For now||For now}}
+{{Achievement|the search||the search}}
+{{Achievement|for Baldwin||for Baldwin}}
+{{Achievement|continues,||continues,}}
+
+But it's SUPPOSED to Read:
+{{Teasers
+|He that
+|fights and run
+|away, may
+|turn and fight
+|another day;
+|but he that
+|is in battle
+|slain,
+|will never
+|rise to
+|fight again.
+|we have to.
+|Here's
+|a few
+|more
+|that
+|I've
+|managed
+|to recover.
+|No idea
+|what they
+|mean
+|but...
+|This should
+|be sufficant
+|to help
+|you on
+|your quest.
+|For now
+|the search
+|for Baldwin
+|continues,
+|A few times
+|every year,
+|there are
+|some jobs
+|that pop up,
+|where you'll
+|meet so
+|many skulls
+|that you
+|think it
+|was made up.
+}}
+|-|Trivia=
+*The teasers are text from [[The Guide of Bain]].
+</tabber>
+==Border Crossing Heists==
+<tabber>Border Crossing=
+{{/Border Crossing}}
+|-|Border Crystals=
+{{/Border Crystals}}
+</tabber>
+==San Martín Bank==
+{{/San Martín Bank}}
+
+==Breakfast in Tijuana==
+{{/Breakfast in Tijuana}}
+
+==Buluc's Mansion==
+{{/Buluc's Mansion}}
+
+==Infamy 3.0==
+{{/Infamy 3.0}}
+
+==Dragon Heist==
+{{/Dragon Heist}}
+
+==The Ukrainian Prisoner==
+{{/The Ukrainian Prisoner}}
+
+==Black Cat==
+{{/Black Cat}}
+
+==Mountain Master==
+{{/Mountain Master}}
+
+==McShay Weapon Pack==
+{{/McShay Weapon Pack}}
+
+==Midland Ranch Heist==
+{{/MidlandRanch}}
+
+==McShay Weapon Pack 2==
+{{/McShay Weapon Pack 2}}
+
+==Lost In Transit==
+{{/Lost In Transit}}
+
+==Hostile Takeover==
+{{/Hostile Takeover}}
+
+==Crude Awakening==
+{{/Crude Awakening}}
+
+==Under the Hammer==
+{{/Under the Hammer}}
+
+{{Navbox PAYDAY 2}}
+[[Category:PAYDAY 2]]
+[[Category:Armored Transport DLC]]
+[[Category:Gage Weapon Pack 01 DLC]]
+[[Category:Gage Weapon Pack 02 DLC]]
+[[Category:Gage Sniper Pack DLC]]
+[[Category:The Big Bank Heist DLC]]
+[[Category:Gage Shotgun Pack DLC]]
+[[Category:Hotline Miami DLC]]
+[[Category:Gage Assault Pack DLC]]
+[[Category:Gage Mod Courier DLC]]
+[[Category:Gage Historical Pack DLC]]
+[[Category:The Diamond Heist DLC]]
+[[Category:The Bomb Heists DLC]]
+[[Category:The Butcher's AK/CAR Mod Pack DLC]]
+[[Category:The OVERKILL Pack DLC]]
+[[Category:The Butcher's BBQ Pack DLC]]
+[[Category:The Butcher's Western Pack DLC]]
+[[Category:The Alesso Heist DLC]]
+[[Category:The Golden Grin Casino Heist DLC]]
+[[Category:Gage Ninja Pack DLC]]
+[[Category:Gage Chivalry Pack DLC]]
+[[Category:The Point Break Heists DLC]]
+[[Category:The Goat Simulator Heist DLC]]
+[[Category:PAYDAY 2 Wolf Pack]]
+[[Category:Hardcore Henry Heists]]
+[[Category:The Biker Heist DLC]]

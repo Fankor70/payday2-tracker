@@ -1,0 +1,117 @@
+<tabber>Permanent Achievements=
+{{Achievement|Compact Confrontation|jpg|Kill a [[Sniper (Payday 2)|Sniper]] from a distance of {{color|value|40}} meters with the [[Compact 40mm]] Grenade Launcher.}}
+{{Achievement|Human Sentry Gun|jpg|Kill {{color|value|20}} enemies with a Light Machine Gun while using the bipod without un-deploying.}}
+{{Achievement|Denied|jpg|Destroy {{color|value|30}} flashbangs before they detonate.}}
+{{Achievement|Hipster|jpg|Complete a day of any heist in loud without ever aiming down the sights of your weapons.}}
+{{Achievement|I Will Succeed With Dignity|jpg|In the [[Shadow Raid]] job, complete the heist without using any [[Pre-Planning|pre-planning]] favors on OVERKILL difficulty or above.}}
+{{Achievement|Just Shut up and Take My Money!|jpg|On day 1 of the [[Reservoir Dogs Heist|Reservoir Dogs]] job, hit the cashier in the Garnet Group boutique with the [[Money Bundle]] melee weapon.}}
+{{Achievement|Golden Grin Anonymous|jpg|Spend at least a ${{color|value|1,000,000,000}}{{sic}} in the [[Payday (Gameplay)#Cards and Offshore account|Offshore Payday]].}}
+{{Achievement|Why?|jpg|In the [[Counterfeit (Payday 2)|Counterfeit]] job, place a body bag on the grill.}}
+{{Achievement|Quick Draw|jpg|In the [[Panic Room (Payday 2)|Panic Room]] job, kill all gangsters within {{color|value|60}} seconds after masking up on the OVERKILL difficulty or above.}}
+{{Achievement|Federal Assurance|jpg|In the [[First World Bank (Payday 2)|First World Bank]] job, kill all Bulldozers in the vault within {{color|value|30}} seconds after jumping down the hole.}}
+{{Achievement|Silver Tongue|jpg|On day 1 of the [[Reservoir Dogs Heist|Reservoir Dogs]] job, [[Joker|convert]] the cashier in the Garnet Group boutique to fight for you.}}
+{{Achievement|I'm Sure No One Heard That|jpg|On the [[Ukrainian Job]], finish the heist in stealth after triggering the alarm with the metal detectors.}}
+{{Achievement|Remember, No Russian|jpg|In the [[Boiling Point]] job, scan all {{color|value|4}} bodies without letting the mercenaries turn off the power or stop the scanner on the OVERKILL difficulty or above.}}
+{{Achievement|The Safe Words are Police Brutality and Irony|jpg|Kill a [[Cloaker (Payday 2)|Cloaker]] with the [[Telescopic Baton]].}}
+{{Achievement|C-40|jpg|In a single day of any job, place at least {{color|value|40}} [[Trip mine (Payday 2)|trip mines]].}}
+{{Achievement|Damn it, Bile...|jpg|On day 2 of the [[Big Oil]] job, have Bile trigger the alarm.}}
+{{Achievement|Van Gogh to Hell|jpg|In the [[Art Gallery]] heist, throw a painting onto a toilet.<br>''{{color|negative|Also works on [[Framing Frame]] Day 1.}}''}}
+{{Achievement|Draganborn|jpg|In the [[Safe House]], hit the punching bag in [[Dragan]]'s gym for over {{color|value|500}} points in a single hit.}}
+{{Achievement|Masterpiece|jpg|In the [[Art Gallery]] heist, secure all paintings in stealth without killing any security guards.<br>''{{color|negative|Also works on [[Framing Frame]] Day 1.}}''}}
+{{Achievement|Say Hello To My Halloween Friend!|jpg|In the [[Cursed Kill Room]] job, Acquire all 7 "Deadly Sins" masks.}}
+{{Achievement|Faster! Faster! I can do it faster!|jpg|In the [[Cursed Kill Room]] job, open at least {{color|value|6}} safes in a single run on the Very Hard difficulty or above.}}
+{{Achievement|Matrix With Lasers|jpg|In [[the Big Bank]] job, open the vault by using the "Beast" drill and escape using the C4 Tunneling asset without killing any [[Sniper (Payday 2)|snipers]] on Death Wish difficulty or above.<br>''{{color|negative|Does not require drilling. Snipers behind the C4 tunnel wall can be killed without failing this achievement.}}''}}
+{{Achievement|I Feel Like Robin Hood!|jpg|Complete the [[Undercover]] job with every crew member using only a bow without any modifications on OVERKILL difficulty or above.<br>''{{color|negative|Crossbows not allowed, limiting options to the [[Plainsrider Bow]] and [[English Longbow]].}}''}}
+{{Achievement|A Junkyard Full Of Junkies|jpg|On day 1 of the [[Big Oil]] job, kill all of the bikers within {{color|value|1}} minute of the heist starting.}}
+{{Achievement|Down Payment|jpg|On the [[First World Bank (Payday 2)|First World Bank]] job, kill the bank manager with the [[Money Bundle]] melee weapon.}}
+{{Achievement|Watch The Power Switch!|jpg|On day 2 of the [[Hoxton Breakout]] job, don't let the cops turn off the power while [[Hoxton]] is in the server room on the OVERKILL difficulty or above.}}
+{{Achievement|Global Warming|jpg|Complete the [[Alaskan Deal]] job with all crew members using only [[Flamethrower Mk.1|Flamethrowers]].<br>''{{color|negative|Cannot be obtained with the [[MA-17 Flamethrower]].}}''}}
+{{Achievement|Virus|jpg|Play a heist together with a player who has this achievement on your crew.}}
+{{Achievement|Snipe This!|jpg|Kill a [[Sniper (Payday 2)|Sniper]] with a melee weapon.}}
+{{Achievement|The Raid Gang|jpg|Complete the [[Safe House Raid]] job and don't let the cops pick up any bags on the Death Wish difficulty or above.<br>''{{color|negative|Enemies are allowed to pick up the bags, but not carry them off-map.}}''}}
+{{Achievement|One Man Army|jpg|Complete any job in loud on your own on the OVERKILL difficulty or above.<br>''{{color|negative|For clarity, this means no [[Crew AI]].}}''}}
+{{Achievement|WULULULULU--BZZZT!!!|jpg|Stop a charging [[Cloaker (Payday 2)|Cloaker]] with either the [[Buzzer]] or [[Electrical Brass Knuckles]] melee weapons.<br>''{{color|negative|Stopping them with the [[Counterstrike]] skill does not count.}}''}}
+{{Achievement|Expert Landing|jpg|In the [[Birth of Sky]] job, have all players land on the roof of any building, car or other structure and together get {{color|value|200}} kills before ever touching the ground on Death Wish difficulty or above<br>''{{color|negative|[[Crew AI]] will not void this achievement if they are on the ground, nor will they ever add to the kill count.}}''}}
+{{Achievement|Lieutenant Colonel|jpg|[[Joker|Convert]] {{color|value|300}} enemies to fight for you.}}
+{{Achievement|Drive By|jpg|Kill {{color|value|10}} enemies while in the passenger seat of a [[Vehicles|vehicle]].<br>''{{color|negative|This can also be obtained while in the driver's seat, as long as the kills are made with a weapon and not the vehicle itself.}}''}}
+{{Achievement|A Tazed of Your Own Medicine|jpg|Kill a [[Taser (Payday 2)|Taser]] with either the [[Buzzer]] or [[Electrical Brass Knuckles]] melee weapons.}}
+|-|Teasers=
+''The following teasers were added on April 18, 2018, and replaced April 25, 2018.''
+{{Achievement|In criminal law,||In criminal law,}}
+{{Achievement|a conspiracy is||a conspiracy is}}
+{{Achievement|an agreement||an agreement}}
+{{Achievement|between two||between two}}
+{{Achievement|or more persons||or more persons}}
+{{Achievement|to commit||to commit}}
+{{Achievement|a crime||a crime}}
+{{Achievement|at some time||at some time}}
+{{Achievement|in the future.||in the future.}}
+{{Achievement|Criminal law in some||Criminal law in some}}
+{{Achievement|countries||countries}}
+{{Achievement|or for some||or for some}}
+{{Achievement|conspiracies||conspiracies}}
+{{Achievement|may require||may require}}
+{{Achievement|that at least one||that at least one}}
+{{Achievement|overt act||overt act}}
+{{Achievement|be undertaken||be undertaken}}
+{{Achievement|in furtherance||in furtherance}}
+{{Achievement|of that agreement,||of that agreement,}}
+{{Achievement|to constitute||to constitute}}
+{{Achievement|an offense.||an offense.}}
+{{Achievement|There is||There is}}
+{{Achievement|no limit||no limit}}
+{{Achievement|on the number||on the number}}
+{{Achievement|participating||participating}}
+{{Achievement|in the conspiracy||in the conspiracy}}
+{{Achievement|and, in most||and, in most}}
+{{Achievement|countries,||countries,}}
+{{Achievement|no requirement||no requirement}}
+{{Achievement|that any steps||that any steps}}
+{{Achievement|steps||steps}}
+{{Achievement|have been||have been}}
+{{Achievement|taken||have been}}
+{{Achievement|to put||to put}}
+{{Achievement|the plan||the plan}}
+{{Achievement|into effect.||into effect.}}
+|-|Guides=
+{{Achievement|I Feel Like Robin Hood!|jpg|Complete the [[Undercover]] job with every crew member using only a bow without any modifications on OVERKILL difficulty or above.}}
+{{Achievement|Global Warming|jpg|Complete the [[Alaskan Deal]] job with all crew members using only [[Flamethrower Mk.1|Flamethrowers]].}}
+
+The achievements cannot be obtained with [[Crew AI]], but the usage of [[Sentry gun (Payday 2)|sentry guns]] and [[Joker|converts]] are allowed. These are especially recommended for the latter achievement, as the Flamethrower cannot hit [[Sniper (Payday 2)|Snipers]] in any of their perches.
+
+|-|Trivia=
+*The teasers are text taken from the {{w|Wikipedia}} article on {{w|Conspiracy (criminal)|criminal conspiracies}}.
+*The achievements were suggested by the ''PAYDAY 2'' community, and are labeled as such in the in-game achievement menu. Most of the achievements can traced to posts on the [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/ Achievement Suggestion Thread 2.0], [https://steamcommunity.com/app/218620/discussions/10/38596748262580554/ Achievement Ideas for PAYDAY 2 that OVERKILL should consider.], and [https://steamcommunity.com/app/218620/discussions/8/412447613566905920/ Community Achievement?] threads, with the exceptions of '''Why?''', '''Van Gogh to Hell''', and '''Draganborn'''.
+**The achievements suggested by players are as follows:
+***[https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1621724915785312051 '''Compact Confrontation''', '''One Man Army'''], and '''[https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1489987634006739165 The Raid Gang]''' by Rickens
+***'''Human Sentry Gun''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c350542145708178424 HandOfKane]
+***'''Denied''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c358415738207754600 Jones]
+***'''Hipster''' by [https://steamcommunity.com/app/218620/discussions/8/412447613566905920/ Ain’t Canc3r]
+***'''[https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c364043054109453670 I Will Succeed With Dignity]''' and '''[https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c154645497345708748 Federal Assurance]''' by Robo-Tavia Memory
+***'''Just Shut up and Take My Money!''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1621724915785195595 Z3r0_]
+***'''Golden Grin Anonymous''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c350541595110238848 The Least Interesting Chibi…]
+***'''Quick Draw''' and '''Remember, No Russian''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c154642447920818374 GZ1]
+***'''Silver Tongue''', '''The Safe Words Are Police Brutality and Irony''', '''C-40''', and '''Damn It, Bile...''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c364043054116480470 Not Here for Fortune or Fame]
+***'''I’m Sure No One Heard That''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c364043054114998827 Silver]
+***'''Masterpiece''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c144512748166993453 <nowiki>[RAIDING]</nowiki> CAS]
+***'''Say Hello To My Halloween Friend!''' and '''Faster! Faster! I can do it faster!''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1480982338967100439 Moe ChiaKi]
+***'''Matrix With Lasers''', '''Expert Landing''', and '''Lieutenant Colonel''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1480982338967100439 Blue Screen of Death]
+***'''I Feel Like Robin Hood!''' by [https://steamcommunity.com/app/218620/discussions/8/412447613566905920/#c412448792356145883 SPICY MEMER]
+***'''A Junkyard Full Of Junkies''' by [https://steamcommunity.com/app/218620/discussions/10/38596748262580554/ Xander]
+***'''Down Payment''' by [https://steamcommunity.com/app/218620/discussions/10/38596748262580554/#c35219681582557358 Twitch]
+***'''Watch the Power Switch!''' by [https://steamcommunity.com/app/218620/discussions/8/412447613566905920/#c412447613568005350 Archwraith]
+***'''Global Warming''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1480982338943128106 DatMageDoe]
+***'''Virus''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1369506834141617956 DJ Raptor]
+***'''Snipe This!''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1457328846184488864 lancer1280]
+***'''WULULULULU--BZZZT!!!''' by [https://steamcommunity.com/app/218620/discussions/8/412447613566905920/#c412448158146814514 PAY4CRASH2]
+***'''Drive By''' by [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c1327844097116966863 Captain Space Dust]
+***'''A Tazed of Your Own Medicine''' is a combination of suggestions by [https://steamcommunity.com/app/218620/discussions/8/412447613566905920/ Ain’t Canc3r] and [https://steamcommunity.com/app/218620/discussions/10/364042703858536021/#c154642447920818374 GZ1]
+**Despite Spring Break 2015 Side Job achievements, Locke and Load difficulty achievements, and Death Sentence update achievements also having been suggested by the community, they are not labeled as such in the in-game achievement menu.
+*'''Just Shut up and Take My Money!''' refers to a [https://knowyourmeme.com/memes/shut-up-and-take-my-money meme] that originated from ''{{w|Futurama}}''.
+*'''Quick Draw''' is an [[Achievements|achievement]] from ''[[PAYDAY: The Heist]]''.
+*'''Remember, No Russian''' refers to a {{w|No Russian|controversial mission}} from ''{{w|Call of Duty: Modern Warfare 2}}''.
+*'''Draganborn''' is a small meme within the ''PAYDAY 2'' community, being a pun on [[Dragan]] and the [[w:c:elderscrolls:Dragonborn (Lore)|Dragonborn]] from ''{{w|The Elder Scrolls}}'' series.
+*'''Say Hello To My Halloween Friend!''' is a reference to the [https://www.youtube.com/watch?v=a_z4IuxAqpE final scene] of ''{{w|Scarface (1983 film)|Scarface}}''.
+**The icon appears to depict the mask of {{w|Ghostface (Scream)|Ghostface}} from the {{w|Scream (franchise)|''Scream'' franchise}}.
+</tabber>
+[[Category:PAYDAY 2]]

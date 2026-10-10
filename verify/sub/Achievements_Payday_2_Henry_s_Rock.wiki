@@ -1,0 +1,43 @@
+<tabber>Permanent Achievements=
+{{Achievement|Sand in Your Shoes|jpg|Complete the [[Henry's Rock]] job on the Normal difficulty or above.}}
+{{Achievement|Murkywater's Lost and Found Department|jpg|Complete the [[Henry's Rock]] job on the Hard difficulty or above.}}
+{{Achievement|Kicked a Tumbleweed|jpg|Complete the [[Henry's Rock]] job on the Very Hard difficulty or above.}}
+{{Achievement|Oasis of Bullets|jpg|Complete the [[Henry's Rock]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Prairie Heister|jpg|Complete the [[Henry's Rock]] job on the Mayhem difficulty or above.}}
+{{Achievement|Dust Devil Adventurer|jpg|Complete the [[Henry's Rock]] job on the Death Wish difficulty or above.}}
+{{Achievement|Not in Kansas Anymore|jpg|Complete the [[Henry's Rock]] job on the Death Sentence difficulty.}}
+{{Achievement|Heisting on the Salt Flats|jpg|Complete the [[Henry's Rock]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Hidden Secrets|jpg|You found something really weird.}}
+{{Achievement|The Red Button|jpg|In the [[Henry's Rock]] job, push the red button and escape.}}
+{{Achievement|Boom, Headshot!|jpg|In the [[Henry's Rock]] job, headshot all five test mannequins in the Weapons Lab using a Pistol and/or Akimbo Pistols within 3 seconds.}}
+{{Achievement|Hack This!|jpg|In the Henry's Rock job, destroy the security turrets instead of shutting them down on the OVERKILL difficulty or above.}}
+|-|Teasers=
+''The following teasers were added on April 18, 2018, and removed April 29, 2018.''
+{{Achievement|Trespass is||Trespass is}}
+{{Achievement|an area of||an area of}}
+{{Achievement|criminal law||criminal law}}
+{{Achievement|or tort law||or tort law}}
+{{Achievement|broadly||broadly}}
+{{Achievement|divided into||divided into}}
+{{Achievement|three groups||three groups}}
+{{Achievement|trespass to the person||trespass to the person}}
+{{Achievement|trespass to chattels||trespass to the chattels}}
+{{Achievement|and||and}}
+{{Achievement|trespass to land.||trespass to land.}}
+|-|Guides=
+{{Achievement|Hidden Secrets|jpg|You found something really weird.}}
+The achievement requires access to the archaeology lab, so this may take several restarts.
+
+After taking the Box out of the Ark, three buttons can be pressed on the sides of the chest. Pushing the middle, right, and left buttons in that order will reveal "something weird" and unlock the achievement shortly after.
+
+{{Achievement|The Red Button|jpg|In the [[Henry's Rock]] job, push the red button and escape.}}
+This achievement can only be done on the OVERKILL difficulty and above.
+
+There is a button near the main terminal that will close once the terminal is hacked. Press it before hacking the terminal, and two [[SWAT Turret]]s (3 on Mayhem+) will spawn and [[Environmental hazards#Tear gas|tear gas]] will be pumped into the room. Once dealt with, play the heist as normal, and the achievement should be unlocked upon escaping.
+|-|Trivia=
+*The teasers are taken from the {{w|Wikipedia}} article on {{w|trespass}}.
+*'''Kicked a Tumbleweed''' may be a reference to the {{w|10,000 Maniacs}} song [https://www.youtube.com/watch?v=Xc74mXG_gGs The Painted Desert], which contains the verse ''"He kicked a tumbleweed and his mother called him home where the Arizona moon met the Arizona sun."''
+*'''Not in Kansas Anymore''' is a quote from the 1939 film ''{{w|The Wizard of Oz (1939 film)|The Wizard of Oz}}''.
+*'''Boom, Headshot!''' is a [http://knowyourmeme.com/memes/boom-headshot famous quote] from the ''{{w|Pure Pwnage}}'' webseries.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

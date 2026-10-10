@@ -1,0 +1,16 @@
+{{Stub}}
+<tabber>Permanent Achievements=
+{{Achievement|Becoming Masterful|jpg|Reach the fiftieth rank of [[Infamy]].}}
+{{Achievement|Becoming Professional|jpg|Reach the seventy-fifth rank of [[Infamy]].}}
+{{Achievement|Becoming a King Among Thieves|jpg|Reach the hundredth rank of [[Infamy]].}}
+|-|Teasers=
+''The following appeared on PLACEHOLDER. They got replaced on PLACEHOLDER.''
+{{Teasers
+|PLACEHOLDER
+|PLACEHOLDER
+|PLACEHOLDER
+}}
+|-|Trivia=
+PLACEHOLDER
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

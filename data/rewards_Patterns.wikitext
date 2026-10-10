@@ -1,0 +1,624 @@
+{{Game-Tabs|pd2=Patterns|pd3=Patterns (Payday 3)}}
+A '''pattern''' is an item for customizing [[Masks (Payday 2)|masks]] in ''[[PAYDAY 2]]''. Patterns without cost will be returned to your stash upon selling or storing the mask they've been used on. A pattern that is not part of a promotional bonus or achievement can only be obtained from card drops.
+
+'''How colour is applied to the pattern:'''
+
+* Dark gray is the primary color.
+* Light gray is the secondary color.
+* White parts are white, or if you chose a [[Materials|material]], it will be that material.
+* Blue parts are transparent and therefore display what the unaltered mask looks like in those areas.
+'''How patterns are divided in this wiki:'''
+
+*{{Color|#0060ff|Blue}} items are unlocked by default.
+* '''White''' items are unlocked through card drops and are considered normal
+*{{Color|dlc|Yellow}} items are from a DLC.
+* {{Color|event|Orange}} items are from a special event.
+* {{Color|infamous|Fuchsia}} items are "Infamous" (rare) items.
+
+
+Below is a list of all patterns, however this wiki page needs updating as it is missing some.
+
+===Default===
+''Patterns unlocked by default. They cannot be sold or unlocked via card drops.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+empty.png|{{color|#0060ff|Material only}}<br>$11,000
+</gallery>
+{{Clr}}
+
+===Normal===
+<tabber>Patterns=
+''Normal patterns are unlocked via card drops.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-aperturescience.png|Aperture Science<br>$123,000
+pat-barbarian-war-paint.png|Barbarian War Paint<br>$36,000
+pat-biohaz.png|Bio Hazard<br>$36,000
+pat-big-foot.png|Big Foot<br>$186,000
+pat-bloodsucker.png|Bloodsucker<br>$36,000
+pat-brightstar.png|Bright Star<br>$219,000
+pat-broad-strokes.png|Broad Strokes<br>$36,000
+pat-candyhearts.png|Candy Hearts<br>$93,000
+pat-celtic-cross.png|Celtic Cross<br>$64,000
+pat-celticknot.png|Celtic Knot<br>$36,000
+pat-circuit-board.png|Circuit Board<br>$64,000
+pat-claw-attack.png|Claw Attack<br>$64,000
+pat-clockwork-gears.png|Clockwork Gears<br>$93,000
+pat-companion-cube.png|Companion Cube<br>$154,000
+pat-cracker.png|Cracker<br>$93,000
+pat-crossing-chains.png|Crossing Chains<br>$93,000
+pat-dragonsplit.png|Dragon Split<br>$123,000
+pat-eastern-sunrise.png|Eastern Sunrise<br>$186,000
+pat-fleur-de-lis.png|Fleur de Lis<br>$186,000
+pat-gear-grinder.png|Gear Grinder<br>$154,000
+pat-girls-and-boys.png|Girls and Boys<br>$93,000
+pat-godismyjudge.png|God is my Judge<br>$36,000
+pat-greedy-spider.png|Greedy Spider<br>$186,000
+pat-happy-clown.png|Happy Clown<br>$36,000
+pat-hawk-wings.png|Hawk Wings<br>$93,000
+pat-hellish.png|Hellish<br>$93,000
+pat-hexagon-cricle.png|Hexagon Circle<br>$93,000
+pat-inverted-spikes.png|Inverted Spikes<br>$64,000
+pat-jagged-stripes.png|Jagged Stripes<br>$36,000
+pat-lift-off.png|Lift Off<br>$64,000
+pat-lightning-bolt.png|Lightning Bolt<br>$36,000
+pat-lover-boy.png|Lover Boy<br>$64,000
+pat-magic-eightball.png|Magic Eightball<br>$219,000
+pat-magnetic-magnet.png|Magnetic Magnet<br>$36,000
+pat-marvellous-blocks.png|Marvellous Blocks<br>$123,000
+pat-masked-falcon.png|Masked Falcon<br>$64,000
+pat-masked-villain.png|Masked Villain<br>$36,000
+pat-mexican-wrestler.png|Mexican Wrestler<br>$11,000
+moonandshit.png|Moon and Water<br>$93,000
+pat-mountain-and-sky.png|Mountain and Sky<br>$36,000
+pattern-naismith.jpg|Naismith<br>Free
+pat-nautical-compass.png|Nautical Compass<br>$36,000
+pat-one-nation-under-god.png|One Nation Under God<br>$123,000
+pat-ozymandias.png|Ozymandias<br>$64,000
+pat-paydays2.png|PAYDAY 2<br>$93,000
+pat-piece-of-cake.png|Piece Of Cake<br>$93,000
+pat-pirate-eyepatch.png|Pirate Eyepatch<br>$36,000
+pat-poison.png|Poison<br>$93,000
+pat-portal.png|Portal<br>$154,000
+pat-praying-mantis.png|Praying Mantis<br>$186,000
+pat-radioactive.png|Radioactive<br>$186,000
+pat-skull-basher.png|Skull Basher<br>$219,000
+pat-smooth-gradient.png|Smooth Gradient<br>$93,000
+pat-starbreeze-sun.png|Starbreeze Sun<br>$64,000
+pat-stripes-below.png|Stripes Below<br>$36,000
+pat-sign-of-annihilation.png|Sign of Annihilation<br>$36,000
+pat-anarchy.png|The Anarchy<br>$93,000
+pat-the-arrow.png|The Arrow<br>$64,000
+The atom2.png|The Atom<br>$123,000
+pat-the-beast.png|The Beast<br>$64,000
+pat-the-flag.png|The Flag<br>$93,000
+pat-the-headshot.png|The Headshot<br>$123,000
+pat-hypnotica.png|The Hypnotica<br>$64,000
+pat-illuminati.png|The Illuminati<br>$186,000
+pat-the-inferno.png|The Inferno<br>$154,000
+Pat-the-kabuki.png|The Kabuki<br>$123,000
+pat-the-left-hand.png|The Left Hand<br>$93,000
+the molecule2.png|The Molecule<br>$64,000
+pat-ouroboros.png|The Ouroboros<br>$186,000
+pat-the-head-ouroboros.png|The Head of the Ouroboros<br>$123,000
+pat-the-orb.png|The Orb<br>$123,000
+pat-the-puzzle.png|The Puzzle<br>$123,000
+pat-the-raster.png|The Raster<br>$11,000
+pat-the-reaper.png|The Reaper<br>$93,000
+pat-theswirls.png|The Swirls<br>$93,000
+pat-the-tf2.png|The TF2<br>$64,000
+pat-union-jack.png|The Union Jack<br>$154,000
+pat-the-whiner.png|The Whiner<br>$64,000
+pat-the-zipper.png|The Zipper<br>$36,000
+pat-the-zebra.png|The Zebra<br>$64,000
+pat-the-2-in-payday.png|The 2 in PAYDAY<br>$123,000
+interrogationmark.png|The ?<br>$93,000
+pat-thin-stripes.png|Thin Stripes<br>$93,000
+pat-three-crowns.png|Three Crowns<br>$36,000
+pat-three-points.png|Three Points<br>$64,000
+pat-three-thick-stripes.png|Three Thick Stripes<br>$123,000
+pat-tiger-camouflage.png|Tiger Camoflauge<br>$154,000
+pat-tribal-cricle.png|Tribal Circle<br>$219,000
+pat-two-lions.png|Two Lions<br>$11,000
+pat-two-dollar-one-stripe.png|Two $ One Stripe<br>$64,000
+pat-vertical-split.png|Vertical Split<br>$93,000
+pat-violentbite.png|Violent Bite<br>$64,000
+pat-yggdrasil.png|Yggdrasil<br>$92,000
+pat-ying-and-yang.png|Yin and Yang<br>$154,000
+pat-zig-zag-stripes.png|Zig Zag Stripes<br>$186,000
+</gallery>
+{{Clr}}
+|-|Trivia=
+* '''Aperture Science''', '''Companion Cube''', '''Piece of Cake''' and '''Portal''' are references to the ''[[wikipedia:Portal (series)|Portal]]'' series.
+* '''Barbarian War Paint''' Is based on the face paint put on by Conan (Schwarzenegger) in "[[wikipedia:Conan the Barbarian (1982 film)|Conan the Barbarian]]" when preparing for the final battle with Thulsa Doom (James Earl Jones).
+* '''Fleur De Lis''' and '''Golden Lily''' are both references to the use of the fleur de lis icon in the [[PAYDAY Secret ARG|Secret ARG]]. The image also appeared on [[Hoxton|Hoxton's]] [[Masks#Secret|Secret mask]]. Their specific meaning is disputed. 
+* '''God is my Judge''' is Daniel's headband from the Karate Kid. "Daniel" is a Hebrew name meaning "God is my judge".
+* '''Happy Clown''' is based on [[Hoxton]]'s mask design.
+* '''One Nation Under God''' is based on [[Dallas]]' mask design. The name refers to the 1954 modification of the American [[wikipedia:Pledge of Allegiance|Pledge of Allegiance]].
+* '''Marvellous Blocks''' is a reference to the character Marv from ''[[wikipedia:Sin City|Sin City]]''.
+* '''Masked Falcon''' and '''Mexican Wrestler''' are references to [[wikipedia:WWE|WWE]] wrestlers [[wikipedia:Místico|Sin Cara]] and [[wikipedia:Rey Mysterio|Rey Mysterio]].
+* '''Nautical Compass''' is a reference to the [[PAYDAY Secret ARG|Secret ARG]]. A compass on a map and on a rug in [[Counterfeit]] were clues in the puzzle.
+* '''Ozymandias''' is a reference to the comic "[[wikipedia:Watchmen|Watchmen]]", which has a character named "[[wikipedia:Ozymandias (comics)|Ozymandias]]". The name originates from a sonnet written in 1818 by [[wikipedia:Percy Bysshe Shelley|Percy Bysshe Shelley]], bearing the name as title.
+* '''Sign Of Annihilation''' is a reference to [[wikipedia:Akuma (Street Fighter)|Akuma]] from the [[wikipedia:Street Fighter|Street Fighter]] Franchise.
+* '''The Flag''' and '''Three Crowns''' are respectively references to the national emblem and flag of Sweden, home of Overkill.
+* '''The Hypnotica''' depicts the painting "Blaze" by [[wikipedia:Bridget Riley|Bridget Riley]].
+* '''The Ouroboros''' and '''The Head of the Ouroboros''' is based on the ancient Greek [[wikipedia:Ouroboros|symbol of the same name]].
+* '''The TF2''' is a reference to Valve's video game ''[[wikipedia:Team Fortress 2|Team Fortress 2]]'', showing its iconic logo.
+* '''Violent Bite''' appears to be a Xenomorph jawline with the teeth shape and 4 teeth inbetween the pointed canine teeth on top and bottom jaw, just missing the trademark inner-jaw. The lightly shaded areas below and above the teeth could possibly be saliva which alot is common to be dripping from a xeno jaw before a bite.
+* '''[[wikipedia:Yggdrasil|Yggdrasil]]''' is the [[wikipedia:Tree of life|Tree of life]] from [[wikipedia:Norse mythology|Norse mythology]]. In the ''PAYDAY'' series, it previously appeared in the [[PAYDAY Secret ARG|Secret ARG]] and [[Chains|Chains's]] [[Masks#Secret|Secret mask]].
+</tabber>
+
+===StarVR===
+''You will unlock {{color|value|1}} of this pattern in your inventory upon starting the game after Update #69. This pattern cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-starvr.png|{{color|infamous|StarVR}}<br>Free
+</gallery>
+{{Clr}}
+
+===Infamous===
+<tabber>Patterns=
+''Rare patterns are unlocked via card drops. Infamous items have a {{color|value|0.5%}} base chance of dropping.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+Pat-electriccenter.png|{{color|infamous|Electric Center}}<br>$320,000
+pat-fingerprint.png|{{color|infamous|Fingerprint}}<br>$320,000
+pat-golden-lily.png|{{color|infamous|Golden Lily}}<br>$320,000
+pat-goodolal.png|{{color|infamous|Good ol' Al}}<br>$465,000
+pat-cobra.png|{{color|infamous|The Cobra}}<br>$465,000
+pat-the-ace.png|{{color|infamous|The Ace}}<br>$615,000
+pat-masked-mastermind.png|{{color|infamous|Masked Mastermind}}<br>$770,000
+catmask.png|{{color|infamous|Pon Pon Pon}}<br>$770,000
+pat-solid-first.png|{{color|infamous|Solid First}}<br>$770,000
+pat-solid-second.png|{{color|infamous|Solid Second}}<br>$770,000
+the protagonist.png|{{color|infamous|The Protagonist}}<br>$770,000
+pat-the-dragon.png|{{color|infamous|The Dragon}}<br>$1,255,000
+Pat-overkill.png|{{color|infamous|Overkill}}<br>$1,420,000
+</gallery>
+{{Clr}}
+|-|Trivia=
+* During the beta, the '''Electric Center''' pattern was found so frequently as a weapon mod card (players received the pattern almost exclusively, some reports with 13+ in a row) that it became a running gag within the community and Overkill. Overkill later changed it to an infamous item in the second beta update.
+** On console, it drops as both infamous and normal which is likely a bug.
+* '''Good ol' Al''' is the pattern on the mask of superhero [[wikipedia:Spawn (comics)|Spawn]], whose real name is Al Simmons.
+* '''Masked Mastermind''' is a reference to former WWE wrestler, [[wikipedia:The Ultimate Warrior|The Ultimate Warrior]].
+* '''The Protagonist''' is a reference to the comic "[[wikipedia:Watchmen|Watchmen]]", where the protagonist [[wikipedia:Rorschach (comics)|Rorschach]] dons this pattern on his mask.
+</tabber>
+===Infamy Reward===
+<tabber>Patterns=
+''These are rewards from the [[Infamy]] skill tree. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-digital.png|{{color|infamous|Digital}}<br>Free
+pat-evil-eye.png|{{color|infamous|Evil Eye}}<br>Free
+pat-ex-machina.png|{{color|infamous|Ex Machina}}<br>Free
+pat-hell's-anchor.png|{{color|infamous|Hell's Anchor}}<br>Free
+pat-monster-visor.png|{{color|infamous|Monster Visor}}<br>Free
+pat-pain.png|{{color|infamous|Pain}}<br>Free
+pat-spook.png|{{color|infamous|Spook}}<br>Free
+pat-steampunk.png|{{color|infamous|Steampunk}}<br>Free
+Pat-ribcage.png|{{color|infamous|Ribcage}}<br>Free
+pat-imperial.png|{{color|infamous|Imperial}}<br>Free
+pat-Bounty Hunter.png|{{color|infamous|Bounty Hunter}}<br>Free
+Pat-Guardian.png|{{color|infamous|Guardian}}<br>Free
+</gallery>
+{{Clr}}
+|-|Trivia=
+* '''Bounty Hunter''' is a reference to either [[wikipedia:Jango Fett|Jango Fett]] or [[wikipedia:Boba Fett|Boba Fett]]'s Mandalorian Helmets; they are famous bounty hunters from the [[wikipedia:Star Wars|Star Wars]] universe.
+* '''Pain''' pattern may be a reference to the Batman villain {{W|Bane (comics)|Bane}}.
+</tabber>
+
+===Halloween Event===
+<tabber>Patterns=
+''You get {{color|value|1}} of these during the Halloween event.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-doomweaver.png|{{color|event|Doomweaver}}<br>$93,000
+pat-stitches.png|{{color|event|Stitches}}<br>$93,000
+pat-hannibalistic.png|{{color|event|Hannibalistic}}<br>$123,000
+pat-howl.png|{{color|event|Howl}}<br>$123,000
+pat-pumpkingrin.png|{{color|event|Pumpkin Grin}}<br>$123,000
+pat-webbed.png|{{color|event|Webbed}}<br>$123,000
+</gallery>
+{{Clr}}
+|-|Trivia=
+* '''Howl''' is a reference to the character Ghostface in the ''Scream'' media franchise.
+* '''Hannibalistic''' is a reference to the character [[wikipedia:Hannibal Lecter|Hannibal Lecter]] in the "[[wikipedia:Hannibal Lecter (franchise)|Hannibal Lecter]]" media franchise and shows his iconic mask that prevents him from biting others.
+** In addition, it is a pun on the term "cannibalistic", referencing Hannibal Lecter's cannibalistic tendencies.
+</tabber>
+
+===Holdout===
+<tabber>Patterns=
+''Can be earned by completing waves 3 & 5 in holdout.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+Pat-barbed wire.png|{{color|event|Barbed Wire}}
+Pat-smeared.png|{{color|event|Smeared}}
+Pat-ambush.png|{{color|event|Ambush}}
+Pat-scribbles.png|{{color|event|Scribbles}}
+Pat-clown world.png|{{color|event|Clown World}}
+Pat-your name here.png|{{color|event|Your Name Here}}
+Pat-patch work.png|{{color|event|Patch Work}}
+Pat-the hostage.png|{{color|event|The Hostage}}
+Pat-knife.png|{{color|event|Knife}}
+Pat-love hate.png|{{color|event|Love Hate}}
+
+Pat-billy.png|{{color|event|Billy}}
+Pat-blain.png|{{color|event|Blain}}
+Pat-dillan.png|{{color|event|Dillan}}
+Pat-hawkins.png|{{color|event|Hawkins}}
+Pat-mac.png|{{color|event|Mac}}
+Pat-puncho.png|{{color|event|Puncho}}
+Pat-1m dollars.png|{{color|event|1m dOlLaR$}}
+Pat-bang bang.png|{{color|event|bANg! BaNG!}}
+Pat-cash is king.png|{{color|event|CA$h Is KiNg}}
+Pat-die pig.png|{{color|event|die PIG}}
+Pat-game over.png|{{color|event|gAme OVER}}
+Pat-give us the money.png|{{color|event|GiVE u$ The mONey}}
+Pat-stereoscopic.png|{{color|event|Stereoscopic}}
+Pat-disco.png|{{color|event|Disco}}
+Pat-trek.png|{{color|event|Trek}}
+Pat-horizon highlight.png|{{color|event|Horizon Highlight}}
+Pat-shutters.png|{{color|event|Shutters}}
+Pat-runner.png|{{color|event|Runner}}
+Pat-death_paint.png|{{color|event|Death Paint}}
+Pat-the_mist.png|{{color|event|The Mist}}
+Pat-wave warning.png|{{color|event|Wave Warning}}
+</gallery>
+|-|trivia=
+*The patterns "billy", "blain", "dillan", "dutch", "hawkins", "mac", and "puncho" are direct references to the movie Predator.
+</tabber>
+
+===Lootbag DLC===
+''Requires the "[[DLC (Payday 2)#Lootbag|Lootbag]]" DLC. You will unlock {{color|value|1}} of this pattern in your inventory and be able to obtain them via card drops if you pre-ordered the game on PC or bought it on console.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-loveoverkill.png|{{color|dlc|I Love Overkill}}<br>$11,000
+</gallery>
+{{Clr}}
+
+===Armored Transport DLC===
+''Requires the "[[Armored Transport (DLC)|Armored Transport]]" DLC. Once you have brought the DLC, you will unlock {{color|value|1}} of the four patterns in your inventory and will now be able to obtain them via card drops.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-american-eagle.png|{{color|dlc|The American Eagle}}<br>$111,600
+pat-forestcamo.png|{{color|dlc|Forest Camouflage}}<br>$111,600
+pat-racestripes.png|{{color|dlc|Race Stripes}}<br>$111,600
+pat-stars.png|{{color|dlc|Stars}}<br>$111,600
+</gallery>
+{{Clr}}
+
+===Gage Weapon Pack #01 DLC===
+''Requires the "[[Gage Weapon Pack 01|Gage Weapon Pack #01]]" DLC. Once you have brought the DLC, you will unlock {{color|value|1}} of the four patterns in your inventory and will now be able to obtain them via card drops.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern_1.png|{{color|dlc|Digital Camo}}<br/>$130,200
+pattern_2.png|{{color|dlc|The Vet}}<br/>$130,200
+pattern_3.png|{{color|dlc|Commando}}<br/>$130,200
+pattern_4.png|{{color|dlc|Hunter}}<br/>$130,200
+</gallery>
+{{Clr}}
+
+===Gage Weapon Pack #02 DLC===
+''Requires the "[[Gage Weapon Pack 02|Gage Weapon Pack #02]]" DLC. Once you have brought the DLC, you will unlock {{color|value|1}} of the four patterns in your inventory and will now be able to obtain them via card drops.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-Finger Paint.png|{{color|dlc|Finger Paint}}<br>$167,400
+pat-Fighter.png|{{color|dlc|Fighter}}<br>$167,400
+pat-Styx.png|{{color|dlc|Styx}}<br>$167,400
+pat-Warrior.png|{{color|dlc|Warrior}}<br>$167,400
+</gallery>
+{{Clr}}
+
+===Poetry Jam DLC===
+<tabber>Patterns=
+''All these patterns will be available for free for anyone who owns the [http://store.steampowered.com/app/254260/ PAYDAY 2 Official Soundtrack] on steam or pre-ordered the [[PAYDAY 2#Career Criminal Edition|Career Criminal Edition!]] These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-tcn.png|{{color|dlc|TCN}}<br>Free
+pattern-deathcube.png|{{color|dlc|Death Cube}}<br>Free
+pattern-kraken.png|{{color|dlc|Kraken}}<br>Free
+pattern-tribalstroke.png|{{color|dlc|Tribal Stroke}}<br>Free
+</gallery>
+{{Clr}}
+|-|Trivia=
+* '''Death Cube''' is a reference to the "Murdercube" meme on 4chan's /k/ board.
+</tabber>
+
+===Gage Sniper Pack DLC===
+''Requires the "[[Gage Sniper Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-bugger.png|{{color|dlc|Bugger}}<br>Unlocked through<br>Achievement
+pat-wingsofdeath.png|{{color|dlc|Wings of Death}}<br>Unlocked through<br>Achievement
+pat-venomous.png|{{color|dlc|Venomous}}<br>Unlocked through<br>Achievement
+pat-spidereyes.png|{{color|dlc|Spider Eyes}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Big Bank Heist DLC===
+''Requires the "[[Big Bank (DLC)|The Big Bank Heist]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-spartan.png|{{color|dlc|Spartan}}<br>Unlocked through<br>Achievement
+pattern-godofwar.png|{{color|dlc|God of War}}<br>Unlocked through<br>Achievement
+pattern-ruler.png|{{color|dlc|Ruler}}<br>Unlocked 
+pattern-roman.png|{{color|dlc|Roman}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Shotgun Pack DLC===
+''Requires the "[[Gage Shotgun Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-banana.png|{{color|dlc|Banana}}<br>Unlocked through<br>Achievement
+pat-chief.png|{{color|dlc|Chief}}<br>Unlocked through<br>Achievement
+pat-monkeyskull.png|{{color|dlc|Monkey Skull}}<br>Unlocked through<br>Achievement
+pat-terror.png|{{color|dlc|Terror}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Assault Pack DLC===
+''Requires the "[[Gage Assault Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pat-death.png|{{color|dlc|Death}}<br>Unlocked through<br>Achievement
+pat-emperor.png|{{color|dlc|Emperor}}<br>Unlocked through<br>Achievement
+pat-muerte.png|{{color|dlc|Muerte}}<br>Unlocked through<br>Achievement
+pat-vicious.png|{{color|dlc|Vicious}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Hotline Miami DLC===
+<tabber>Patterns=
+''Requires the "[[Hotline Miami (DLC)|Hotline Miami]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-besomebody.png|{{color|dlc|Be Somebody}}<br>Unlocked through<br>Achievement
+pattern-doodles.png|{{color|dlc|Doodles}}<br>Unlocked through<br>Achievement
+pattern-hiptobepolygon.png|{{color|dlc|Hip To Be Polygon}}<br>Unlocked through<br>Achievement
+pattern-palmtrees.png|{{color|dlc|Palm Trees}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+|-|Trivia=
+* '''Hip To Be Polygon''' is a reference to the song, "Hip to Be Square" by [[wikipedia:Huey Lewis and the News|Huey Lewis and the News]].
+</tabber>
+
+===Hotline Miami (Game)===
+<tabber>Patterns=
+''All these patterns will be available for free for anyone who owns the game "[http://store.steampowered.com/app/219150/ Hotline Miami]". These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-hotline.png|{{color|white|Hotline}}<br>{{color|negative|Requires ownership of Hotline Miami on Steam.}}
+pattern-leopard.png|{{color|white|Leopard}}<br>{{color|negative|Requires ownership of Hotline Miami on Steam.}}
+pattern-shutupandbleed.png|{{color|white|Shut Up And Bleed}}<br>{{color|negative|Requires ownership of Hotline Miami on Steam.}}
+pattern-uglyrug.png|{{color|white|Ugly Rug}}<br>{{color|negative|Requires ownership of Hotline Miami on Steam.}}
+</gallery>
+{{Clr}}
+|-|Trivia=
+* '''Hotline''' is based on the logo of the syndicate organization [[w:c:hotlinemiami:50 Blessings|50 Blessings]] from the [[wikipedia:Hotline Miami|Hotline Miami]] series.
+</tabber>
+
+===Gage Historical Pack DLC===
+''Requires the "[[Gage Historical Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-captainwar.png|{{color|dlc|Captain War}}<br>Unlocked through<br>Achievement
+pattern-dazzle.png|{{color|dlc|Dazzle}}<br>Unlocked through<br>Achievement
+pattern-deathdealer.png|{{color|dlc|Death Dealer}}<br>Unlocked through<br>Achievement
+pattern-filthythirteen.png|{{color|dlc|Filthy Thirteen}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Diamond Heist DLC===
+''Requires the "[[The Diamond Heist (DLC)|The Diamond Heist]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-hawkhelm.png|{{color|dlc|Hawk Helm}}<br>Unlocked through<br>Achievement
+pattern-hieroglyphs.png|{{color|dlc|Hieroglyphs}}<br>Unlocked through<br>Achievement
+pattern-horus.png|{{color|dlc|Horus}}<br>Unlocked through<br>Achievement
+pattern-runes.png|{{color|dlc|Runes}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Bomb Heists DLC===
+''Requires the "[[The Bomb Heists (DLC)|The Bomb Heists]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-caduceus.png|{{color|dlc|Caduceus}}<br>Unlocked through<br>Achievement
+pattern-checkerboard.png|{{color|dlc|Checker Board}}<br>Unlocked through<br>Achievement
+pattern-liongamelion.png|{{color|dlc|Lion Game Lion}}<br>Unlocked through<br>Achievement
+pattern-pleter.png|{{color|dlc|Pleter}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Butcher's AK/CAR Mod Pack DLC===
+''Requires the "[[The Butcher's AK/CAR Mod Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-dinosaursscars.png|{{color|dlc|Dinosaurs Scars}}<br>Unlocked through<br>Achievement
+pattern-dinosaursskull.png|{{color|dlc|Dinosaurs Skull}}<br>Unlocked through<br>Achievement
+pattern-dinosaursstripes.png|{{color|dlc|Dinosaurs Stripes}}<br>Unlocked through<br>Achievement
+pattern-prehistoricpredator.png|{{color|dlc|Prehistoric Predator}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Butcher's BBQ Pack DLC===
+''Requires "[[The Butcher's BBQ Pack]]" DLC. These patterns are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-fireborn.png|{{color|dlc|Fireborn}}<br>Unlocked through<br>Achievement
+pattern-flammable.png|{{color|dlc|Flammable}}<br>Unlocked through<br>Achievement
+pattern-hot-flames.png|{{color|dlc|Hot Flames}}<br>Unlocked through<br>Achievement
+pattern-flamer.png|{{color|dlc|Flamer}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Butcher's Western Pack DLC===
+''Requires "[[The Butcher's Western Pack]]" DLC. These patterns are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-mystical.png|{{color|dlc|Mystical}}<br>Unlocked through<br>Achievement
+pattern-sacred.png|{{color|dlc|Sacred}}<br>Unlocked through<br>Achievement
+pattern-totem.png|{{color|dlc|Totem}}<br>Unlocked through<br>Achievement
+pattern-coyote.png|{{color|dlc|Coyote}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Alesso Heist DLC===
+''Requires "[[The Alesso Heist (DLC)|The Alesso Heist]]" DLC. These patterns are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+Arena logo.png|{{color|dlc|Alesso Logo}}<br>Unlocked through<br>Achievement
+Raster.png|{{color|dlc|Circle Raster}}<br>Unlocked through<br>Achievement
+Soundwave.png|{{color|dlc|Soundwave}}<br>Unlocked through<br>Achievement
+Smoke.png|{{color|dlc|Smoke}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Golden Grin Casino Heist DLC===
+''Requires "[[The Golden Grin Casino Heist (DLC)|The Golden Grin Casino Heist]]" DLC. These patterns are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-chips.png|{{color|dlc|Chips}}<br>Unlocked through<br>Achievement
+pattern-dices.png|{{color|dlc|Dices}}<br>Unlocked through<br>Achievement
+pattern-royale.png|{{color|dlc|Royale}}<br>Unlocked through<br>Achievement
+pattern-cards.png|{{color|dlc|Cards}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Ninja Pack DLC===
+''Requires "[[Gage Ninja Pack]]" DLC. These patterns are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-hanabi.png|{{color|dlc|Hanabi}}<br>Unlocked through<br>Achievement
+pattern-koi.png|{{color|dlc|Koi}}<br>Unlocked through<br>Achievement
+pattern-youkai.png|{{color|dlc|Youkai}}<br>Unlocked through<br>Achievement
+pattern-oni.png|{{color|dlc|Oni}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Chivalry Pack DLC===
+''Requires the "[[Gage Chivalry Pack]]" DLC. These patterns are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-medieval.png|{{color|dlc|Medieval}}<br>Unlocked through<br>Achievement
+pattern-agatha.png|{{color|dlc|Agatha}}<br>Unlocked through<br>Achievement
+pattern-mason.png|{{color|dlc|Mason}}<br>Unlocked through<br>Achievement
+pattern-checkered-out.png|{{color|dlc|Checkered Out}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Point Break Heists DLC===
+''Requires "[[The Point Break Heists (DLC)|The Point Break Heists]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-ornamentcrown.png|{{color|dlc|Ornamental Crown}}<br>Unlocked through<br>Achievement
+pattern-sunavatar.png|{{color|dlc|Sun Avatar}}<br>Unlocked through<br>Achievement
+pattern-tribalface.png|{{color|dlc|Tribal Face}}<br>Unlocked through<br>Achievement
+pattern-tribalwave.png|{{color|dlc|Tribal Wave}}<br>Unlocked through<br>Achievement
+</gallery>
+
+===The Goat Simulator Heist DLC===
+''Requires "[[The Goat Simulator Heist (DLC)|The Goat Simulator Heist]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-illumigoati.png|{{color|dlc|Illumigoati}}<br>Unlocked through<br>Achievement
+pattern-fur.png|{{color|dlc|Fur}}<br>Unlocked through<br>Achievement
+pattern-giraffe.png|{{color|dlc|Giraffe}}<br>Unlocked through<br>Achievement
+pattern-goatface.png|{{color|dlc|Goat Face}}<br>Unlocked through<br>Achievement
+</gallery>
+
+===Wolf Pack DLC===
+''Requires "[[Wolf Pack (Payday 2)|Wolf Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-fenris.png|{{color|dlc|Fenris}}<br>Unlocked through<br>Achievement
+pattern-kurbits.png|{{color|dlc|Kurbits}}<br>Unlocked through<br>Achievement
+pattern-luse.png|{{color|dlc|Luse}}<br>Unlocked through<br>Achievement
+pattern-split.png|{{color|dlc|Split}}<br>Unlocked through<br>Achievement
+</gallery>
+{{clr}}
+
+===Hardcore Henry Heists===
+<tabber>Patterns=
+''You can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-rebel.png|{{color|white|Rebel}}<br>Unlocked through<br>Achievement
+pattern-squares.png|{{color|white|Squares}}<br>Unlocked through<br>Achievement
+pattern-hexagons.png|{{color|white|Hexagons}}<br>Unlocked through<br>Achievement
+pattern-phoenix.png|{{color|white|Phoenix}}<br>Unlocked through<br>Achievement
+</gallery>
+{{clr}}
+|-|Trivia=
+* '''Rebel''' bares resemblance to one of the tattoos of [[w:c:mirrorsedge:Faith Connors (Mirror's Edge)|Faith Connors]], protagonist of the [[w:c:mirrorsedge:Mirror's Edge|Mirror's Edge]] games.
+* '''Phoenix''' is taken from the movie Hardcore Henry, where it appears as a tatoo on the stomach of the Cocaine addicted [[Jimmy]].
+** It's presumably a nod towards his ability to 'resurrect' himself.
+</tabber>
+
+===The Biker Heists===
+''Requires "[[The Biker Heist (DLC)]]". You can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-firetire.png|{{color|dlc|Fire Tire}}<br>Unlocked through<br>Achievement
+pattern-engine.png|{{color|dlc|Engine}}<br>Unlocked through<br>Achievement
+pattern-skullwing.png|{{color|dlc|Skull Wing}}<br>Unlocked through<br>Achievement
+pattern-bikerface.png|{{color|dlc|Biker Face}}<br>Unlocked through<br>Achievement
+</gallery>
+{{clr}}
+
+===John Wick Weapon Pack===
+''Requires "[[John Wick Weapon Pack]]" DLC. You can unlock these by completing certain achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-battlewounds.png|{{color|dlc|Batle Wounds}}<br>Unlocked through<br>Achievement
+pattern-piety.png|{{color|dlc|Piety}}<br>Unlocked through<br>Achievement
+pattern-daisies.png|{{color|dlc|Daisies}}<br>Unlocked through<br>Achievement
+pattern-oneshot.png|{{color|dlc|One Shot}}<br>Unlocked through<br>Achievement
+</gallery>
+{{clr}}
+
+===Gage Spec Ops Pack===
+''Requires "[[Gage Spec Ops Pack]]" DLC. You can unlock these by completing Gage Spec Ops Missions. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-facepaint.png|{{color|dlc|Facepaint}}<br>Unlocked through<br>Side Jobs
+pattern-stripes.png|{{color|dlc|Stripes}}<br>Unlocked through<br>Side Jobs
+pattern-bullets.png|{{color|dlc|Bullets}}<br>Unlocked through<br>Side Jobs
+pattern-sight.png|{{color|dlc|Sight}}<br>Unlocked through<br>Side Jobs
+</gallery>
+{{clr}}
+
+===Scarface Heist Pack===
+''Requires "[[Scarface Heist (DLC)|Scarface Heist]]" DLC. Once you've bought the DLC you'll receive Cracks and can unlock the rest by completing achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-libertyflame.png|{{color|dlc|Liberty Flame}}<br>Unlocked through<br>Achievement
+pattern-coin.png|{{color|dlc|Coin}}<br>Unlocked through<br>Achievement
+pattern-diablada.png|{{color|dlc|Diablada}}<br>Unlocked through<br>Achievement
+pattern-cracks.png|{{color|dlc|Cracks}}<br>Free
+</gallery>
+{{clr}}
+
+===John Wick Heist Pack===
+''Requires "[[John Wick Heists Pack]]" DLC. You can unlock these by completing achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-hoodstripes.png|{{color|dlc|Hood Stripes}}<br>Unlocked through<br>Achievement
+pattern-continental.png|{{color|dlc|Continental}}<br>Unlocked through<br>Achievement
+pattern-hotelpattern.png|{{color|dlc|Hotel Pattern}}<br>Unlocked through<br>Achievement
+pattern-babayaga.png|{{color|dlc|Baba Yaga}}<br>Unlocked through<br>Achievement
+</gallery>
+{{clr}}
+
+===Gage Russian Weapon Pack===
+''Requires "[[Gage Russian Weapon Pack]]" DLC. You can unlock these by completing achievements. These patterns cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+pattern-bearfight.png|{{color|dlc|Bear Fight}}<br>Unlocked through<br>Achievement
+pattern-prisonstatement.png|{{color|dlc|Prison Statement}}<br>Unlocked through<br>Achievement
+pattern-redstar.png|{{color|dlc|Red Star}}<br>Unlocked through<br>Achievement
+pattern-russiangamble.png|{{color|dlc|Russian Gamble}}<br>Unlocked through<br>Achievement
+</gallery>
+{{clr}}
+
+===Unreleased Patterns===
+====Antisphere====
+''Cannot currently be acquired ingame. Supposed to require the game Antisphere bought on Steam but ultimately scrapped / unreleased so far, due to unspecified reasons.''
+<gallery columns="dynamic" spacing="small" captionalign="center" captionsize="large" hideaddbutton="true" widths="155" orientation="square" bordersize="none">
+Antisphere5mod.png|{{color|dlc|"Anti Skull"}}<br>Name obtained<br>from raw data
+Antisphere6mod.png|{{color|dlc|"Panel Cover"}}<br>Name obtained<br>from raw data
+Antisphere7mod.png|{{color|dlc|"Arena Cross"}}<br>Name obtained<br>from raw data
+Antisphere8mod.png|{{color|dlc|"Hexagon Effect"}}<br>Name obtained<br>from raw data
+</gallery>
+
+<br>
+{{Navbox PD2 Weapons}}
+[[Category:DLC (Payday 2)]]
+[[Category:Masks (Payday 2)]]
+[[Category:Patterns]]
+[[Category:Armored Transport DLC]]
+[[Category:Gage Weapon Pack 01 DLC]]
+[[Category:Gage Weapon Pack 02 DLC]]
+[[Category:Gage Sniper Pack DLC]]
+[[Category:The Big Bank Heist DLC]]
+[[Category:Gage Shotgun Pack DLC]]
+[[Category:Gage Assault Pack DLC]]
+[[Category:Hotline Miami DLC]]
+[[Category:Gage Historical Pack DLC]]
+[[Category:The Diamond Heist DLC]]
+[[Category:The Bomb Heists DLC]]
+[[Category:The Butcher's AK/CAR Mod Pack DLC]]
+[[Category:The Butcher's BBQ Pack DLC]]
+[[Category:The Butcher's Western Pack DLC]]
+[[Category:The Alesso Heist DLC]]
+[[Category:The Golden Grin Casino Heist DLC]]
+[[Category:Gage Ninja Pack DLC]]
+[[Category:Gage Chivalry Pack DLC]]
+[[Category:The Point Break Heists DLC]]
+[[Category:The Goat Simulator Heist DLC]]
+[[Category:PAYDAY 2 Wolf Pack]]
+[[Category:Event items]]
+[[Category:Hardcore Henry Heists]]

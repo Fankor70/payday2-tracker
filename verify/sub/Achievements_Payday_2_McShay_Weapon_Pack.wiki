@@ -1,0 +1,8 @@
+<tabber>
+Permanent Achievements=
+{{Achievement|Plague Doctor|jpg|Kill 200 enemies using poison on the OVERKILL difficulty or above, while wearing the Scrubs outfit. Unlocks the "Viper Grenade" throwable.}}
+|-|Teaser=
+''The following teasers were added on April 20nd, 2020, and removed on May 11th, 2020.''
+{{Achievement|BOOM||CHACALACA}}
+</tabber>
+[[Category:Achievement Icons]]

@@ -1,0 +1,146 @@
+{{For|[[PAYDAY 2]] heist|other uses|Diamond (disambiguation)}}
+{{MultipleHeist2|The Diamond|Infobox Heist}}{{Quote|The Diamond is historic. It is also extremely valuable. I am one of the few people with the connections to move it. You will retrieve it, for an anonymous individual who I represent. Devise a plan and execute upon it. I'd wish you luck, but luck has nothing to do with it.|The Dentist offering the heist}}
+'''The Diamond '''is a heist released on December 15th, 2014, in a [[The Diamond Heist (DLC)|DLC of the same name]]. This heist is the third heist from [[The Dentist]]'s trailer to be released, preceding only the [[Golden Grin Casino]] heist.
+
+The crew has been hired to steal a long lost (and allegedly cursed) diamond known amongst heisters as ''"The" Diamond''.
+
+==Objectives==
+<tabber>Stealth=
+# Rewire the circuit boxes (4 boxes)
+# Get past the time locks (2 timelocks; times vary, require [[keycard]]s)
+# Solve the puzzle and retrieve the Diamond
+# Secure the Diamond
+## Secure more loot (optional)
+# Escape.
+{{clr}}
+|-|Loud=
+# Find the security room and hack the computer
+## Defend the security room and the circuit boxes
+# Get past and defend the time locks (2 timelocks)
+# Solve the puzzle and retrieve the Diamond
+# Ignite the flare and wait for the helicopter
+# Secure the Diamond
+## Secure more loot (optional)
+# Escape.
+</tabber>
+
+==[[Pre-Planning]]==
+Pre-Planning in The Diamond heist allows a certain amount of flexibility, much like [[the Big Bank]], although heavily in the favor of stealth gameplay. Players can choose several locations to place multiple dead drops, in addition to assets such as the Glass Cutter, which is automatically given to all players upon starting the heist (if purchased). The team is limited to a total of {{color|value|10}} favors, which does not scale with difficulty.
+{{The Diamond/PrePlan}}
+
+==Walkthrough==
+The museum itself consists of two wings upstairs, an eastern wing on the middle floor, and two wings in the basement. There are only two methods of entry from the southern starting point: the main entrance, which has a standard lock; or the basement windows to either side, each of which requires a thermal paste can to remove the grate.
+
+Numerous guards and civilian conservationists patrol at random throughout the main parts of the museum, requiring care when avoiding alarms. Every civilian carries a [[keycard]] required for the time locks. There are several white locked doors which contain either the camera room, a single electric box, or will be empty. You can tell which door is which depending on the sign above it: the camera room will have "Security", while the electric box room will have "High Voltage". Empty rooms are "Employees only". The said doors can be opened with the [[OVE9000 Saw]], C4, or by picking the lock.
+
+Inside the main museum, there are numerous artifact and painting exhibits, of which a few are genuine and can be stolen; these are marked out by GenSec stickers inside the case, and (in stealth attempts) require either the glass cutter asset or the alarms disabling before they can be taken. Whilst rarer in the main areas, the two rooms outside the diamond exhibit are more likely to contain genuine art pieces.
+
+There are two areas prior to the diamond room: firstly, an area blocked by lasers and a timelock gate; and, past the first gate, a large room with patrolling guards and a second time lock gate. The time lock gates require a single keycard for stealth, or hacking after alarms; regardless, players have to endure for {{Color|value|60}} seconds ({{Color|value|90}} on Overkill and Death Wish) whilst the timer runs down.
+
+Entering the main diamond room, the door of which requires picking, the treasure sits across a large hall covered in pressure plates. Pressing an incorrect plate sound the alarm, dispense gas from above vents, and will drop the diamond into a floor safe which requires drilling. Players can avoid this by opening a security box to the left, which, when rewired, shows the correct path in green lights for a brief period of time; once the timer expires, the path changes and the box requires re-hacking to generate a new path. The time before the pressure plates reset varies between difficulties; as the difficulty increases, the time before reset decreases.
+
+Escape methods are preset, and differ only by alarms. If stealth has not been broken, the van players spawn at is the means of escape. However, if any alarms are raised, players must light a flare in the main courtyard to summon Bile, who will arrive after {{Color|value|120}} seconds.
+
+<tabber>Stealth=
+Since the front grounds and/or main entrance can be patrolled, and the basement windows can be watched by cameras, care should be taken when entering or leaving. Once inside, four junction boxes must be rewired to disable the security systems. The boxes can spawn in numerous locations on all three levels, and may require picking.
+
+Players should start opening the white locked doors around the museum, as even if they don't contain objectives, they are a good safe spot for hiding from enemies or storing bags. Players looking to steal additional loot should consider purchasing the glass cutter asset, which can bypass alarmed glass silently. Once the rewiring has been fully done, an area in the upper floor will lose its laser grid and be free to access. Inside, players must activate a timelock with a keycard and, once past the shutter, do it again for the timelock in the next area. This next area also contains loot in glass cases and a few patrolling guards.
+
+After passing the final timelock, players will need to pick open the access door to enter the hall containing the diamond at the end, with the floor in between covered in pressure plates. On higher difficulties, there is a strong likelihood of a camera directly monitoring said access door. It is recommended that at least one player has [[Nimble]] aced so the lock can be picked without wasting an ECM jammer, breaking the camera or killing the camera operator in advance. Once past the door, there is a security box to the left, rewiring it shows the temporary safe path to the diamond: the boxes that turn green show the safe tiles, the red show the alarmed ones. With the tiles resetting after a short period of time (varies on difficulty; unlimited time on Normal, 30 seconds on Death Wish), the box must be re-hacked to generate a new path.
+
+After acquiring the diamond, players must then navigate back across the tiles and secure it at the Bag Man loot drop off, or back at the van waiting outside the front of the Museum. Escape then becomes available, although players can continue to look for loot in the form of artifacts throughout the museum exhibit rooms.
+|-|Loud=
+Once the alarm has sounded, players will first need to disable the security shutters which drop around the time lock gate. Finding the security room, players must hack the computer inside and guard both the computer and a single electrical box powering it. Once hacked, the shutters will raise and players can reach the first gate.
+
+With the card reader disabled by the alarm, the timelock must be hacked into starting, after which it starts counting down the required time; like most hacks, it will require restarting if an enemy interacts with it. After completing both the first and second lock, players can enter the diamond room by picking the lock. Whilst it may seem obvious to run for the diamond, it should be noted that the pressure plates remain active regardless of whether the alarm has already sounded; as such, triggering the wrong tile will still cause the gas to dispense and the Diamond to retract into the floor safe.
+
+That considered, players must either guard an individual heister whilst they navigate the plate maze, or wait for the gas to clear and the safe to open first; deliberately triggering the trap rather than navigating it is a valid option, as it can be preferable on harder difficulties when the puzzle timer is very short.
+
+After grabbing the diamond, the crew must light a flare in the central courtyard and hold out for two minutes until Bile arrives. Hovering low over the courtyard, players must load their loot bags into the chopper. As it is an objective bag, players can only leave once the diamond bag has been loaded, and, if 4 non-objective bags are loaded, the chopper must leave and return after another two minutes.
+</tabber>
+
+==Variations==
+*The location of the electric boxes varies in location between attempts and in amount. Whilst the minimum of four will always be met, more can spawn through the map.
+*The location of the numerous white metal doors remains constant, however, their contents change between attempts:
+**Doors with a red and white "Employees Only" sign are empty, but can be used to stash bags, hide hostages or to simply evade patrols.
+**Doors with a orange and black electrical danger sign above them contain an electric box.
+**Doors with a black and white "Security" sign contain the camera system, a security guard, and the security computer.
+*The location of loot varies between attempts, as well as phony loot; as noted by [[Bain]], the loot of interest is inside the cases with 'GenSec' labels on the glass.
+*The time locks vary in length depending on difficulty: {{Color|value|60}} seconds on Normal, Hard, and Very Hard; and {{Color|value|90}} seconds on Overkill and above.
+
+==Mayhem+ changes==
+*More guards will patrol the museum halls.
+*Security cameras are replaced with the indestructible Titan variant.
+*The timer for the puzzle maze has been reduced to {{Color|value|30}} seconds.
+
+==The FBI Files==
+The McKendrick Museum of Ancient Arts sits beside the Mall, and its exhibitions draw huge numbers of tourists to the city. The display of The Diamond was its biggest draw. The Museum is a solid building, with only a limited number of options for breaking in. In addition to the theft of the Diamond, several artifacts from other exhibitions were taken.
+
+{{Color|value|My Notes: Never saw the appeal in a shiny rock, but I understand the appeal of its value to Crime.Net. We need to brief institutions on proper security. A handful of underpaid mall cops aren’t going to cut it. Further, need to look into who could fence a stone with this kind of value. Would require someone with very special connections.}}
+
+==[[Achievements (Payday 2)|Achievements]]==
+{{:Achievements (Payday 2)/The Diamond Heist}}
+<tabber>Post-release achievements=
+{{Achievement|Sparkle Sparkle|jpg|Complete the Diamond job on the Normal difficulty or above.}}
+{{Achievement|Watch Your Steps|jpg|Complete the Diamond job on the Hard difficulty.}}
+{{Achievement|Not Just Any Diamond|jpg|Complete the Diamond job on the Very Hard difficulty or above.}}
+{{Achievement|The Cursed Stone|jpg|Complete the Diamond job on the OVERKILL difficulty.}}
+{{Achievement|Day at the Museum|jpg|Complete the Diamond job on the Mayhem difficulty or above.}}
+{{Achievement|Cursed Wealth|jpg|Complete the Diamond job on the Death Sentence difficulty or above.}}
+{{Achievement|The Jonssonligan|jpg|Complete the Diamond job on the Death Sentence difficulty with the One Down mechanic activated.}}
+|-|Trivia=
+*'''Day at the Museum''' is a reference to the {{w|Night at the Museum (film series)|''Night at the Museum'' film series}}.
+*'''The Jonssonligan''' is a reference to the {{w|Jönssonligan|fictional Swedish gang and its film series}}. It being attributed to The Diamond heist points to it being a reference to the film ''{{w|Jönssonligan och den svarta diamanten}}'' ("The Johnson Gang & the Black Diamond") in particular.
+</tabber>
+
+==Trivia==
+*The heist trailer was narrated by [[Clover]].
+*Despite mentioning Clover many times on its announcement page, ownership and/or usage of Clover is not required to unlock any of The Diamond's achievements, nor does she play any role in the entire heist.
+*Similar to Big Bank, all of The Diamond's achievements can be unlocked within at least two runthroughs of the map, with '''Cat Burglar''' and '''Diamond in the Rough''' that cannot be obtained within the same session, and '''Honor Among Thieves''' requires at least one of the masks tied to the other achievements.
+*The supposedly cursed nature of the Diamond is reflective of the [[wikipedia:Hope Diamond|Hope Diamond]]. However, the Diamond's backstory is vastly different from that of the Hope Diamond.
+**One of the similarities is that, the Diamond in the game was in a necklace with Marie Antoinette, and a reported owner of the Hope Diamond is Marie Antoinette.
+*All of the preview achievements have cursenames, refering to the apparent cursed background of the Diamond.
+*By observing the newspaper clipping of The Diamond being showcased in DC, the name of the museum the crew breaks into is the "'''McKendrick Museum of Ancient Art'''". By that time, the museum's chairman was "San. Don '''McKendrick'''". During the [[Election Day]] heist, the crew helped [[The Elephant]] to get [[Bob McKendrick]] into office. As Bob's campaign website doesn't mention museum ownership in his biography, it is possible that the museum was founded by someone who shares his surname. Near the entrance of the museum is a gold plaque with honorable mentions of contributors, and Bob McKendrick is one of them.
+*Players who made a significant contribution to the Payday Community are listed on a golden plaque found in the main lobby area.
+**Some listed names include: General McBadass, Kknowley, AJValentine, And [TCN] StratManiac, among others.
+**Interestingly enough, one of the listed members is [[Bob McKendrick]], being the only name on the plaque that is of an in-game character.
+*The soundtrack of this heist, Breach 2015 is actually the remixed version of Breach of Security, the same theme that played during Diamond Heist in ''[[PAYDAY: The Heist]]''.
+*The McKendrick Museum is based on the real-life [[wikipedia:Freer Gallery of Art|Freer Gallery of Art]], which is located directly west of the Smithsonian Institute in Washington DC. The only major difference between Freer and the in-game museum is the large vault area containing The Diamond.
+**Signs of the "Andersonian Institute" can also be seen in the map.
+*Bain will sometimes refer to the crew as "Dr. Jones" and the museum, referencing both ''[[wikipedia:Indiana Jones|Indiana Jones]]'' and the character's catchphrase, "That belongs in a museum!"
+**The heist has a few other ''Indiana Jones'' references: the stealth portion of the heist's track, Breach 2015, is a quiet orchestral melody, similar to the music often played in the ''Indiana Jones'' films. Also, during the tile puzzle, if the heist is still in stealth, Bain may sometimes say "I swear I saw this in a movie somewhere. I hope darts don't shoot out of the walls", referencing an early scene from ''Raiders of the Lost Ark''.
+**Most of the game files for this heist are contained in a directory labelled "pd2_indiana"
+*Bain hints that he has visited the museum at least once before in his youth, as he may say "I loved this room as a kid..." when entering one of the exhibition rooms.
+*Prior to [[PC update history (Payday 2)#Update #50|Update #50]], the pressure plates were bugged for some players: once the timer reset, plates would rise back to default place slightly ''after'' the alarm was reactivated, causing the engine to mistakenly think an incorrect plate was pressed and breaking stealth.
+*Update #50 also fixed an issue where the Diamond was only worth $150,000 on all difficulties, as it was counted as an objective bag (Like [[Jewelry Store]], [[Armored Transport]] and several other heists). Since then the Diamond gives its full value (like [[Bank Heist]], [[Shadow Raid]] and several others).
+**The Diamond is now the first baggable loot to beat the price of Meth. The Diamond is worth $3,150,000 on OVERKILL, whilst the meth is worth $1,315,000 on OVERKILL. However [[Rats]] or [[Hotline Miami]] would still pay better due to the amount of meth attainable (versus only 1 diamond) and the extreme low payout of the artifacts on this heist as additional loot.
+***However, you can use the "duplication" bug (Multiple players interacting with 1 item to get multiple, i.e. Keycards.) to get more Diamonds.
+*The trailer hints that the crew would steal the diamond at night, after the museum closes. However the actual heist takes place in at sunrise, before the museum opens for the day.
+*Most of the loot on this heist can be destroyed by either your own or the cops' gunfire, as the artifacts will shatter if shot at. Caution should therefore be exercised, especially when breaking the cases to get to the artifact or during loud phases.
+*On one of the desks at the museum entrance, there is a [[Metal Detector]] released in the later [[The Alesso Heist (DLC)|Alesso Heist DLC]].
+*There's an easter egg that references ''[[wikipedia:Chivalry: Medieval Warfare|Chivalry: Medieval Warfare]]'' in the form of an Mason pavise shield on the wall in some places.
+*After the release of the [[Gage Chivalry Pack]], inside the in-construction room, all the weapons in the DLC are on the wall, and the room is now marked the "Medival Exhibition."
+*The Dentist may have connections to the diamond, as those who possessed it died with a bespectacled man to witness their death.
+**At the end of the trailer for the heist, Dallas attempts to pick up the diamond, but a similar bespectacled man appears behind and kills him with a silenced pistol, hinting to The Dentist’s betrayal in the future.
+
+==Blueprints==
+<gallery captionalign="center" columns="2" spacing="large" widths="250" orientation="none" position="center" hideaddbutton="true" bordercolor="transparent" bordersize="none">
+mus 1.png|Ground floor
+mus 2.png|Lower ground floor
+mus 3.png|Basement
+</gallery>
+
+==Video==
+<gallery position="center" widths="300">
+PAYDAY 2 The Diamond Heist Trailer|The Diamond Heist Trailer.
+Payday 2 Official Soundtrack - Curse Of The Diamond|Curse Of The Diamond (Trailer Music)
+Payday 2 Soundtrack - Breach 2015|Breach 2015 - The Diamond Heist.
+</gallery>
+
+{{Navbox PD2 Heists}}
+
+[[ru:Бриллиант]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Heists contracted by The Dentist]]
+[[Category:The Diamond Heist DLC]]
+[[Category:Stealth Heists]]

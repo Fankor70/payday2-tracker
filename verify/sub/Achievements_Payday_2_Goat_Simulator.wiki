@@ -1,0 +1,23 @@
+<tabber>Permanent Achievements=
+{{Achievement|Coffee Stain|jpg|Complete the [[Goat Simulator]] heist on the Death Wish difficulty or above.}}
+{{Achievement|BAAaa...*BANG*...aaAAH|jpg|In the [[Goat Simulator]] heist, throw a goat in the air, kill one enemy and catch the goat before it lands. Unlocks the "[[Masks (Payday 2)#The Goat Simulator Heist DLC|Wet Goat]]" mask, "[[Materials#The Goat Simulator Heist DLC|Hay]]" material and "[[Patterns#The Goat Simulator DLC|Goat Face]]" pattern.}}
+{{Achievement|Farmer Miserable|jpg|In the second day of the [[Goat Simulator]] heist, send all goats in separate cages on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#The Goat Simulator Heist DLC|Slick Goat]]" mask, "[[Materials#The Goat Simulator Heist DLC|Tongue]]" material and "[[Patterns#The Goat Simulator DLC|Fur]]" pattern.}}
+{{Achievement|Goat in 60 Seconds|jpg|In the first day of the [[Goat Simulator]] heist, secure 6 goats in the escape truck within 1 minute of it arriving. Unlocks the "[[Masks (Payday 2)#The Goat Simulator Heist DLC|Scout Goat]]" mask, "[[Materials#The Goat Simulator Heist DLC|Goat Eye]]" material and "[[Patterns#The Goat Simulator DLC|Giraffe]]" pattern.}}
+{{Achievement|Hazzard County|jpg|Complete the second day of the [[Goat Simulator]] heist within 4 minutes from when the escape car is available. Unlocks the "[[Masks (Payday 2)#The Goat Simulator Heist DLC|Goat Goat]]" mask, "[[Materials#The Goat Simulator Heist DLC|Flamingo Eye]]" material and "[[Patterns#The Goat Simulator DLC|Illumigoati]]" pattern.}}
+|-|Teasers=
+''The following appeared on January 12, 2016. They were replaced on January 14, 2016.''
+{{Teasers
+|1...
+|2...
+|3...
+|4...
+|Zzz...
+}}
+|-|Trivia=
+*The teaser achievements are likely a reference to the activity of [[wikipedia:Counting sheep|counting sheep]] used to put oneself to sleep. [[wikipedia:Sheep|Sheep]] and [[wikipedia:Goat|goats]] are closely related to each other.
+*'''Goat in 60 Seconds''' is a pun on ''Gone in 60 Seconds'', referring to either [[wikipedia:Gone in 60 Seconds (1974 film)|the 1974 film]] or [[wikipedia:Gone in 60 Seconds (2000 film)|the 2000 remake]].
+*'''Coffee Stain''' is a reference to the developers of ''[[wikipedia:Goat Simulator|Goat Simulator]]'', [[wikipedia:Coffee Stain Studios|Coffee Stain Studios]].
+*'''Hazzard County''' likely refers to the fictional county in the American TV series ''[[wikipedia:The Dukes of Hazzard|The Dukes of Hazzard]]''.
+*'''Farmer Miserable''' is a reference to the '''[[Big Oil#Achievements|Doctor Miserable]]''', an achievement released with the [[Gage Weapon Pack 02|Gage Weapon Pack #02 DLC]]. The requirements for unlocking both achievements are very similar.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

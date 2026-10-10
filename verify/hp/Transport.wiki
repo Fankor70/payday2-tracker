@@ -1,0 +1,189 @@
+{{For|heist|the DLC pack|Armored Transport (DLC)}}
+{{MultipleHeist2|Transport|Infobox Heist}}
+There are 5 Armored transport heists, [[Transport|Transport: Park]], [[Transport|Transport: Downtown]], [[Transport|Transport: Underpass]], [[Transport|Transport: Crossroads]], and [[Transport|Transport: Harbor]]{{Description3|tab6=Harbor|desc6=<br>We're intercepting Gensec trucks about to unload at the docks.<br>|tab2=Park|desc2=<br/>It's a beautiful day for a picnic at the park, and an armed robbery.<br/>|tab3=Downtown|desc3=<br/>We've got an armored transport making an unscheduled stop downtown.<br/>|tab4=Underpass|desc4=<br/>This underpass is a vulnerable spot for the convoy. Hit it hard.<br/>|tab5=Crossroad|desc5=<br/>We got Gensec trucks moving to the suburbs. Go hit 'em.<br/>|tab1=General|desc1=<br/>GenSec's overland armored convoys employ alot of ex-military types, providing firepower and muscle. And they move everything from little Jimmy's favorite baseball card, to the crowned jewels. We got a line of a convoy coming in to D.C.. Let's see what we can get.<br/>}}
+
+
+'''Transport''' are the missions included in the [[Armored Transport (DLC)|Armored Transport DLC]] for ''[[PAYDAY 2]]''. All 5 variations are one-day heists.
+
+As the heist opens into live combat, it is impossible to stealth one's way through it and thus, no stealth bonuses are available for it.
+{{TOC limit|3}}
+==Overview==
+Contracted by [[Bain]], this heist involves the crew attacking immobilized [[GenSec]] armored trucks for the loot contained within. The heist takes place in one of five different settings: Crossroads, Downtown, Harbor, Park and Underpass.
+
+While locations may vary, the prime objective is fixed: the crew will have to open anywhere from {{color|value|one}} to {{color|value|four}} GenSec armored trucks and rob the deposit boxes of their contents. The truck doors can be drilled or [[Trip mine (Payday 2)|blasted]] open, though using explosives destroys two of the rearmost boxes and their contents.
+
+Occasionally, a [[Bulldozer (Payday 2)|Bulldozer]] may be sitting inside one of the trucks and will engage the team once that truck is opened. The chance of this happening seems to increase with the heist's chosen difficulty.
+
+Once a single pack of loot has been bagged, the escape vehicle will call in to notify the crew. Any remaining requisite loot must be bagged as well, and moved to the vehicle before the crew can leave. 
+
+Heavy armor is recommended for all of these heists, since they start in combat, the trucks are relatively close to the spawn-point, and the setting (Crossroads, Downtown etc.) is not that big.
+
+==Objectives==
+#Drill or C4 into the immobilized trucks.
+#Pick or saw open the safe boxes.
+#Get the loot to the getaway vehicle ({{color|value|2}} on Normal, {{color|value|3}} on Hard, {{color|value|4}} on Very Hard, {{color|value|5}} on Overkill and above).
+#(Optional) Get additional loot
+#Escape.
+{{Clear}}
+==[[Assets]]==
+===Purchasable===
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+{{Asset|asset-expert-driver.png|Expert Driver|46000|Requires the Aced [[Sixth Sense]] skill to unlock}}
+
+===Intel===
+{{Asset|crossroads dlc (asset).png|Crossroads Location}}
+{{Asset|underpass dlc (asset).png|Underpass Location}}
+{{Asset|downtown dlc (asset).png|Downtown Location}}
+{{Asset|harbor dlc (asset).png|Harbor Location}}
+{{Asset|park dlc (asset).png|Park Location}}
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+
+==Walkthrough==
+Depending on the mission and difficulty, there are between 1 to 4 armored transport trucks to be plundered. Their doors must first be opened, either by drilling or by using 4 Shaped Charges. Be warned however, that if C4 is used to open a truck, the two deposit boxes closest to the blast will have their contents destroyed, if they have any. The presence of burned money bills and Bain's comments will reflect this choice if money bags were harmed by the explosives. Note that both side-doors will open alongside the rear ones, so trucks are open to fire (and access) from several sides while still providing cover. 
+
+Inside the trucks are nine deposit boxes along the left wall (when entering from the back door). Those must be individually either picked or [[OVE9000 saw|sawed open]]. These boxes may hold either mission loot ([[Loot|money, jewelry or gold]]) or loose cash items.
+
+Since [[PC update history (Payday 2, 2014)#Update #31|Update #31]], there is a 50% chance that one random deposit box will contain a secret document which, when picked up, used to unlock the bonus [[Transport: Train Heist]], as the second day of this heist. As of [[PC update history (Payday 2, 2015)#Update #57|Update #57]] the Train heist became a stand-alone heist, and the schematics only unlock an achievement.
+
+Armored trucks may have a standard GenSec red beret guard spawning when the doors are opened, but may also spawn a [[Bulldozer (Payday 2)|Bulldozer]] instead, if playing above Normal difficulty.
+
+The escape vehicle will be sent once a pack of mission loot has been bagged, but the actual escape will only be available once the minimum number of requisite loot bags have been secured.
+
+The '''Crossroads''' is the most difficult version of all 5, with police attacking from basically all directions and a heavy sniper presence. It has the highest payout, though, and cash registers in the surrounding stores plus 5 ATM's in the street can provide additional income. It is possible for Bulldozers to show up even on normal difficulty which can make this map particularly dangerous for unaware and or under-prepared heisters.
+
+==Variations==
+===General===
+*The number of armored trucks varies between 1 and 4 (1-3 on Park) depending on difficulty. Only on Normal will there ever be only one vehicle, and on Overkill upwards there will always be upwards of 3.
+*The baggable loot inside the trucks might either be Gold, Money or Jewelry.
+*The location of individual armored trucks vary between multiple positions.
+*Each truck will hold enough loot for three bags, the only exception being Crossroads (see below).
+
+===Crossroads===
+*The players' spawn locations include:
+**The rooftop of the convenience store
+**Any of the four alleyways
+*Each truck can carry between 2 and 5 bags of loot.
+
+===Downtown===
+*The escape vehicle is either a helicopter (from the roof of the building opposite from the starting point) or a van (at the starting point).
+**After bagging the first bag of loot, listen to what Bain has to say because he will say that he is sending in an escape helicopter or van. Use this information to move the bags to where the escape vehicle will be.
+
+===Harbor===
+*The starting point might be on the street or in the harbor.
+*The escape vehicle will either be a boat or a van.
+**If the escape vehicle is the boat, the boat will arrive at the edge of the harbor.
+**If the escape vehicle is the van, the van will arrive at one of the two possible locations: The road or in the harbor. Regardless of which, both escapes are located at the opposite side of where the boat escape would be.
+**After bagging the first bag of loot, listen to what Bain has to say because he will say that he is sending in an escape van or boat. Use this information to move the bags to where the escape vehicle will be.
+
+===Park===
+*The escape vehicle is a van parked at one of the multiple intersections near the park's perimeter.
+
+===Underpass===
+*The escape van can arrive at four possible locations, two on each end of the tunnel.
+**On the parking lot adjacent of the tunnel, or an alleyway on the opposite side of the street.
+**Next to the tunnel exit, right in front of one of the sideways of the underpass, or an alleyway further ahead on the other side of the street.
+
+==The FBI Files==
+Crime.Net has coordinated multiple hits against GenSec's armored trucks all across the city. The jobs are well-planned. Hits have included the use of cranes, truck cabs and planting explosives to blow up downtown skywalks.
+
+{{Color|Value|My Notes: Based on the fact that Bain is planning against moving convoys, there is almost certainly a leak in the GenSec operation. This indicates that Bain may have operatives within that organization. I recommend assisting GenSec in any way we can to help plug that leak.}}
+
+==[[Achievements (Payday 2)|Achievements]] & [[Safehouse#Trophies|Trophies]]==
+<tabber>Achievements=
+{{Achievement|I Do What I Do Best, I Take Scores|jpg|While wearing the "[[Masks (Payday 2)#Community|Hockey Heat]]" mask, finish any Armored Transport heist {{color|value|15}} times on OVERKILL difficulty or above.}}
+{{Achievement|But Wait - There's More!|jpg|On any Armored Transport heist, find the plans for the [[Transport: Train Heist|Train]] Heist.}}
+{{Achievement|If You Liked It You Should Have Put a Ring on It|jpg|Finish any Armored Transport heist, Having Secured at Least {{color|value|9}} Bags of Gold.}}
+{{Achievement|When "X" Marks the Spot|jpg|Complete the Transport: Crossroads job on the Normal difficulty or above.}}
+{{Achievement|Crosstown Traffic|jpg|Complete the Transport: Crossroads job on the Hard difficulty or above.}}
+{{Achievement|Our Roads Cross Again|jpg|Complete the Transport: Crossroads job on the Very Hard difficulty or above.}}
+{{Achievement|Fingers and Roads Crossed|jpg|Complete the Transport: Crossroads job on the Overkill difficulty or above.}}
+{{Achievement|Caught in the Crossfire|jpg|Complete the Transport: Crossroads job on the Mayhem difficulty or above.}}
+{{Achievement|At a Crossroads|jpg|Complete the Transport: Crossroads job on the Death Wish difficulty or above.}}
+{{Achievement|See You at the Crossroads|jpg|Complete the Transport: Crossroads job on the Death Sentence difficulty.}}
+{{Achievement|Why Did The Heister Cross The Road?|jpg|Complete the Transport: Crossroads job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Making My Way Downtown|jpg|Complete the Transport: Downtown job on the Normal difficulty or above.}}
+{{Achievement|Downtown Crowd|jpg|Complete the Transport: Downtown job on the Hard difficulty or above.}}
+{{Achievement|Hit 'em Hard|jpg|Complete the Transport: Downtown job on the Very Hard difficulty or above.}}
+{{Achievement|Rush Hour|jpg|Complete the Transport: Downtown job on the Overkill difficulty or above.}}
+{{Achievement|Bright Lights, Broke City|jpg|Complete the Transport: Downtown job on the Mayhem difficulty or above.}}
+{{Achievement|Downtown Madness|jpg|Complete the Transport: Downtown job on the Death Wish difficulty or above.}}
+{{Achievement|Makin' My Way Downtown|jpg|Complete the Transport: Downtown job on the Death Sentence difficulty.}}
+{{Achievement|Crime.net Street Party|jpg|Complete the Transport: Downtown job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Heisters in a Tincan|jpg|Complete the Transport: Harbor job on the Normal difficulty or above.}}
+{{Achievement|Working Class Hero|jpg|Complete the Transport: Harbor job on the Hard difficulty or above.}}
+{{Achievement|Heisty McHeistface|jpg|Complete the Transport: Harbor job on the Very Hard difficulty or above.}}
+{{Achievement|Criminal Waters|jpg|Complete the Transport: Harbor job on the Overkill difficulty or above.}}
+{{Achievement|Harboring Criminals|jpg|Complete the Transport: Harbor job on the Mayhem difficulty or above.}}
+{{Achievement|Shipment and Handling|jpg|Complete the Transport: Harbor job on the Death Wish difficulty or above.}}
+{{Achievement|Logistics Fee|jpg|Complete the Transport: Harbor job on the Death Sentence difficulty.}}
+{{Achievement|A Steel Container of Professional Badasses|jpg|Complete the Transport: Harbor job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Picnic|jpg|Complete the Transport: Park job on the Normal difficulty or above.}}
+{{Achievement|We Like Long Walks|jpg|Complete the Transport: Park job on the Hard difficulty or above.}}
+{{Achievement|No Day for Sightseeing|jpg|Complete the Transport: Park job on the Very Hard difficulty or above.}}
+{{Achievement|Stroll in the Park|jpg|Complete the Transport: Park job on the Overkill difficulty or above.}}
+{{Achievement|Park Clean Up|jpg|Complete the Transport: Park job on the Mayhem difficulty or above.}}
+{{Achievement|A Walk in the Park|jpg|Complete the Transport: Park job on the Death Wish difficulty or above.}}
+{{Achievement|Urban Hikeing|jpg|Complete the Transport: Park job on the Death Sentence difficulty.}}
+{{Achievement|Holding Court in the Street|jpg|Complete the Transport: Park job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Midnight Ride's Over|jpg|Complete the Transport: Underpass job on the Normal difficulty or above.}}
+{{Achievement|Traffic Congestion|jpg|Complete the Transport: Underpass job on the Hard difficulty or above.}}
+{{Achievement|Hazy Heisters|jpg|Complete the Transport: Underpass job on the Very Hard difficulty or above.}}
+{{Achievement|Tunnel Vision|jpg|Complete the Transport: Underpass job on the Overkill difficulty or above.}}
+{{Achievement|Mistified|jpg|Complete the Transport: Underpass job on the Mayhem difficulty or above.}}
+{{Achievement|It’s Always Foggy in Washington D.C.|jpg|Complete the Transport: Underpass job on the Death Wish difficulty or above.}}
+{{Achievement|A Ride Through Foggy Bottom|jpg|Complete the Transport: Underpass job on the Death Sentence difficulty.}}
+{{Achievement|Fog This Shit I'm Out!|jpg|Complete the Transport: Underpass job on the Death Sentence difficulty with the One Down mechanic activated.}}
+|-|Trophies=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-TheRobber.png|{{Mask tooltip|The Robber|color=legendary|Trophy-TheRobber.png|{{Quote|Armored cars. They are like toys to you.|Trophy description.}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Finish all [[Transport|Armored Transport]] heists on OVERKILL difficulty or above.|{{color|legendary|'''PLACEMENT:'''}}<br>The living room.|{{color|legendary|'''NOTES:'''}}<br>Also requires [[Transport: Train Heist]]}}
+</gallery>
+|-|Trivia=
+*'''It's Always Foggy in Washington D.C.''' is a reference to the popular TV series "{{w|It's Always Sunny in Philadelphia}}".
+*'''I Do What I Do Best, I Take Scores''' is a reference to the line "I do what I do best, I take scores. You do what you do best, try to stop guys like me" from the 1995 film ''{{w|Heat (1995 film)|Heat}}''.
+*'''But Wait - There's More!''' is a reference to various infomercials using this phrase, among other variations, to signify there being more to the current offer than typically expected. To this effect, it refers to the extra Train Heist that used to be unlocked after finding the plans.
+*'''If You Liked It You Should Have Put a Ring on It''' are lyrics to {{w|Beyonce}}'s song "{{w|Single Ladies (Put a Ring on It)}}".
+*'''Why Did The Heister Cross The Road?''' is a reference to the riddle "{{w|Why did the chicken cross the road?}}".
+*'''Bright Lights, Broken City''' is a reference to either the song {{w|Bright Lights, Big City (song)|Bright Lights, Big City}}, the {{w|Bright Lights, Big City (novel)|novel named after the song}}, or the {{w|Bright Lights, Big City (film)|film based on the novel}}.
+*'''Heisty McHeistface''' is a reference to the boat {{w|Boaty McBoatface|Boaty McBoatface}}.
+*'''A Steel Container of Professional Badasses''' is from Transport: Harbor's briefing screen.
+*'''Fog this shit I'm out!''' is a pun on "fuck this shit, I'm out!".
+*'''See You at the Crossroads''' is likely a reference to Bain's post-heist line in PAYDAY: The Heist ("See you at the safehouse,"). This could also be a reference to the song of the same name that plays post-heists.
+</tabber>
+
+==Trivia==
+[[File:800px-HeatColt654-1.jpg|thumb|325px|The armored transport robbery scene from ''Heat'']]
+*As with many other contents of the PAYDAY series, Armored Transport was inspired by the 1995 crime film ''{{w|Heat (1995 film)|Heat}}'', with the DLC title card, Hockey Heat mask, and armored car robbery being the most prominent homages.
+*Even if escaping via helicopter or boat, [[:Category:Escapes|escape scenarios]] are still possible. The crew will regardless spawn next to a van.
+*If Harbor is played with AI bots, there is a chance that the bot will kick open the container door.
+*Based on [[Solomon Garrett|Commissioner Garrett's]] speculations, Bain might have had an insider amongst the employees at GenSec, due to the Transport heists (and subsequently Train) are plotted based on highly confidential company secrets.
+*Each of the armored trucks contain two guards, whereas in real-life they typically contain three; a driver, and two others to load and unload valuables.
+**On occassion, another GenSec security guard or a [[Bulldozer (Payday 2)|Bulldozer]] may leap out of the truck after opening it.
+*In all of these Transport missions, the driver exits the cabin in an attempt to deter a robbery, whereas real security firm's protocols require the driver to stay inside the reinforced truck and never exit until the car is safely back in the garage. This is purely for gameplay reasons as the missions would be unwinnable if the driver could pull the vehicle out of the map.
+**In the [[Green Bridge (Payday 2) |Green Bridge remake]], a GenSec armored truck is present, with the driver and guards conspicuously absent. 
+*Park and Underpass are the only Transport heists to not feature [[Sniper (Payday 2)|snipers]] at any point.
+
+==Gallery==
+<gallery>
+Crossroads.jpg|Crossroad's starting point. It's among one of the points which you'll start at.
+Downtown.jpg|Downtown's starting point.
+Harbor.jpg|Harbor's starting point. You'll be starting in an steel container.
+Park.jpg|Park's starting point. You'll be starting next to the truck which clashes the GenSec convoy.
+Underpass.jpg|Underpass's starting point. You'll starting next to the Ambulance which acts as a ambush for the convoy.
+GenSec Transport.png|The GenSec Transport, as it appears in the Transport: Park Heist, it will remain Identical in all Transport Heists
+Payday2 ArmoredTransportDLC E32014 001.jpg|Crossroads gameplay.
+Downtown gameplay..jpg|Downtown gameplay.
+IUPHO4WLJEK.jpg|Underpass gameplay.
+Park gameplay.jpg|Park gameplay.
+Transport Harbour Gameplay.jpg|Harbor gameplay.
+Doors Being blown open.jpg|Armored car doors being blown open
+</gallery>
+
+{{Navbox PD2 Heists}}
+
+[[ru:Транспорт]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Loud-Only Heists]]
+[[Category:Armored Transport DLC]]
+[[Category:Heists contracted by Bain]]

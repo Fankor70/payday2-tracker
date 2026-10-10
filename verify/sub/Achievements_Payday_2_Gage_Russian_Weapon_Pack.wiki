@@ -1,0 +1,19 @@
+<tabber>Permanent=
+{{Achievement|Russian Arsenal|png|Complete any heist from start, using only weapons from the [[Gage Russian Weapon Pack]] on the OVERKILL difficulty or above. Unlocks the "[[Masks#Gage Russian Weapon Pack|Red Machine]]" mask, "[[Materials#Gage Russian Weapon Pack|Tricolor]]" material and "[[Patterns#Gage Russian Weapon Pack|Russian Gamble]]" pattern.}}
+{{Achievement|Spray Control|png|Kill {{color|value|32}} enemies without reloading with the [[Tatonka]] Submachine Gun. Unlocks the "[[Masks#Gage Russian Weapon Pack|War Balaclava]]" mask, "[[Materials#Gage Russian Weapon Pack|Russian Camouflage]]" material and "[[Patterns#Gage Russian Weapon Pack|Red Star]]" pattern.}}
+{{Achievement|Have Nice Day!|png|Kill {{color|value|300}} enemies using any weapons from the [[Gage Russian Weapon Pack]]. Unlocks the "[[Masks#Gage Russian Weapon Pack|Kokoshnik]]" mask, "[[Materials#Gage Russian Weapon Pack|Propaganda Palette]]" material and "[[Patterns#Gage Russian Weapon Pack|Bear Fight]]" pattern.}}
+{{Achievement|Sneaky Beaky Like|png|Complete any heist in stealth from start, using only weapons from the [[Gage Russian Weapon Pack]]. Unlocks the "[[Masks#Gage Russian Weapon Pack|Matryoshka]]" mask, "[[Materials#Gage Russian Weapon Pack|Ceramic Gzhel]]" material and "[[Patterns#Gage Russian Weapon Pack|Prison Statement]]" pattern.}}
+|-|Teasers=
+''The following appeared on March 21, 2017 and were removed on March 23.''
+{{Teasers|
+Time|
+Is|
+Money|
+Friend|
+}}
+|-|Trivia=
+*''Time is Money, Friend'' is a quote from {{w|World of Warcraft}}.
+*''Sneaky Beaky Like'' is one of a few quotes from the Counter-Terrorist faction [[w:c:counterstrike:SAS|SAS]], spoken upon the round starting in ''[[w:c:counterstrike:Counter-Strike: Global Offensive|Counter-Strike: Global Offensive]]''.
+*''Have Nice Day!'' is the signoff line of FPSRussia, a weapons demonstrator and commentator on Youtube.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

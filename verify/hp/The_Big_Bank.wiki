@@ -1,0 +1,241 @@
+{{For|heist|the DLC|Big Bank (DLC)}}
+{{MultipleHeist2|Big Bank|Infobox Heist}}{{Quote|Today is the day. The day the Benevolent Bank goes down.|The Dentist offering the heist.}}
+'''The Big Bank''' is a one day heist in ''[[PAYDAY 2]]'', contracted by [[The Dentist]]. It was released on June 17, 2014, as part of the [[Big Bank (DLC)|eponymous DLC pack]] and [[PC update history (Payday 2) Old#Update #30|Update #30]]. The crew must rob the "Benevolent Bank", which supposedly makes the [[First World Bank]] from ''[[PAYDAY: The Heist]]'' look like a "toy store". Recurring minor character [[Minor characters (Payday 2)#Bobblehead Bob|Bobblehead Bob]] can be found on this heist.
+
+It can be completed in stealth or full-blown aggression.
+
+==Objectives==
+# Enter the bank.
+# Locate and access the server room.
+# Get remote access to the computer.
+# Start the time lock to open the security gate.
+<tabber>Stealth=
+# Wait for the time lock to finish.
+# Use the fingerprint scanner.
+# Grant access from the security consoles.
+# Use the managers computer.
+# Open the vault.
+|-|Loud=
+# Re-wire the time lock.
+# Restart the time lock and wait for it to finish.
+# Rotate the crane until Floyd the pig is above the bank.
+# Release Floyd the pig.
+# Get the "Beast Drill".
+# Drill into the vault.
+</tabber>
+# Loot the vault.
+# Escape (varies with pre-planning).
+
+==[[Pre-Planning]]==
+A feature introduced in this heist, pre-planning allows the crew to plan out the location and placement of dead drops, keys, escape routes and other useful changes prior to starting the heist. The limiting factor on pre-planning is "favors" — each item has a cash and favor cost (between 1 and 8) and the whole team is limited to {{color|value|10}} favors; the number does not scale with difficulty.
+Items the crew can plan out include escape routes, vault drilling equipment, ammo and health bags and their placement in the bank, key cards, keeping certain doors open, poisoning the guards' food to reduce their numbers, and more.
+{{Big Bank/PrePlan}}
+
+==Walkthrough==
+<tabber>Stealth=
+Players must note that the security room is located within the vault area and thus, is inaccessible for half of the heist. Because of this, players must take care to avoid being spotted by a camera. It is possible that a camera may overlook the timelock door. Players should take the [[Nimble]] skill to allow easier infiltration.
+
+Entering the bank, the team must find and enter the server room, which requires a card, drill or ECM to open. Hacking the server will only provide the time lock key approximately 5% of the time. If the code is not on the server, Bain will explain a staff computer in the east-side offices must be used to grant access.
+
+Interacting with the server will cause the correct computer to beep and display a command prompt for a few seconds, so one player should repeatedly hack the server whilst the other player(s) keep an eye out for the correct one. The correct computer may be either located on the first or second floor. If it is located on the first floor, players can access it without too much difficulty. The civilians in the downstairs offices can all be cable-tied and hidden behind a desk if necessary. If the computer is on the second floor, the procedure is similar, but somewhat more difficult. Because the upstairs office is in an open area surrounded by windows, it is harder to pacify all civilians undetected. However, if done carefully, it is still possible to tie down all civilians in this area and hide them behind a desk. After finding the computer in question, players should mask up or report its location to the team and carry out the hack, taking care to deal with guards, cameras, and civilians as necessary.
+
+After gaining access, a timelock will begin at {{color|value|3:00}} or {{color|value|2:30}}, or {{color|positive|2:30}} or {{color|positive|2:00}} with time lock glitch asset. Shortly after the time lock is started, a GenSec dispatcher will call the phone in the manager's office. The players must answer, similar to [[GO Bank]]. If the dispatcher is convinced by the response Bain gives, nothing further will happen. However, sometimes the dispatcher will not be convinced by the phone response and will send two officers to investigate the unscheduled timelock activation. The chance that the dispatcher sends officers is determined by the number of civilians killed, starting at 0% and increasing by 4% for each dead civilian.<ref>[https://steamcommunity.com/sharedfiles/filedetails/?id=267214370 The Long Guide]</ref> Additionally, Bain often warns of elevators approaching the player's floor. Two-thirds of the time an additional guard will spawn in one of these elevators.
+
+Entering the vault area, players must first use a fingerprint scanner on the vault door, and then activate two green buttons in separate areas to start the time-lock. Hacking the manager's computer for the unlock code, players must then enter it into the vault door keypad, unlocking the door's wheel and allowing the vault to be entered. Moving bags carefully, players can escape stealthily using the van near the building's south-west garage, or the elevator shafts if purchased.
+|-|Loud=
+Once the alarm sounds, the police will arrive in 30 seconds (or with assets, up to 60 seconds for silent alarms). Players must find and hack the correct employee computer to activate access the vault area; the doors are time locked, and the keypad must be reactivated should the police reach it.
+
+Finding the right computer to hack isn't very hard. Every time someone interacts with the computer in server room, the correct computer will make a beeping noise and flashes an error message on its monitor. There is no limit to how many times the crew can interact with the server computer, so keep checking if you haven't found the right one. Although do note that it takes 5 seconds to complete the interaction process and the screen will only flash the error message for one second, so at best that will be 1 interaction per computer checked. The interactable computers will always be in the eastern offices.
+
+'''Plan B-1: "The Beast"'''<br>
+Meanwhile, another player must drop the giant piggy-bank for the next sequence. Once the alarm is sounded, a zip-line can be placed on the roof which leads to a nearby crane. Climbing up to the driver cab, the controls must be interacted with four times, with the last use dropping the piggy-bank and its contents into the central bank area. Additionally, players may need to access a maintenance room on the roof (with a security door), as an additional step to unlocking the time-lock doors, if they have not been unlocked yet prior to the heist going loud.
+
+The giant drill, named "The Beast", must be carried in three separate bags into the next area. Additionally, each player should use the case of spares to take a part: The Beast jams only when it breaks, and players must repair it with one-use spare parts to resume drilling. After the drill finally breaks through, the vault door must be interacted with, at which point it can be accessed.
+
+'''Plan B-2: Thermite'''<br>
+Note that the process of dropping the pig and carrying of the drill parts will be not needed if the {{color|value|Thermite}} asset was purchased. Save for breaking into the time-lock room on the roof (if necessary), players do not need to head to the roof, but instead have to pick up the thermite pack; after getting it from the location of choice, it can be taken straight to the vault for placing.
+
+Within the vault there will be several locked caged areas (anywhere from a minimum of {{color|value|2}} to a maximum of {{color|value|6}}, the number varies depending on difficulty) - each can hold baggable loot such as stacks of cash or gold, along with safety deposit boxes. These cages can be opened by the keys which can be found in the surrounding area, or alternatively with the keys obtained from the Key Box, which typically spawns somewhere on the map. The cage doors can also be opened by drilling, using an OVE9000 power saw, or with C4 charges.
+
+Once the players have secured the needed amount of loot, a minimum of 4 bags must be moved outside the vault and towards the escape marker. The pre-planned escape scenario then plays.
+</tabber>
+
+===Escape===
+Aside from the standard plans, there are three alternate escapes available in pre-planning. '''"The Elevator Trick" and "C4 Tunnelling"''' cost {{color|value|3}} favors, while '''"Bus Stop"''' requires {{color|value|6}} favors. Each escape option has its own advantages and disadvantage. The escape options are as follows:
+#'''Basic Stealth Escape - The Van:''' If the alarm hasn't sounded and players haven't bought '''"The Elevator Trick"''', bags must be moved to the van parked in front of the southwest garage. If the garage door is closed, bags must be thrown from the roof access area on the floor above to avoid an alert, as the main bank is the only other exit. If the alarm is raised at any time, the van will leave and players must escape by other means. Only an option in stealth.
+#'''Basic Loud Escape - The Helicopter:''' If the alarm has sounded and players haven't bought another escape, a helicopter carrying a loot cage arrives at the roof, which players fill with loot before boarding to escape. Given the position of the vault and the helicopter's landing site, there is a lot of ground to cover and snipers to deal with, making it a high-risk option.
+#'''The Elevator Trick:''' The crew opens an elevator door in the vault area, before making a drop (you can get back up via a ladder in the other shaft) through a revealed elevator hatch. Landing in the basement garage, an escape van waits a few meters away. As the other options draw great attention, this is the only alternative stealth escape; however, it can be used regardless of alarms, also making it ideal for loud escapes due to its location.
+#'''C4 Tunnelling:''' Players use C4 to blow a hole into an adjacent worksite, where a zip-line leads to a dump truck. The crew then needs to load the truck with loot bags (one at a time, using the zip-line), before using it to escape. Loading all the loot is slow due to reliance on the zip-line, and this route is also extremely exposed; a total of 4 snipers continuously spawn in a building across the street, making it riskier than the other escape assets. Only an option if the heist goes loud.
+#'''Bus Stop:''' Using a phone in a vault-area office, a driver rams a stolen bus through the bank wall, creating a hole from the vault area to an adjacent parking lot. Players then climb through the bus to the lot, where the escape vehicle is waiting. Only an option if the heist goes loud. The Bus Stop escape is a more effective loud escape option than the chopper or C4 escape. This is because the "bus stop" is relatively close to the vault, arrives as rapidly as all other escape options, and does not subject the crew to sniper fire, not to mention the particularly entertaining prospect of ramming a city bus through a wall to escape. Note that while enemies will not spawn in the parking area on the other end of the bus, they can and will follow heisters through the bus.
+
+==Strategy==
+*The mission is best treated as a mix of [[Framing Frame|Framing Frame (Day 3)]] and [[GO Bank]]. By playing stealthily, the pager limit means navigating guards and jumping through a series of very complicated hoops (Framing Frame) whilst working around a huge number of civilians and working against random chance (GO Bank).
+**This also applies to going loud: expect long assault waves of cops swarming from everywhere (Framing Frame) along with minimal cover and, unless an alternative escape is available, prepare to soak a lot of sniper damage loading loot bags (GO Bank).
+*Unlike other missions, masking up should be done tactfully, and preferably as late as possible; as soon as players put on their mask, most of the ground floor becomes hazardously inaccessible due to very high civilian traffic. Aside from the one player opening the server room, others should remain in casing mode and consider getting the [[Chameleon]] skill beforehand to help spot guards and plan ahead.
+*Guards are dispatched to investigate broken cameras, but sometimes the guard assigned to investigate will be in the vault area of the bank. Since that guard has no path to the camera, it causes him to go stationary, which is why sometimes there will be stationary guards in the vault area at seemingly random locations.
+*Mission objects, such as keyboards for the staff terminal, keycards, and the keybox, are all interactable through walls. Use this to your advantage, such as using a staff terminal without having to deal with the civilian behind it.
+*Even if the team plans and agrees to go loud, stealth should still be maintained as long as possible, and players should also get into positions before masking up (so as to be efficient). For example, having whomever is dropping the pig climb to the roof beforehand will mean they can place the zip-line and act sooner, meaning less time spent from the group during the first assault wave.
+**This player can also already drill open the roof shack to allow quickly starting the timelock, potentially even before the heists goes loud, and requiring only a single player to be on the roof, even in the loud approach.
+*When traveling to the crane in order to maneuver the large piggy bank, it may be wise to assign two players for the task, as snipers can spawn nearby the crane and attack players. If someone becomes incapacitated on the crane, it can jeopardize the heist due to its isolated area and considerable time will have to be spent in order to reach the heister in need.
+**Also, good communication is required when dropping the piggy bank, as any player at the drop zone will be incapacitated.
+*The [[OVE9000 saw]] should only be equipped with the team's agreement. While a saw means faster opening of security doors, grate doors and safety deposit boxes, this costs the team a possible weapon on a heister, and thus less firepower.
+**It should be noted that since [[the Butcher Mod Pack 2]] adding in the Silent Motor, it is now a viable tool for quietly opening vault doors during stealth. However, as the OVE9000 has poor concealment, it should again only be equipped with the team's agreement due to the increased detection risk during stealth.
+*Though ammo and health can quickly become scarce, hunkering down is often the best option before leaving the vault; by waiting out an assault wave to move bags and by killing enemies as they funnel into the vault, escaping can be made much easier.
+*The escape becomes available as soon as the first loot bag is taken, and the C4/bus/elevator escapes require interaction to initiate. Should the current wave end while loot is being bagged or moved, one player should run ahead and start the interactions, saving the need to wait around with all the bags when another wave is impending.
+*As the security room spawns near the vault, consider leaving your final pager for the camera operator. The interior of the security room can be a safe place to hide or to stash bodies and loot - there are almost no other safe spots in the back half of the map. Note, however, that camera ranges in the map have been designed so that all objectives can be completed without [[Nimble|looping]] or destroying cameras.
+*While gold bags are too heavy to throw up and out of the vault using the hole made by thermite, they can be thrown far enough with aced [[Transporter]] that another player should be able to reliably catch the bags. With good aim, the cash bags can also be thrown straight into the adjacent conference room (where the Bus normally arrives) through the windows or doorways.
+*On the First Floor Vault area, the two Meeting Rooms have a telephone on the table that can be interacted with, causing them to ring and attract guards.
+*The C4 Tunneling escape (see below) leaves you exposed to continually spawning snipers so is best avoided when wearing light or medium armor. However, the limitless supply of snipers makes it perfect for unlocking the [[Achievements (Payday 2)#Armored Transport DLC|I'm Not a Crook!]] and the [[Achievements (Payday 2)#Gage Sniper Pack|A Taste of Their Own Medicine]] achievements.
+*If running the heist stealthily it is wise to use the management corridor and adjoined staircase to ambush the patrolling guards and the four management civilians - the balding man in a black suit, the elderly woman, the woman in a black suit and the woman in a red suit. Unless more civilians spawn from the elevator during the timelock sequence, the management offices will subsequently be entirely safe for stashing bodies, hostages and loot bags.
+**These new wandering staff members will path out on to the flat roof above the garage and stand at the air conditioning unit next to the window, facing towards the street. Bags and hostages who are carefully tidied right into the corner behind the vent will not be seen.
+*The downstairs computer room is generally easier to hack while in stealth, as only the managers and the guards will move through it (these can be dealt with, see above) and each office worker has their lines of sight severely restricted by their cubicle walls. Note that the computers can be hacked through the cubicle walls - it's believed that this hasn't been "fixed" as it would be almost impossible to solo the heist in stealth otherwise.
+*The upstairs computer room will contain a few office workers at desks who continually receive civilian customers who will sit opposite them for a time before leaving. However, if the office worker is killed or tied down, the associated civilians will no longer spawn and path upstairs, making it possible to control the entire upstairs area of the bank lobby.
+*Guards incapacitated with the Poisoned Cake asset will recover from their condition to investigate any non-[[Hardware Expert|silent drills]] placed in their vicinity. Heisters should take care not to waste their favors by placing loud drills on the left side of the bank (if the server room spawns there) if the cake was placed in the Canteen.
+*The laser grid may appear impenetrable at first but is always set up to have at least one configuration which allows a crouching heister to move through. Patience and timing are key. Sometimes the lasers can even accommodate a standing heister to sprint through once the pattern is recognized, rather than crouching. Do not expect this luxury in every instance however.
+**Note that the laser grid runs locally on each player's computer - do not attempt to synchronise your movements based on the host or another player's instructions. This is to avoid lag-issues ruining stealth.
+* Sometimes, a camera might overlook the lasergrid, making it frustrating and risky to wait for a pattern to get through. Also, it spawns too high to be looped.
+*It is not possible for an unmasked heister to grab the Vault Key from its Key Box using Aced [[Chameleon]] even if another player opens the box for them, despite not requiring an interaction circle.
+*For stealth, it is possible to abuse the AI pathway system to make all patrolling guards in the inner area become immobile in a staircase. By placing a noisy drill on the painting safe before opening the laser doors, guards in the inner area have a chance to hear the drill and attempt to path their way to it, but due to the closed doorways they will instead go to the position closest to the sound, which is in a tiny staircase, and they will stay there even after the door had opened. This way, it is possible to immobilize all patrolling guards in the inner area and making stealth much easier.
+*Players should be careful of the guard variant with a suit, as this can be easily mistaken as a civilian at first glance, given how similar civilian models exist.
+*When doing no AI run on DSOD, elevator escape could be a dangerous escape depends on build and your game knowledge. C4 Tunneling would be a viable choice since it is unlikely to get surrounded by enemies, although you will need to handle the snipers.
+
+==Variations==
+As with all heists, minor variations exist throughout the map. These include:
+*The server room will spawn in one of three locations: under the main stairs, eastern side; the staff cafeteria, near the garage; or the upper-west floor, adjacent to the managers office.
+*A keybox spawns somewhere on the map, containing within it keys for the doors inside the vault. There are 3 potential spawns in the pre–time lock door area of the map, including a spot behind the teller line, on the north wall of the southern manager office (The one without the painting), and the western wall of the north manager office (The one with the painting safe). If it does not spawn in those places, it spawns in the vault area, where it can be found near either of the green buttons, or at the bottom of the east stairs or behind the L-shaped desk in the vault area. The "Mark Keybox" asset will make it easier to find the keybox by highlighting it with an orange glow, however this is arguably a waste of favors.
+*A camera may spawn at the backstairs (facing the door leading to the roof access ladder).
+*There are always two keycards in the lobby area of the map- the "manager's keycard" and a separate static keycard.
+*By placing the 2 keycards in the keycard holders at the time lock, the lasers will be disabled
+**The manager's keycard will either be on the person of the bank manager (a bald, middle-aged man wearing a black suit, similar to other bank heists and [[Car Shop]]), or inside the painting safe in the back management corridor office.
+**The static keycard will spawn at one of a number of locations:
+***On one of the desks in the upper or lower office areas
+***On a desk in the management corridor
+***On a teller area desk
+***On a table or the counter in the cafeteria
+***On a table on either floor of the front area of the lobby.
+*The time-locked doors will always be in the center of the north wall, but can spawn on either floor. (If on the 1st floor, the 2nd floor area will be replaced by a statue, seen above.)
+*The computer required to hack the time lock will always be random, and can be on either floor.
+*If the time-lock doors have not been bypassed before an alarm sounds, players must break into a maintenance room with a security door. The room is always on the roof, but can spawn in a few different spots.
+*Rarely, after first interacting with the server, the time lock codes may be gained directly from the server, forgoing the hacking of a staff terminal. This will also immediately grant the [[Big Bank#Achievements|It Takes Two to Tango]] achievement if it hasn't already been unlocked.
+*The balcony of the upper vault area entrance can vary: the two doorways will be connected by either a u-shape (parallel paths connected at the south) or an r-shape (one path, with a right turn connecting the first door to the second).
+*Guards and civilians will change patrols between games.
+*The security room, where the camera operator is located, will always spawn in the vault area (i.e. never in the main bank), but the room's location can vary.
+*Outside the main vault, the area above the east wall stairs will contain an unreachable balcony, where standard units and snipers spawn. There are three possible spawn locations; in relation to the counting room to the south, they are:
+**Directly ahead/opposite. This is one of the most favorable spots, as the police cannot reliably shoot at any of the possible vault door locations.
+**To the left. This is one of the most dangerous, as the police have the longest line of fire and a good view of the area in front of the vault.
+**To the right. Another dangerous location, as the police can easily fire down onto several possible vault door spots.
+*The vault door can spawn on the upper or lower level.
+*The vault's internal layout is randomized:
+**It may be made up of one or two levels.
+**Up to seven cages can spawn (can depend on difficulty). The cage doors can be opened by drill, saw, C4 charge, or keychain if obtained.
+***Only two cages out of the spawned cages will have security boxes.
+**Rows of small security boxes (functionally identical to thick walls as they can't be opened) might spawn, providing extra cover.
+*Once loud, the police may or may not use C4 to blast open the upper or lower wall that connects the two parts of the bank (depending on where the door spawned). This can make extraction easier if using the standard Helicopter escape, as it allows the team to bypass the lower level entirely - most notably avoiding the cramped stairwells.
+
+==Mayhem+ changes==
+*More civilians spawn in the front of the bank.
+*All cameras are replaced with the Titan version.
+
+==The FBI Files==
+We have a room full of files detailing attempted robberies on this place, going back decades. However, not one has been successfully completed. The Benevolent take their security extremely seriously, and their preparations are some of the best we at the Bureau have seen.
+
+{{color|community|My Notes: Without giving them too much praise, Bains’ crew executed a text-book heist here. From the planning to the execution, it was a thorough job. This one should be getting taught at the Academy. The Benevolent is uncomfortably close to the White House, so I recommend tightening patrols around here.}}
+
+==Bugs==
+*Civilians can sometimes see through the level's geometry, thus making stealth attempts more (perhaps unreasonably) difficult.
+*Player can get stuck with no way out behind the ventilation unit [https://i.imgur.com/VMvRzxM.jpg seen on the bank's roof].
+*Sound effects will sometimes not be played if a player joins the game but is out of sync. Restarting the heist fixes this.
+*While on the Garage via "The Elevator Trick" asset, you can go beyond the van's location and see the outside part of the map.
+*By placing a non-silenced drill on the safe in the manager's office, patrolling guards in the vault area will attempt to investigate the drill after they walked into the audible range of the drill. Because these guards are programmed to never leave the vault area, they will be stuck in a staircase inside the vault area near the drill, vastly decreasing the difficulty of stealth.
+**However, they will become unstuck if the camera operator calls them to investigate broken cameras.
+*Security guard could get pass the camera room's door even it is closed
+
+==[[Achievements (Payday 2)|Achievements]] & [[Safe House#Trophies|Trophies]]==
+<tabber>Achievements=
+{{:Achievements (Payday 2)/Big Bank}}
+|-|Trophies=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-Clueless.png|{{Mask tooltip|Clueless|color=legendary|Trophy-Clueless.png|{{Quote|A nice, fat, benevolent pig full of money.|Trophy description}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Complete The Big Bank heist on the OVERKILL difficulty or above, with no crew member using any skills.|{{color|legendary|'''PLACEMENT:'''}}<br>The living room.}}
+Trophy-ItsNotEvenFresh.png|{{Mask tooltip|It's Not Even Fresh...|color=legendary|Trophy-ItsNotEvenFresh.png|{{Quote|Someone liked this sandwich so much that they locked in a safe to protect it. It must be really good.|Trophy description}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>In The Big Bank job, find the half-eaten sandwich in the safe|{{color|legendary|'''PLACEMENT:'''}}<br>Top Floor kitchen.}}
+</gallery>
+|-|Post-Release achievements=
+{{Achievement|You Can Only Plan to Fail|jpg|Complete the Big Bank job on the Mayhem difficulty or above.}}
+{{Achievement|Piggy Broke the Bank|jpg|Complete the Big Bank job on the One Down difficulty.}}
+{{Achievement|Matrix With Lasers|jpg|In the Big Bank job, open the vault by using the "Beast" drill and escape using the C4 Tunneling asset without killing any snipers on Death Wish difficulty or above.<br>''{{color|negative|Allows you to use thermite (and stealth?). You can kill the snipers behind the C4 tunnel wall without failing this achievement.}}''}}
+</tabber>
+
+==Trivia==
+[[File:Nyandozer.png|thumb|350px|The "Senpai-Dozer" and Bobblehead Bob]]
+*The protagonist civilian in the trailers is nicknamed "[[wikipedia:Bobblehead|Bobblehead]] Bob," alluding to his application for a loan to manufacture Bulldozer novelties. He appears in the level as an ordinary civilian, but there exists an achievement that requires the team to lead him to the door of the vault, like in the trailer.
+**The Bobblehead Bob civilian can either be killed during the course of the heist, escape before law enforcers arrive if the heist goes loud or be exchanged for a heister in custody. Any of the above situations will render the '''Backing Bobblehead Bob''' achievement impossible to obtain without restarting the heist. 
+*"Senpai-Dozer", a Steam community joke [[Skulldozer]], is featured as a bobblehead in the trailer, at 1:11. Unlike in-game Skulldozers, the "Senpai-Dozer" is depicted wielding a pump-action shotgun.
+*The Benevolent Bank has not been robbed for over 200 years, as mentioned on the DLC announcement site.
+*The bank's vault is unrealistically loaded to the brim with valuables and money. In reality, banks ''do not'' have several hundred thousands of dollars in cash on hand at any given time, specifically ''because'' of the possibility of getting robbed. The explanation given for this is because it has never been successfully robbed for over 200 years.
+**However, given that the history of the Benevolent bank includes the holding of Civil War gold, this is likely the reason why the bank has several gold bars in its vault, in which they date back more than a hundred years ago. 
+*Several people can be seen during the heist to apply for a credit. One of them wants to get the first American on the Sun.
+*The Benevolent Bank is based on and located at the site of the [https://en.wikipedia.org/wiki/Riggs_National_Bank Riggs National Bank], completed in 1902 and the former headquarters of the now-defunct Riggs Bank corporation founded in 1836.
+**Bain mentions that the Benevolent is "on the back of your ten-spots", referring to the adjacent [https://en.wikipedia.org/wiki/American_Security_and_Trust_Company_Building American Security and Trust Company Building] which was visible behind the [https://en.wikipedia.org/wiki/Treasury_Building_(Washington,_D.C.) Treasury Building] on $10 bills printed from Series 1928 to 1995. It is often grouped together with the Riggs National Bank building and is depicted as part of the Benevolent Bank building in-game. 
+**When selecting the heist the Dentist may mention the bank is located at "1500 Pennsylvania", the address of the Treasury Building as opposed to either the AS&T Company Building or the Riggs National Bank, located at 1501 and 1503-1505 Pennsylvania respectively.
+*"Knock knock!" is written on the side of The Beast.
+*The amputated thumb that is used to access the fingerprint scanner is of a much larger proportion compared to any other character model's hand in the game.
+*Inside the safe in a manager's office, you can sometimes find a keycard. A junk item (sandwich) occupies this spot most of the time, though.
+**The sandwich is a running gag used by Overkill for [[Loot#Junk|garbage loot]] that may be found in safes or deposit boxes.
+*This is the only heist that features no empty safety deposit boxes.
+*"Floyd the pig" is the name for the giant piggy-bank that's used to deliver the Beast Drill and its parts.
+**Floyd's name is a reference to the English rock band [[wikipedia:Pink Floyd|Pink Floyd]] and their famous "flying pigs" stage props used for their album "animals."
+**A golden Floyd is used for several Payday 2 anniversaries, where heisters must give it piggy bucks obtained by killing enemies. Golden Floyd will continue to grow bigger in size as more piggy bucks are given.
+*Lying around is a toothbrush, which is a possible reference to [[The Dentist|the contractor]] or the [[Panic Room]] easter egg.
+[[File:NdLzul.jpg|thumb|300px|The First World Bank reference.]]
+*In the hallways, numerous newspapers called 'NPC DAILY NEWS' can be found. These newspapers have headlines that make references to multiple subjects, some of which might reference the [[First World Bank]] reopening or hit by another record heist.
+**NPC itself is a reference to [[wikipedia:Non-player character|Non-player characters]], which may also refer to the civilians.
+**It is possible this was a subtle reference to them planning to add the heist to ''Payday 2'', despite at the time of Big Bank's release it was supposed to be its spiritual sequel and no old heists would be re-done.
+[[File:218620 screenshots 2014-06-17 00002.jpg|thumb|350px|The stock marquee, shown referencing Mann Co.]]
+* The stock value marquee in the staff office makes several references to companies in other games and media:
+**Several companies reference either in-game [[companies]], such as "White Mesa" (a reference to ''[[Wikipedia:Half-Life|Half-Life]]''<nowiki>'</nowiki>s Black Mesa), "[[Companies#Titan|TITAN]]" and "OVE Power Tools" from ''PAYDAY 2'', as well as "[[Bodhi]]'s Pool Maintenance and Repair" from ''PAYDAY: The Heist''.
+**Several companies reference Valve game ''[[wikipedia:Team Fortress 2|Team Fortress 2]]'', referencing the series' main factions (Reliable Excavation Demolition, Builder's League United, Mann Co., and Gray Gravel Co.), as well as characters and product brands ([https://wiki.teamfortress.com/wiki/Bonk_Atomic_Punch Bonk], [http://wiki.teamfortress.com/wiki/Dalokohs_Bar Dalokohs], Red Shed, and Conagher's Tool & Munitions, among others).
+**Numerous allusions to other Valve games, as well as other developers, are also noted; among them are "[[wikipedia:Gabe Newell|Newell]] and Sons", "[[w:c:left4dead:Mercy Hospital|Mercy Hospital]]", and "[[w:c:half-life:Gordon Freeman|Freeman]] [[w:c:half-life:Airboat|Airboat]] Tours", as well as reference to PAYDAY's own developers through "Starbreeze Suns" and "OVERKILL Bombers".
+**Cheese Toast Inc. might appear on the marquee, a reference to a ''PAYDAY 2'' running gag where optional safes might have nothing but a partially eaten cheese toast sandwich in them.
+**Jobbs Orchards is a reference to [[wikipedia:Steve Jobs|Steve Jobs]], former CEO of [[wikipedia:Apple Inc.|Apple]].
+**Northern Express is a reference to the children's book/movie ''[[wikipedia:The Polar Express (film)|The Polar Express]]''.
+**The Marquee cycles through all company names in alphabetical order.
+*"Why So Serious?" might appear on the main lobby marquee. This is a quote by [[wikipedia:Joker (Heath Ledger)|the Joker]] from ''[[wikipedia:The Dark Knight (film)|The Dark Knight]]'' film. The Benevolent's interior has a strong resemblance to the bank Joker's Gang attempted to rob at the beginning of the film.
+**Additionally, the Bus Escape is a reference to the same film, where the introductory heist involves escaping by smashing a stolen bus through the bank wall.
+*There are 2 mice (white and black) in the manager's office (the one that has the painting safe), even though there's only 1 computer.
+*Inscribed on the corner of the vault is "ΑΠΑΤΕ", the Greek name for [[wikipedia:Apate (deity)|Apate]], an evil spirit representing deceit that was released from Pandora's Box.
+*One of Bain's quotes when using the C4 to blow up the bank wall with the C4 Tunnelling asset ("There's a garbage truck positioned to pick up the bags. Deja vu, I know.") is a reference to the [[First World Bank]] heist in ''PAYDAY: The Heist'' in which the crew had to blow a hole through the wall using C4 and escape via a garbage truck.
+*When on the crane, it's possible to see the White House and the Washington Monument.
+*If one were to choose the Bus Stop escape, on the right corner to where you get off the bus, one can notice a black car that apparently crashed into the wall.
+*When the player is operating the crane, revealing the giant piggy-bank Bain will say "Yes, that is a giant piggy-bank. No, I haven't lost my mind."
+**However, if this is done before the time lock is complete, Bain will not mention the giant piggy-bank.
+*While completing the heist in stealth, the crew uses an amputated thumb to gain entry to the vault. In real life this wouldn't work, as fingerprint sensors are often made to sense body heat.
+*If the poisoned cake asset is used in the cafeteria, the poisoned guard will always be the same model, the suit one.
+* [[File:Bigbankmaptheory.png|thumb|408x408px]]It looks like the timelock doors were initially meant to be located in the middle of the bank, with the vault rooms location being more central and underneath the lobby. This theory also explains why a guard may spawn from an elevator that seemingly leads to nowhere during the timelock countdown.
+*Big Bank is the first Heist to have civilians spawn endlessly, other being [[San Martín Bank]].
+
+==References==
+<references/>
+
+==Blueprints==
+<gallery captionalign="center" position="center" hideaddbutton="true" bordercolor="transparent">
+0-0.GroundFloor.png|Ground Floor
+0-1.GroundVault.png|Ground Floor Vault
+1-0.FirstFloor.png|First Floor
+1-1.FirstVault.png|First Floor Vault
+2-0.Roof.png|Roof
+</gallery>
+
+==Videos==
+<gallery position="center" widths="275">
+PAYDAY 2 Big Bank Heist DLC Trailer|The Big Bank trailer
+Payday 2 B-roll DLC Big Bank E3|PAYDAY 2 B-roll DLC Big Bank E3
+Payday 2 Official Soundtrack - 22 Ode To Greed|Ode To Greed (The Big Bank Theme)
+Payday 2 Official Soundtrack - 23 Ode to Greed (instrumental)|Ode To Greed (instrumental)
+</gallery>
+
+{{Navbox PD2 Heists}}
+
+[[ru:Большой банк]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Stealth Heists]]
+[[Category:Heists contracted by The Dentist]]
+[[Category:The Big Bank Heist DLC]]

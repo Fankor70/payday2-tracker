@@ -1,0 +1,196 @@
+<tabber>Permanent Achievements=
+{{Showhide|Achievement List|
+{{Achievement|One More Down, No More To Go|jpg|Complete all contracts on the Death Sentence difficulty with the One Down mechanic activated. Unlocks "[[Masks (Payday 2)#One Down|The One Down Skull]]" mask.}}
+{{Achievement|Crime.net Expert|jpg|Complete all of [[Bain]]s contracts on the Death Sentence difficulty.}}
+{{Achievement|Back in My Days|jpg|Complete all [[:Category:Classic heists|Classic]] contracts on the Death Sentence difficulty.}}
+{{Achievement|Tell Me Why You Fall|jpg|Complete all [[:Category:Event heists|Event]] contracts on the Death Sentence difficulty.}}
+{{Achievement|Just an' Old Country Doctor|jpg|Complete all of [[The Dentist|Dentists]] contracts on the Death Sentence difficulty.}}
+{{Achievement|It Always Ends the Same|jpg|Complete all of [[Hector|Hector's]] contracts on the Death Sentence difficulty.}}
+{{Achievement|Home is Where the Battle is|jpg|Complete all of [[Jimmy|Jimmy's]] contracts on the Death Sentence difficulty.}}
+{{Achievement|Vernon's Shenanigans|jpg|Complete all of [[Vernon Locke|Locke's]] contracts on the Death Sentence difficulty.}}
+{{Achievement|Explosive Personality|jpg|Complete all of [[The Butcher|The Butcher's]] contracts on the Death Sentence difficulty.}}
+{{Achievement|Pleasure Doing Business With You|jpg|Complete all of [[Charon|The Continental's]] contracts on the Death Sentence difficulty.}}
+{{Achievement|The Second Statesman|jpg|Complete all of [[the Elephant]]s contracts on the Death Sentence difficulty.}}
+{{Achievement|Vlad Will Sing You a Song|jpg|Complete all of [[Vlad|Vlad's]] contracts on the Death Sentence difficulty.}}
+{{Achievement|Megalodon|jpg|Complete [[the Yacht Heist]] job on the Death Sentence difficulty.}}
+{{Achievement|Seventh Nightmare|jpg|Complete the [[Safe House Nightmare]] job on the Death Sentence difficulty.}}
+{{Achievement|Vlad's First Response Team|jpg|Complete the [[Aftershock]] job on the Death Sentence difficulty.}}
+{{Achievement|Boreal Betrayal|jpg|Complete the [[Alaskan Deal]] job on the Death Sentence difficulty.}}
+{{Achievement|F Sharp|jpg|Complete [[the Alesso Heist]] job on the Death Sentence difficulty.}}
+{{Achievement|Connoisseurs of the Fine Arts|jpg|Complete the [[Art Gallery]] job on the Death Sentence difficulty.}}
+{{Achievement|Rich Man's World|jpg|Complete the [[Bank Heist|Bank Heist: Cash]] on the Death Sentence difficulty.}}
+{{Achievement|Lockpicking Masters|jpg|Complete the [[Bank Heist|Bank Heist: Deposit]] on the Death Sentence difficulty.}}
+{{Achievement|Nothing Glitters Like Gold|jpg|Complete the [[Bank Heist|Bank Heist: Gold]] job on the Death Sentence difficulty.}}
+{{Achievement|Hey, It Looks Like You are Robbing a Bank|jpg|Complete the [[Bank Heist|Bank Heist: Random]] on the Death Sentence difficulty.}}
+{{Achievement|Bunker Buddies|jpg|Complete the [[Beneath the Mountain]] job on the Death Sentence difficulty.}}
+{{Achievement|Size Does Matter|jpg|Complete [[the Big Bank]] job on the Death Sentence difficulty.}}
+{{Achievement|Slick Heisting|jpg|Complete the [[Big Oil]] job on the Death Sentence difficulty.}}
+{{Achievement|Pain Train|jpg|Complete [[the Biker Heist]] job on the Death Sentence difficulty.}}
+{{Achievement|Theft From Above|jpg|Complete the [[Birth of Sky]] job on the Death Sentence difficulty.}}
+{{Achievement|EZ|jpg|Complete the [[Boiling Point]] job on the Death Sentence difficulty.}}
+{{Achievement|Prepare to be Boarded|jpg|Complete [[the Bomb: Dockyard]] job on the Death Sentence difficulty.}}
+{{Achievement|Make Like a Tree...and Get Out of Here|jpg|Complete [[the Bomb: Forest]] job on the Death Sentence difficulty.}}
+{{Achievement|Once Upon A Time in the Old Neighborhood|jpg|Complete the [[Brooklyn 10-10]] job on the Death Sentence difficulty.}}
+{{Achievement|Layers of Steel||Complete the [[Brooklyn Bank]] job on the Death Sentence difficulty.|image=Layers of Steel2.jpg}}
+{{Achievement|Petrolhead|jpg|Complete the [[Car Shop]] job on the Death Sentence difficulty.}}
+{{Achievement|My Compliments to the Chef|jpg|Complete the [[Cook Off]] job on the Death Sentence difficulty.}}
+{{Achievement|An incident Over on Keel Street|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Death Sentence difficulty.}}
+{{Achievement|Bad Code|jpg|Complete the [[Diamond Heist (Payday 2)|Diamond Heist]] job on the Death Sentence difficulty.}}
+{{Achievement|Cursed Wealth|jpg|Complete [[the Diamond]] job on the Death Sentence difficulty.}}
+{{Achievement|Stealing and Dealing|jpg|Complete the [[Diamond Store]] job on the Death Sentence difficulty.}}
+{{Achievement|Supporting Your Candidate|jpg|Complete the [[Election Day]] job on the Death Sentence difficulty.}}
+{{Achievement|Some People Want to See the World Burn|jpg|Complete the [[Firestarter]] job on the Death Sentence difficulty.}}
+{{Achievement|Bank on Me|jpg|Complete the [[First World Bank (Payday 2)|First World Bank]] job on the Death Sentence difficulty.}}
+{{Achievement|Four Heister Discount|jpg|Complete the [[Four Stores]] job on the Death Sentence difficulty.}}
+{{Achievement|An Artfull Heist|jpg|Complete the [[Framing Frame]] job on the Death Sentence difficulty.}}
+{{Achievement|We Can Be Trusteed|jpg|Complete the [[GO Bank]] job on the Death Sentence difficulty.}}
+{{Achievement|GOTs!|jpg|Complete the [[Goat Simulator]] job on the Death Sentence difficulty.}}
+{{Achievement|The House Doesn't Always Win|jpg|Complete the [[Golden Grin Casino]] job on the Death Sentence difficulty.}}
+{{Achievement|Thank You for Flying With OVERKILL Airline|jpg|Complete the [[Green Bridge (Payday 2)|Green Bridge]] job on the Death Sentence difficulty.}}
+{{Achievement|Sticky Asphalt|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Death Sentence difficulty.}}
+{{Achievement|Yes, I Rather Like Hurting Other People, Thank You For Asking|jpg|Complete the [[Hotline Miami]] job on the Death Sentence difficulty.}}
+{{Achievement|Hoxit|jpg|Complete the [[Hoxton Breakout]] job on the Death Sentence difficulty.}}
+{{Achievement|The UnSafe House|jpg|Complete the [[Hoxton Revenge]] job on the Death Sentence difficulty.}}
+{{Achievement|The_heister27|jpg|Complete the [[Jewelry Store]] job on the Death Sentence difficulty.}}
+{{Achievement|Petty Crimes|jpg|Complete the [[Lab Rats]] job on the Death Sentence difficulty.}}
+{{Achievement|Throwing a Tantrum|jpg|Complete the [[Mallcrasher]] job on the Death Sentence difficulty.}}
+{{Achievement|A Magnitude of Trouble|jpg|Complete the [[Meltdown]] job on the Death Sentence difficulty.}}
+{{Achievement|DIY EMP|jpg|Complete the [[Boiling Point]] job on the Death Sentence difficulty.}}
+{{Achievement|Shoot to the Beat|jpg|Complete the [[Nightclub]] job on the Death Sentence difficulty.}}
+{{Achievement|Forceful Eviction|jpg|Complete the [[Panic Room (Payday 2)|Panic Room]] job on the Death Sentence difficulty.}}
+{{Achievement|On the Edge of Madness|jpg|Complete the [[Prison Nightmare]] job on the Death Sentence difficulty.}}
+{{Achievement|Exterminator|jpg|Complete the [[Rats]] job on the Death Sentence difficulty.}}
+{{Achievement|Clowns to the Left of Me, Jokers to the Right|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs]] job on the Death Sentence difficulty.}}
+{{Achievement|Castle Doctrine|jpg|Complete the [[Safe House Raid]] job on the Death Sentence difficulty.}}
+{{Achievement|By a Christmas Miracle|jpg|Complete the [[Santa's Workshop]] job on the Death Sentence difficulty.}}
+{{Achievement|Casa de Palma|jpg|Complete the [[Scarface Mansion]] job on the Death Sentence difficulty.}}
+{{Achievement|Operation: PayNight|jpg|Complete the [[Shadow Raid]] job on the Death Sentence difficulty.|image=Operation PayNight.jpg}}
+{{Achievement|Lots of Pigs, But no Pigs|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Death Sentence difficulty.}}
+{{Achievement|Christmas Greetings From Russia|jpg|Complete the [[Stealing Xmas]] job on the Death Sentence difficulty.}}
+{{Achievement|See You at the Crossroads|jpg|Complete the [[Transport|Transport: Crossroads]] job on the Death Sentence difficulty.}}
+{{Achievement|Makin' My Way Downtown|jpg|Complete the [[Transport|Transport: Downtown]] job on the Death Sentence difficulty.}}
+{{Achievement|Logistics Fee|jpg|Complete the [[Transport|Transport: Harbor]] job on the Death Sentence difficulty.}}
+{{Achievement|Urban Hikeing|jpg|Complete the [[Transport|Transport: Park]] job on the Death Sentence difficulty.}}
+{{Achievement|Gravy Train|jpg|Complete the [[Transport: Train Heist]] job on the Death Sentence difficulty.}}
+{{Achievement|A Ride Through Foggy Bottom|jpg|Complete the [[Transport|Transport: Underpass]] job on the Death Sentence difficulty.}}
+{{Achievement|Pretty Pretty Princesses|jpg|Complete the [[Ukrainian Job]] on the Death Sentence difficulty.}}
+{{Achievement|Downtown Parking|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Death Sentence difficulty.}}
+{{Achievement|Avoiding the Dog Pound|jpg|Complete the [[Watchdogs]] job on the Death Sentence difficulty.}}
+{{Achievement|Drunk Flying|jpg|Complete the [[White Xmas]] job on the Death Sentence difficulty.}}
+{{Achievement|A Little Past Midnight|jpg|Complete the [[Cursed Kill Room]] job on the Death Sentence difficulty.}}
+{{Achievement|Dead, Wrapped in Plastic|jpg|Complete the [[Cursed Kill Room]] job on the Normal difficulty or above.}}
+{{Achievement|Fast Track to Hell|jpg|Complete the [[Cursed Kill Room]] job on the Hard difficulty or above.}}
+{{Achievement|If It Bleeds, Kill It|jpg|Complete the [[Cursed Kill Room]] job on the Very Hard difficulty or above.}}
+{{Achievement|Nowhere to Run|jpg|Complete the [[Cursed Kill Room]] job on the Overkill difficulty or above.}}
+{{Achievement|Chaos Breeds Order|jpg|Complete the [[Cursed Kill Room]] job on the Mayhem difficulty or above.}}
+{{Achievement|Bain's Lament|jpg|Complete the [[Cursed Kill Room]] job on the Death Wish difficulty or above.}}
+{{Achievement|All You Need is A Knife|jpg|Complete the [[Cursed Kill Room]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+
+}}
+|-|Teasers=
+''The following were added on February 26, 2018 and replaced March 1, 2018.''
+{{Achievement|This has advantages||This has advantages}}
+{{Achievement|both for bank robbers||both for bank robbers}}
+{{Achievement|and for law enforcement.||and for law enforcement.}}
+{{Achievement|In urban areas the||In urban areas the}}
+{{Achievement|transportation infrastructure||transportation infrastructure}}
+{{Achievement|is more highly developed,||is more highly developed,}}
+{{Achievement|especially where banks tend to cluster.||especially where banks tend to cluster.}}
+{{Achievement|Bank robbery||Bank robbery}}
+{{Achievement|is the crime||is the crime}}
+{{Achievement|of stealing||of stealing}}
+{{Achievement|money from||money from}}
+{{Achievement|a bank||a bank}}
+{{Achievement|while bank employees||while bank employees}}
+{{Achievement|and customers||and customers}}
+{{Achievement|are subjected||are subjected}}
+{{Achievement|to force,||to force,}}
+{{Achievement|violence, or a||violence, or a}}
+{{Achievement|threat of violence.||threat of violence.}}
+{{Achievement|This refers||This refers}}
+{{Achievement|to robbery of a||to robbery of a}}
+{{Achievement|bank branch,|bank branch,}}
+{{Achievement|as opposed||as opposed}}
+{{Achievement|to other||to other}}
+{{Achievement|bank-owned property||bank-owned property}}
+{{Achievement|such as||such as}}
+{{Achievement|a train,||a train,}}
+{{Achievement|armored car,||armored car,}}
+{{Achievement|or (historically)||or (historically)}}
+{{Achievement|stagecoach.||stagecoach.}}
+{{Achievement|It is a||It is a}}
+{{Achievement|federal crime||federal crime}}
+{{Achievement|in the United States.||in the United States.}}
+{{Achievement|According to||According to}}
+{{Achievement|the Federal Bureau of Investigation's||the Federal Bureau of Investigation's}}
+{{Achievement|Uniform Crime Reporting Program,||Uniform Crime Reporting Program,}}
+{{Achievement|robbery is||robbery is}}
+{{Achievement|"the taking||"the taking}}
+{{Achievement|or attempting||or attempting}}
+{{Achievement|to take anything||to take anything}}
+{{Achievement|of value||of value}}
+{{Achievement|from the care,||from the care,}}
+{{Achievement|custody,||custody,}}
+{{Achievement|or control||or control}}
+{{Achievement|of a person||of a person}}
+{{Achievement|or persons||or persons}}
+{{Achievement|by force||by force}}
+{{Achievement|or threat of force||or threat of force}}
+{{Achievement|or violence||or violence}}
+{{Achievement|or by putting||or by putting}}
+{{Achievement|the victim in fear."||the victim in fear."}}
+{{Achievement|By contrast,||By contrast,}}
+{{Achievement|burglary||burglary}}
+{{Achievement|is defined as,||is defined as,}}
+{{Achievement|"unlawful entry||"unlawful entry}}
+{{Achievement|of a structure||of a structure}}
+{{Achievement|to commit||to commit}}
+{{Achievement|a felony||a felony}}
+{{Achievement|or theft."||or theft."}}
+{{Achievement|Bank robbery is||Bank robbery is}}
+{{Achievement|defined as||defined as}}
+{{Achievement|entering a||entering a}}
+{{Achievement|bank when||bank when}}
+{{Achievement|it is open||it is open}}
+{{Achievement|and obtaining||and obtaining}}
+{{Achievement|money from||money from}}
+{{Achievement|the teller||the teller}}
+{{Achievement|either by||either by}}
+{{Achievement|using force||using force}}
+{{Achievement|or a threat||or a threat}}
+{{Achievement|of force.||of force.}}
+{{Achievement|Breaking into||Breaking into}}
+{{Achievement|a bank when||a bank when}}
+{{Achievement|it is closed||it is closed}}
+{{Achievement|is burglary.||is burglary.}}
+{{Achievement|Bank robbery occurs||Bank robbery occurs}}
+{{Achievement|in cities and towns.||in cities and towns.}}
+{{Achievement|This concentration||This concentration}}
+{{Achievement|is often||is often}}
+{{Achievement|attributed to||attributed to}}
+{{Achievement|there being||there being}}
+{{Achievement|more branches||more branches}}
+{{Achievement|in urban areas,||in urban areas,}}
+{{Achievement|but the number||but the number}}
+{{Achievement|of bank robberies||of bank robberies}}
+{{Achievement|is higher than the number of branches.||is higher than the number of branches.}}
+|-|Trivia=
+*The teasers are text taken from the {{w|Wikipedia}} article on {{w|bank robbery}}.
+*Like the difficulty achievements released on Locke and Load Day 3, most of the names of the achievements released in this update are player suggestions from the [https://steamcommunity.com/app/218620/discussions/10/154645497345310070/ Do you know what would be a great name for an achievement?] thread.
+*'''Just an' Old Country Doctor''' may be reference to the song "Just An Old Country Preacher" by {{w|Larry Sparks}}.
+*'''Home is Where the Battle is''' refers to the [https://www.youtube.com/watch?v=Z066RWjHqIc song of the same name] composed by {{w|Dasha Charusha}}, composed for the ''{{w|Hardcore Henry}}'' soundtrack.
+*'''{{w|Megalodon}}''' is a species of {{w|shark}}. This was formerly the name of the achievement for completing [[the Yacht Heist]] on One Down.
+*'''Hey, It Looks Like You are Robbing a Bank''' is a reference to the {{w|Office Assistant|Microsoft Office Assistant}}, better known as "Clippit/Clippy" by its paperclip avatar, infamous for being annoying. Some players have compared [[Bain]] nagging the players about the thermal drill to Clippy.
+*'''Make Like a Tree...and Get Out of Here''' is one of {{w|Biff Tannen}}'s taglines in the {{w|Back to the Future (franchise)|''Back to the Future'' franchise}}.
+*'''Bad Code''', '''Bank on Me''', and '''Lots of Pigs, But no Pigs''' are [[achievements]] from ''[[PAYDAY: The Heist]]''.
+*'''Some People Want to See the World Burn''' refers to a [https://knowyourmeme.com/memes/some-men-just-want-to-watch-the-world-burn memetic quote] from ''{{w|The Dark Knight}}''.
+*'''Four Heister Discount''' is a reference to "five finger discount", another name for {{w|shoplifting}}. It may also be a reference to ''{{w|The Simpsons}}'', where a character calls shoplifting a "four finger discount", being a joke on the saying and most ''Simpsons'' characters only having four fingers on each hand.
+*'''Hoxit''' is a pun on [[Hoxton]] and {{w|Brexit}}.
+*'''The_heister27''' refers to a [https://knowyourmeme.com/memes/thelegend27 meme] originating from an ad for ''{{w|Game of War: Fire Age}}''.
+*'''Makin' My Way Downtown''' is a reference to {{w|Vanessa Carlton}}'s debut single "{{w|A Thousand Miles}}".
+*'''Dead, Wrapped in Plastic''' refers to a quote from the {{w|Pilot (Twin Peaks)|pilot episode}} of ''{{w|Twin Peaks}}''.
+*'''Fast Track to Hell''' may be a reference to punk rock musician [https://www.last.fm/music/Neon+Leon/+wiki Neon Leon's] autobiography of the same name.
+*'''If It Bleeds, Kill It''' is likely a reference to a quote from ''{{w|Predator (film)|Predator}}''.
+*'''Bain's Lament''' refers to "Baldwin's Lament", an entity that [[Bain]] was searching for.
+*'''All You Need is A Knife''' may be a reference to the song "{{w|Ironic (song)|Ironic}}" by {{w|Alanis Morissette}}, which contains the verse ''"It's like ten thousand spoons when all you need is a knife"''.
+</tabber>

@@ -1,0 +1,40 @@
+<tabber>Permanent Achievements=
+{{Achievement|Derailed|jpg|Complete [[the Bomb: Forest]] heist on any difficulty.}}
+{{Achievement|A Pine in the Ass|jpg|Complete [[the Bomb: Forest]] heist on the Death Wish difficulty or above.}}
+{{Achievement|Beaver Team|jpg|In [[the Bomb: Forest]] heist, cut down all trees within {{color|value|5}} seconds during the plane escape. Unlocks the "[[Masks (Payday 2)#The Bomb Heists DLC|Butcher From Hell]]" mask, "[[Materials#The Bomb Heists DLC|Meat]]" material and "[[Patterns#The Bomb Heists DLC|Pleter]]" pattern.}}
+{{Achievement|Pump It Up|jpg|In [[the Bomb: Forest]] heist, do not let the [[enemies (Payday 2)|cops]] disconnect the water hose while you are using the river water pump. Unlocks the "[[Masks (Payday 2)#The Bomb Heists DLC|Tech Lion]]" mask, "[[Materials#The Bomb Heists DLC|Marble Rock]]" material and "[[Patterns#The Bomb Heists DLC|Lion Game Lion]]" pattern.}}
+{{Achievement|Oppressor|jpg|Finish [[the Bomb: Forest]] heist without letting any civilian flee or die, having at least {{color|value|five}} civilians in the heist, while escaping with the boat. Unlocks "[[Masks (Payday 2)#The Bomb Heists DLC|The Doctor]]" mask, "[[Materials#The Bomb Heists DLC|Plywood]]" material and "[[Patterns#The Bomb Heists DLC|Caduceus]]" pattern.}}
+{{Achievement|Maiden Voyage|jpg|Complete [[the Bomb: Dockyard]] heist on any difficulty.}}
+{{Achievement|Fisherman's Fiend|jpg|Complete [[the Bomb: Dockyard]] heist on the Death Wish difficulty or above.}}
+{{Achievement|Sneaking With the Fishes|jpg|Complete [[the Bomb: Dockyard]] heist in stealth on the Death Wish difficulty. Unlocks the "[[Masks (Payday 2)#The Bomb Heists DLC|Lady Butcher]]" mask, "[[Materials#The Bomb Heists DLC|Rhino]]" material and "[[Patterns#The Bomb Heists DLC|Checker Board]]" pattern.}}
+''{{color|negative|NOTE: None of the following achievements actually unlock weapon mods, as these are card drops. They'll just grant you one drop of said mod.}}''
+{{Achievement|Breaking Dead|jpg|In [[the Bomb: Dockyard]] heist, find the meth lab. Unlocks the "Extended Mag" for the [[LEO]] pistol.}}
+{{Achievement|I've Got the Power|jpg|In [[the Bomb: Dockyard]] heist, don't let the enemies cut the power. Unlocks the "Long Slide" for the [[LEO]] pistol.}}
+{{Achievement|Done in 60 Seconds|jpg|In [[the Bomb: Dockyard]] heist, open the dock gate in {{color|value|60}} seconds using the keycards. Unlocks the "Custom Slide" for the [[LEO]] pistol.}}
+|-|Teasers=
+The following appeared on January 8, 2015. They were replaced on January 22, 2015.
+{{Teasers
+|Željezo
+|se
+|kuje
+|dok
+|je
+|vruce.
+|Cega
+|nema,
+|ne mose
+|se ni
+|uzeti.
+}}
+#"Željezo se kuje dok je vruce" means "Strike while the iron is hot". The proverb and meaning are the same in both languages.
+#"Cega nema, ne mose se ni uzeti" literally translates to "What is not in one's possession cannot be taken", and means "Nothing ventured, nothing gained."<br/>
+For more information see [http://en.wikiquote.org/wiki/Croatian_proverbs#C here].
+|-|Trivia=
+*A '''{{W|Maiden Voyage}}''' is the first successful journey made by a craft after shakedown.
+*'''Fisherman's Fiend''' is a parody of {{W|Fisherman's Friend}}, a popular brand of English strong menthol lozenges.
+*'''Breaking Dead''' is a reference to the TV show ''{{w|Breaking Bad}}''.
+*'''I've Got the Power''' is a reference to the song "''{{w|The Power (Snap! song)|The Power}}''" by {{w|Snap!}}.
+*'''Done in 60 Seconds''' is a reference to the 1974 film ''{{w|Gone in 60 Seconds (1974 film)|Gone In 60 Seconds}}'', and the 2000 remake {{w|Gone in 60 Seconds (2000 film)|of the same name}}.
+*The Bomb Heist achievements are the first, and only achievements where they will give a single weapon mods for completing them, while allowing regular drops beside the achievement award, whereas other achievements cannot drop and are in infinite stock once unlocked.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

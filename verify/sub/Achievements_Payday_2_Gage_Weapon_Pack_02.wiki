@@ -1,0 +1,36 @@
+<tabber>Permanent Achievements=
+{{Achievement|They Drew First Blood, Not Me|jpg|Kill 220 [[Enemies (Payday 2)|enemies]] in a single heist using any [[:Category:Light Machine Guns|light machine gun]].}}
+{{Achievement|Killin’s As Easy As Breathing|jpg|Kill 10 [[Enemies (Payday 2)|enemies]] in a row using any [[:Category:Light Machine Guns|light machine gun]] without releasing the trigger.}}
+{{Achievement|Cloak and Dagger|jpg|Kill a [[Cloaker (Payday 2)|Cloaker]] with a [[:Category:Melee|knife]].}}
+{{Achievement|I Ain’t Got Time to Bleed|jpg|Take down 15 [[Enemies (Payday 2)#FBI|FBI SWAT]] and [[Enemies (Payday 2)#Spec Ops: Maximum Force Responders|FBI Heavy SWAT]] units with a knife while at 25% or less health on the OVERKILL difficulty or above.<br>''{{color|negative|FBI SWAT are also known as Heavy Response Units while FBI Heavy SWAT are known as Maximum Force Responders.}}''}}
+{{Achievement|Are You Kidding Me?|jpg|Kill a [[Bulldozer (Payday 2)|Bulldozer]] in a [[:Category:Melee|knife]] fight.}}
+{{Achievement|HOLY SHI-|jpg|You finally got what you were asking for!<br>''{{color|negative|Get downed by a cloaker.}}''}}
+{{Achievement|In Town You’re the Law, Out Here It’s Me|jpg|Kill a jump kicking [[Cloaker (Payday 2)|Cloaker]] using any [[:Category:Shotguns|Shotgun]].}}
+{{Achievement|The Eighth and Final Rule|jpg|On the [[Nightclub|Night Club]] heist, kill 50 [[Enemies (Payday 2)|law enforcers]] using your [[fists]].}}
+{{Achievement|Don’t Push It|jpg|Kill a charging [[Cloaker (Payday 2)|Cloaker]] using the [[Deagle]] pistol.}}
+{{Achievement|Doctor Miserable|jpg|On day 2 of the [[Big Oil]] job, complete the heist with the last engine being correct on the OVERKILL difficulty or above.}}
+|-|Teasers=
+''The following appeared on January 27, 2014, and were replaced at the release of [[Gage Weapon Pack 02|Gage Weapon Pack #02]] on January 30.''
+{{Teasers
+|Oh my god...
+|We're done for now
+|This is truly the end
+|We’re really screwed
+|We've done it this time
+|Sweet baby Jesus...
+|Ohhh crap!
+|HOLY SHI-
+|Get out of there!
+|Get away from me! Get away from me!
+}}
+|-|Trivia=
+* Three of the achievements from this pack are a references to the [[wikipedia:Rambo (film series)|''Rambo'' film series]].
+** '''They Drew First Blood, Not Me''' and '''In Town You're the Law, Out Here It's Me''' are references to the ''[[wikipedia:First Blood|First Blood]]'', the first referencing the title, the second referencing a [https://www.youtube.com/watch?v=D_ETnshbaO8 quote] by John Rambo in the movie.
+** The requirements for unlocking '''They Drew First Blood, Not Me''' references John Rambo's total number of kills throughout the series, 220.
+** '''Killin’s As Easy As Breathing''' is a reference to a quote said by John Rambo in the 2008 film ''[[wikipedia:Rambo (2008 film)|Rambo]]'', the last of the four films in the series.
+* The '''Ain't Got Time To Bleed''' achievement is a reference to a quote from the film ''[[wikipedia:Predator (film)|Predator]]''.
+* '''The Eighth and Final Rule''' is a reference to the film ''[[wikipedia:Fight Club|Fight Club]]''.
+** The eighth rule of ''Fight Club'' is "If this is your first night at fight club, you have to fight."
+** The basement of [[Nightclub]], where the achievement is unlocked, strongly resembles ''Fight Club's'' underground fighting arena, which also takes place in the basement of a bar.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

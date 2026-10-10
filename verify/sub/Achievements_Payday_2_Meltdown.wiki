@@ -1,0 +1,27 @@
+<tabber>Permanent Achievements=
+{{Achievement|Pedal to the Metal|jpg|Complete the [[Meltdown]] job on Death Wish difficulty or above.}}
+{{Achievement|There Was A Car?!|jpg|In the [[Meltdown]] job, complete the heist without using the "[[Vehicles#Longfellow|Longfellow]]".}}
+{{Achievement|They Don't Pay Us Enough|jpg|In the [[Meltdown]] job, secure all additional loot. Unlocks the "[[Masks (Payday 2)#Meltdown|Rad Mutant]]" mask.}}
+|-|Teasers=
+''The following appeared on May 5, 2015 and were replaced on May 7, 2015.''
+{{Teasers
+|Opportunity
+|Makes
+|A
+|Thief
+}}
+|-|Tips=
+{{Achievement|They Don't Pay Us Enough|jpg|In the [[Meltdown]] job, complete the heist with all additional loot secured. Unlocks the "[[Masks (Payday 2)#Meltdown|Rad Mutant]]" mask.}}
+Attempting this on a lower difficulty is recommended due to the time-consuming nature of hunting all the loot and the extra crowbar spawns. Crews should attempt a co-ordinated and rigorous sweep of the entire map, with the priority on seeking crowbars and opening all the containers and warehouse cages. Care should be taken to ensure that bags aren't taken back by the cops - the best options are either to load them into a vehicle or to place them in the alleyway towards the escape, as cops will not leave the yard to collect them.
+
+Multiple trips will be necessary in order to bring all the bags to the escape, the crew will have to decide how to proceed but clearly the Longfellow is the easiest vehicle to take on multiple trips. Choosing to eliminate the SWAT vans may be a wise move.
+
+{{Achievement|There Was A Car?!|jpg|In the [[Meltdown]] job, complete the heist without using the "[[Vehicles#Longfellow|Longfellow]]".}}
+First and foremost, attempting this on a lower difficulty is highly recommended, as the high concentration of enemies and snipers combined with having to move very heavy bags can make this difficult even on Normal. Further, players should equip themselves to deal with SWAT van turrets as it may be necessary to eliminate one or more along the way.
+
+The heist can be completed as usual aside from avoiding the Longfellow, with players even using the forklifts as desired. Upon reaching the gate, there are two ways to progress: on foot, or by forklift. Players proceeding on foot have the comfort of moving as a unit and use of all four guns, along with freedom to place health and ammo bags. On the other hand, multiple forklifts can speed up the process significantly, leaving the drivers exposed but able to carry three loot bags on the forks and any other players on the back. A well co-ordinated team may even be able to drive the forklifts in reverse, allowing the passenger on the back to fire forwards.
+
+Regardless of approach, players should take care moving along the paths, making sure to avoid the SWAT van if possible or simply eliminate it with high power weaponry. After finally reaching the train, players can end the heist as usual.
+</tabber><noinclude>
+[[Category:Support Pages]]
+</noinclude>

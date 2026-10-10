@@ -1,0 +1,24 @@
+<tabber>Permanent Achievements=
+{{Achievement|Celsius or Fahrenheit?|png|Kill {{color|value|10}} enemies in a row, without missing, while switching between the regular sight and the [[Template:ComGad2|45 Degree Red Dot Sight]] after each kill on the OVERKILL difficulty or above.}}
+{{Achievement|The Reconing|png|Complete any heist from start to end and kill {{color|value|200}} or more enemies with any weapon equipped with the [[:Template:ComSigAR|Reconnaissance Sight]] on the Very Hard difficulty or above.}}
+{{Achievement|Let Them Fly|png|Kill {{color|value|50}} [[Sniper (Payday 2)|Snipers]] with the [[Arbiter]] Grenade Launcher while using the standard ammo type.}}
+{{Achievement|Ducking Awesome|png|Get {{color|value|3}} headshot kills with {{color|value|1}} shot from any Shotgun using the [[Donald's Horizontal Leveller]] barrel ext.}}
+|-|Teasers=
+''The following appeared on November 23, 2016 and were replaced on November 24, 2016.''
+{{Achievement|Lets us||Lets us}}
+{{Achievement|join in||join in}}
+{{Achievement|the dance||the dance}}
+{{Achievement|of death||of death}}
+|-|Tips=
+{{Achievement|Celsius or Fahrenheit?|png|Kill {{color|value|10}} enemies in a row, without missing, while switching between the regular sight and the [[Template:ComGad2|45 Degree Red Dot Sight]] after each kill on the OVERKILL difficulty or above.}}
+Completing the achievement requires the player to switch back and forth between the 45-degree sight and the regular aiming mode between each kill. As it does not have an additional time limit, this achievement can be taken slowly and carefully so that one does not miss. A few [[Concussion Grenade]]s can help.
+
+If all else fails, try dominating an enemy and kill him when he's trying to surrender, then flip to the other sight mode. Rinse and repeat 9 more times to unlock the achievement.
+{{Achievement|The Reconing|png|Complete any heist from start to end and kill {{color|value|200}} or more enemies with any weapon equipped with the [[:Template:ComSigAR|Reconnaissance Sight]] on the Very Hard difficulty or above.}}
+Due to their practically endless nature, the [[White Xmas]] and [[Cook Off]] heists are the prime candidates for unlocking this achievement as enemies will spawn non-stop until the player(s) exit the map.
+
+The Reconnaissance Sight itself does not need to be actually aimed through for the kills to register.
+{{Achievement|Let Them Fly|png|Kill {{color|value|50}} [[Sniper (Payday 2)|Snipers]] with the [[Arbiter]] Grenade Launcher while using the standard ammo type.}}
+Playing on enclosed heists like [[Hoxton Breakout]] Day 2, or ones with easily reachable Sniper perches such as the [[Safe House Raid]] can help make progress easier.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

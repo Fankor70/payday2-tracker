@@ -1,0 +1,204 @@
+{{MultipleHeist2|GO Bank|Infobox Heist}}{{Quote|A bank job. Make it famous.|[[Bain]] offering the heist}}
+'''GO Bank''', also known as '''Charlie Santa''' or '''Charlie Sierra''', is a heist in ''[[PAYDAY 2]]'' that was released on December 16, 2013. Announced on December 11, it is the first ever Overkill Christmas heist.<ref>http://www.overkillsoftware.com/charliesanta/</ref>
+
+Contracted by [[Bain]], it involves the crew robbing a small bank with cameras, guards, and a double-keycard, timelock vault by either stealth or brute force. The target is a large number of unmarked bills stored in deposit boxes in the bank vault.
+__TOC__
+{{clr}}
+==Objectives==
+<tabber>Stealth=
+#Find the vault keycards
+#Open the vault
+#Wait for the timelock
+#Loot the vault
+#Secure the loot
+#Escape
+{{clr}}
+|-|Loud=
+#Pick up the thermal drill
+#Drill into the vault
+#Assemble the lift cage.
+#Secure the loot
+#Raise the balloon and wait for the plane
+#Escape through the sewers
+#Find the exit
+#Escape
+</tabber>
+{{Clear}}
+
+==[[Assets]]==
+===Purchasable===
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+{{Asset|asset-bodybags bag.png|Body Bags|7000|Requires the [[Sixth Sense]] Aced skill to unlock}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires the [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC to unlock}}
+{{Asset|Almir the pilot.png|Ace Pilot|46000}}
+===Intel===
+{{Asset|Roberts Bank Plan A Asset.png|Plan A}}
+{{Asset|Roberts Bank Plan B Asset.png|Plan B}}
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+
+==Walkthrough==
+At first, robbing this bank might seem easy, but it is very difficult to complete stealthily. The small bank size means that a major part of the security and the civilians are in the same area, if not room, and there are also nearby buildings with civilians. To complete the heist stealthily, the guards and cameras must be dealt with quickly, and all civilians inside must be kept down or hidden at all times, as the bank has big windows. Boarding these windows will help in concealing the hostages. When the two keycards are found and the vault is open, the deposit boxes must be opened fast if you are alone/nobody watches the civilians, as those not tied down can get up, though having the [[Stockholm Syndrome]] skill and using the [[OVE9000]] saw, either while not aiming at anything to not wear it down, while timelock is still ticking down, or sawing open the deposit boxes will keep them down while getting the money. Once you have the money you want, simply get to the van and escape.
+
+If the mission is played non-stealth, however, the timelock will be disabled and the van will leave, though not before throwing a thermal drill out of the back. Players must get it and drill open the vault door. Stay in cover, as there are tons of entrances for the law enforcers, including a ladder and a breakable skylight on the roof. Be warned that the red ladder can be destroyed if a grenade explodes close to it; however, police may still rappel down from there. After some time of drilling, [[Bain]] will contact the plane pilot to drop 3 green bags containing cage parts, and you will have to assemble them at a random '''outside''' position (or on top of the roof if Ace Pilot is purchased in the [[#Assets|assets]]). Once the money bags have been obtained from the deposit boxes, they must be brought to the cage, and then a balloon on the cage must be activated for the plane pilot to come and catch the cage. Meanwhile, the cage must be defended to prevent law enforcers from stealing the bags, and it should also be noted that the pilot may miss the cage and will have to turn around for another try, which will take several minutes. This is possible, even with Ace Pilot purchased. Once the loot is (finally) safe, the players must escape by a sewer maze with law enforcers rappelling down, with about 5 minutes to find the exit where the van is. Any bags not taken by the skyhook cage can be brought through the sewers and thrown into the back of the van to finally be secured.
+
+<tabber>Stealth=
+Completing this heist in stealth requires learning and contending with a large number of conditions:
+
+A large number of civilians can spawn in multiple areas and configurations on GO Bank. Teams attempting to stealth this heist should all have the [[Forced Friendship]] and/or [[Stockholm Syndrome]] skills to deal with the flood of civilians the heist will produce. As the camera operator is off-site, the best course of action is to tactfully rush with an [[ECM Jammer]], killing the two guards (four if the GenSec truck spawns) and destroying all of the cameras.
+
+Assuming the pagers and cameras are dealt with, players must locate the two [[keycard]]s to start the timelock. The first is owned by the bank manager, and will either be on his person or in his briefcase (behind the counter or in his car trunk). The second will be held by a random bank employee.
+
+The timelock on the vault can have a duration ranging from 1 to 5 minutes, during which time one player must answer the telephone whenever it rings; failure to answer always results in the police being alerted. Eventually, a call will come from Hillary at GenSec, who will either: demand to speak to Barney, and send two GenSec employees to investigate; demand to speak to Barney, but believe Bain's lie and never call back; or ask for the timelock codes, which can be found by searching the folders on the employee desk.
+
+Once the timelock finishes, players may have to navigate security lasers across its entrance; the lasers are triggered only by players (i.e. bags do not set off the alarm), and can be passed by waiting until the bottom three are off and crouching through. Once inside, players must either pick or saw the deposit boxes to get the bags of cash, and can leave once a single bag has been loaded.
+
+Assuming players remain a while to gather more loot, a call will eventually come from either Hillary or Police Chief Rogers that sets an alarm deadline; either way, the caller will demand to speak to one of their officers, giving the heisters a brief time limit before the full police force are sent.
+
+If an alarm sounds at any point, the van driver immediately flees. If no loot has been loaded into the van, players will have to drill the vault open (if it is still locked) and then proceed with the standard plane recovery. If one or more bags are already loaded into the van, players can proceed directly to the sewer escape, taking any additional bags to the second van.
+
+|-|Loud=
+Whilst much simpler than its stealth counterpart, GO Bank can be very difficult performed loud, owing to factors like rooftop spawns, around three sniper spawn locations, and very little cover.
+
+One player should remain at the van to grab the thermal drill, which can only be interacted with once the alarm is raised. Like stealth, priority should be on tying and moving the high number of hostages in the bank. Players should consider moving them behind the employee desk or near the vault to make them harder to rescue. Once placed, the drill will take around three or four minutes to crack the vault.
+
+A short while into drilling, Bain will (erroneously) note the drill is almost done, and will request Bile drop the parts for a cage somewhere in the map. The cage will be in three bags, and must be assembled in one of three random areas:
+*The roof, where players will have to combat standard enemies on the neighboring rooftops, two snipers on the north buildings, and one sniper to the north-east. Additionally, standard enemies will scale the roof by the internal or external ladders.
+*The parking lot behind the bank, which will also leave players vulnerable to sniper fire, as well as near a few Cloaker spawns. Enemies will approach from the main bank, from either side of the lot, and over the north fence, meaning cover is mostly provided by the parked cars and bank rear.
+*The front street, the most difficult of the locations. Enemies will spawn en masse, entering primarily from both ends of the map, and over the gas station walls. Players will be subject to fire from several directions, will have almost no cover, and (if you head too far south) will be visible to the rooftop enemies and north-spawning snipers.
+After the cage is built, players should return to the vault, which will soon be open. Entering, players must open the safety deposit boxes as soon as possible, preferably with a saw whilst others cover. Once enough loot is bagged, players should move the bags to the cage for extraction by Bile, and deploy the balloon when ready.
+
+Like the [[Green Bridge]] heist, it's possible for the pickup to fail, requiring players to hold out for a minute or two for each pass; whilst the Ace Pilot asset increases the chances of successful pickup, it's still possible for George to keep missing, requiring players to guard the bags from police interception. When George either takes the cage, misses a third time, and/or crashes the plane, Bain will announce they need to escape by Sewers.
+
+After a brief period, during which any remaining bags should be gathered and moved, one of three manholes will be marked which players must access:
+*To the west of the bank, near the scissor lift and down the side of the store.
+*In the parking lot to the north of the bank.
+*In the street, to the south-east of the bank, outside the building neighboring to the east.
+Players should note that the three minute escape timer begins as soon as any player enters sewers, so players should work together and plan to escape together. Entering the sewers, players will have to navigate a maze which heads to a predetermined parking lot; it is always in the sniper building to the north, but the path depends entirely on which manhole players must use. Additionally, players may encounter a cage in the sewers, which must be bypassed by picking the lock, using a single C4 charge, or by using the saw. Moving or leaving bags as necessary, players must climb the escape ladder to a manhole, where a van is waiting.
+</tabber>
+
+==Variations==
+*The phone calls that occur throughout stealth are random in order, and vary on every attempt. The possible calls that can come through include:
+**Hillary from [[GenSec]] will call asking for the timelock codes, which are found by searching the files littered around the bank teller desk. Once a player searches the correct documents, Bain will relay these codes to Hillary, ending the call with her satisfied and not calling again.
+**Hillary can also ask for the manager, Barney, to come to the phone, and [[Bain]] will make an excuse. There is a 15% chance she believes Bain and ends the call (100% if the GenSec truck spawned); otherwise she will send two GenSec guards to the bank in a red car. These two guards have pagers, but their pagers are not counted towards the pager answering limit of 4. Hillary will eventually call back and demand you put a GenSec guard on the line within a few minutes, or she will contact the police.
+**The police department will call, saying they received a call from GenSec about something being suspicious, and will send 2 or 3 officers to check. After around 2 minutes the officer will call again and, after demanding speak to one of the officers, will give the crew a certain amount of time (between 1 and 3 minutes) to comply before he sends the police in force.
+**There are numerous other calls that may occur during stealth, but they serve no other purpose than having someone pick up the phone. Most calls are short in duration. Some longer, rarer ones are actually the winners of a competition on the Steam forums. These are easily signified by the callers having no subtitles.
+**Rarely, a call will be received from a blackmailer, demanding a cut of the loot or else the police will be called. One bag of loot must be thrown over the yellow fence behind the bank. After the vault opens, Bain will remind the players to do this. This can prove to be difficult as the fence is high. If any player throws or carries a bag into the street before throwing one over the fence, the alarm will go off.
+*Civilians can spawn in a range of locations and amounts, including:
+**A group of four civilians will continuously spawn at either end and side of the street and cross to the other end. Civilians spawning on the side of the street with the bank may path into the bank lobby. If all four civilians are killed or intimidated/tied down, new street civilians will spawn after several minutes.
+**Several may spawn inside the gas station immediately to the right of the player spawn.
+**A civilian may spawn sitting on a bench immediately outside the bank.
+**A civilian or guard may spawn from the portable toilet behind the bank.
+**A civilian may spawn at the gas station's pumps.
+**One to three construction workers may spawn in the back of the general store to the left of the bank.
+*[[File:218620 screenshots 20170806144436 1.jpg|thumb|220px|Open vault]]Cameras can spawn in varying amounts, depending on difficulty; despite this, they will never be Titan grade due to the operator being off-site. The possible spawns include:
+**Outside the bank, up to two at the main-entrance door, one might be at the drive-in counter and up to two behind the bank.
+**Inside the bank, positions include: above the back doors; on the north wall, or in the northern corners; behind either the east or west tree; above the main entrance on the east or south-most wall; or a few more locations.
+**On lower difficulties, there can sometimes be only 1 or 2 cameras in the bank.
+*Sometimes on lower difficulties there will only be 1 guard present at the bank at the start of the heist.
+*The vault door may be standing open and not require drilling or waiting for the timelock. This variation is particularly rare (1% chance), and doesn't require answering the phone or avoiding the lasers.
+*If playing on lower difficulties,the lasers have a chance of not spawning.
+[[File:GenSec-truck-bank.jpg|thumb|325px|GenSec-truck in front of the Bank]]
+*A GenSec armored truck may be parked outside the bank. This armored truck is identical to the ones in the [[Transport]] heists. It can be drilled, or blown open with C4, and its contents looted. It is however accompanied by two GenSec guards, both with pagers. It contains no bags, preventing immediate objective completion, but it does contain instant-pickup loot.
+*The plane has a chance of crashing before reaching the bank, forcing the crew to escape through the sewers with all the bags. Oddly, [[Bain]] will still say that they should hire the pilot again after the end of the heist.
+*It may be lightly snowing during the heist. This is a purely cosmetic change, and gameplay is unaffected.[[File:20170609010716 1.jpg|thumb|212px|Police car at the gas station]]
+*Rarely, a police car will spawn at the pumps, accompanied by one or two police officers. Neither will have pagers, and so can be dealt with easily.
+*Rarely, the plane will either crash before reaching the bank, or after missing the cage the first time, missing again and crashing. This scenario can be very frustrating with a large number of loot bags. Bain will then instruct the crew to move the bags via the sewers. It is recommended to move all of the bags into the sewers before any player enters. As soon as a player does enter the sewers, Bain will say the army is coming and a 5-minute escape timer will begin. If unable to escape the sewers in this time, the crew will fail the heist.
+*One of four manholes (behind or left of bank, in front of the chop shop or next to the gas station) must be escaped through on a loud escape. Whilst they all lead to the north sniper building, the maze will vary depending on the manhole used.
+**A grate can spawn in the sewers, which requires picking, blasting with C4, or sawing.
+*2 trunks can be opened near the escape zone, likely from copying assets from the cars near the bank from you could find keycards at
+
+== Solo Stealth Strategy ==
+With significant preparation and medium-high level, solo stealth can be done consistently on Death Sentence difficulty even if random chance is not in your favor. Here's how, step by step: 
+
+* For equipment, bring two ECMs as primary and a body bag case as secondary. Buy the Body Bag asset. You'll need a silenced shotgun (ideally the [[The Judge|Judge]]) and something with a good fire rate ([[CAR-4]] for example), keeping detection risk at 3, or bring a [[OVE9000|Saw]] if you're confident. Skill-wise use a standard stealth build ([[Jack Of All Trades|Jack of All Trades]], [[Sixth Sense]], [[Cleaner]], [[ECM Specialist]] aced, [[Stockholm Syndrome]] basic). Lastly use the Hacker perk deck for the [[pocket ECM]].
+* First, case the bank and note where the four internal cameras are located. Also check the back hallway and rear wall outside for cameras. 
+* Next you'll want to take out the three roaming NPCs in the bank: Two guards and one manager, all three which will periodically move close to the red ladder in the back. If there's a camera on the auto repair shop side of the rear wall, shoot it to lure a guard; when he shows up, use the shotgun to launch his corpse out of sight. If not, simply wait for them to move to the red ladder, then sneak up behind them and launch them past the red ladder without letting go of the forward key (else the tellers will spot you). Hide the corpses.
+* Next, start clearing the street of civilians - they can be taken hostage just outside the abandoned store and led inside (which may also hold a few civs for you to pacify), or use a body bag in a pinch. Clear the gas station afterwards. 
+* Now that the outside area is secure, it's time to hit the bank properly. Recall where the four cameras are and if possible shoot one or two while in stealth (usually you can take down any at the front from the rear hallway by quickly popping out for a shot, ducking back to cover to avoid being seen). Then approach the front of the bank. Deploy an ECM and start taking hostages as you walk in, making absolutely sure to shoot all remaining cameras. Avoid damaging the windows if possible. Just keep taking hostages, tie 'em down and if necessary kill a few, preferably leaving them near the back.
+* When they're all pacified, move all corpses and hostages inside the teller area (civs will spawn later which move all over the map, possibly including one which walks through the bank's front door and one who goes around the back). Next, scour the map for wooden boards to close off as many windows as you can. Walk down the sidewalk yourself to see which windows are most important (meaning that bodies or broken cameras are visible through them). As if all this wasn't enough, now it's time for the hard part:
+* Insert both keycards in the vault, then stand by the teller desk to pick up the phone. If you're lucky not much happens - just stay near the phone and search the files on the desk if asked to, pacifying any civs who wander inside. More likely however, Hillary from GenSec sends two guards who arrive by car (she'll say so clearly). They'll notice the broken cameras no matter what, and it's either unlikely or impossible to answer both their pagers if you kill them at the same time. Thus you'll have to kill one, wait for his pager to start (you'll see the corpse outline change and hear a voice), then use your pocket ECM to prevent alert calls, shoot the other guard, drop a proper ECM, answer the first pager, use the remaining ECM time to hunt down alerted civs, wait for the ECM to end and answer the second pager.
+* If you somehow managed to get through all that, remember that you'll need to pay off the blackmailer if he called earlier, secure at least a single stack of cash for yourself, then either grab a few more bags if you're confident or just leave.
+
+==The FBI Files==
+Roberts Bank has branches across Washington, mostly on the outskirts. They’re generally small buildings, serving the local community. The vaults in these branches are the smaller variety, and most often protected with a time-lock.
+
+{{Color|Value|My Notes: The gang may think these places are going to be easy to knock over, due to being on the edge of town. I’m impressed with the response times shown by our teams getting out there, but we need to improve. This kind of bank job is the bread and butter of the Payday gang, and we can expect to see more hits.}}
+
+==[[Achievements (Payday 2)|Achievements]]==
+{{:Achievements (Payday 2)/GO Bank}}
+
+<tabber>Post-release additional achievements=
+{{Achievement|The One That Survived|jpg|In the GO Bank or the [[Four Stores]] Jobs, find and pick up the {{color|value|five}} hidden Marine Trophies. Unlocks “[[Masks (Payday 2)#Enter the Gungeon|The Marine]]” mask.}}
+{{Achievement|Go, Go, Go|jpg|Complete the GO Bank job on the Normal difficulty or above.}}
+{{Achievement|pd_bank|jpg|Complete the GO Bank job on the Hard difficulty or above.}}
+{{Achievement|Clutch|jpg|Complete the GO Bank job on the Very Hard difficulty or above.}}
+{{Achievement|Greed Gets the Best of You|jpg|Complete the GO Bank job on the Overkill difficulty or above.}}
+{{Achievement|I Would Like to Move My Money to a Bank That Doesn't Get Robbed|jpg|Complete the GO Bank job on the Mayhem difficulty or above.}}
+{{Achievement|Cash in Before You Cash Out!|jpg|Complete the GO Bank job on the Death Wish difficulty or above.}}
+{{Achievement|We Can Be Trusteed|jpg|Complete the GO Bank job on the Death Sentence difficulty.}}
+{{Achievement|The Global Elite|jpg|Complete the GO Bank job on the Death Sentence difficulty with the One Down mechanic activated.}}
+|-|Trophies=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-TheMarine.png|{{Mask tooltip|The Marine|color=legendary|Trophy-TheMarine.png|{{Quote|In honor of the one that survived the Interdimensional Horror!|Trophy description.}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Find the hidden Marine Trophy{{sic}} on Go Bank{{sic}} and [[Four Stores]].|{{color|legendary|'''PLACEMENT:'''}}<br>The living room.|{{color|legendary|'''NOTES:'''}}<br>Five trophy pickups are required.}}
+</gallery>
+|-|Trivia=
+*The achievements for completing the Mayhem and Death Sentence (originally called One Down when it was introduced) difficulties were originally named '''Rush B''' and '''I Would Like to Move My Money to a Bank That Doesn't Get Robbed''' respectively. The Death Sentence achievement was renamed and the old name moved to the Mayhem achievement in a later update, because there also was a [[Side Jobs# Potential Daily Safe House Challenges|Side Job]] called Rush B.
+**'''Rush B''' is a reference to a phrase commonly uttered in the ''Counter-Strike'' video game series, particularly in the map [[w:c:counterstrike:Dust2|Dust2]], to the point it has become [http://knowyourmeme.com/memes/rush-b memetic].
+*'''I Would Like to Move My Money to a Bank That Doesn't Get Robbed''' is part of a phone call that can be heard in the heist in stealth.
+*'''Go, Go, Go''' is a voice command in various ''Counter-Strike'' games used for making the team move out, it may also be spoken upon the round starting.
+*'''pd_bank''' is a joke name of the de_bank map in ''Counter-Strike: Global Offensive'', if it involved actually robbing the bank.
+*'''The Global Elite''' is the highest rank in the [[w:c:counterstrike:Competitive|Competitive mode]] in ''Counter-Strike: Global Offensive''.
+</tabber>
+
+==Trivia==
+[[File:Untitled-2.png|thumb|288px|Comparison of de_bank (left) to "Plan A" (right)]]
+*The heist is an homage to ''{{w|Counter-Strike: Global Offensive}}''.
+**The layout is identical to the map [[w:c:counterstrike:Bank|de_bank]].
+**The "GO" in the heist name is an acronym of ''Global Offensive'' and "Charlie Sierra" is the NATO alphabetic for "CS", an acronym of ''Counter-Strike''.
+**Much of Bain's dialogue before, after, and during the heist includes words such as "valve", "source" and "counter-strike", referencing ''Global Offensive''{{'}}s developer (Valve), the game engine it runs on (Source) and the game itself (''Counter-Strike'').
+**Shortly after the alarm is triggered, Bain may mention that the cops are planning a "counterstrike" (written exactly as shown) against the crew.
+**The terrorist faction "The Professionals" from ''CS:GO'' are proficient criminals who use elegant suits as their uniforms and commonly fight SWAT and FBI teams during their operations, similar to the crew in the ''PAYDAY'' series.
+** A crossover between two games happened as part of the 2014 Halloween event, in which the masks of the four original heisters can be found at concealed spots around de_bank and criminal player characters are spawned with those masks as part of their models. These were eventually removed in the update from May 27, 2017.
+[[File:Payday2 tf2 vault door.png|thumb|325px]]
+* The vault door on this map is identical to the vault door prop used in some of the maps in ''Team Fortress 2'', albeit looking a slight bit more realistic than its counterpart.
+* The bank's vault is unrealistically loaded to the brim with valuables and money. In reality, banks ''do not'' have several hundred thousands of dollars in cash on hand at any give time, specifically ''because'' of the possibility of getting robbed.
+*There is a chance that the pilot will miss the balloon that would extract the loot in his first attempt similar to George the pilot from the mission [[Green Bridge]] in ''[[PAYDAY: The Heist]]''. [[Bain]] also makes a reference to this heist after completing GO Bank, saying that this reminded him of the "bridge heist back then".
+*The establishment's true name is '''Robert's Bank''', as mentioned by Bain every time he answers the phone.
+*The bank manager wears a black suit instead of his [[Bank Heist]] and [[Firestarter]] counterpart's blue shirt and black vest.
+*The vault's deposit boxes are identical to those in [[Transport]] instead of [[Bank Heist]]'s.
+*When signalling the pilot to pick up the cage via sky-hook, Bain will say "This is Broadsword calling Danny boy." This is a reference to the 1968 WW2 film ''{{w|Where Eagles Dare}}''.
+**When "signing off", the pilot may start singing along to "[http://overkillsoundtracks.bandcamp.com/album/im-a-wild-one-single I'm A Wild One]", the music from the [[Armored Transport (DLC)|Armored Transport]] trailer.
+*The "Merry PAYDAY Christmas", "If it has to be Christmas", and "A Heist Not Attempted Before" songs, featuring [[Hoxton]]'s voice actor Pete Gold, play on the radio inside the bank.
+[[File:2014-12-20 00003.jpg|thumb|325px|The reflection of the car at the gas station.]]
+*The reflections on the cars' windows come from the sky box, and may show clouds despite being indoors.
+**If you look at the reflection of the car's window at the gas station, you will see the starting point of the heist, although with some oddities.
+***There is an escape point in case the heist was successfully stealthed.
+***There is a CS:GO SWAT Van overlapping the escape van. This is because the starting point of the heist is also the starting point of the Counter-Terrorists.
+****If one were to look closely behind the SWAT Van, it is possible to see the escape van.
+*One of the GenSec phonecalls ask if Barney is there for a timelock check. This is a possible reference to the game series ''[[w:c:half-life:Half-Life|Half-Life]]'', where, in the first game, there is a security guard named [[w:c:half-life:Barney|Barney]]. ''Half-Life'' was also created by Valve, the same company responsible for developing ''Counter-Strike: Global Offensive''.
+*The red ladder inside the bank can be destroyed with explosives making it unusable, forcing the player to use the outdoor ladder. So be careful with explosive weapons.
+*In a previous version of the game, it was possible to get inside the Vault without the vault door being open using a glitch. Using a similar glitch, it was even possible to get outside of the map. This has since been patched.
+*Two of the fake names [[Bain]] uses when answering phone calls are "Mortimer" and "Randolph", two characters from the film {{w|''Trading Places''}}.
+*Several gameplay aspects of GO Bank are references to [[Counterfeit]] from ''PAYDAY: The Heist''.
+**This is the only heist in the game where, once the primary objectives have been completed, the players are forced to make an escape in a strict time limit or they will get left behind (not to be confused with escape sequences that occur after the heist). This is a gameplay mechanic that was used in the first ''PAYDAY'' game. The loud GO Bank escape is through a sewer tunnel system, similar to Counterfeit.
+***It is also the only stealthable heist in which random events MAY eventually break stealth, without any faulty actions by players (i.e., GenSec phone calls). One of the most common stealth-ruining cause are phone calls requesting the (now deceased or dominated) dispatched personnel to answer that Bain and the crew cannot talk their way out of, resulting in an inevitable assault, again like the final call during the "stealth" phase of Counterfeit. This makes getting stealth achievements for the heist especially difficult/frustrating.
+**One of the phone calls that does nothing is from "Bodhi's Pool Repair" about how they can fix any of the bank's leaking pipes. This is most likely a reference to the first game in the heist Counterfeit where Mr. Mitchell calls "Bodhi's Pool Repair" about a leaking pipe.
+*One of the phone calls the crew may receive is from Captain Rogers of the MPDC. This is a probable reference to the Marvel character Steve Rogers, also known as {{w|Captain America}}.
+*By noclipping through the walls behind the van, there are two messages. The first reads "What are you doing back here?" The second reads "How to get rich. Step 1: buy a lottery ticket. Step 2: win!!!"
+*The GO Bank is regarded as the "bread and butter" of the Payday Gang by [[Solomon Garrett]], likely due to the fact that this heist, especially on Death Wish difficulty, gives a lot of experience and money during a payday if cleared in stealth which in turn caused it to become a highly popular farming ground for many players.
+*GO Bank was the first Christmas-themed heist to not be contracted by [[Vlad]], followed by [[Brooklyn Bank]] being contracted by [[Vernon Locke]].
+*There is an unused audio file in which Bain warns the crew that the police are setting up trip mines in the parking lot and urges them to prevent it.
+** Another one has him speaking Hillary's line about Barney being available for the timelock check-in, likely to test how it sounded before the voice actress did the voicelines.
+*Due to GO Bank using unauthorized content created by Valve, OVERKILL Studios hasn't been given a green light to officially add said heist to console versions of the game.<ref>Listo, Almir (January 29th, 2016) [https://steamcommunity.com/app/218620/discussions/12/458607699610686374/#c458607699610727485 "PAYDAY 2 Crimewave Edition - Status #6"] Steam Community announcement.</ref>
+
+==References==
+{{Reflist}}
+
+{{Navbox PD2 Heists}}
+
+[[ru:Банк GO]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Stealth Heists]]
+[[Category:Heists contracted by Bain]]

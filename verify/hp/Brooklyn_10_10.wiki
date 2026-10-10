@@ -1,0 +1,99 @@
+{{MultipleHeist2|Brooklyn|Infobox Heist}}'''Brooklyn 10-10''' is a loud-only one-day heist for ''[[PAYDAY 2]]'' released with the [[John Wick Heists Pack]] in [[PC update history (Payday 2)#Update .23131|Update #131]].
+
+The DLC that includes this heist was delisted on Steam as of August 18th, 2024, rendering this heist permanently unavailable to players, although players who purchased the DLC prior to this date is still able to access the contract as normal.
+
+==Objectives==
+# Locate Charon.
+# Overlook the courtyard.
+# Eliminate the sniper.
+# Clear out the courtyard.
+# Cover Charon.
+# Access the other building.
+# Clear out the remaining gangsters.
+# Take down the snipers.
+# Wait for Charon.
+# Get the briefcase.
+# Rendezvous with Charon.
+# Move to the escape location.
+# Wait for Bain's instructions.
+# Move the police cars.
+# Wait for the escape.
+# Escape.
+==Assets==
+===Purchasable===
+{{Asset|asset-ammo-bag.png|Ammo Bag|6000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires the [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC to unlock}}
+===Intel===
+{{Asset|asset-charon.png|Charon}}
+{{Asset|Asset-Risk-Level.gif|Risk Levels}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+
+==Walkthrough==
+The heist begins with the player crew inside a derelict apartment building and an objective marker that tells them to cross over the scaffolding to the abandoned offices next door, where there will be an open window overlooking [[Charon]] and his captors. The police will be alerted as soon as a player reaches this window, though picking off the gangsters from the second floor of the office can buy the whole crew some time. Eliminate the three gangsters around Charon and he will stand up with his [[Chimano 88]] out, but don't expect him to handle all the fighting on his own since he will need to pick a locked door to progress with the mission. More gangsters will pour out into the alleyways and engage him, so it's up to the crew to eliminate them. The gangsters will be highlighted in yellow for identification.
+
+The police will begin attacking the crew at this point. A few squad cars will also periodically arrive at the courtyard with lighter cops, who will start harassing Charon as they come, and will need to be killed before he can resume picking said lock. Assign a player to the windows to cover Charon and distract the cops, but they themselves will also need protection since the police units spawning in on the second floor of the offices will fire upon them from behind.
+
+After a certain amount of time, Charon will break through the lock and the crew can proceed. Go up the stairs behind the cubicles to reach the roof, pick the lock and move towards the objective marker. Either sprint-jump to the adjacent roof or drop down to the landing below and enter the next building via the windows.
+
+As soon as they drop down near the third building, the crew will be beset by yet more gangsters, who will all be highlighted in yellow. Take these enemies out, along with a few more in the courtyard. Be on the lookout for the caged rooms around the floors here as one of them will contain a lot of ammo along with a crowbar, while the other has loot (Assault Rifles), money bundles and the '''briefcase''' needed to complete the mission. There will also be another crowbar somewhere hidden in the apartment. The police will attack again as the last gangster dies. A few highlighted [[Sniper (Payday 2)|snipers]] will be pinning Charon down as well, and must be killed to cover his advance. Afterwards, the players will need to hunker down and survive until Charon asks them to rendezvous with him. When that happens, they must find an elevator shaft in the area, open it with a crowbar and go down to the first floor. Be sure to grab the aforementioned briefcase first.
+
+After meeting up with Charon, simply go to the marked escape area and defend the zone until extraction arrives.
+
+==Strategy==
+*A grenade launcher is a very effective tool for clearing the courtyard for Charon.
+*When moving over to the third building, jumping down to the landing instead of the roof will provide quicker access to it.
+*If desired, [[loot]] (in the form of assault rifles) from within the cages can be secured in the escape van when it arrives. However, players may wish to avoid this due to their weight, especially when a [[SWAT Turret|SWAT Van Turret]] spawns in the courtyard.
+**Players with [[ECM Jammer]]s and/or heavy weaponry can (temporarily) disable the SWAT turret to allow easier transportation of the loot. It is also possible to distract the turret with a coordinated team.
+**For some reason the SWAT Turret prefer to shoot Charon over anyone else. Use this as advantage to go past the turret once he's making his way to the extraction point, as Charon cannot be killed by any means. 
+*It is not advised to carelessly use deployables since players are required to keep moving until at least close to the end of the heist. However, one should not hesitate to deploy them if desperately needed due to the hectic combat environment of the map. [[First Aid Kit]]s are recommended due to their single use because of this. Also remember there's free ammo in the second building behind a drillable fence.
+
+==Variations==
+*After picking the door to the adjacent building, there might be a [[Bulldozer (Payday 2)|Bulldozer]] (or rarely, a [[Cloaker (Payday 2)|Cloaker]]) behind the door. This chance is nullified using C4 or the saw.
+*The cages that contains ammo and assault rifle will vary.
+*The location of the additional crowbar varies.
+*A [[SWAT Van Turret]] will appear in the courtyard after meeting up with Charon on Very Hard and above.
+*There is a chance that Twitch will ram through the police cars, removing the need for players to manually move them.
+
+==[[FBI Files|The FBI Files]]==
+A back street in Brooklyn, New York, was the scene of a major firefight between criminal elements. Local law enforcement were powerless to stop it. Nothing like it has been seen in the city for years.
+
+{{color|value|'''My Notes:''' Witnesses reported heavily armed individuals in clown masks on the scene. It sounds very much like been{{sic}} the Payday Gang. It’s still unclear what they were doing there, since there was no robbery committed.}}
+
+==[[Achievements (Payday 2)|Achievements]]==
+<tabber>Achievements=
+{{Achievement|Babysitters with Assault Rifles|jpg|Complete the [[Brooklyn 10-10]] job on the Normal difficulty or above.}}
+{{Achievement|Eye in the Sky|jpg|Complete the [[Brooklyn 10-10]] job on the Hard difficulty or above.}}
+{{Achievement|Someone to Watch Over|jpg|Complete the [[Brooklyn 10-10]] job on the Very Hard difficulty or above.}}
+{{Achievement|Guardian Angels|jpg|Complete the [[Brooklyn 10-10]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Fierce Protection|png|Complete the [[Brooklyn 10-10]] job on the Mayhem difficulty or above.}}
+{{Achievement|Vengeful Rain|png|Complete the [[Brooklyn 10-10]] job on the Death Wish difficulty or above.}}
+{{Achievement|Once Upon A Time in the Old Neighborhood|jpg|Complete the [[Brooklyn 10-10]] job on the Death Sentence}}
+{{Achievement|Valkyries|png|Complete the [[Brooklyn 10-10]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|A Rendezvous with Destiny|png|On the [[Brooklyn 10-10]] job, reach [[Charon]] within 6 minutes on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#John Wick Heists Pack|Lady Liberty]]" mask, "[[Materials#John Wick Heists Pack|Underground Neon]]" material and "[[Patterns#John Wick Heists Pack|Baba Yaga]]" pattern.}}
+{{Achievement|Apartment Sniper|png|Complete the [[Brooklyn 10-10]] job from start, by having all team members using [[:Category:Sniper Rifles|Sniper Rifles]] and the [[OVE9000]] saws on the OVERKILL difficulty or above.<br>{{color|negative|This achievement, along with many others, was accidentally unlocked for players who hadn't actually completed the heist with the needed requirements on with the Difficulties & Sniper Beta 1.3 update.}}}}
+{{Achievement|Pass the Ammo|png|Complete the [[Brooklyn 10-10]] job from start, after deploying 8 [[Ammo bag (Payday 2)|ammo bags]] in the ammo cage on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#John Wick Heists Pack|Birds of Prey]]" mask, "[[Materials#John Wick Heists Pack|Carbon Fiber Weave]]" material and "[[Patterns#John Wick Heists Pack|Hood Stripes]]" pattern.}}
+</tabber>
+
+==Trivia==
+*The name of the heist is a reference to the American police sitcom ''{{w|Brooklyn Nine-Nine}}'', which takes place in New York.
+*The name of the achievement "A Rendezvous With Destiny" is a reference to Charon's actor, Lance Reddick, who plays a major role in the ''Destiny'' video game franchise.
+*Brooklyn 10-10 is the fourth heist to have its soundtrack produced by Carl Norén rather than Simon Viklund after [[Lab Rats]], [[Prison Nightmare]], and [[Stealing Xmas]], the second non-event heist to have music produced by him, the first DLC heist to have its soundtrack produced by him, the fifth heist to have its soundtrack composed by an artist other than Simon Viklund, and the second DLC heist to do this after [[The Alesso Heist]].
+*While technically a Continental contract, the opening to this heist is narrated by [[John Wick]], and by itself is a personal request from him, similar to [[Hoxton Revenge]] being narrated by [[Hoxton]] despite being a contract given by [[The Dentist]].
+**Based on Charon's dialogue, however, the rescue was offered by Winston on behalf of the Continental.
+*The presence of the NYPD in this heist is especially unusual, as by the laws of the ''{{W|John Wick}}'' cinematic universe the police are forbidden from intervening in any of the Continental's businesses or those of its associates, or face the risk of their reprisal.
+**Arguably, the police simply weren't informed beforehand of the nature of the shootout. Due to the fact that Charon was ambushed and the crew jumped in to rescue him without prior warning, the NYPD simply responded under the assumption that this is just another scuffle between the local gangs and not Continental business. Charon may even mention his association with the Continental after meeting with him, further aiding this idea. 
+**Despite taking place in Brooklyn, the police force on the site still bear the insignia of the Metropolitan Police Department. 
+*This is the first heist in which certain enemies are marked with a yellow highlight. These enemies are marked automatically a few seconds after spawn and usually are part of the main objectives, and has to be killed in order to advance with the mission.
+*Converted cops may shoot Charon if they are close to the apartment windows and have visual contact with him. In addition, if the player has the [[High Value Target]] skill aced and aims at Charon from upstairs from the start, he will be remain marked in red instead of blue until the players meet up with him.
+*The cops and gangsters fighting Charon have unique animations, but these are mostly limited to them taking cover behind certain objects and blindfiring from there.
+
+== Bugs ==
+
+* It is possible to softlock the heist with the use of the [[Viper Grenade]]. If Charon is caught in the poisonous cloud before he begins lockpicking the door, he will freeze in place. The following police cars will never arrive, and it is impossible to progress.
+{{Navbox PD2 Heists}}
+[[ru:Бруклин 10-10]]
+[[Category:Loud-Only Heists]]
+[[Category:John Wick Heists Pack]]
+[[Category:Heists contracted by The Continental]]
+[[Category:PAYDAY 2 heists]]

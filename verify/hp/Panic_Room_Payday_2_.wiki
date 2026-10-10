@@ -1,0 +1,131 @@
+{{Game-Tabs|pdth=Panic Room|pd2=Panic Room (Payday 2)}}
+{{stub}}
+{{MultipleHeist2|Panic Room|Infobox Heist}}{{Quote|The definition of safe house is changing.|Poster tagline}}
+'''Panic Room''' is a remastered heist from ''[[PAYDAY: The Heist]]'' introduced to ''[[PAYDAY 2]]'' on Day 10 of [[PAYDAY 2 Community Events#Hoxton's Housewarming Party|Hoxton's Housewarming Party]]. It involves the player crew infiltrating a hoodlum-owned apartment building in a unknown project to steal the contents of its panic room vault, or rather the entire room itself as plans are thrown out the window.
+
+==Objectives==
+
+# Enter the building.
+# Go through with the drug deal.
+# Locate the panic room.
+# Find Chavez and get his keys.
+# Get in to the panic room.
+# Set up the saws.
+# Keep the saws going.
+# Wait for the explosives.
+# Take out the snipers.
+# Wait for the C4 drop.
+# Place the C4 charges.
+# Wait for the helicopter to return.
+# Secure the roof.
+# Wait for the magnet to be lowered.
+# Attach the magnet.
+# Defend the helicopter.
+# Escape is available.<br />
+
+==Assets==
+{{Asset|asset-chavez.png|Chavez}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires the [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC to unlock}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+{{Asset|Asset-panic-blueprint.png|Panic Room Blueprint}}
+{{Asset|Asset-Risk-Level.gif|Risk Levels}}
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+
+==Walkthrough==
+Like the original version, players begin unmasked and must enter the apartment to begin the deal. They are led into the gangster owned building, and must place a money bag on the table in a room. After it is done, Bain says it's time to mask up and players can break out of casing mode with full force.
+
+However, there is a chance the deal will be skipped, indicated with the presence of three gangsters that await the player. They will immediately attack the crew upon approach of the entrance and stealth ends at that point.
+
+The panic room is always located on the third floor with a locked red door. The stairwell leading to it is blocked by two gangsters that refuse entry if players are still in casing mode.
+
+Upon finding it, Bain issues orders to locate Chavez to get the keys and notes "it will be easy to identify him". He is found at a random location and this time, he is fully prepared for the PAYDAY gang as Chavez sports body armor and is armed. Defeating him is not too problematic as a well coordinated team can kill him fast. After Chavez's death, he will drop the needed keys for the panic room.
+
+After opening it, 4 saws must be placed near the safe, 2 on the current floor and the other 2 at the bottom. Players must ensure they are not jammed and are required to fix them if they break. In the meantime, other players should secure any loot if possible. A truck will spawn at the left or right side of the building and players can simply toss them out of a window with ease. Also, planks are available at random spots to allow barricading windows from the law enforcement.
+
+Once the saws are finished, heisters must ascend to the roof and eliminate the oncoming barrage of snipers. They will spawn around the surrounding rooftops and should not be underestimated, due to the lack of cover. After killing 7 (Normal/Hard), 10 (Very Hard/Overkill), or 15 (Mayhem+) snipers, Bile will drop the bag of C4. It will usually land on the roof but it may instead fall on the balcony or worse, ground level. 9 C4 charges must be placed on the roof. the fourth, and fifth floors.
+
+After placing the last C4, players are required to traverse to the 3rd floor for the C4 to detonate. Following the explosion, Bile will come in and lower the magnet, in which a player is required to attach it to the panic room. Before it can be lifted away however, players must defend him from the oncoming waves of police, often becoming the hardest task in the game.
+
+With the panic room in tow, escape is initialized and the crew must proceed to the basement of the building. The door to it must be lockpicked and additional gangsters, even a large group, will attempt to stop the crew. The escape zone is located at the end in a room where a sewer entrance will be opened, thus granting escape.
+
+==Strategy==
+*It is heavily advised to grab as much loot as possible ''before'' killing Chavez, as the police will not arrive until he is dead.
+**Additionally, players who wish to take hostages may want to secure as many as they can before Chavez is killed. Until police arrive, they will not attempt to flee, allowing players to secure them somewhere safe in the meantime.
+*Nine blocks of C4 will be required to blow a hole in the building. As such, runs that have only one or two players participating will need to grab more. Because of this, it is advisable to remember where it lands, and to remember all possible pathways to that location.
+*If playing with multiple people, assign each player to guard a saw, so that they can be fixed promptly when they jam.
+
+==Variations==
+*On Overkill and higher, three gangsters may stand to block the player's path to the apartment entrance. Approaching them will reveal the setup to have been an ambush and every thug in the building will become hostile, bypassing the deal altogether and forcing players to mask up early.
+*The location of Chavez will vary at random spots.
+*The truck where players can secure loot will either be at the right or left side of the building.
+*Bile may miss and instead of landing on the roof, the bag of C4 can be dropped off at the balcony.
+
+==Differences from PAYDAY: The Heist==
+*Instead of being taken hostage, the players must directly fight and kill Chavez to make him drop the keys to the panic room. He will have body armor equipped, wields [[Akimbo Chimano 88]] pistols, and is protected by two additional gangsters.
+*Once the player(s) have masked up, there will be a brief period of "semi-stealth" where if they have silenced weapons and can evade/eliminate the gangsters on the lower floors, there will be little to no opposition and the police will not arrive until Chavez is killed and his key taken.
+*The gangsters reuse the same models as the Mendozas, Cobras, and Dimitri's Nightclub Bouncers.
+*Room 145 will sit open at all times and does not require a crowbar to access.
+*Planks can be found in random locations and can be used to barricade windows.
+*Baggable loot can be secured with a pick-up truck that will randomly spawn in different locations. It will either be at the left or right side of the building.
+*The law enforcement will arrive once Chavez is killed instead of when the panic room is entered.
+*The Giant Toothbrush is now a heavy baggable loot that spawns randomly throughout the building.
+*The basement door has to be picked open instead of being blasted with C4.
+*There is an additional flight of stairs leading from the roof down at the back of the building.
+*Several ladders at the outside of the building have been added.
+*Escape is not timed.
+
+==Mayhem+ Changes==
+*The amount of Snipers to kill on the rooftop increases to 15.
+*Up to 2 Snipers can spawn at the same time (DW and DS only).
+
+==[[FBI Files|The FBI Files]]==
+A building in the projects was the scene of a major gunfight. As local police arrived they found the Payday Gang on the scene, and all hell broke loose. As our investigators analyzed the scene in the aftermath, it seemed the whole building had been torn apart using explosives. Someone was clearly looking for something big there.
+
+{{color|value|My Notes: These clowns are the worst. No telling what they were after here, but the damage to the building was very severe. Which just proves that they must be stopped, and soon - we can’t allow these marauders to wreak such havoc in our city any longer.}}
+
+==Bugs==
+*Any Police taken as hostages on the roof during the "Clear the Roof" segment will have to be converted or killed before the Winch is lowered.
+*Chavez's second pistol is an entity separate from corpses and guns; Players with a low corpse limit setting will find that the pistol will not disappear along with Chavez's corpse.
+*On the Linux port, the door to the room that leads to the Panic Room is not red.
+*If attempting to throw loot through the window into the truck, bags may get stuck in between the side of the truck and the wall of the adjacent building. If bags land here, it will be impossible to retrieve the bags as the truck's hitbox prevents players from grabbing the bag.
+
+==[[Achievements (Payday 2)#Hoxton's Housewarming Party Day 10|Achievements]] & [[Safehouse#Trophies|Trophies]]==
+<tabber>Achievements=
+{{:Achievements (Payday 2)/Panic Room}}
+|-|Trophies=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-ButItsTheTooth.png|{{Mask tooltip|But It's The Tooth!|color=legendary|Trophy-ButItsTheTooth.png|{{Quote|THAT'S A BIG TOOTHBRUSH!|Trophy description}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Find the toothbrush in the [[Panic Room (Payday 2)|Panic Room]] heist.|{{color|legendary|'''PLACEMENT:'''}}<br>Top Floor bathroom.}}
+</gallery>
+</tabber>
+
+==Trivia==
+*Bots are able to pass through the guards that deny human players access to the third floor.
+*The game still treats the keys as a keycard, as indicated by the mission objective.
+*Despite Bain telling the crew to vacate from the upper floors when he's about to detonate the C4 for fear of their safety, any tied up civilian or cuffed law enforcer on said floors will remain alive and healthy when the charges are triggered.
+*Bain may exclaim ''"Goddammit Ale-, er Bile!, How could you miss?!"'' if Bile misses the C4 drop on the roof. This is in reference to the [[Panic Room|original heist]] from'' ''the first game where [[Minor characters (Payday 2)#Alex|Alex]] was the pilot and his identical tendency to screw up on the job.
+*Bain originally had lines in the event the giant toothbrush was found, but they do not play in the heist.
+*Gangsters in this heist are scripted like Security Guards, they will call in disturbances using the security guard voice ("Two-Three here, there are signs of trespassers."), will fight alongside law enforcement, and may be healed by SWAT [[Medic|Medics]].
+*Bots have an animation where they look at the money in the panic room when first entering it
+
+==Experience==
+*{{color|cyan|2,000}} on completion
+*{{color|positive|+1,000}} for securing toothbrush
+*{{color|positive|+2,000}} for finding panic room
+*{{color|positive|+8,000}} when saws finish
+*{{color|positive|+3,000}} for killing snipers
+*{{color|positive|+2,000}} for placing the C4
+*{{color|positive|+4,000}} for securing roof
+*{{color|positive|+1,000}} for attaching magnet
+*{{color|positive|+3,000}} for defending heli lifting panic room
+*{{color|money|+500}} per secured bag of coke
+
+==Gallery==
+==Videos==
+[[File:PAYDAY 2 Panic Room Trailer|thumb|center|350 px]]
+
+{{Navbox PD2 Heists}}
+[[ru:Комната паники]]
+[[Category:Loud-Only Heists]]
+[[Category:Classic heists]]
+[[Category:PAYDAY 2 heists]]

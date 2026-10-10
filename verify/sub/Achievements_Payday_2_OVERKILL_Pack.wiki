@@ -1,0 +1,34 @@
+<tabber>Permanent Achievements=
+===Ownership required===
+{{Achievement|Cooking With Style|jpg|Complete the [[Rats]] job with you and your {{color|value|four}} man crew having [[Armors#Combined Tactical Vest|Combined Tactical Vests]], [[Vulcan Minigun]]s, [[HRL-7]] Rocket Launchers and [[Masks (Payday 2)|General Overkill]] masks equipped on the OVERKILL difficulty or above.}}
+{{Achievement|I Have No Idea What I'm Doing|jpg|In the [[Shadow Raid]] job, complete the heist in stealth while having the [[Vulcan Minigun]] and [[HRL-7]] Rocket Launcher equipped.}}
+{{Achievement|Oh, That’s How You Do It|jpg|Fire the [[Vulcan Minigun]] for {{color|value|25}} seconds without reloading or letting go of the trigger.}}
+
+===Achievable without owning DLC===
+{{Achievement|We Are Rockstars On This Job|jpg|Complete the [[Watchdogs]] job with each crew member using no skills, wielding the [[AMCAR (Payday 2)|AMCAR]] Rifle and [[Chimano 88]] Pistol on OVERKILL difficulty or above.}}
+{{Achievement|Reputation Beyond Reproach|jpg|In the Breaking Ballot heist in the [[Election Day]] job, complete the heist with you and your {{color|value|four}} man crew without letting anyone get downed, cloaked or cuffed on the Death Wish difficulty or above.}}
+{{Achievement|House Keeping|jpg|In the [[Big Oil]] job, complete day one in stealth on the OVERKILL difficulty or above.}}
+{{Achievement|120 Proof|jpg|Kill {{color|value|120}} or more [[Enemies (Payday 2)|enemies]] in any day in any job, with you and your {{color|value|four}} man crew having at least {{color|value|120%}} crew accuracy at the end of the heist.}}
+{{Achievement|Boston Saints|jpg|Complete the [[Big Oil]] job, with at least {{color|value|one}} other player, all using [[Armors#Two-Piece Suit|suits]] and [[Akimbo Bernetti 9]] Pistols on the OVERKILL difficulty or above.}}
+{{Achievement|Bring Your Cop To Work Day|jpg|On any heist, have {{color|value|four}} [[Enemies (Payday 2)|law enforcers]] [[Joker|converted]] at the same time on the OVERKILL difficulty or above.}}
+{{Achievement|Wasteful|jpg|In the [[Firestarter]] job, complete day one having burned all weapons on the Death Wish difficulty or above.}}
+|-|Teasers=
+''The following appeared on March 4, 2015. They got replaced on March 6, 2015.''
+{{Teasers
+|So, Bob,
+|you ready
+|to tear
+|down that
+|fence?
+|Yeah, Chuck,
+|the plastic
+|explosives
+|are all
+|wired up!
+}}
+|-|Trivia=
+* '''Boston Saints''' is a reference to the 1999 film ''[[wikipedia:The Boondock Saints|The Boondock Saints]]''.
+* The '''Oh, That's How You Do It''' achievement is internally called "never_let_you_go", a reference to the [http://knowyourmeme.com/memes/rickroll Rickroll] internet meme.
+* '''Bring Your Cop To Work Day''' is a reference to the [[wikipedia:Take Our Daughters and Sons to Work Day|Take Our Daughters and Sons to Work Day]] educational program, with the name referencing one of the two sub-programs associated with it: '''"Bring Your Daughter/Son to Work Day"'''.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

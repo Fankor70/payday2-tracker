@@ -1,0 +1,145 @@
+{{Game-Tabs|pdth=Slaughterhouse|pd2=Slaughterhouse (Payday 2)}}
+{{MultipleHeist2|Slaughterhouse|Infobox Heist}}{{Quote|All that stands between them and 16 bars of gold is a lot of dead pigs.|Poster tagline.}}
+'''Slaughterhouse''' is a heist from ''[[PAYDAY: The Heist]]'' introduced to ''[[PAYDAY 2]]'' on day 9 of [[PAYDAY 2 Community Events#CrimeFest 2015|CrimeFest 2015]]. It involves the team attacking an armored car, breaking into it at a slaughterhouse and escaping through the container yard.
+
+==Overview==
+{{Quote|We've got inside information on an upcoming gold transport. Only trouble is, the gold travels with a motorcade full of Murkywater mercenaries. An exploding car on the highway will force them to use the secondary route, giving us an ambush opportunity. We've got a shipping container waiting and some heavy smoke will keep the eye in the sky from figuring out where the gold goes.|In-game description.}}
+
+The heist begins with the crew in an apartment overlooking an alley that has been set up to take out an armored convoy. When the convoy arrives, a heavy loader smashes the truck containing the gold through the roof of a nearby slaughter house. After catching up with the truck and removing the safe with the gold, players must defend themselves from hired mercenaries and police while the drilling open the safe, fixing it when it jams. Once the safe is open, players must take the bags to a shipping container in the shipping yard in the back.
+
+After the gold is stowed away in the container, the players must set up a smokescreen with gas canisters found around the map to hide the container being lifted away. The crew then sets up a trap for the police before making their getaway in a vehicle containing the gold.
+
+==Objectives==
+#Prepare for the ambush
+#Hit the convoy
+#Get to the armored truck
+#Breach the door
+#(Optional)Get the van down
+#Drill the safe
+#Hide the gold	({{color|value|2}} on normal, {{color|value|4}} on hard & very hard, {{color|value|6}} on overkill, and {{color|value|8}} on mayhem and above)
+#Get the gasoline
+#Prepare a trap
+#Lift the trap
+#Wait for the trap
+#Lift the gold out of here
+#Wait for the gold
+#Make your way to the escape
+#Ignite the trap
+#Escape
+
+==Assets==
+===Purchasable===
+{{Asset|nade asset full.png|Grenade Case|3000|Requires [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC}}
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+===Intel===
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+
+
+==Walkthrough==
+Like the original version, heisters will begin in an apartment room that overlooks the ambush. The [[Companies#Murkywater|Murkywater]] convoy can be seen approaching the area, with Bain confirming the surprise is ready. Players can either shoot the convoy or wait near the gate to reach the ground sooner. Shooting escort cars flips them, killing their passengers. Shooting the convoy itself decides whether or not the truck will hang or lands inside the Slaughterhouse. Multiple PMCs will attack the crew, with some of them heading down the stairwell in an attempt to breach the backdoor of the slaughterhouse facility.
+
+One new change that becomes evident is a player must interact with a trash bin and obtain 4 C4 bombs, one of which is needed to breach the door. After that, players must eliminate or dominate the GenSec guards (one of which is stunned and the other is unconscious but will wake up after several seconds). The armored truck will either need to be blasted open or be shot down due to debris blocking it then blasted open. If the truck squeezes through the roof, be warned that there is a chance a [[Bulldozer (Payday 2)|Bulldozer]] may be present upon opening it and must be dispatched quickly. After this, a drill must be placed on the safe.
+
+In the slaughterhouse, players are encouraged to tie down the civilians, find two gas cans that randomly spawn in the building, and obtain a keycard.
+
+Eventually, Bain radios in that additional Murkywater PMCs have been sent and will use the shutter entrances. Technicians can set up sentries to easily eliminate them as enemies cannot defend themselves while sliding through. Soon, the police force arrives and an assault wave commences.
+
+After the safe is opened, players must manually haul them to the container outside the slaughterhouse. They are quite heavy, thus be sure to throw the bags on the conveyor belts. It is highly recommended to use the keycard to close off the shutter entrance near the exit of the building to better ensure enemies won't haul the gold bags to the other side of the slaughterhouse.
+
+Upon hauling the first gold bags out of the building, a SWAT van may ram itself through the left gate. On harder difficulties, it will deploy a [[SWAT Turret|turret]], making it much harder to transport the heavy loot, especially if there are numerous enemies present.
+
+Bain will inform heisters to drop the gas cans at a pile of tires to send the police helicopter away and within a container for the trap. The sooner players do this, the faster the containers will be moved. As the trap is being transferred, players can move the gold bags without wasting additional time.
+
+Three additional civilians are around the container warehouse. Anyone with [[Stockholm Syndrome]] can easily intimidate them (and tie them down).
+
+Unlike the original version, [[Sniper (Payday 2)|snipers]] will appear and attempt to incapacitate players. [[Captain Winters]] can also be summoned and will always stay near the SWAT Van (turret).
+
+When the escape is initiated, players must find the blue colored containers to interact with the doors and proceed. Enemies will attempt to stop this, with a line of [[Shield (Payday 2)|Shields]] to a [[Bulldozer (Payday 2)|Bulldozer]]. On occasion, a smoke grenade or/and a flashbang may be thrown thus disorientating heisters.
+
+Upon reaching the last container, one player must manually ignite the gas can to escape. Be warned that if not killed previously, a sniper may attack that very player.
+
+==Differences from PAYDAY: The Heist==
+* As with the [[First World Bank (Payday 2)|First World Bank remake]], the gold bags must be carried.
+* 8 gold bags (10 on Overkill and above) are present instead of 4.
+* There are functional conveyor belts that allow players to move the gold bags with ease.
+* To enter the slaughterhouse, a player must pick up the C4 stashed in a nearby dumpster to blast the door and truck open. The remaining 3 charges (instead of just one) must then be placed on the van to blast open the doors to reveal the safe.
+* If still alive, some of the Murkywater operatives from the convoy will head down in an attempt to open the slaughterhouse door. They will not spawn continually throughout the heist like in the first game, though.
+* The money bundles surrounding the safe are no longer present. The money bundles in the office are still present however.
+* There is a keycard in the offices, found in a random spot. It can be used to shut off one of the 3 shutter entrances to the slaughterhouse.
+** The door to the bathroom may now be locked and it may contain said keycard. Upon entering it the first time, the heister character will leave a humorous remark.
+* Gas cans can be acquired immediately once the slaughterhouse is entered. Only three cans (four on normal) will spawn in random locations unlike the original.
+* Security cameras are no longer present.
+* The doors to the outside are now closed until the safe has been opened. In the original version, only the gated fence was closed.
+* Escape is longer, not time-limited, and requires players to find and manually open blue colored containers to advance to the next escape area. Enemies are also scripted to spawn, such as one to several [[Bulldozer (Payday 2)|Bulldozers]].
+* A "marked" pig is available to be taken at a random spot on Overkill difficulty and above. If done so, a monetary reward and achievement are gained.
+* The container that players use to secure the gold bags now closes after using the control keypad to send it away. In the original, the first interaction with the keypad to send the trap would promptly close both containers.
+* Unlike in the original, the heisters wear their default outfits rather than tactical clothing.
+** After [[PC update history (Payday 2, 2026)#Update #246|Update #246]], the default outfit for heisters is now the "Legacy Tactical" suit.
+* Features the red shirted GenSec variant.
+
+==The FBI Files==
+A traffic incident on the southbound I-45 resulted in a convoy belonging to the independent military contractors, Murkywater, being diverted from its path. Shortly after, it appears to have been attacked, and the main truck was forced off the road and into the meat-packing district. From there, the Payday gang managed to extract several articles from the truck - though Murkywater will not reveal what was stolen.
+
+{{color|value|My Notes: Things are getting very heated between these two groups. Murkywater has operations all over the world, but they can’t fail to respond to these actions by Bain and his guys. Doubtless the Murkies will retaliate in some fashion. Perhaps we could coordinate with them?}}
+
+==[[Achievements (Payday 2)#CrimeFest 2015|Achievements]]==
+<tabber>Achievements=
+{{Achievement|Some Kind of Piggy Bank|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Normal difficulty or above.}}
+{{Achievement|Makin' Bacon|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Hard difficulty or above.}}
+{{Achievement|Black and Blue and Broken Bones|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Very Hard difficulty or above.}}
+{{Achievement|Puts the "S" in Laughterhouse.|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Of Pigs and Pigs.|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Mayhem difficulty or above.}}
+{{Achievement|Dead Meat|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Death Wish difficulty or above.}}
+{{Achievement|Lots of Pigs, But no Pigs|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Death Sentence difficulty or above.}}
+{{Achievement|Slaughterfest|jpg|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|But How?|png|In the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job, get the armored truck to drop without shooting at the wires on which it is suspended.}}
+{{Achievement|Making a Statement|png|Finish the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the OVERKILL difficulty or above without anyone killing a single [[Sniper (Payday 2)|sniper]].}}
+{{Achievement|Not Hard Enough|png|Complete the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job on the OVERKILL difficulty or above while [[Captain Winters]] is still present on the level.}}
+{{Achievement|Pork Royale|png|In the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job, find the marked pig, secure it in the container and then finish the heist on OVERKILL or above.<br />''{{color|negative|From October 24th, 2015, to January 14th, 2016, awarded one [[Safes (Gameplay)|Slaughter safe and drill]].}}''}}
+{{Achievement|Pyromaniacs|png|In the [[Slaughterhouse (Payday 2)|Slaughterhouse]] job, pick up two gasoline tanks within {{color|value|30}} seconds of entering the slaughterhouse.}}
+|-|Teasers=
+{{Teasers
+|Shazam
+|Alakazam
+|Hocus Pocus
+|Abracadabra
+|Sim Sala Bim
+|Open Sesame
+}}
+|-|Trivia=
+*'''But How?''' is an [[Slaughterhouse/Walkthrough#But how.3F|achievement]] from the first game.
+*'''Black and Blue and Broken Bones''' is most likely a reference to Nine Inch Nails' song Piggy.
+</tabber>
+
+==Trivia==
+*This is the second heist to return from ''[[PAYDAY: The Heist]]'', after [[First World Bank (Payday 2)|First World Bank]].
+*Like with [[Diamond Heist]] from PAYDAY: The Heist going with [[The Diamond|The Diamond heist]] and [[First World Bank (Payday 2)|First World Bank]], PAYDAY 2's Slaughterhouse has an updated version of its theme, Crimewave, aptly titled Crimewave 2015.
+*The ever-familiar [[Companies#Murkywater|Murkywater PMCs]] made another return in this heist.
+**The heist screenshots on the CrimeFest 2015 site are labeled <code>remake-shark</code> as a specific reference to them.
+**The cars of the armored convoy are reused from PAYDAY: The Heist.
+*On Overkill and above, Vlad will call in and inform a reward is available if the PAYDAY crew finds a "marked" pig. This makes Slaughterhouse one of the few heists to be involved with more than one contractor (if canonical).
+*Bain no longer says "On your mark Dallas", unlike the original version.
+*The Bulldozer unit inside the armored truck will be of the regular variant on difficulties Overkill and below, and a Skulldozer on Mayhem and upwards. This is persistent even on Death Sentence where a Skulldozer will appear in place of the Zeal force version.
+*The machine that pushes the armored truck off the road is not actually a loader, it's a feller buncher, which is comically used in an urban setting rather than the forest the vehicle is supposed to be operated in.
+
+==Gallery==
+<gallery widths="229" spacing="large" orientation="landscape" position="center">
+remake-shark-ss1.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+remake-shark-ss2.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+remake-shark-ss3.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+remake-shark-ss4.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+remake-shark-ss5.jpg|Screenshot provided on the Crimefest 2015 promotional site.
+</gallery>
+
+==Video==
+<gallery position="center" widths="300">
+PAYDAY 2 Soundtrack - Crime Wave 2015|Crime Wave 2015 - Slaughterhouse Theme.
+</gallery>
+
+{{Navbox PD2 Heists}}
+[[ru:Скотобойня]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Loud-Only Heists]]
+[[Category:Classic heists]]

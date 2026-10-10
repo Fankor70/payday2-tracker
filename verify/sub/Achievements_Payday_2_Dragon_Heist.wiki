@@ -1,0 +1,36 @@
+<tabber>Permanent Achievements=
+{{Achievement|Chase the Dragon|webp|Complete the [[Dragon Heist]] job on the Normal difficulty or above.}}
+{{Achievement|Wake the Dragon|webp|Complete the [[Dragon Heist]] job on the Hard difficulty or above.}}
+{{Achievement|Dragon Snatcher|webp|Complete the [[Dragon Heist]] job on the Very Hard difficulty or above.}}
+{{Achievement|No Tea Shop Can Stop You|webp|Complete the [[Dragon Heist]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Dragon Slayer|webp|Complete the [[Dragon Heist]] job on the Mayhem difficulty or above.}}
+{{Achievement|Fire Breathing Heister|webp|Complete the [[Dragon Heist]] job on the Death Wish difficulty or above.}}
+{{Achievement|Big Trouble, Badder Heister|webp|Complete the [[Dragon Heist]] job on the Death Sentence difficulty.}}
+{{Achievement|Hero of the Underworld|webp|Complete the [[Dragon Heist]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|All the Gold in Chinatown|webp|In the [[Dragon Heist]] job, collect all the loot and escape without triggering the alarm on the OVERKILL difficulty or above.}}
+{{Achievement|Keep Breathing that Fresh Air|webp|In the [[Dragon Heist]] job, do not let the cops start trigger the gas attack.}}
+{{Achievement|Speed Lizard|webp|Complete the [[Dragon Heist]] job in 6 minutes or less on the OVERKILL difficulty or above.}}
+{{Achievement|For The Mad Hatter|jpg|Collect and secure the tea sets from all heists in the City of Gold campaign. Unlocks the "Laohu Dashi" Outfit.}}
+|-|Teaser=
+''The following teasers were added on March 12, 2021, and removed sometime later at an unknown date''
+{{Achievement|Some may say||Some may say}}
+{{Achievement|that a good||that a good}}
+{{Achievement|name is better||name is better}}
+{{Achievement|than a good||than a good}}
+{{Achievement|mask but a true||mask but a true}}
+{{Achievement|heister knows that||heister knows that}}
+{{Achievement|it's easy to find||it's easy to find}}
+{{Achievement|a thousand thugs||a thousand thugs}}
+{{Achievement|, but hard||, but hard}}
+{{Achievement|to find a||to find a}}
+{{Achievement|good mastermind||good mastermind}}
+|-|Guide=
+*'''All the Gold in Chinatown''' The additional loot in the heist are:
+**a tea set which is found in a safe in the back office of the auction room.
+**6 artifacts (2 of which are paintings). In the room next to the auction room, there are 2 normal artifacts and 2 paintings. It is advised to bag all 4 artifacts in this room before turning on the lights as everyone will flood into the room. The last 2 artifacts are in the tea shop itself, both inside glass cases which need to be lockpicked.
+**4 bags of gold are found in the vault room.
+**3 bags of coke in shipping containers. 2 coke containers are found in the warehouse and the last one is in the room between the warehouse and auction room.
+|-|Trivia=
+*'''For The Mad Hatter''' is a reference to {{w|Hatter (Alice's Adventures in Wonderland)|The Mad Hatter}} from {{w|Lewis Carroll}}'s 1865 book {{w|Alice's Adventures in Wonderland}}, who is frozen in time forever stuck at 6pm in an endless tea party. The Hatter tried to sing to the foul-tempered {{w|Queen of Hearts (Alice's Adventures in Wonderland)|Queen of Hearts}} who sentenced him to death by decapitation. Father Time retaliated and froze The Mad Hatter in time out of respect for him. The "Laohu Dashi" outfit is a reference to {{w|Bruce Lee}} and his yellow jumpsuit. The name translates to "Tiger Master", referencing the black and yellow colors of the outfit.
+</tabber>
+[[Category:PAYDAY 2]]

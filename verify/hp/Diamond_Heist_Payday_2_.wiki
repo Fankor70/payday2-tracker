@@ -1,0 +1,156 @@
+{{Game-Tabs|pdth=Diamond Heist|pd2=Diamond Heist (Payday 2)}}
+{{MultipleHeist2|Diamond Heist|Infobox Heist}}
+{{Quote|25 million reasons to avoid guards and gunfire|Poster tagline}}
+'''Diamond Heist''' is the remastered version of the same level from ''[[PAYDAY: The Heist]]''. The crew must break into the Garnet building skyscraper, with the intent of robbing Garnet's vault of its valuable jewels.
+
+==Overview==
+
+==Objectives==
+# Make your way to the router boxes, and hack them (150 seconds) [If loud, you will have to defend these
+# Find the three color codes for the Vault on separate laptops. (The codes follow the same pattern as the one in Golden Grin, down to the Red, Green, and Blue color pattern.)
+# Find Ralph and either kill him or tie him up for his keycard, which will be needed to put the code in.
+# If the router boxes have not been hacked yet, find sapphires around the building. They are all in the same location, but two new ones near the vault doors. (optional)
+# When the hack is finished, make your way to the vault, put the keycard in, and insert the code. (You need to crouch under the pin and point at the # you need) Do NOT input the wrong code, or the alarm will sound. Unlike Golden Grin, however, Bain will not repeat the code to you.
+# If you did it right, congratulations! You have now made it inside the vault, which is filled to the brim with diamonds (and on at least Overkill difficulty, the Red Diamond. (OVK = 10% chance of spawn, MAYHEM+ = 20% chance of spawn.))
+# Secure the required number of bags.
+# Secure more jewels, or escape.
+
+==Assets==
+===Purchasable===
+{{Asset|asset-bodybags bag.png|Body Bags|7000|Requires the [[Sixth Sense]] Aced skill to unlock}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC}}
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+
+===Intel===
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+
+==Walkthrough==
+<!-- these could be enhanced a little bit -->
+<tabber>Stealth=
+The three steps for unlocking the vault can be finished in any order:
+*Look around for the two router boxes, start their hacks, and wait for them to finish.
+*Look for three laptops and interact with them to get the three pieces of the code.
+*Look for Ralph Garnet and tie him down or shoot him to get his keycard.
+
+Once all three have been done, go down to the vault door, swipe Ralph's keycard, and input the code in the correct order.
+
+Use the glass cutter to open the display cases, as breaking them will sound the alarm.
+
+Move the eight diamond bags to the platform where the players started, and escape.
+|-|Loud=
+Find the two router boxes and start their hacks, and protect them from law enforcers. While waiting for them to finish, look for Ralph Garnet and tie him down or kill him to get his keycard.
+
+As the regular code for the vault cannot be used now, the crew has to find the CFO and push him to the helipad on the roof, and wait for Bain to pick him up to get the vault's master code out of him.
+
+After a short interrogation, Bain throws him out of the helicopter and onto the fountain in the atrium. He then provides the code, and the crew can now access the vault.
+
+After bagging the diamonds in the center, they have to be secured by setting up a zipline and sending them to the roof of a building in the distance.
+
+Once all bags have been secured, an endless assault starts and the crew must escape by lighting a flare on the roof helipad and waiting for the helicopter to return.
+</tabber>
+
+==Strategy==
+*If the routers, laptops, Ralph Garnet, and the CFO aren't found within a certain amount of time, they'll be marked automatically (the routers and laptops will be marked one-by-one).
+*While the three-digit code's design and input is similar to that of the vault/armory code in [[Golden Grin Casino]], unlike when at the casino vault keypad, Bain ''will not'' recite the code when at the vault keypad in stealth. Write down the code numbers and colors in the chat or on paper.
+*When moving bags in stealth, if the patrols and cameras make going to the starting point too risky, the bags can instead be secured by throwing them to the window cleaning platform from the rooftop (if possible).
+
+==Variations==
+*The room where the players start (and subsequently, where they escape in stealth).
+*The locations of the camera room and the CFO's room.
+*The router box and laptop locations and the numbers of the code.
+*The red diamond room has a 10% chance of spawning on Overkill, and a 20% chance of spawning on Mayhem and above.
+*The location on the roof where the players light the flare to escape in loud.
+*There is a 10% chance after hacking your first laptop the party will end.
+<!-- Apparently Overkill's goofed(?) on the code, and the decreasements don't work. Or is that intended. Keeping it here till certain.
+===Red Diamond Spawn Chance===
+*Base chance on Overkill: 10%. Mayhem and above: 20%
+*Chance reduced by 1% per civilian or guard killed. This is still active while going loud.
+*Chance reduced by 5% if going loud.-->
+
+==Differences from PAYDAY: The Heist==
+*The building's aesthetic has been radically altered.
+**The chandelier in the dome of the atrium has been replaced with a fountain at the bottom.
+**The helicopter pad opposite of the vault has been converted into a garden.
+*The buildings in the skybox and their logos have been changed.
+*There is a window cleaning platform where the players start, this is used to secure bags and escape in stealth.
+*Instead of the crew, Bain will say on my mark in the intro
+*The elevator shaft furthest from the party can be entered, and inside is a ladder that can be used for moving between the two floors.
+*The security/router boxes are not highlighted when the heist starts.
+*The method for opening the vault has been modified:
+**Only 2 security/router boxes have to be hacked, and they have a 2.5-minute hacking time in both stealth and loud.
+**Instead of having the code when the heist starts, 3 laptops have to be interacted with in stealth to get the code. These laptops are useless in loud.
+**The CFO will always be required to open the vault in loud, will be found in a closet similar to Ralph Garnet in the original, will have the code on him instead of being used to negotiate with Mr. Garnet, and will always be killed.
+**Instead of being the backup-backup plan in loud, finding and tying down/killing Ralph Garnet is a requirement in both stealth and loud to get his vault keycard. He can be found wandering around the building.
+**The vault does not have a timelock in loud.
+*Instead of the red diamond room spawning if the vault is reached in stealth, it spawns randomly regardless of whether the vault is entered silently or loudly.
+**Instead of pushing a button to enter and setting the glass cutter on the red diamond's case and waiting for it to cut through, the red diamond room's door has to be drilled open and the red diamond's case can be opened like a typical display case. Additionally, the red diamond's case can be broken open, instead of closing permanently if damaged.
+*The cameras are on, but can be disabled by pacifying the camera operator.
+*Guard patrols can now be killed without the alarm going off provided the player isn't caught in the act and the subsequent pager is answered. Also, they are normal guards, using the suit and sunglasses variant, not the red-shirted GenSec variant as the original did.
+*The sapphires are acquired by using the glass cutters on their display cases, rather than opening them and waiting for them to surface.
+*There are two additional sapphires located in the atrium area, opposite of the vault doors.
+*Breaking windows does not automatically raise the alarm, but breaking display cases still does.
+
+==Mayhem+ Changes==
+*All cameras are of the Titan variant.
+*The chance of the red diamond room spawning is increased (from 10% on Overkill to 20% on Mayhem+).
+*Increased chance of turret spawn (from 50% on Overkill to 70% on Mayhem+).
+
+==[[The Lost Tapes|Lost Tapes]]==
+[[File:Lost Tape 2.png|200px|thumb|right]]As a part of [[PC_update_history_(Payday_2,_2023)#Update_#238.3|update #238.3]], Lost Tape #3 was added to the map. Two keycards are required to open the safe, which rewards the player with Lost Tape #3. Players should note that one keycard can spawn in an inaccessible area, though a workaround exists.
+{{Showhide|Item Spawn Locations|<tabber>Keycards=
+''Only 2 keycards are randomly chosen out of a selection of 6.''
+<gallery widths="300" columns="dynamic" spacing="small" captionalign="center" bordercolor="transparent" hideaddbutton="true">
+Lost Tapes 3-Keycard 1.png|Tucked into a folder on a desk in the "Jade Room". This is the same room where the safe can spawn.
+Lost Tapes 3-Keycard 2.png|Inside a sink on the third floor, at the front of the building (opposite of the courtyard).
+Lost Tapes 3-Keycard 3.png|On the roof, overlooking the statue.
+Lost Tapes 3-Keycard 4.png|Behind the statue in the courtyard.
+Lost Tapes 3-Keycard 5.png|Inside the vault, on the desk.
+Lost Tapes 3-Keycard 6.png|Inside Ralph's/CFO's office. {{color|negative|(see note)}}
+</gallery>
+|-|Safe=
+''The safe will spawn in only '''one''' of the listed locations.''
+<gallery widths="300" columns="dynamic" spacing="small" captionalign="center" bordercolor="transparent" hideaddbutton="true">
+Lost Tapes 3-Safe 2.png|In the office under construction.
+Lost Tapes 3-Safe 1.png|In the "Jade Room" office on the first floor.
+Lost Tapes 3-Safe 3.png|Next to the helipad on the roof.
+</gallery></tabber>
+}}
+[[File:Lost Tapes 3 Keycard 6 this is stupid.png|300px|thumb|right|The keycard can be grabbed from this spot.]]{{color|negative|Note:}} The lower office where the sixth keycard spawns can be inaccessible if Ralph or the CFO does not initially spawn inside the office. The keycard can still be obtained if the player faces the wall behind the office, as the interaction area for the keycard extends slightly past the wall. If you can not find the last keycard, it is most likely hidden in this spot.
+==The FBI Files==
+The Garnet Building is one of the most prominent business centers in the DC area and the crown jewel in CEO Mr. Nathan Garnet’s business empire. Long rumored among high society (and criminals) in Washington to house Garnet’s personal fortune reserve of diamonds, the building has been a viable target for gangs like Payday to hit, and as recent events have shown, those suspicions were founded on very solid ground. Since it was hit, Garnet stock has plummeted, and speculations have arisen as to whether the Garnet Group can survive without reconstruction. At the time of writing this entry, the secretive Mr. Garnet has not made any personal (or public) announcements regarding the incident.
+
+{{color|community|My Notes: This goes to prove that the Payday gang is still, for all intents and purposes, a bunch of simple thieves, motivated by a bottomless greed. For all their notoriety, craftiness and skill, they’re just two-bit criminals at heart and that will be their downfall. The fact that they took the bait on this is perfectly in line with how we will eventually to stop them. The timing of this hit is a bit odd, though. There’s something “off” about the Garnet Group in all of this, but I just can’t put my finger on it yet.}}
+
+==[[Achievements (Payday 2)|Achievements]]==
+{{:Achievements (Payday 2)/DiamondHeist}}
+
+== Bugs ==
+
+* If the camera operator is killed with a shotgun or other knockback weapons during stealth, their body can fall between the desk and wall mounted monitors, if the body lands in this position, you will not be able to respond to their pager and stealth will fail.
+*If securing the bags by throwing them from the rooftop, it is possible for bags to clip through the short wall, but not fall down. If that happens, they will be unable to be retrieved and the heist will be impossible to complete.
+*Sometimes Bain will not say the third number of the code to the vault, requiring players to remember the numbers shown by the laptops.
+==Trivia==
+*Based on Ralph Garnet's voice mail to his father in the heist teaser, the ''PAYDAY 2'' version of Diamond Heist could very well be a revisit to the same location in present day instead of being a mere remake.
+**This time the crew steals the diamonds not only for personal gain but also with intentions to cut off [[Locke]]'s finances following the events of [[Alaskan Deal]]. As shown in the original Diamond Heist, Garnet Group was (and still is) a [[Murkywater]]-affiliated corporation with particularly strong ties to Locke himself, as noted by Bain on the Day 9 announcement site.
+***Given the events of the [[Reservoir Dogs Heist]], however, it's likely Bain lied about Locke's ties to the Diamond Heist and had planned the heist ahead alongside Locke to rob Murkywater of its riches, as Locke was later revealed to have faked his betrayal in order to stop the Payday gang from being caught by the [[Kataru]].
+*As revealed in [[the Lost Tapes]] and in ''[[PAYDAY 3]]'', the Diamond Heist led to the bankruptcy of Garnet Group and the eventual suicide of the company's CEO, Nathan Garnet, influencing [[Ralph Garnet]] to join a conspiracy against the Payday gang in the sequel. Like with the Payday gang's many schemes against Garnet Group, however, Ralph's actions would lead to Garnet Group into further financial trouble after a [[99 Boxes|heist at a dockyard]] and, eventually, Ralph's assassination by the [[John Concord|conspiracy's leader]].
+*In a break of pattern, the soundtrack for the original Diamond Heist was remixed for use in [[The Diamond]]. Thus, a remix of '''I Will Give You My All''' was used instead. The party still uses the songs from the original version however.
+*Unlike other heists with a security room, the door to it is a normal metal door, able to be lockpicked instead. The same applies to the First World Bank.
+*There is a unique set (about 4 or 5 lines) of male civilian dialogue that only appear in Payday 2's iteration of Diamond Heist that may play during stealth, including a remark about Ralph being "too good for his own party", among a few other lines about the party in general.
+**These lines were voiced by the Youtuber [https://www.youtube.com/@ConnorShawVA Connor "Sheri" Shaw], who used to make content primarily focused on Payday 2, though moved on to reviewing other games sometime after the White House Heist was added in 2018 (and by extension the [https://payday.fandom.com/wiki/PAYDAY_2_Secret_ARG#White_House_Heist_&_the_Ark_of_the_Watcher Payday 2 Secret], as their last Payday 2 video was a [https://www.youtube.com/watch?v=KXNNrN8rVPk&list=PLRCbOBG2ff6P7isgvzQ0-vYKOTGN8_JFV&index=124 full guide] on how to access it.) And while Connor will not return to the Payday series as a main form of content, they have made a video detailing the development and their opinions on Payday 3, as well as a video on [https://payday.fandom.com/wiki/RAID:_World_War_II Raid: WW2], though these were simply, as they put it: "Videos about Payday from a regular Youtuber."
+
+==Gallery==
+
+==Videos==
+<gallery widths="300" position="center">
+PAYDAY 2 A Message From OVERKILL on PAYDAY 2, H3h3 Character Pack and RAID World War II Launch!|A message from Overkill and teaser
+PAYDAY 2 Diamond Heist Trailer
+</gallery>
+
+{{Navbox PD2 Heists}}
+[[ru:Кража бриллиантов]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Classic heists]]
+[[Category:Stealth Heists]]

@@ -1,0 +1,49 @@
+<tabber>Permanent Achievements=
+{{Achievement|Sewer Rats|jpg|In the [[GO Bank]] job, complete the heist having secured all bags of cash via the sewers on the OVERKILL difficulty or above.}}
+{{Achievement|Is Everything OK?|jpg|In the [[GO Bank]] job, complete the heist without having the alarm go off at any point.}}
+{{Achievement|Upside Down|jpg|In the [[GO Bank]] job, leave a mark on the bank logo.}}
+{{Achievement|All Eggs in One Basket|jpg|In the [[GO Bank]] job, have the plane pick up all bags of cash with the skyhook.}}
+{{Achievement|We Are All Professionals|jpg|In the [[GO Bank]] job, complete the heist without the alarm going off and without killing any civilians on the OVERKILL difficulty or above.}}
+{{Achievement|Eco Round|jpg|In the [[GO Bank]] job, complete the heist without using your primary weapon on the OVERKILL difficulty or above.}}
+{{Achievement|Dead Presents|jpg|In the [[GO Bank]] job, put at least {{color|value|4}} body bags under the Christmas tree.}}
+|-|Teasers=
+''The following appeared on December 10, 2013.''
+{{Teasers
+|Christmas is Coming
+|The Goose is Getting Fat
+|Please Put a Penny
+|In the Old Man's Hat
+|If You Haven't Got a Penny
+|A Ha'penny Will do
+|If You Haven't Got a Ha'penny
+|Then We'll Rob You!
+|Ho Ho Ho
+}}
+|-|Tips=
+{{Achievement|Eco Round|jpg|In the [[GO Bank]] job, complete the heist without using your primary weapon on the OVERKILL difficulty or above.}}
+To unlock this achievement during a stealth run will be the most straightforward method as most players will normally use a high-concealment silenced secondary to neutralize patrolling guards and cameras. One should proceed with the heist as usual, without ever switching to their primary to avoid accidental discharges. Switching to a primary is not forbidden, but opening fire with one is.
+
+As this is a solo achievement, the weapon status of other crewmates does not count against progression.
+
+{{Achievement|Sewer Rats|jpg|In the [[GO Bank]] job, complete the heist having secured all bags of cash via the sewers on the OVERKILL difficulty or above}}
+The sewer escape required for the achievement only triggers under certain circumstances, which are: all loot has been loaded stealthily, but the alarm sounds; if the loot cage has been lifted, regardless of if loot is inside; or if the pilot crashes the plane. Since the first disqualifies players (''i.e.'' all loot is required) it is best completed by deploying the balloon as soon as the cage is built, sending it with no bags inside. Note that the cage needs at least one bag in it to be able to raise the balloon, therefore remove the bag immediately after raising the balloon. Although this achievement can be done loud, players may wish to stealth up until the point all of the bags have been removed from the vault, then the alarm needs to be raised (either don't answer the phone when it rings or run through the vault lasers).
+
+After the pickup is made, the correct manhole will be highlighted and players must move bags towards it. Due to the difficult escape conditions, it is highly recommended players move the bags into the sewers before entering; a player entering the manhole cover triggers the escape timer, so players should plan accordingly.
+
+Players should preferably start moving at the very end of an assault to minimize resistance. Depending strongly on the map's spawns, players will have to move all the money bag spawns through a maze of varying length and difficulty, and may have to bypass a cage door. As players only have around three minutes to load the loot and escape, one player should consider running ahead with light armor to locate the escape.
+
+In order to unlock the achievement, '''all the money loot bags must be secured to the van loot bag drop zone''' within the escape zone before the escape is initiated, because the bags carried with the players during the escape moment don't count towards this achievement. Special attention should be kept on the proper loot dropping due the very stressful situation when just few seconds are left to finish the heist while the players are dropping the last loot bags.
+
+{{Achievement|We Are All Professionals|jpg|In the [[GO Bank]] job, complete the heist without the alarm going off and without killing any civilians on the OVERKILL difficulty or above.}}
+Acting as more of a chore than a challenge, this achievement requires a much more vigilant stealth approach than usual, and often means sacrificing a large amount of the loot to escape before a hostage calls the police. The achievement is significantly easier when attempted with basic [[Stockholm Syndrome]], aced [[ECM Specialist]], and an [[OVE9000]] saw with the Silent Motor equipped. Taking great care to case the bank for cameras and guards, players must ECM rush the bank with utmost precision, by killing guards, controlling civilians, and breaking cameras without smashing any windows or killing any innocents.
+
+Answering any pagers and tying all civilians, players must swiftly move all hostages to the rear of the bank and out of sight. With the hostages moved and windows unbroken, civilians will only panic once they enter the bank and see it is empty; should they keep spawning and entering, a player with Stockholm Syndrome should routinely terrify any untied civilians. The bank's guards and investigating officers may drop additional cable ties, which can alleviate this or even remove the need for rigorous shouting.
+
+Acquiring the cards and answering the phone, the heist thus continues as usual for stealth. When the GenSec and/or police arrive, they should enter the bank as normal provided no external broken cameras are visible. Regardless, players should take care killing them, doing so with tact and bagging the corpses immediately to prevent civilians seeing. Once the vault is open, boxes should be opened as fast as possible and, once a bag of loot is found, players should dash to the van before the alarm can be raised.
+|-|Trivia=
+* The teaser achievements are a reference to the nursery rhyme/{{w|Christmas carol}} {{w|Christmas is Coming}}.
+* '''We Are All Professionals''' is a reference to the film ''{{w|Léon: The Professional}}'', where the main character, Léon, refuses to kill women and children in his line of work. The achievement icon is also a reference, showing Léon's trademark woolen hat and carrying his plant. Also, in ''Global Offensive'', the Terrorist faction in this map is called "Professional".
+* '''Eco Round''' is a reference to a player term in the ''{{w|Counter Strike}}'' series, which [[GO Bank]] is based on. When players are low on in-game money, players will call out an "Eco Round" in which the team will resort to using their starting secondary weapons.
+* '''Dead Presents''' is a pun on "Dead Presidents", as the portraits found on American bank notes are mainly of now-deceased former presidents.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

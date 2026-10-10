@@ -1,0 +1,14 @@
+<tabber>Permanent Achievements=
+{{Achievement|Cooking in the Sun|jpg|Complete the [[Border Crystals]] job on the Normal difficulty or above.}}
+{{Achievement|Free Shipping and Handling|jpg|Complete the [[Border Crystals]] job on the Hard difficulty or above.}}
+{{Achievement|A Dish Best Served Hot|jpg|Complete the [[Border Crystals]] job on the Very Hard difficulty or above.}}
+{{Achievement|Kings and Queens of Crystal|jpg|Complete the [[Border Crystals]] job on the OVERKILL difficulty or above.}}
+{{Achievement|If You Can't Stand The Heat, Get Out Of The Meth Lab|jpg|Complete the [[Border Crystals]] job on the Mayhem difficulty or above.}}
+{{Achievement|There is Sand in My Meth!|jpg|Complete the [[Border Crystals]] job on the Death Wish difficulty or above.}}
+{{Achievement|With a Bite of Habanero|jpg|Complete the [[Border Crystals]] job on the Death Sentence difficulty.}}
+{{Achievement|No Coming Back for Seconds|jpg|Complete the [[Border Crystals]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Heister Cocinero|jpg|In the [[Border Crystals]] job, escape the heist with 25 bags of meth on the OVERKILL difficulty or above.}}
+|-|Trivia=
+*'''If You Can't Stand The Heat, Get Out Of The Meth Lab''' is a reference to the quote "If you can't stand the heat, get out of the kitchen", widely reported to be coined by U.S. President {{w|Harry S. Truman|Harry S. Truman}}.
+</tabber>
+[[Category:PAYDAY 2]]

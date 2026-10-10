@@ -1,0 +1,69 @@
+<tabber>
+Permanent Achievements=
+{{clr}}
+{{Achievement|No Fish Were Harmed In The Making Of This Heist|jpg|Complete the [[Crude Awakening]] job on the Normal difficulty or above.}}
+{{Achievement|Midnight Oil|jpg|Complete the [[Crude Awakening]] job on the Hard difficulty or above.}}
+{{Achievement|Up In Flames|jpg|Complete the [[Crude Awakening]] job on the Very Hard difficulty or above.}}
+{{Achievement|SERA Needs A Medic Bag|jpg|Complete the [[Crude Awakening]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Black Gold Burning|jpg|Complete the [[Crude Awakening]] job on the Mayhem difficulty or above.}}
+{{Achievement|The Drill Is Down|jpg|Complete the [[Crude Awakening]] job on the Death Wish difficulty or above.}}
+{{Achievement|Burn, Baby, Burn|jpg|Complete the [[Crude Awakening]] job on the Death Sentence difficulty.}}
+{{Achievement|Texas Heat|jpg|Complete the [[Crude Awakening]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Human Torch|jpg|In the [[Crude Awakening]] job, kill Gabriel using three oil pits at most on the OVERKILL difficulty or above. Unlocks the "Gabriel’s Requiem" mask.}}
+{{Achievement|Seagulls Aren’t Real|jpg|In the [[Crude Awakening]] job, find and remove all the seagulls without raising the alarm.}}
+{{Achievement|Texas Treasures, Part 4|jpg|In the [[Crude Awakening]] job, use the blueprint to access a passcode to Gabriel’s most valuable asset. Unlocks the "Texas Treasures" Suit and the "Midland Memoriam" mask.}}
+{{Achievement|Cash Liquidation|jpg|In the [[Crude Awakening]] job, throw all of Alice Rainey’s money into the ocean and then pick it up with your boat.}}
+{{Achievement|The Right Stuff|jpg|In the [[Crude Awakening]] job, find the purest sample of the correct oil batch on the first try.}}
+|-|Teaser=
+{{clr}}
+{{Achievement|A mixture||A mixture}}
+{{Achievement|of hydrocarbons,||of hydrocarbons,}}
+{{Achievement|i.e. containing||i.e. containing}}
+{{Achievement|only carbon||only carbon}}
+{{Achievement|and hydrogen.||and hydrogen.}}
+{{Achievement|The most||The most}}
+{{Achievement|common components||common components}}
+{{Achievement|are alkanes||are alkanes}}
+{{Achievement|(paraffins),||(paraffins),}}
+{{Achievement|cycloalkanes||cycloalkanes}}
+{{Achievement|(naphthenes),||(naphthenes),}}
+{{Achievement|and aromatic||and aromatic}}
+{{Achievement|hydrocarbons.||hydrocarbons.}}
+{{Achievement|Oops is this a leak?||Too bad we lost the tape to patch it.}}
+|-|Tips=
+{{clr}}
+{{Achievement|Human Torch|jpg|In the [[Crude Awakening]] job, kill Gabriel using three oil pits at most on the OVERKILL difficulty or above. Unlocks the "Gabriel’s Requiem" mask.}}
+As the description states, the crew must kill Gabriel in loud using ''three or fewer'' oil pits to light him on fire. This is easiest on Overkill, as Gabriel's health scales upward with the difficulty. Once Gabriel is lit on fire, each crew member must be ready to unload their weapons into him to deal as much damage as possible before the fire goes out.
+<br/>'''Notes on Gabriel:'''
+*Gabriel is immune to being set on fire.
+*Gabriel is immune to knockdown, concussion effects, and electrocution.
+*ECMs provide little use, as Gabriel is immune to the ECM stun.
+*Gabriel is '''immune''' to extra headshot damage. It is recommended to bring weapons that have large ammo pools.
+*It is not recommended to use explosives, as Gabriel has a {{color|value|50}}% resistance to explosive damage.
+*Take care to not get within melee range, as Gabriel can tase the player if punched and deals 250% more damage than normal.
+*Gabriel's health increases by an additional 10% for each heister (excluding bots) in the game. If the player is having trouble, playing solo can reduce the amount of health Gabriel has.
+{{Achievement|Cash Liquidation|jpg|In the [[Crude Awakening]] job, throw all of Alice Rainey’s money into the ocean and then pick it up with your boat.}}
+[[File:Crude office code.png|240px|right|thumb|The notepad with the office code.]]In the private office are four stacks of money, which are the required loot for the achievement. To access the office, the crew must get to the drilling tower  lower control room where Gabriel resides. Inside the lower control room is a notepad on the center table, which can be interacted with to reveal the code to the private office. The crew must then have the heist proceed as normal and start the drill, triggering the escape sequence.
+<br/>
+As the crew escapes through the rig, a detour can be made to run back to the private office. The code can then be entered, allowing access to the office. Inside are four stacks of cash; two on a shelf and two in suitcases. The crew can either carry each bag down to the escape boat and secure them, or toss the bags out the window. If the bags are tossed out the window, they will spawn in four random locations in the waters below. The crew must then drive the escape boat over each bag to secure them.
+<br/>
+
+On Very Hard and above, if the heist had gone loud '''before''' the drill was started, there is a {{color|value|50}}% chance for two cloakers to spawn in the office. These cloakers will automatically drop smoke bombs, making it much harder to see.
+{{Achievement|The Right Stuff|jpg|In the [[Crude Awakening]] job, find the purest sample of the correct oil batch on the first try.}}
+[[File:Crude sample whiteboards.png|240px|right|thumb|The two whiteboards.]]To figure out the correct sample, the crew must find either a whiteboard in the laboratories or a graph in the admin office. The whiteboard lists the name of each sample, and a note under the pure sample confirming its pureness. The graph shows the color of each sample, with the highest peak being the purest sample. The crew can use either board to guess the sample, as there are only three possible samples to choose from.
+{{Achievement|Seagulls Aren’t Real|jpg|In the [[Crude Awakening]] job, find and remove all the seagulls without raising the alarm.}}
+See [https://steamcommunity.com/sharedfiles/filedetails/?id=2996331951 this guide] for a detailed walkthrough.
+{{Achievement|Texas Treasures, Part 4|jpg|In the [[Crude Awakening]] job, use the blueprint to access a passcode to Gabriel’s most valuable asset. Unlocks the "Texas Treasures" Suit and the "Midland Memoriam" mask.}}
+See [https://steamcommunity.com/sharedfiles/filedetails/?id=2992024536 this guide] for a detailed walkthrough.
+|-|Trivia=
+{{color|transparent|.}}
+* "No Fish Were Harmed In The Making Of This Heist" is a play on the phrase "No Animals Were Harmed In The Making Of This Product".
+* "Midnight Oil" is an abbreviation of the phrase "Burning the midnight oil"
+* "SERA Needs A Medic Bag" is a reference to the Dallas "medic bag" meme.
+* "Human Torch" is a reference to [https://en.wikipedia.org/wiki/Human_Torch the Human Torch], a fictional comic book character.
+* A "cash liquidation" distribution is the amount of capital that is returned to the investor or business owner when a business is liquidated.
+<!--* "Seagulls Aren’t Real" references the fact that birds are not actually real, but rather surveillance drones.-->
+* The pre-release achievement names describe the [https://en.wikipedia.org/wiki/Petroleum#Chemistry chemical composition of petroleum].
+{{clr}}
+</tabber>
+[[Category:Achievement Icons]]

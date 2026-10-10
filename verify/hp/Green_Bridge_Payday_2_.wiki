@@ -1,0 +1,149 @@
+{{Game-Tabs|pdth=Green Bridge|pd2=Green Bridge (Payday 2)}}
+{{MultipleHeist2|Green Bridge|Infobox Heist}}{{Quote|Take no prisoners|Poster tagline}}
+'''Green Bridge''' is a remastered heist from ''[[PAYDAY: The Heist]]'' introduced to ''[[PAYDAY 2]]'' on Day 10 of [[PAYDAY 2 Community Events#The Search for Kento|The Search for Kento event]]. The intent of the heist is to free Kazuo from a prisoner transport, who has information on [[Jiro]]'s son Kento. The crew must escort Kazuo past law enforcement for a daring skyward extraction, executed by George the airplane pilot, via skyhook. Afterwards, the crew must escape themselves by fighting their way to a set of pre-planted diving gear.
+
+==Overview==
+The heist starts with one of the crew activating an explosive that is intended to stop the movement of a prison caravan transporting prisoners. The explosion detonates a passing tanker, which in turn blows the bridge in two, sending one of the prison transports teetering near the edge. Once the prison guards and police have been dealt with, the crew must attach saws onto the four doors of the vehicles. The crew must defend themselves from waves of police attacking from the far end of the bridge and helicopter insertions. The saws will finish independently depending on when they were installed. Kazuo is randomly sitting on one of the vehicles, and is the only visibly Japanese prisoner.
+
+Along the way, there is a  [[GenSec]] armored truck, similar to those in the [[Transport]] heists. The loot from it can be secured in a yellow chute on the scaffolding where the prisoner is secured.
+
+The crew must escort Kazuo across the bridge to the top of some scaffolding, and attach him to a Fulton balloon system. George the plane pilot then arrives and picks him up, though it is possible for him to miss the first time and the balloon system would need to be reset.
+
+Once Kazuo is secured, the crew must make their way down the scaffolding to the far end of the bridge, through the one final wave of police, to a set of diving gear which they will use to make their escape.
+
+==Objectives==
+*Locate the prison convoy (convoy)
+*Find Kazuo (convoy)
+*Escort Kazuo (scaffolding)
+**(Optional) Drill GenSec truck and secure loot
+*Send up the balloon (scaffolding)
+*Defend (scaffolding)
+*Make the escape (bridge pillar)
+
+==Assets==
+===Purchasable===
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires the [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC to unlock}}
+===Intel===
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+{{Asset|Asset-prisoner-transport.png|Prisoner transport trucks}}
+
+==Walkthrough==
+After Bain has set off the explosives, the crew must spring into action and sprint towards the prison transport convoy ahead of them. Scattered civilians will flee and the armed guards from the four trucks will attempt to stop the crew. Once after they are dealt with, saws must be placed on all of them since it cannot be certain where Kazuo's exact position is located.
+
+By now, the police force will already have been deployed all around the bridge, commencing the first assault wave. It is advised to keep them at bay and ensure the saws are fixed when they are jammed. Be sure players can fend enemies off otherwise, they may bunch up together and overwhelm team members. From the beginning to the end of the heist, helicopters will deploy snipers and take advantage of the open area thus making them great threats.
+
+Bain will notify players if a saw is done, and the doors to the truck must be manually opened. If lucky, Kazuo may be spotted in the first opened truck. Otherwise, it may even be required to saw the rest of the vehicles. When he is located, players have to shout at him and eliminate any police operators nearby otherwise, Kazuo will stop and not move. He must be closely guarded and shouted at again to keep moving to the tower that players had originally started near. The task will be much easier if hostages are secured and the assault wave has ended.
+
+A Gensec truck can be drilled opened and if players have the luxury to open the deposit boxes, they can secure the loot by throwing it into a yellow waste chute in the same tower Kazuo must be escorted to. The loot is always 4 bags of money (currently bugged, see [[#Bugs]]).
+
+After securing the extraction point of hostiles, players have to deploy a balloon at the top of the tower to allow George the pilot to identify his target. Bain may warn players an attack helicopter has been summoned, in which it has a turret attached underneath. It is capable of hovering around the rooftop, forcing the crew to either seek cover within the tower or destroy it if heavier ordinance is available. Unlike the original, Kazuo still requires protection, as law enforcers can drag down the balloon, delaying George's arrival until it is redeployed. He may miss the first time, thus tasking players to send it higher, but will always succeed in extracting Kazuo to safety the 2nd attempt.
+
+When George declares he has done his part, a never ending assault wave will commence and escape is available. However, the police has set up a blockade with their SWAT vans, in which one of them must be sawed open while another may contain a Bulldozer which will hop out to attack players.
+
+After the van has moved away, players must sprint to the escape zone while fighting additional enemies, and possibly under fire from the helicopter turret and snipers. The crew must sprint to a specific pillar while avoiding enemies and head down the stairwell to conclude the mission.
+
+==Strategy==
+*It is best to hold off the police force as much as possible when sawing the rear prison transport trucks. Otherwise, players can be overwhelmed near the last truck and will not be able to repair the saws and open the other trucks.
+**On easier difficulties, sentry guns can be deployed to hold enemies at bay.
+*It may be wise to allow the civilians to flee the area or/and tie down only a few of them on the bridge. The poor lighting of the map can make it hard to distinguish a civilian from an enemy and it can be hard to spot them, especially if they are tied down. Also, the other prisoners that hop out of the transports are classified as civilians, thus providing another supply of them if it is necessary to perform a hostage trade or delay the assault wave.
+*If players choose to break into the GenSec truck, assign one or two players to guard the drill while the others escort Kazuo.
+*Enemies can and will disable saws, but Bain will not announce when this happens. Keep an eye on any running saws.
+*Carry a sniper rifle, or have a team member carry one, to counter the snipers that attack the crew from helicopters.
+*Kazuo may be in any of the transports, but he has a unique model with a top knot, to help with identification. As the map has poor lighting on top of the hindering rainstorm and dark transports, bringing a weapon with a flashlight can help.
+**Kazuo will also behave differently from the other prisoners. Instead of hastily rushing out of a van, he will remain seated until shouted at, at which point he will stand up and climb out of the truck he's in.
+**When escorting him, make sure to stay near him and ensure the path in front of him is clear of enemies, otherwise he will stop and has to be shouted again to keep moving.
+
+==Variations==
+*Kazuo's location in any of the four prison transport trucks will vary.
+*The location of the Gensec armored truck may vary in position.
+*The height of the yellow waste chute will change.
+*A dozer can spawn on Very Hard and above from the drillable SWAT van.
+*There's a 5% chance for a drugdeal going down, netting some bonus cocaine (currently [[#Bugs|bugged]]).
+*A helicopter-mounted [[SWAT Van Turret|SWAT Turret]] may spawn while defending the top of the construction site.
+*While cutting open the SWAT van blocking the escape route, a Bulldozer may emerge from the ajacent SWAT van.
+
+==Differences from PAYDAY: The Heist==
+*While the VIP in ''[[PAYDAY: The Heist]]'' was a Chinese prisoner, in ''PAYDAY 2'' it's a former Yakuza member named Kazuo, who is broken out for the information he has on [[Jiro]]'s lost son Kento.
+*Two of the prison trucks have slightly changed.
+**To prevent players from camping inside like the original, one of the trucks is not flipped over to its side.
+**The prison transport truck near the destroyed section of the bridge is now on the left side and will always slide for a few feet. After sawing it open, it will slip into the sea.
+*Players must manually open the prison transport trucks when the saws are finished, unlike in the original where they would open automatically.
+*Kazuo will not leap out of the truck until shouted at and is immediately identified after opening the doors. 
+*Unlike the Chinese Prisoner, Kazuo is incapable of sprinting and limps, like the Taxman from [[Undercover (Payday 2)|Undercover]]. However, he will immediately get back up when he is shouted at.
+*A Gensec armored transport truck appears close to the tower. It can be looted and the goods can be secured in a yellow waste chute.
+*The lone sniper's position at the crane near the extraction point is slightly adjusted. Also, helicopters with snipers will frequently spawn throughout the heist to attack the crew.
+*Various enemies now spawn on top of the scaffolding.
+*The police force will now attempt to pull down the balloon, in which case players will have to send it up again if they fail to prevent it.
+*A helicopter with a turret can appear to harass the crew when attempting to extract Kazuo. It is also capable of hovering around the area.
+*Escape is no longer timed. However, a never ending assault wave will commence instead.
+*A SWAT Van blocks the escape route, and the door must be drilled open to access the wheel and drive it out of the way.
+*Unlike the first game, there are no security guards driving the trucks.
+
+==[[FBI Files|The FBI Files]]==
+The Green Bridge blown to bits and several prison transports sawed open. It seems to have been the Payday Gang again. There were a number of prisoners missing, but it's hard to say who they were after - none of the missing had any obvious connection to the gang or any of their known associates.
+
+{{color|value|My Notes: Blowing up a major bridge just to break someone out. These guys are going far beyond anything ever heard of in US crime history. We must stop them, and soon!}}
+==Bugs==
+*One of the GenSec truck locations can spawn gold or jewelry instead of the intended money. If jewelry spawns, it cannot be secured via the yellow chute.
+*The drug deal variety event is not activated, and if it was, cocaine cannot be secured at the chute.
+*The raincoats cause some very strange clipping with certain weapons while aiming/reloading.
+*If Kazuo is found while the other vans are still being sawed, the player characters will use their drill comments for the rest of the heist.
+*Sometimes, a law enforcer will attempt to pull down the balloon after George caught it, followed by Bain's warning and order to raise it again.
+
+==[[Achievements (Payday 2)#The Search for Kento|Achievements]] & [[Safehouse#Trophies|Trophies]]==
+<tabber>Achievements=
+{{Achievement|Taking the High Road|jpg|Complete the Green Bridge job on the Normal difficulty or above.}}
+{{Achievement|Breaking the Four-Piece Suit|jpg|Complete the Green Bridge job on the Hard difficulty or above.}}
+{{Achievement|Rabbit Ride|jpg|Complete the Green Bridge job on the Very Hard difficulty or above.}}
+{{Achievement|A Bridge Too Far!|jpg|Complete the Green Bridge job on the Overkill difficulty or above.}}
+{{Achievement|Jack the Ripper's Prison Slippers!|png|Complete the Green Bridge job on the Mayhem difficulty or above.}}
+{{Achievement|Jack Rabbit Parole|png|Complete the Green Bridge job on the Death Wish difficulty or above.}}
+{{Achievement|Thank You for Flying With OVERKILL Airline|jpg|Complete the Green Bridge job on the Death Sentence difficulty.}}
+{{Achievement|Beat the Shield|png|Complete the Green Bridge job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|I Felt Bad For Him|png|On the Green Bridge job, leave a [[Doctor bag (Payday 2)|doctor bag]] for the dead man in a suit.}}
+{{Achievement|Caution! Wet Floors|png|On the Green Bridge job, on the OVERKILL difficulty or above finish the heist having never touched the ground while escorting the convict from the van to the scaffolding.}}
+{{Achievement|Back to Prison|png|On the Green Bridge job, free and then zip-tie all extra prisoners from the prison vans. You need to have played from the start.}}
+{{Achievement|Attacked Helicopter|jpg|In the Green Bridge job, kill the helicopter turret before the plane picks up the prisoner on the OVERKILL difficulty or above.}}
+|-|Teasers=
+''The following were added on April 11, 2017. They were replaced on April 12, 2017.''
+{{Teasers|
+Friends|
+Are|
+Known|
+First|
+In|
+Hardships|
+}}
+|-|Trophies=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-TiedUp.png|{{Mask tooltip|Tied Up|color=legendary|Trophy-TiedUp.png|{{Quote|The cops aren't issued cable ties so they're forced to use these strange contraptions instead. You picked these ones up on Green Bridge.|Trophy description}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Find at least four out of the six pairs of handcuffs in the  [[Green Bridge (Payday 2)|Green Bridge]] heist.|{{color|legendary|'''PLACEMENT:'''}}<br>The Commons Room}}
+</gallery>
+|-|Tips=
+{{Achievement|I Felt Bad For Him|png|On the [[Green Bridge (Payday 2)|Green Bridge]] job, leave a [[Doctor bag (Payday 2)|doctor bag]] for the dead man in a suit.}}
+*The dead man in question can be found near the broken end of the bridge. Upon going near this section, hug the left side and keep going towards that end until the player reaches the bridge cable anchor, which looks like a small green room with a stairway leading downwards and a large cable connected to it. Go behind this anchor room to spot the dead man in a suit and deploy a doctor bag next to him to unlock the achievement.
+</tabber>
+
+==Trivia==
+*The dead man in the suit shares a model with [[Minor characters (Payday 2)#Twitch|Twitch]], albeit missing the glasses.
+*The Japanese VIP is inexplicably renamed into "Kazuo" in the actual mission, instead of "Kazo" like on the announcement site.
+*Unlike in the remakes of previous classic heists, the gang retain their yellow raincoats for this mission. This also marks the first heist in ''PAYDAY 2 ''to have additional clothing worn by the crew on top of their suits and armor.
+*The GenSec truck cannot be drilled or blasted open with shaped charges at the beginning of the heist until Kazuo is located.
+*As was the case with the [[Heat Street (Payday 2)|Heat Street remake]], there are several hints and implications that ''PAYDAY 2's'' iteration of Green Bridge is a separate event from that of the first game. Chronologically, the new Green Bridge takes place well after [[GO Bank]], where Bain may occasionally mention George if the heist resorts to Plan B, and comment on how the airlift extraction reminded him of the "bridge heist back then".
+*Unlike in the original where a random member of the original heisters would set off the explosives, Bain himself is the one who blasts the bridge.
+*While the police cars say NYPD, the prisoner transports have no city name, only "inner area city squad."
+
+==Gallery==
+
+==Videos==
+<gallery position="center" widths="300">
+PAYDAY 2 Green Bridge Trailer
+</gallery>
+
+{{Navbox PD2 Heists}}
+[[ru:Зеленый мост]]
+[[Category:Loud-Only Heists]]
+[[Category:Classic heists]]
+[[Category:PAYDAY 2 heists]]

@@ -1,0 +1,156 @@
+{{Game-Tabs|pdth=Counterfeit|pd2=Counterfeit (Payday 2)}}
+{{MultipleHeist2|Counterfeit|Infobox Heist}}{{Description|Gang, we're headed for the Sunshine State! An individual by the name of Mr. Mitchell has his whole community fooled that he's this respectable golf coach at some fancy club. But under the surface, he is a professional money launderer and counterfeiter - and a damn good one at that. Together with his partner, Wilson, these guys are literally making millions. Now, wouldn't it be fair if we got our hands on some of that?}}
+'''Counterfeit''' is a heist from ''[[PAYDAY: The Heist]]'' introduced to ''[[PAYDAY 2]]'', released with the [[Wolf Pack (Payday 2)|''PAYDAY 2'' Wolf Pack]]. It is available for free to all players that own the [[DLC#Wolfpack|''PAYDAY: The Heist'' Wolf Pack]].
+
+==Overview==
+Two businessmen, named Mitchell and Wilson, have a money counterfeiting setup beneath their suburban homes, which generates millions of dollars for the two and their families. The goal of the heist is to rob the two of the money plates they use to create their counterfeit money.
+==Objectives==
+===Setup phase===
+# Talk to the owner
+===Action phase===
+# Hack the code locks (2 locks)
+# Get inside the shelter
+# (Optional) Disarm C4
+# Investigate the safe 
+# Connect the hose to the safe
+# Get the water running
+# Make sure the water is flowing
+# Attach C4 to the safe
+# Take the plates
+# Print money OR escape
+## (Optional) Add paper and ink
+## Start the printer
+## Keep the printer going
+## Take the money
+# Escape
+
+==[[Assets]]==
+===Purchasable===
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires the [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC to unlock}}
+===Intel===
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+==Walkthrough==
+Just like the original version, heisters will begin in casing mode and must approach Mr. Mitchell in his luxurious backyard. He is always found in a distinctive pink shirt, attending a BBQ with friends and family. Be sure to not mask up too early otherwise Mitchell will not lead a heister to his basement and thusly it will have to be opened with a crowbar.
+
+Mitchell then guides the crew to his basement and from there, briefs heisters on what his issue is. He can be taken as a hostage from that point or be allowed to head back up with the party.
+
+One player must mask up and begin the code lock hack and ensure it is not interrupted. The code lock in Wilson's basement must also be hacked, thus either be sure to not get seen by the civilians or tie them down if they spot a masked up heister. If there are others who are still in casing mode, they can easily access the other code lock without any problem.
+
+Crowbars may be needed if players want to remain stealthy. They are located randomly around the map. The pool area, the garages, and tool sheds tend to have a crowbar. Bain warns that masked up crew members should not be seen outside the premises. One of these locations, for example, is Wilson's tool shed.  As such, players who are in casing mode and have [[Chameleon]] aced are advised to find and pick up the crowbars to ensure the heist can stay in stealth longer.
+
+Even if no one was spotted while the hacking devices have been set up, Bain reports cops have been sent to check up at the houses. Two police officers will check up the area and at least one of which will enter through the front entrance of Wilson's house and walk down the basement. The other one will typically patrol around the properties. Sometimes, both police officers will head down in the homes and will get alerted when they see the hacking devices. Silently eliminate him/them when desired and bag the body/bodies. A phone call then rings which signal more cops will arrive shortly. Even if they were killed silently, the police force will have detected a dead body or realize the first patrol is missing and the assault wave commences promptly. When the heist goes loud, try to lead the hostages inside the basement or/and place a sentry to ensure the law enforcement will not free them.
+
+There is a chance that Bain detects the basement has been rigged with live C4 and shouts at the crew to be careful. At any point if one of the metal doors is opened, the time will tick down. There are 2/3/4 explosives that need to be defused in a 1/2/3+-player game. If this is not done, the basement will explode and expose the room. 
+
+When the heist goes loud, expect swarms of enemies. Also, be wary that some of them are now scripted to spawn/camp crucial points of the heist. For example, a SWAT Van Turret and a sniper may hamper the crew in turning back on the water valve.
+
+If heisters want to produce counterfeit money, they must hook up the plates to the machine in the middle of the basement and ensure the process is not interrupted by the law enforcement. On occasion, Bain will radio in and state the crew must restock the ink or/and paper. These resources are located in crates that are randomly located around the properties and require a crowbar to open. The crates can be found in the tool sheds or/and the garages. During the process, heisters have to wait for the counterfeit machine to be completed in order to escape. Upon producing at least one money bag, Bile will come in with a metal cage at a random spot. Unlike [[GO Bank]] in particular, the bags are secured in the cage thus there is no need to guard the cage until Bile hauls it away. He will leave and return until the crew decides to escape.
+
+The spot where Bile will deploy the metal cage will vary. He may choose the center of the map (the pool area) or outside the properties, sometimes even near a SWAT Van Turret.
+
+Like in the original, the police will attempt to stop the water flow or turn off the electricity power, forcing heisters to expose themselves and turn them back on. This can be problematic, especially if [[Captain Winters]] appears and stays near any of these locations to harass the crew.
+
+Remember that removing the plates at any time will permanently trigger the escape and heisters may have to manually haul the money bags to the escape if Bile is no longer present.
+
+If the escape is initiated, heisters will have to access a manhole to reach the sewers. It is not timed, but 3 shields will appear to block this entrance. Enforcers/technicians can bypass the doors much faster than using the crowbar. Be warned [[Cloaker (Payday 2)|Cloakers]] and [[Bulldozer (Payday 2)|Bulldozers]] may appear from pipes or the ceiling and ambush rushing players.
+
+==Differences from PAYDAY: The Heist==
+*Heisters can now participate in the Counterfeit process with the printing machine. Paper and ink are located randomly in separate crates.
+**The money bags can be secured in a metal cage by Bile who will arrive and leave frequently at random spots.
+*The hacking devices for the code locks no longer crashes on a frequent basis, even if Bain claims they still can.
+*Escape is no longer timed.
+*Players can open the doors in the basement and in the sewers with saw/C4 for faster access.
+*If heisters must defuse the booby-trapped bombs, max 4 C4 rigged explosives must be defused. However, they explode much faster than the original.
+**The money pallets near the machine that could have been taken as a reward have been removed.
+*The entrance to the sewers has a ladder.
+*Any officer (both regular and special) can now halt the drilling, printing, and the water flow procedures. In the original, only a Bulldozer would perform said acts.
+*The drill does not need to be hooked up to an electrical outlet.
+**Instead of turning off the power, enemies will attempt to jam the drill themselves. They will try to cut the power during the printing segment however.
+*A few more circuit breakers are added for the police to turn off, one of which is located near the entrance to Mitchell's basement.
+*Snipers have more spawn points. They can appear on the roofs of the surrounding houses.
+*The plates are now bundled in one "bag". In the original, heisters would have to interact with each separated one upon opening the vault. The diamonds are still scattered around the basement, however.
+*3 [[Shield (Payday 2)|Shields]] are scripted to guard the entrance to the sewers. They will not pursue the heisters unlike the other law enforcement.
+*The [[SWAT Van Turret]] also appears and may guard some key points, like the water valve or the outside power box. Notably, the SWAT car that rams itself into Wilson's house can deploy said weapon.
+*The radios that originally played music before the heist goes loud are now placed randomly at more potential locations.
+**The radios now play "Flames of Love" from [[The Butcher's BBQ Pack]] Trailer.
+*Prior to Update #199 and the addition of the Bodhi's Pool Repair outfit, the heisters were not disguised as plumbers and would still wear their respective two-piece suits, or amusingly, body armor. Mr. Mitchell will comment on this, even if the Bodhi's Pool Repair outfit (now the default for the heist) is worn.
+*Mitchell's grill will eventually catch on fire after the heist has started.
+
+==Mayhem+ Changes==
+
+* 3 SWAT Van Turrets can spawn, the SWAT Van crashing into Wilsons house will always contain a turret.
+
+==Bugs==
+
+*Tying down/killing Mitchell before he finishes walking into the basement, and then hacking the alarm boxes and entering the printing room, will make the safe undrillable until the alarm goes off. Additionally, after the alarm goes off, Mitchell's already-hacked alarm box will have an interaction icon hovering over it for the remainder of the heist.
+*Occasionally, the printing plates needed to finish the level will be inaccessible. A member of the crew may possess them but they will act as if they are in the printing machine indefinitely. This results in the mission soft-locking where no escape is available.
+*<s>There is a current bug where only the host is capable of inserting paper/ink to print money and proceed with the money making. Clients may add paper/ink and have it deducted from their inventory, but will not progress the printing objective. This is similar to current host-only objective bugs on [[Border Crossing]] and [[The Biker Heist]].</s>
+**This and similar host-only interactions have been fixed in Update 240.2.
+
+==The FBI Files==
+After arresting Mr. Summers and Mr. Jones, it was discovered they had been running a money printing operation for years in Pensacola, Florida. Embarrassingly enough, the Police Department down there had no idea this was going on and some of them even said they would never have been caught if it wasn't for the PAYDAY gang. Thankfully, that shit-fest is out of our jurisdiction, so we can't get any blame for what went down.
+
+{{color|value|My Notes: Mitchell Summers and Wilson Jones. These cunning assholes had been running a rather impressive counterfeit operation from a basement in the Pensacola suburbs, for god knows how long. It's not the PAYDAY gang's usual MO to work outside of Washington, which tells me they knew the trip South would be worth it. Not much I can do with this information, except assume that there isn't really any kind of crime they wouldn't do.}}
+
+==[[Achievements (Payday 2)|Achievements]]==
+<tabber>Achievements=
+{{Achievement|Ink, Paper, Roll Out the Dough|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Normal difficulty or above.}}
+{{Achievement|Hidden in Plain Sight|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Hard difficulty or above.}}
+{{Achievement|False Economy|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Very Hard difficulty or above.}}
+{{Achievement|DIY Payment|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Pool Party|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Mayhem difficulty or above.}}
+{{Achievement|Under Pressure|png|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Death Wish difficulty or above.}}
+{{Achievement|An incident Over on Keel Street|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Death Sentence difficulty}}
+{{Achievement|Bodhi's Pool Repair Crew|jpg|Complete the [[Counterfeit (Payday 2)|Counterfeit]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Basement Dwellers|jpg|Don't let the cops enter the printing room on the [[Counterfeit (Payday 2)|Counterfeit]] job until the safe is opened on OVERKILL difficulty or above.}}
+{{Achievement|Crowd Control|png|On the [[Counterfeit (Payday 2)|Counterfeit]] job, have all civilians as hostages until the safe is opened.}}
+{{Achievement|Cutting the Red Wire|jpg|Disarm the C4 on the Counterfeit job on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#Wolf Pack DLC|Dragon Head]]" mask, "[[Materials#Wolf Pack DLC|Days]]" material and "[[Patterns#Wolf Pack DLC|Kurbits]]" pattern.}}
+{{Achievement|Dr. Evil|jpg|Print and secure $1,000,000 worth of counterfeit money{{color|negative|*}} in the Helicopter{{color|negative|**}} on the [[Counterfeit (Payday 2)|Counterfeit]] job. Unlocks the "[[Masks (Payday 2)#Wolf Pack DLC|Viking]]" mask, "[[Materials#Wolf Pack DLC|Houndstooth]]" material and "[[Patterns#Wolf Pack DLC|Fenris]]" pattern.<br/>{{color|negative|''*37 bags on Normal, 19 on Hard, 14 on Very Hard, 9 on Overkill, 6 on Mayhem, 5 on Death Wish, 4 on Death Sentence.<br/>**Bags secured by holding them while escaping will count towards this achievement.''}}}}
+{{Achievement|Why?|jpg|On the [[Counterfeit (Payday 2)|Counterfeit]] job, place a body bag on the grill.}}
+
+|-|Trivia=
+*'''Under Pressure''' and '''Crowd Control''' are both (slightly modified) [[Achievements#DLC|achievements]] from ''[[PAYDAY: The Heist]]''.
+**'''Cutting the Red Wire''' is based on the achievement '''[[Counterfeit/Walkthrough#Quick hands|Quick hands]]'''.
+*'''Dr. Evil''' is a reference to the [[wikipedia:Dr. Evil|antagonist]] from the [[wikipedia:Austin Powers (film series)|''Austin Powers'' film series]].
+</tabber>
+
+==Trivia==
+
+*Mitchell's grill will catch on fire due to the heist taking place and the lack of attendance, whereas in the original, the grill would stay static. This takes place at about the 20 minute mark. Mitchell will occasionally comment on this.
+*Unlike the other heists, the scripted camping spot [[Captain Winters]] and his men can take is dynamic. They will either stay near Mitchell's or Wilson's house.
+*This heist, like [[Cook Off]], [[Border Crystals]], and [[White Xmas]], can generate an almost infinite amount of money.
+*[[Bain]] may state the heist is taking place in Florida as stated in a random radio quote and may even explicitly state "Pensacola PD". A sign near the beach indicates that the exact location is [[wikipedia:Fort Lauderdale, Florida|Fort Lauderdale]], while the heist's [[FBI Files|FBI File]] says it takes place in [[wikipedia:Pensacola, Florida|Pensacola]]. In [[PC update history (Payday 2)#Update #130|Update #130]] the squad cars got updated with Pensacola variations (together with Hotline Miami).
+*The SWAT van ramming itself into Wilson's house is an unusual decision, as this results in excessive property damage, though it may have been done to expose the PAYDAY crew. As such, the same van may even deploy a turret.
+*It is never explained why the crew prints money using the counterfeiters' resources in live combat, replacing the printer ink and paper rolls when needed and throwing the counterfeit money into a helicopter cage. It would be, comparatively, much easier to take the money plates, disassemble the machine, bag the printer ink and paper rolls, and secure all of the printer parts. It would be even easier to just take the plates and use them in a counterfeit machine of their own.
+**Contrary to what the printing components claim, real U.S. Federal Reserve bills are not in fact made of regular paper but rather a combination of 25% linen and 75% cotton fabric, with specialized red and blue fibers threaded throughout the sheets. The materials could have been labeled as such for ease of development and/or to not provide too much detailed information on the subject, as was the case of the meth cooking in [[Cook Off|a]] [[Dockyard|handful]] [[Rats|of]] [[Lab Rats|other]] [[Hotline Miami|heists]]. Though, that instead raises the ''other'' question of why and how the gang can't just bag the printing components and bring them to the escape like any other loot instead.
+* Although Mitchell can be killed by players, the FBI Files suggest he either fled the scene or was kept alive as a hostage and then subsequently arrested after the crew stole the printing plates and eventually left the scene. So regardless of your choice, he'll be arrested no matter what.
+*As a nod to the fact that the heisters no longer appear at the site in costumes like they did in the original, Mitchell will comment on them being very sharply dressed for a group of pool repairmen, and that the work uniforms are probably in the duffel bags that the characters are inexplicably not shown to be carrying.
+*The method recommended by Bain is very similar to the method used by Robert De Niro in Edward Norton's movie, ''[[wikipedia:The Score (film)|The Score]]''.
+**The act of "water cracking" was recreated on ''[[wikipedia:MythBusters|MythBusters]]'', and it was found to be both convoluted (as most vaults aren't water-or-air-tight and would require significant effort in sealing beforehand for the theoretical plan to even work) and inaccurate (as the pressure still damages the contents).
+**The safecracking method is featured once again in the [[The Bomb: Forest|Forest]] scenario of The Bomb heist, with the ordnance carrier standing in for the safe and the use of thermite instead of a drill.
+*Action figures of [[w:c:left4dead:Special Infected|special infected]] from ''[[wikipedia:Left 4 Dead|Left 4 Dead]]'' can be seen on the floor of the child's bedroom in Mitchell's house.
+**In the same room there is a toy heavy loader holding a toy armored car. This is a reference to the [[Slaughterhouse]] heist.
+**The player can find [[Minor characters#Alex|Alex's]] helicopter and [[Minor characters#George|George's]] airplane hanging on the ceiling.
+** Additionally, there is a Hunter action figure on top of the streetlight on the corner near Wilson's boat.
+*The unlock panels are both labeled White Mesa. This is a reference to the [[w:c:half-life:Black Mesa|Black Mesa Research Corporation]] of [[wikipedia:Valve Corporation|Valve's]] ''[[wikipedia:Half-Life (series)|Half-Life]]'' game series.
+*The piano found inside Wilson's house has an actual piano sheet of {{W|Ludwig van Beethoven|Beethoven's}} famous song called "[https://en.wikipedia.org/wiki/F%C3%BCr_Elise Für Elise]" on its sheet stand.
+**If you stand near the piano, you can hear two piano songs looped one after another. Ironically, neither of them fit the piano sheet.
+***''Arabesque No. 1. Andantino con moto'', from [https://en.wikipedia.org/wiki/Claude_Debussy Debussy].
+***''Lieder ohne Worte Op.53 No.2'', from [https://en.wikipedia.org/wiki/Felix_Mendelssohn Mendelssohn].
+**Although it sounds like the sustain pedal is being used, the woman at the piano doesn't have any foot on any pedal.
+*This is the first heist overall to be set outside of Washington D.C., taking place in Florida.
+*The heist takes place “over on Keel Street”, which is a play on words for OVERKILL.
+
+== Video ==
+[[File:Home Invasion 2016 - Payday 2 Unofficial Soundtrack|thumb|center|300 px|Home Invasion 2016 - Counterfeit Heist Theme]]
+
+{{Navbox PD2 Heists}}
+[[ru:Подделка]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Loud-Only Heists]]
+[[Category:PAYDAY 2 Wolf Pack]]
+[[Category:Classic heists]]
+[[Category:Heists with high bag limits]]

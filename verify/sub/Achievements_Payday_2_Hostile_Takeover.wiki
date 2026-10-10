@@ -1,0 +1,34 @@
+<tabber>Permanent Achievements=
+{{Achievement|Bad Company|jpg|Complete the Hostile Takeover job on the Normal difficulty or above.}}
+{{Achievement|Product Displacement|jpg|Complete the Hostile Takeover job on the Hard difficulty or above.}}
+{{Achievement|You’ve Got Blackmail|jpg|Complete the Hostile Takeover job on the Very Hard difficulty or above.}}
+{{Achievement|Carbon Captured|jpg|Complete the Hostile Takeover job on the Overkill difficulty or above.}}
+{{Achievement|Back to the Lab|jpg|Complete the Hostile Takeover job on the Mayhem difficulty or above.}}
+{{Achievement|For a Rainey Day|jpg|Complete the Hostile Takeover job on the Death Wish difficulty or above.}}
+{{Achievement|Que sera, SERA|jpg|Complete the Hostile Takeover job on the Death Sentence difficulty.}}
+{{Achievement|Corporate Espionage|jpg|Complete the Hostile Takeover job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Texas Treasures, Part 3|jpg|In the Hostile Takeover job, use the USB stick to find and open the hidden safe and steal the content.}}
+{{Achievement|System Shocked|jpg|In the Hostile Takeover job on the OVERKILL difficulty or above, while remaining in the flooded lab, lure at least 50 enemies to a shocking death.}}
+{{Achievement|Payday Kart 64|jpg|In the Hostile Takeover job, use golf carts to smash every shuttle pick up sign in numerical order in under 1 minute.}}
+{{Achievement|Just Passing Through|jpg|Complete the Hostile Takeover job in stealth within 7 minutes on solo, or 4 minutes on multiplayer, on the OVERKILL difficulty and above without killing any civilians.}}
+|-|Teasers=
+''The following appeared on February 1st, 2023 and were replaced on February 20th, 2023.''
+{{Teasers
+|An uncontrolled longing
+|for increase
+|in the acquisition
+|or use of material gain.
+|It has been
+|identified as
+|undesirable throughout
+|known human history
+|because it creates
+|behavior-conflict
+|between personal
+|and social goals.}}
+|-|Tips=
+|-|Trivia=
+*The Teaser phrases are directly lifted from the Wikipedia entry for [https://en.wikipedia.org/wiki/Greed Greed].
+</tabber><noinclude>
+[[Category:Support Pages]]
+</noinclude>

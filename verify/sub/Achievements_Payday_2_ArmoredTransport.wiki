@@ -1,0 +1,46 @@
+<tabber>Permanent Achievements=
+'''Ownership required'''
+{{Achievement|License to Kill|jpg|Kill {{color|value|378}} [[Enemies (Payday 2)|enemies]] using the [[Gruber Kurz]] handgun.}}
+{{Achievement|I'm Not a Crook!|jpg|While wearing the "[[Masks (Payday 2)#Armored Transport DLC|37th]]" mask, destroy {{color|value|69}} [[Sniper (Payday 2)|snipers]] using the [[Commando 553]] rifle.}}
+{{Achievement|I Did Not Have Sexual Relations With That Bulldozer|jpg|While wearing the "[[Masks (Payday 2)#Armored Transport DLC|42nd]]" mask, trade {{color|value|7}} civilians.}}
+{{Achievement|Fool Me Once, Shame on -Shame on You. Fool Me - You Can't Get Fooled Again|jpg|While wearing the "[[Masks (Payday 2)#Armored Transport DLC|43rd]]" mask, kill {{color|value|95}} [[Shield (Payday 2)|Shields]] using the [[Swedish K]] submachine gun.}}
+{{Achievement|Affordable Healthcare|jpg|While wearing the "[[Masks (Payday 2)#Armored Transport DLC|44th]]" mask, place {{color|value|61}} [[Doctor bag (Payday 2)|doctor bags]].}}
+
+'''Achievable without owning DLC'''
+{{Achievement|I Do What I Do Best, I Take Scores|jpg|While wearing the "[[Masks (Payday 2)#Community|Hockey Heat]]" mask, finish any [[Transport|Armored Transport]] heist {{color|value|15}} times on OVERKILL difficulty or above.}}
+{{Achievement|We're Gonna Need a Bigger Boat|jpg|On the [[Transport: Train Heist|Train]] heist, steal and secure {{color|value|20}} bags worth of ammo.}}
+{{Achievement|But Wait - There's More!|jpg|On any [[Transport|Armored Transport]] heist, find the plans for the [[Transport: Train Heist|Train Heist]].}}
+{{Achievement|If You Liked It You Should Have Put a Ring on It|jpg|Finish any [[Transport|Armored Transport]] heist, Having Secured at Least {{color|value|9}} Bags of Gold.}}
+{{Achievement|Let Them Watch|jpg|Finish the [[Transport: Train Heist|Train]] heist without killing any [[Sniper (Payday 2)|snipers]].}}
+
+'''Celebration'''<br/>
+''The following only require membership in the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].''
+
+{{Achievement|Heat Around the Corner|jpg|Equip the "[[Masks (Payday 2)#Community|Hockey Heat]]" mask. Celebrating the release of the [[Armored Transport (DLC)|Armored Transport DLC]], you can now unlock the "Hockey Heat" mask by simply joining the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].}}
+|-|Teasers=
+{{Achievement|Just When I Thought I was Out...||They pull me back in.|}}
+{{Achievement|Right When I Thought I was Out...||They pull me back in.|}}
+{{Achievement|1 day After I Thought I was Out...||They pull me back in.|}}
+{{Achievement|2 Days After I Thought I was Out...||They pull me back in.|}}
+{{Achievement|3 Days After I Thought I was Out...||They pull me back in.|}}
+{{Achievement|4 Days After I Thought I was Out...||They pull me back in.|}}
+{{Achievement|5 Days After I Thought I was Out...||They pull me back in.|}}
+{{Achievement|6 Days After I Thought I was Out...||They pull me back in.|}}
+{{Achievement|7 Days After I Thought I was Out...||They pull me back in.|}}
+{{Achievement|8 Days After I Thought I was Out...||They pull me back in.|}}
+{{Achievement|9 Days After I Thought I was Out...||They pull me back in.|}}
+|-|Trivia=
+*The teaser achievements are based on a [https://www.youtube.com/watch?v=UPw-3e_pzqU quote] from ''{{w|The Godfather Part III}}''.
+*'''I Do What I Do Best, I Take Scores''' is a reference to the line "I do what I do best, I take scores. You do what you do best, try to stop guys like me" from the 1995 film ''[[wikipedia:Heat (1995 film)|Heat]]''.
+*'''License to Kill''', along with the [[Gruber Kurz]] pistol, are references to the [[wikipedia:James Bond in film|James Bond]] film ''[[wikipedia:Licence to Kill|Licence to Kill]]''. The number 378 refers to the number of people killed by Bond in all 24 movies that existed at the time of the DLC's release in 2013 (up to [[wikipedia:Quantum of Solace|''Quantum of Solace'']]).
+*The [[Armored Transport (DLC)|Armored Transport]] DLC mask achievements reference subjects related to the United States Presidents. The unlocked masks are based on:
+**The achievement '''I'm Not a Crook!''' is a reference to a statement President [[wikipedia:Richard Nixon|Richard Nixon]] made regarding his involvement in the [[wikipedia:Watergate scandal|Watergate]] scandal. The number 69 refers to 1969, the year during which Nixon was inaugurated as President of the United States.
+**The achievement '''I Did Not Have Sexual Relations With That Bulldozer''' is a reference to a statement President [[wikipedia:Bill Clinton|Bill Clinton]] made attempting to dispel then-allegations of his having had an affair with a [[wikipedia:Lewinsky scandal|White House intern]].
+**The achievement '''Fool Me Once, Shame on- Shame on You. Fool Me- You Can't Get Fooled Again''' is a reference to a flub of a popular saying President [[wikipedia:George W. Bush|George W. Bush]] [https://www.youtube.com/watch?v=eKgPY1adc0A made] during a 2002 speech. The number 95 refers to 1995, the year during which Bush started his tenure as Governor of Texas.
+**The achievement '''Affordable Healthcare''' is a reference to the [[wikipedia:Patient Protection and Affordable Care Act|Patient Protection and Affordable Care Act]], often shorthanded to "Obamacare" due to President [[wikipedia:Barack Obama|Barack Obama]]'s involvement with the bill. The number 61 refers to 1961, the year Obama was born, and is probably a reference to [[wikipedia:Barack Obama citizenship conspiracy theories|the controversy surrounding his birthplace]].
+*'''We're Gonna Need a Bigger Boat''' is a reference to the line "You're gonna need a bigger boat" from the 1975 film ''[[wikipedia:Jaws (film)|Jaws]]''.
+*'''But Wait - There's More!''' is a popular phrase in infomercials, commonly used by [[wikipedia:Billy Mays|Billy Mays]].
+*'''If You Liked It You Should Have Put a Ring on It''' are lyrics to [[wikipedia:Beyonce|Beyonce]]'s song "[[wikipedia:Single Ladies (Put a Ring on It)|Single Ladies (Put a Ring on It)]]".
+*'''Heat Around the Corner''' is a reference to the line "You wanna be making moves on the street, have no attachments. Allow nothing to be in your life that you cannot walk out on in thirty seconds flat if you spot the heat around the corner" from the 1995 film ''[[wikipedia:Heat (1995 film)|Heat]]'', as is the mask worn to complete the achievement.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

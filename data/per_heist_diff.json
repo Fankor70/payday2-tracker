@@ -1,0 +1,1380 @@
+{
+ "alaskan_deal": {
+  "wiki": 12,
+  "mine": 12,
+  "missing": [
+   "headless snowman"
+  ],
+  "extra": [
+   "headless snowmen"
+  ]
+ },
+ "art_gallery": {
+  "wiki": 12,
+  "mine": 12,
+  "missing": [],
+  "extra": []
+ },
+ "bank_heist": {
+  "wiki": 31,
+  "mine": 46,
+  "missing": [
+   "a good haul"
+  ],
+  "extra": [
+   "a different level of scoring",
+   "break the atm",
+   "dolla dolla dolla bling bling",
+   "federales on the run",
+   "harvest not so trustee",
+   "hide them in the vault",
+   "higher stock values",
+   "scorpions and negotiators",
+   "seven mexican standoffs",
+   "teller hold",
+   "the bank manager must be worth something",
+   "the hat of a mariachi",
+   "tie them to the chairs",
+   "trustee robbers",
+   "veni saw vici",
+   "would you rather be robbing the place"
+  ]
+ },
+ "beneath_mountain": {
+  "wiki": 11,
+  "mine": 11,
+  "missing": [],
+  "extra": []
+ },
+ "big_bank": {
+  "wiki": 17,
+  "mine": 22,
+  "missing": [],
+  "extra": [
+   "break the atm",
+   "funding father",
+   "higher stock values",
+   "teller hold",
+   "the bank manager must be worth something"
+  ]
+ },
+ "big_oil": {
+  "wiki": 15,
+  "mine": 15,
+  "missing": [],
+  "extra": []
+ },
+ "birth_of_sky": {
+  "wiki": 13,
+  "mine": 19,
+  "missing": [
+   "pink slip"
+  ],
+  "extra": [
+   "clean house",
+   "commando crew",
+   "fo sho",
+   "hall of the mountain king",
+   "juggernauts",
+   "mellon",
+   "no scope"
+  ]
+ },
+ "black_cat": {
+  "wiki": 0,
+  "mine": 13,
+  "missing": [],
+  "extra": [
+   "all the loot and the seafood buffet too",
+   "captain heister",
+   "death on the high seas",
+   "first mate of thieving",
+   "for the mad hatter",
+   "land lubber pickpocket",
+   "master of floatation",
+   "master of the poop deck",
+   "one claw beam cutter",
+   "second star to the right then straight on til morning",
+   "secret sea safecracker",
+   "sink the titanic",
+   "swimming cat silent burglar"
+  ]
+ },
+ "boiling_point": {
+  "wiki": 13,
+  "mine": 13,
+  "missing": [
+   "megalomania"
+  ],
+  "extra": [
+   "ez"
+  ]
+ },
+ "bomb_dockyard": {
+  "wiki": 12,
+  "mine": 0,
+  "missing": [
+   "breaking dead",
+   "done in 60 seconds",
+   "fishermans fiend",
+   "heavy tariffs",
+   "high times",
+   "maiden voyage",
+   "prepare to be boarded",
+   "sailing home",
+   "ship it",
+   "smooth sailing",
+   "sneaking with the fishes",
+   "what are you sinking about"
+  ],
+  "extra": []
+ },
+ "bomb_forest": {
+  "wiki": 11,
+  "mine": 0,
+  "missing": [
+   "a pine in the ass",
+   "beaver team",
+   "derailed",
+   "how much wood would a heister chuck",
+   "i cut down trees i skip and jump",
+   "keep your feet on the ground",
+   "make like a treeand get out of here",
+   "oppressor",
+   "pump it up",
+   "timber train",
+   "uphill battle"
+  ],
+  "extra": []
+ },
+ "border_crossing": {
+  "wiki": 11,
+  "mine": 0,
+  "missing": [
+   "a morning like any other",
+   "a stroll across the border",
+   "blood on the sand",
+   "death in the desert",
+   "export tax",
+   "identity theft",
+   "like walking in with a guitar case full of guns",
+   "once upon a down in mexico",
+   "only for us naughty heisters",
+   "satans lapdog",
+   "twostep verification"
+  ],
+  "extra": []
+ },
+ "border_crossing_heists": {
+  "wiki": 0,
+  "mine": 20,
+  "missing": [],
+  "extra": [
+   "a dish best served hot",
+   "a morning like any other",
+   "a stroll across the border",
+   "blood on the sand",
+   "cooking in the sun",
+   "death in the desert",
+   "export tax",
+   "free shipping and handling",
+   "heister cocinero",
+   "identity theft",
+   "if you cant stand the heat get out of the meth lab",
+   "kings and queens of crystal",
+   "like walking in with a guitar case full of guns",
+   "no coming back for seconds",
+   "once upon a down in mexico",
+   "only for us naughty heisters",
+   "satans lapdog",
+   "there is sand in my meth",
+   "twostep verification",
+   "with a bite of habanero"
+  ]
+ },
+ "border_crystals": {
+  "wiki": 8,
+  "mine": 0,
+  "missing": [
+   "a dish best served hot",
+   "cooking in the sun",
+   "free shipping and handling",
+   "if you cant stand the heat get out of the meth lab",
+   "kings and queens of crystal",
+   "no coming back for seconds",
+   "there is sand in my meth",
+   "with a bite of habanero"
+  ],
+  "extra": []
+ },
+ "breakfast_tijuana": {
+  "wiki": 12,
+  "mine": 12,
+  "missing": [],
+  "extra": []
+ },
+ "breakin_feds": {
+  "wiki": 11,
+  "mine": 13,
+  "missing": [],
+  "extra": [
+   "bloody grinch",
+   "breaking and entering"
+  ]
+ },
+ "brooklyn_1010": {
+  "wiki": 11,
+  "mine": 11,
+  "missing": [],
+  "extra": []
+ },
+ "brooklyn_bank": {
+  "wiki": 11,
+  "mine": 11,
+  "missing": [],
+  "extra": []
+ },
+ "bulucs_mansion": {
+  "wiki": 12,
+  "mine": 13,
+  "missing": [],
+  "extra": [
+   "bloody grinch"
+  ]
+ },
+ "car_shop": {
+  "wiki": 11,
+  "mine": 10,
+  "missing": [
+   "pink slip"
+  ],
+  "extra": []
+ },
+ "cook_off": {
+  "wiki": 10,
+  "mine": 10,
+  "missing": [],
+  "extra": []
+ },
+ "counterfeit": {
+  "wiki": 13,
+  "mine": 0,
+  "missing": [
+   "an incident over on keel street",
+   "basement dwellers",
+   "bodhis pool repair crew",
+   "crowd control",
+   "cutting the red wire",
+   "diy payment",
+   "dr evil",
+   "false economy",
+   "hidden in plain sight",
+   "ink paper roll out the dough",
+   "pool party",
+   "under pressure",
+   "why"
+  ],
+  "extra": []
+ },
+ "counterfeit_payday_2": {
+  "wiki": 0,
+  "mine": 13,
+  "missing": [],
+  "extra": [
+   "an incident over on keel street",
+   "basement dwellers",
+   "bodhis pool repair crew",
+   "crowd control",
+   "cutting the red wire",
+   "diy payment",
+   "dr evil",
+   "false economy",
+   "hidden in plain sight",
+   "ink paper roll out the dough",
+   "pool party",
+   "under pressure",
+   "why"
+  ]
+ },
+ "crude_awakening": {
+  "wiki": 0,
+  "mine": 13,
+  "missing": [],
+  "extra": [
+   "black gold burning",
+   "burn baby burn",
+   "cash liquidation",
+   "human torch",
+   "midnight oil",
+   "no fish were harmed in the making of this heist",
+   "seagulls arent real",
+   "sera needs a medic bag",
+   "texas heat",
+   "texas treasures part 4",
+   "the drill is down",
+   "the right stuff",
+   "up in flames"
+  ]
+ },
+ "cursed_kill_room": {
+  "wiki": 10,
+  "mine": 10,
+  "missing": [],
+  "extra": []
+ },
+ "diamond_heist": {
+  "wiki": 11,
+  "mine": 0,
+  "missing": [
+   "a hard won price",
+   "bad code",
+   "blood diamond",
+   "costly gems",
+   "dead change",
+   "precious stones",
+   "shiny pieces of carbon",
+   "some very expensive rocks",
+   "the hunt for the blue sapphires",
+   "valuable ornaments",
+   "well guarded jewels"
+  ],
+  "extra": []
+ },
+ "diamond_heist_payday_2": {
+  "wiki": 0,
+  "mine": 28,
+  "missing": [],
+  "extra": [
+   "a hard won price",
+   "bad code",
+   "blood diamond",
+   "cat burglar",
+   "costly gems",
+   "culture vultures",
+   "cursed wealth",
+   "day at the museum",
+   "dead change",
+   "devil of a job",
+   "diamonds in the rough",
+   "honor among thieves",
+   "maybe that statue is worth more",
+   "no heisters here just us dinosaurs",
+   "not just any diamond",
+   "precious stones",
+   "shiny pieces of carbon",
+   "smoke and mirrors",
+   "some very expensive rocks",
+   "sparkle sparkle",
+   "the cursed stone",
+   "the hunt for the blue sapphires",
+   "the jonssonligan",
+   "this hostage belongs in a museum",
+   "valuable ornaments",
+   "watch your steps",
+   "well guarded jewels",
+   "worthy of permanent display"
+  ]
+ },
+ "diamond_store": {
+  "wiki": 10,
+  "mine": 10,
+  "missing": [],
+  "extra": []
+ },
+ "dragon_heist": {
+  "wiki": 11,
+  "mine": 11,
+  "missing": [],
+  "extra": []
+ },
+ "election_day": {
+  "wiki": 16,
+  "mine": 16,
+  "missing": [],
+  "extra": []
+ },
+ "firestarter": {
+  "wiki": 17,
+  "mine": 16,
+  "missing": [
+   "saint francis"
+  ],
+  "extra": []
+ },
+ "first_world_bank": {
+  "wiki": 14,
+  "mine": 0,
+  "missing": [
+   "a sense of déjà vu",
+   "au ticket",
+   "bank on me",
+   "cloaker fear",
+   "down payment",
+   "federal assurance",
+   "first robbed bank",
+   "first world problems",
+   "hidden hostages",
+   "i would like to speak to the manager",
+   "just walk straight into the bank",
+   "listen up this is a robbery",
+   "original heisters",
+   "the one that had many names"
+  ],
+  "extra": []
+ },
+ "first_world_bank_payday_2": {
+  "wiki": 0,
+  "mine": 21,
+  "missing": [],
+  "extra": [
+   "1337",
+   "a different level of scoring",
+   "a sense of déjà vu",
+   "au ticket",
+   "bank on me",
+   "cloaker fear",
+   "cvl",
+   "down payment",
+   "federal assurance",
+   "first robbed bank",
+   "first world problems",
+   "hidden hostages",
+   "hide them in the vault",
+   "i would like to speak to the manager",
+   "just walk straight into the bank",
+   "listen up this is a robbery",
+   "original heisters",
+   "overdrill",
+   "the one that had many names",
+   "tie them to the chairs",
+   "would you rather be robbing the place"
+  ]
+ },
+ "four_stores": {
+  "wiki": 10,
+  "mine": 10,
+  "missing": [],
+  "extra": []
+ },
+ "framing_frame": {
+  "wiki": 16,
+  "mine": 13,
+  "missing": [
+   "an artfull heist",
+   "masterpiece",
+   "the wolf lures you to your grave",
+   "van gogh to hell"
+  ],
+  "extra": [
+   "an artful heist"
+  ]
+ },
+ "go_bank": {
+  "wiki": 14,
+  "mine": 16,
+  "missing": [],
+  "extra": [
+   "go go go",
+   "pd_bank"
+  ]
+ },
+ "goat_simulator": {
+  "wiki": 10,
+  "mine": 12,
+  "missing": [
+   "pink slip"
+  ],
+  "extra": [
+   "coffee stain",
+   "gots",
+   "you goat to be kidding me"
+  ]
+ },
+ "golden_grin": {
+  "wiki": 12,
+  "mine": 16,
+  "missing": [],
+  "extra": [
+   "cleaning out the house",
+   "dinner a show and some blackjack",
+   "dont forget to bring rain man",
+   "three cherries on the slot machine"
+  ]
+ },
+ "green_bridge": {
+  "wiki": 11,
+  "mine": 0,
+  "missing": [
+   "a bridge too far",
+   "attacked helicopter",
+   "back to prison",
+   "beat the shield",
+   "breaking the fourpiece suit",
+   "caution wet floors",
+   "i felt bad for him",
+   "jack rabbit parole",
+   "rabbit ride",
+   "taking the high road",
+   "thank you for flying with overkill airline"
+  ],
+  "extra": []
+ },
+ "green_bridge_payday_2": {
+  "wiki": 0,
+  "mine": 12,
+  "missing": [],
+  "extra": [
+   "a bridge too far",
+   "attacked helicopter",
+   "back to prison",
+   "beat the shield",
+   "breaking the fourpiece suit",
+   "caution wet floors",
+   "i felt bad for him",
+   "jack rabbit parole",
+   "jack the rippers prison slippers",
+   "rabbit ride",
+   "taking the high road",
+   "thank you for flying with overkill airline"
+  ]
+ },
+ "heat_street": {
+  "wiki": 11,
+  "mine": 0,
+  "missing": [
+   "ghetto bonfire",
+   "hard street",
+   "hills street blues",
+   "its nice to be nice",
+   "patience is key",
+   "running the gauntlet",
+   "sticky asphalt",
+   "the heats around the corner",
+   "washington city marathon",
+   "we dont need no water",
+   "zookeeper"
+  ],
+  "extra": []
+ },
+ "heat_street_payday_2": {
+  "wiki": 0,
+  "mine": 15,
+  "missing": [],
+  "extra": [
+   "a nice day for a hostage situation",
+   "ghetto bonfire",
+   "hard street",
+   "hills street blues",
+   "holdout in the sun",
+   "its nice to be nice",
+   "money on the asphalt",
+   "patience is key",
+   "running the gauntlet",
+   "sit them down on the curb",
+   "sticky asphalt",
+   "the heats around the corner",
+   "washington city marathon",
+   "we dont need no water",
+   "zookeeper"
+  ]
+ },
+ "hell_island": {
+  "wiki": 11,
+  "mine": 22,
+  "missing": [],
+  "extra": [
+   "even death may die",
+   "going once",
+   "heavy metal",
+   "hey you guys",
+   "never say die",
+   "press f to pay respects",
+   "salems lot",
+   "shipwreck survivor",
+   "stomped on a spider",
+   "the auction cry",
+   "trip to the coast"
+  ]
+ },
+ "henrys_rock": {
+  "wiki": 11,
+  "mine": 12,
+  "missing": [],
+  "extra": [
+   "boom headshot"
+  ]
+ },
+ "hostile_takeover": {
+  "wiki": 0,
+  "mine": 12,
+  "missing": [],
+  "extra": [
+   "back to the lab",
+   "bad company",
+   "carbon captured",
+   "corporate espionage",
+   "for a rainey day",
+   "just passing through",
+   "payday kart 64",
+   "product displacement",
+   "que sera sera",
+   "system shocked",
+   "texas treasures part 3",
+   "youve got blackmail"
+  ]
+ },
+ "hotline_miami": {
+  "wiki": 9,
+  "mine": 13,
+  "missing": [
+   "nowikiclicknowiki"
+  ],
+  "extra": [
+   "1800komissar",
+   "click",
+   "overdose",
+   "prankcall",
+   "running in the 80s"
+  ]
+ },
+ "hoxton_breakout": {
+  "wiki": 21,
+  "mine": 25,
+  "missing": [],
+  "extra": [
+   "cloaker charmer",
+   "hoxit",
+   "tabula rasa",
+   "wulululu"
+  ]
+ },
+ "hoxton_revenge": {
+  "wiki": 20,
+  "mine": 17,
+  "missing": [
+   "400 bucks",
+   "im an avenger",
+   "pink slip"
+  ],
+  "extra": []
+ },
+ "jewelry_store": {
+  "wiki": 10,
+  "mine": 11,
+  "missing": [],
+  "extra": [
+   "the_heister27"
+  ]
+ },
+ "lab_rats": {
+  "wiki": 10,
+  "mine": 25,
+  "missing": [],
+  "extra": [
+   "breaking bad",
+   "captain cook",
+   "caribbean pirate",
+   "cooking for dummies",
+   "cooking with style",
+   "exterminator",
+   "f in chemistry",
+   "four monkeys",
+   "full measure",
+   "get the rat poison",
+   "i am the one who knocks",
+   "infestation",
+   "my chemical brothers",
+   "science expertise",
+   "short fuse"
+  ]
+ },
+ "lost_in_transit": {
+  "wiki": 0,
+  "mine": 12,
+  "missing": [],
+  "extra": [
+   "billy the kid",
+   "freight night",
+   "i like trains",
+   "lost and found",
+   "print the money and run",
+   "tabula railroad",
+   "texas treasures part 2",
+   "the greater train robbery",
+   "the payday express",
+   "transitive property",
+   "victimless crime",
+   "workin on the railroad"
+  ]
+ },
+ "mallcrasher": {
+  "wiki": 10,
+  "mine": 15,
+  "missing": [],
+  "extra": [
+   "a sale in sporting goods",
+   "came in like a wrecking ball",
+   "halfoffius god of the mall",
+   "lets trade in the food court",
+   "throw a cop in the fountain"
+  ]
+ },
+ "meltdown": {
+  "wiki": 10,
+  "mine": 10,
+  "missing": [
+   "pink slip"
+  ],
+  "extra": [
+   "sunday drive"
+  ]
+ },
+ "midland_ranch": {
+  "wiki": 0,
+  "mine": 12,
+  "missing": [],
+  "extra": [
+   "bigger in texas",
+   "caddyshacked",
+   "giddyup",
+   "gun runner",
+   "how the ranch was won",
+   "lucky streak",
+   "marshal law",
+   "outlaw country",
+   "showdown at midland ranch",
+   "texas treasures",
+   "the magnificent four",
+   "welcome to texas"
+  ]
+ },
+ "mountain_master": {
+  "wiki": 0,
+  "mine": 11,
+  "missing": [],
+  "extra": [
+   "crouching bomber hidden flamer",
+   "did you inhale some demon speed",
+   "hard earned living",
+   "highend rent",
+   "homewrecker",
+   "killer pad",
+   "no gnome left behind",
+   "overstayed your welcome",
+   "rentfree living",
+   "the door was open",
+   "tu casa es mi casa"
+  ]
+ },
+ "murky_station": {
+  "wiki": 14,
+  "mine": 14,
+  "missing": [],
+  "extra": []
+ },
+ "nightclub": {
+  "wiki": 13,
+  "mine": 15,
+  "missing": [],
+  "extra": [
+   "every day im shovelin",
+   "ove saw 72000"
+  ]
+ },
+ "no_mercy": {
+  "wiki": 11,
+  "mine": 0,
+  "missing": [
+   "a couple of fellows",
+   "a general practitioner of the medical art",
+   "attending the ill and sick",
+   "becoming residents",
+   "consulting the chief physician",
+   "filing for malpractice",
+   "interns on the floor",
+   "just some medical students",
+   "keeping the cool",
+   "nyctophobia",
+   "or was it the blue one"
+  ],
+  "extra": []
+ },
+ "no_mercy_payday_2": {
+  "wiki": 0,
+  "mine": 11,
+  "missing": [],
+  "extra": [
+   "a couple of fellows",
+   "a general practitioner of the medical art",
+   "attending the ill and sick",
+   "becoming residents",
+   "consulting the chief physician",
+   "filing for malpractice",
+   "interns on the floor",
+   "just some medical students",
+   "keeping the cool",
+   "nyctophobia",
+   "or was it the blue one"
+  ]
+ },
+ "panic_room": {
+  "wiki": 12,
+  "mine": 0,
+  "missing": [
+   "a brush with death",
+   "cardio training",
+   "demolition crew",
+   "dont panic",
+   "dont you dare miss",
+   "flying money",
+   "forceful eviction",
+   "keep calm and carry on shooting",
+   "panic in the projects",
+   "quick draw",
+   "the definition of safe house is changing",
+   "the dentist delight"
+  ],
+  "extra": []
+ },
+ "panic_room_payday_2": {
+  "wiki": 0,
+  "mine": 12,
+  "missing": [],
+  "extra": [
+   "a brush with death",
+   "cardio training",
+   "demolition crew",
+   "dont panic",
+   "dont you dare miss",
+   "flying money",
+   "forceful eviction",
+   "keep calm and carry on shooting",
+   "panic in the projects",
+   "quick draw",
+   "the definition of safe house is changing",
+   "the dentist delight"
+  ]
+ },
+ "rats": {
+  "wiki": 14,
+  "mine": 25,
+  "missing": [],
+  "extra": [
+   "arachnophobia",
+   "bain i shrunk the heisters",
+   "i survived lab rats with one down and all i got was this achievement",
+   "itsy bitsy heisters cooking meth all night long",
+   "maybe the table is just really huge",
+   "my chemical brothers",
+   "not scary enough",
+   "petty crimes",
+   "rats and meatballs",
+   "skill shot",
+   "trick or treat"
+  ]
+ },
+ "reservoir_dogs": {
+  "wiki": 14,
+  "mine": 0,
+  "missing": [
+   "black tie white noise",
+   "break out the popcorn",
+   "close shave",
+   "every heister has his day",
+   "get off my property",
+   "just shut up and take my money",
+   "more blood than bullets",
+   "parental guidance suggested",
+   "pinky swear",
+   "shot of rabies",
+   "silver tongue",
+   "united we heist",
+   "walking the dogs",
+   "waste not want not"
+  ],
+  "extra": []
+ },
+ "reservoir_dogs_heist": {
+  "wiki": 0,
+  "mine": 15,
+  "missing": [],
+  "extra": [
+   "black tie white noise",
+   "break out the popcorn",
+   "close shave",
+   "clowns to the left of me jokers to the right",
+   "every heister has his day",
+   "get off my property",
+   "just shut up and take my money",
+   "more blood than bullets",
+   "parental guidance suggested",
+   "pinky swear",
+   "shot of rabies",
+   "silver tongue",
+   "united we heist",
+   "walking the dogs",
+   "waste not want not"
+  ]
+ },
+ "safe_house_nightmare": {
+  "wiki": 12,
+  "mine": 12,
+  "missing": [],
+  "extra": []
+ },
+ "safe_house_raid": {
+  "wiki": 9,
+  "mine": 9,
+  "missing": [],
+  "extra": []
+ },
+ "san_martin": {
+  "wiki": 11,
+  "mine": 16,
+  "missing": [],
+  "extra": [
+   "federales on the run",
+   "scorpions and negotiators",
+   "seven mexican standoffs",
+   "silencioso y codicioso",
+   "the hat of a mariachi"
+  ]
+ },
+ "santa_workshop": {
+  "wiki": 10,
+  "mine": 12,
+  "missing": [],
+  "extra": [
+   "euro bag simulator",
+   "six dozers charging"
+  ]
+ },
+ "scarface": {
+  "wiki": 11,
+  "mine": 12,
+  "missing": [],
+  "extra": [
+   "casa de palma"
+  ]
+ },
+ "shacklethorne": {
+  "wiki": 10,
+  "mine": 10,
+  "missing": [
+   "press f to pay respects"
+  ],
+  "extra": [
+   "heavy metal"
+  ]
+ },
+ "shadow_raid": {
+  "wiki": 15,
+  "mine": 16,
+  "missing": [],
+  "extra": [
+   "operation paynight"
+  ]
+ },
+ "slaughterhouse": {
+  "wiki": 13,
+  "mine": 0,
+  "missing": [
+   "black and blue and broken bones",
+   "but how",
+   "dead meat",
+   "lots of pigs but no pigs",
+   "makin bacon",
+   "making a statement",
+   "not hard enough",
+   "of pigs and pigs",
+   "pork royale",
+   "puts the s in laughterhouse",
+   "pyromaniacs",
+   "slaughterfest",
+   "some kind of piggy bank"
+  ],
+  "extra": []
+ },
+ "slaughterhouse_payday_2": {
+  "wiki": 0,
+  "mine": 13,
+  "missing": [],
+  "extra": [
+   "black and blue and broken bones",
+   "but how",
+   "dead meat",
+   "lots of pigs but no pigs",
+   "makin bacon",
+   "making a statement",
+   "not hard enough",
+   "of pigs and pigs",
+   "pork royale",
+   "puts the s in laughterhouse",
+   "pyromaniacs",
+   "slaughterfest",
+   "some kind of piggy bank"
+  ]
+ },
+ "stealing_xmas": {
+  "wiki": 11,
+  "mine": 11,
+  "missing": [],
+  "extra": []
+ },
+ "the_alesso": {
+  "wiki": 11,
+  "mine": 16,
+  "missing": [
+   "fk it were walking",
+   "pink slip"
+  ],
+  "extra": [
+   "finely tuned heister",
+   "forte to fortissimo",
+   "fuck it were walking",
+   "just another floorshow",
+   "louder than a boom box",
+   "mf stev",
+   "play it again hox"
+  ]
+ },
+ "the_biker": {
+  "wiki": 11,
+  "mine": 12,
+  "missing": [
+   "pink slip"
+  ],
+  "extra": [
+   "full throttle",
+   "harley harley harley wroom davidson"
+  ]
+ },
+ "the_bomb_heists": {
+  "wiki": 0,
+  "mine": 24,
+  "missing": [],
+  "extra": [
+   "a pine in the ass",
+   "beaver team",
+   "breaking dead",
+   "derailed",
+   "done in 60 seconds",
+   "fishermans fiend",
+   "heavy tariffs",
+   "high times",
+   "how much wood would a heister chuck",
+   "i cut down trees i skip and jump",
+   "ive got the power",
+   "keep your feet on the ground",
+   "maiden voyage",
+   "make like a treeand get out of here",
+   "oppressor",
+   "prepare to be boarded",
+   "pump it up",
+   "sailing home",
+   "ship it",
+   "smooth sailing",
+   "sneaking with the fishes",
+   "timber train",
+   "uphill battle",
+   "what are you sinking about"
+  ]
+ },
+ "the_diamond": {
+  "wiki": 12,
+  "mine": 0,
+  "missing": [
+   "cat burglar",
+   "culture vultures",
+   "cursed wealth",
+   "day at the museum",
+   "devil of a job",
+   "diamonds in the rough",
+   "honor among thieves",
+   "not just any diamond",
+   "smoke and mirrors",
+   "sparkle sparkle",
+   "the cursed stone",
+   "watch your steps"
+  ],
+  "extra": []
+ },
+ "transport": {
+  "wiki": 41,
+  "mine": 59,
+  "missing": [
+   "makin my way downtown",
+   "urban hikeing"
+  ],
+  "extra": [
+   "310 to the safe house",
+   "a good old fashioned train robbery",
+   "affordable healthcare",
+   "all the noise and the hurry",
+   "because of training",
+   "choo choo",
+   "fool me once shame on shame on you fool me you cant get fooled again",
+   "gravy train",
+   "heat around the corner",
+   "heisty mcheistface",
+   "i did not have sexual relations with that bulldozer",
+   "if you liked it you should have put a ring on it",
+   "im not a crook",
+   "let them watch",
+   "license to kill",
+   "modern train robbers",
+   "off the rails",
+   "the little heister that could",
+   "urban hiking",
+   "were gonna need a bigger boat"
+  ]
+ },
+ "transport_train": {
+  "wiki": 11,
+  "mine": 51,
+  "missing": [
+   "310 to the safehouse",
+   "a good old fashioned train robbery",
+   "because of training",
+   "choo choo",
+   "gravy train",
+   "modern train robbers",
+   "off the rails",
+   "the little heister that could"
+  ],
+  "extra": [
+   "a ride through foggy bottom",
+   "a steel container of professional badasses",
+   "a walk in the park",
+   "affordable healthcare",
+   "all the noise and the hurry",
+   "at a crossroads",
+   "bright lights broke city",
+   "caught in the crossfire",
+   "crimenet street party",
+   "criminal waters",
+   "crosstown traffic",
+   "downtown crowd",
+   "downtown madness",
+   "fingers and roads crossed",
+   "fog this shit im out",
+   "fool me once shame on shame on you fool me you cant get fooled again",
+   "harboring criminals",
+   "hazy heisters",
+   "heat around the corner",
+   "heisters in a tincan",
+   "heisty mcheistface",
+   "hit em hard",
+   "holding court in the street",
+   "i did not have sexual relations with that bulldozer",
+   "i do what i do best i take scores",
+   "if you liked it you should have put a ring on it",
+   "im not a crook",
+   "its always foggy in washington dc",
+   "license to kill",
+   "logistics fee",
+   "making my way downtown",
+   "midnight rides over",
+   "mistified",
+   "no day for sightseeing",
+   "our roads cross again",
+   "park clean up",
+   "picnic",
+   "rush hour",
+   "see you at the crossroads",
+   "shipment and handling",
+   "stroll in the park",
+   "traffic congestion",
+   "tunnel vision",
+   "urban hiking",
+   "we like long walks",
+   "when x marks the spot",
+   "why did the heister cross the road",
+   "working class hero"
+  ]
+ },
+ "ukrainian_job": {
+  "wiki": 10,
+  "mine": 10,
+  "missing": [],
+  "extra": []
+ },
+ "ukrainian_prisoner": {
+  "wiki": 1,
+  "mine": 11,
+  "missing": [],
+  "extra": [
+   "container cracker",
+   "cupcake rescuer",
+   "dockland raider",
+   "free our ukrainian",
+   "just to cheese them off",
+   "leave no ukrainian behind",
+   "take care of your frenemies",
+   "thinking ahead",
+   "this calls for a round of sputniks",
+   "vlads hero"
+  ]
+ },
+ "under_the_hammer": {
+  "wiki": 0,
+  "mine": 14,
+  "missing": [],
+  "extra": [
+   "bfd junior",
+   "bidding war",
+   "bookkeeping",
+   "buyin price",
+   "collection collected",
+   "curated crew",
+   "deal of the day",
+   "doppelganger",
+   "flash auction",
+   "going twice",
+   "inside value",
+   "opening bid",
+   "sun tan",
+   "white glove sale"
+  ]
+ },
+ "undercover": {
+  "wiki": 10,
+  "mine": 0,
+  "missing": [
+   "big fish",
+   "blowout",
+   "death and taxes",
+   "downtown parking",
+   "i feel like robin hood",
+   "in for a dime in for a dollar",
+   "keep clear of the windows",
+   "not even once",
+   "tax return",
+   "the saviour"
+  ],
+  "extra": []
+ },
+ "undercover_payday_2": {
+  "wiki": 0,
+  "mine": 13,
+  "missing": [],
+  "extra": [
+   "big fish",
+   "blowout",
+   "death and taxes",
+   "downtown parking",
+   "i feel like robin hood",
+   "in for a dime in for a dollar",
+   "keep clear of the windows",
+   "mercykill",
+   "not even once",
+   "starbreezer",
+   "tax return",
+   "the saviour",
+   "zygon"
+  ]
+ },
+ "watchdogs": {
+  "wiki": 12,
+  "mine": 13,
+  "missing": [
+   "every dog has its day"
+  ],
+  "extra": [
+   "every dog has its afternoon",
+   "we are rockstars on this job"
+  ]
+ },
+ "white_house": {
+  "wiki": 12,
+  "mine": 21,
+  "missing": [
+   "dont forget to vote"
+  ],
+  "extra": [
+   "a good haul",
+   "attacked helicopter",
+   "hack this",
+   "hostage situation",
+   "let them boogie",
+   "out of bounds",
+   "self checkout",
+   "settling a scar",
+   "whats in the box",
+   "you cant vote twice"
+  ]
+ },
+ "white_xmas": {
+  "wiki": 9,
+  "mine": 11,
+  "missing": [],
+  "extra": [
+   "",
+   "riders on the snowstorm"
+  ]
+ },
+ "yacht": {
+  "wiki": 11,
+  "mine": 11,
+  "missing": [],
+  "extra": []
+ },
+ "бомба": {
+  "wiki": 0,
+  "mine": 24,
+  "missing": [],
+  "extra": [
+   "a pine in the ass",
+   "beaver team",
+   "breaking dead",
+   "derailed",
+   "done in 60 seconds",
+   "fishermans fiend",
+   "heavy tariffs",
+   "high times",
+   "how much wood would a heister chuck",
+   "i cut down trees i skip and jump",
+   "ive got the power",
+   "keep your feet on the ground",
+   "maiden voyage",
+   "make like a treeand get out of here",
+   "oppressor",
+   "prepare to be boarded",
+   "pump it up",
+   "sailing home",
+   "ship it",
+   "smooth sailing",
+   "sneaking with the fishes",
+   "timber train",
+   "uphill battle",
+   "what are you sinking about"
+  ]
+ },
+ "пересечение_границы": {
+  "wiki": 0,
+  "mine": 20,
+  "missing": [],
+  "extra": [
+   "a dish best served hot",
+   "a morning like any other",
+   "a stroll across the border",
+   "blood on the sand",
+   "cooking in the sun",
+   "death in the desert",
+   "export tax",
+   "free shipping and handling",
+   "heister cocinero",
+   "identity theft",
+   "if you cant stand the heat get out of the meth lab",
+   "kings and queens of crystal",
+   "like walking in with a guitar case full of guns",
+   "no coming back for seconds",
+   "once upon a down in mexico",
+   "only for us naughty heisters",
+   "satans lapdog",
+   "there is sand in my meth",
+   "twostep verification",
+   "with a bite of habanero"
+  ]
+ }
+}

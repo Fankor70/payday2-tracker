@@ -1,0 +1,14 @@
+<tabber>Permanent Achievements=
+{{Achievement|Awaiting Trial|jpg|Complete the [[Hell's Island]] job on the Normal difficulty or above.}}
+{{Achievement|Misdemeanor|jpg|Complete the [[Hell's Island]] job on the Hard difficulty or above.}}
+{{Achievement|3rd Degree Felony|jpg|Complete the [[Hell's Island]] job on the Very Hard difficulty or above.}}
+{{Achievement|Laundry Duty|jpg|Complete the [[Hell's Island]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Too Many License Plates|jpg|Complete the [[Hell's Island]] job on the Mayhem difficulty or above.}}
+{{Achievement|Escape from Alcatraz|jpg|Complete the [[Hell's Island]] job on the Death Wish difficulty or above.}}
+{{Achievement|Call from the Mayor|jpg|Complete the [[Hell's Island]] job on the Death Sentence difficulty.}}
+{{Achievement|Last Meal|jpg|Complete the [[Hell's Island]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Prison Rules, Bitch!|jpg|In the [[Hell's Island]] Job, kill {{color|value|13}} enemies with the [[Nova's Shank]] Melee on the OVERKILL difficulty or above.<br>''}}
+{{Achievement|Another Way Out|jpg|In the [[Hell's Island]] Job, Free all of the prisoners in Cell Block A before opening Bain's cell on the OVERKILL difficulty or above.}}
+{{Achievement|Beacon of.. nope|jpg|In the [[Hell's Island]] job, Shoot out the light on the lighthouse.}}
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

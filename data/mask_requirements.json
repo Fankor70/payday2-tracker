@@ -1,0 +1,146 @@
+[
+ {
+  "need": "Wanted",
+  "mask": "Dolph",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "3000 Miles to the Safe House",
+  "mask": "Jean-Claude",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Pump-Action",
+  "mask": "Pumpkin",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Commando",
+  "mask": "Arnold",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Public Enemies",
+  "mask": "Chuck",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Witch Doctor",
+  "mask": "Witch",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "It's Alive! IT'S ALIVE!",
+  "mask": "Frank",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "From Russia With Love",
+  "mask": "Mark",
+  "from": "Like an Angry Bear!",
+  "kind": "free"
+ },
+ {
+  "need": "Affordable Healthcare",
+  "mask": "44th",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Sounds of Animals Fighting",
+  "mask": "Hotline Miami",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "No One Can Hear You Scream",
+  "mask": "Venomorph",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "I Do What I Do Best, I Take Scores",
+  "mask": "Hockey Heat",
+  "from": "Heat Around the Corner",
+  "kind": "free"
+ },
+ {
+  "need": "I'm Not a Crook!",
+  "mask": "37th",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Fool Me Once, Shame on -Shame on You. Fool Me - You Can't Get Fooled Again",
+  "mask": "43rd",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Ghost Riders",
+  "mask": "difficulty",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Funding Father",
+  "mask": "Big Bank",
+  "from": "Funding Father",
+  "kind": "chain"
+ },
+ {
+  "need": "Unusual Suspects",
+  "mask": "Assault Pack",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Wind of Change",
+  "mask": "Historical",
+  "from": "Wind of Change",
+  "kind": "chain"
+ },
+ {
+  "need": "I Did Not Have Sexual Relations With That Bulldozer",
+  "mask": "42nd",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Four Monkeys",
+  "mask": "Shotgun Pack",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Honor Among Thieves",
+  "mask": "Diamond Heist",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Animal Kingdom",
+  "mask": "Brooklyn Bank animal",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "President For a Day",
+  "mask": "any presidential",
+  "from": null,
+  "kind": "unknown"
+ },
+ {
+  "need": "Cloaker Charmer",
+  "mask": "PNV BriteNite",
+  "from": "Cloaker Charmer",
+  "kind": "chain"
+ }
+]

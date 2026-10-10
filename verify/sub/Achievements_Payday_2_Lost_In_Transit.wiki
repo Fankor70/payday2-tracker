@@ -1,0 +1,47 @@
+<tabber>
+Permanent Achievements=
+{{Achievement|Workin' On The Railroad|jpg|Complete the [[Lost In Transit]] job on the Normal difficulty or above.}}
+{{Achievement|Freight Night|jpg|Complete the [[Lost In Transit]] job on the Hard difficulty or above.}}
+{{Achievement|The Greater Train Robbery|jpg|Complete the [[Lost In Transit]] job on the Very Hard difficulty or above.}}
+{{Achievement|Transitive Property|jpg|Complete the [[Lost In Transit]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Lost And Found|jpg|Complete the [[Lost In Transit]] job on the Mayhem difficulty or above.}}
+{{Achievement|The Payday Express|jpg|Complete the [[Lost In Transit]] job on the Death Wish difficulty or above.}}
+{{Achievement|I Like Trains|jpg|Complete the [[Lost In Transit]] job on the Death Sentence difficulty.}}
+{{Achievement|Print The Money And Run|jpg|Complete the [[Lost In Transit]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Texas Treasures, Part 2|jpg|In the [[Lost In Transit]] job, find the hidden safe locked with the sheriff star and steal the content.}}
+{{Achievement|Tabula Railroad|jpg|Complete the [[Lost In Transit]] job on the OVERKILL difficulty or above in Loud, with each crew member wearing a [[Armors#Two-Piece Suit|two-piece suit]], wielding a [[Castigo .44]] Revolver with a [[Mosconi 12G]] shotgun, and using no equipped skills.}}
+{{Achievement|Billy The Kid|jpg|In the [[Lost In Transit]] job on the OVERKILL difficulty or above, get 5 enemy headshot kills within 10 seconds using a revolver.}}
+{{Achievement|Victimless Crime|jpg|Complete the [[Lost In Transit]] job without raising the alarm or killing anyone.}}
+|-|Teaser=
+The following teasers were added on September 23, 2022, and removed on October 20, 2022
+{{Achievement|The aeolipile||The aeolipile}}
+{{Achievement|is a simple||is a simple}}
+{{Achievement|bladeless radial||bladeless radial}}
+{{Achievement|turbine which||turbine which}}
+{{Achievement|spins when the||spins when the}}
+{{Achievement|water in the||water in the}}
+{{Achievement|central chamber||central chamber}}
+{{Achievement|is heated and||is heated and}}
+{{Achievement|torque is created||torque is created}}
+{{Achievement|by the steam||by the steam}}
+{{Achievement|jets exiting||jets exiting}}
+{{Achievement|the turbine.||the turbine.}}
+{{Achievement|1 hidden achievement remaining}}
+|-|Tips=
+{{Achievement|Texas Treasures, Part 2|jpg|In the [[Lost In Transit]] job, find the hidden safe locked with the sheriff star and steal the content.}}
+To complete this achievement, the player must have completed the [[Achievements (Payday 2)/MidlandRanch|Texas Treasures]] achievement on [[Midland Ranch]] and have the sheriff star in their inventory.
+[[File:Texas Treasures pt2 1.png|thumb|right]]
+The first part of this achievement can be found on a stack of containers near the turntable. By jumping from different crates up and onto the far stack of containers, players will find a toolbox with a key labeled "Container 42".
+[[File:Texas Treasures pt2 2.png|thumb|right]]
+The player must then find container 42, which can be found near the entrance of the rail yard. By jumping from the top of a traincar to a small ledge on the side of the container. Upon opening the container, players will find a safe locked with a star. Using the sheriff star, players can open the safe and collect the usb drive inside.
+{{clr}}
+|-|Trivia=
+*'''The Payday Express''' is likely a reference to a children book/film, '''The Polar Express'''.
+*'''Workin' On The Railroad''' is a reference to the American folk song {{w|I've Been Working on the Railroad}}.
+*'''I Like Trains''' is a reference to a running gag in the YouTube series 'asdfmovie'.
+*'''Texas Treasures, Part 2''' is a continuation of the '''Texas Treasures''' achievement of the [[Midland Ranch]] heist.
+*'''Tabula Railroad''' is similar to the 'Tabula Rasa' achievement in the [[Hoxton Breakout]] heist, as both share a similar name and similar requirements.
+*'''Billy The Kid''' references Henry McCarty, also known as {{w|Billy the Kid}}, an American outlaw and gunfighter during the Wild West era.
+*The container #42 in '''Texas Treasures Part 2''' is a reference to The Hitchhiker's Guide to the Galaxy, as "the answer to the Ultimate Question of Life, the Universe, and Everything."
+</tabber>
+[[Category:Achievement Icons]]

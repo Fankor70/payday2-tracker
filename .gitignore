@@ -1,0 +1,12 @@
+__pycache__/
+build/
+dist/
+share/
+_edge_profile/
+*.log
+progress.json
+*.BAK
+_syntax_check.js
+verify_deep.json
+verify_pairs.json
+node_modules/

@@ -1,0 +1,26 @@
+<tabber>Permanent Achievements=
+{{Achievement|Vlad’s Little Helpers|jpg|Complete the [[White Xmas]] job on the Normal difficulty or above. Unlocks the “[[Masks (Payday 2)#Normal (Achievement)|Mrs. Claus]]” mask.}}
+{{Achievement|Stealing Christmas|jpg|Complete the [[White Xmas]] job on the Hard difficulty or above. Unlocks the “[[Masks (Payday 2)#Normal (Achievement)|Strinch]]” mask.}}
+{{Achievement|Cancelling Santa’s Christmas|jpg|Complete the [[White Xmas]] job on the Very Hard difficulty or above. Unlocks the “[[Masks (Payday 2)#Normal (Achievement)|Krampus]]” mask.}}
+{{Achievement|Claustrophobia|jpg|Complete the [[White Xmas]] job on the OVERKILL difficulty or above. Unlocks the “[[Masks (Payday 2)#Normal (Achievement)|Mechanical Santa]]” mask.}}
+{{Achievement|Like Turkeys Voting for an Early Christmas|jpg|Complete the [[White Xmas]] job on the Death Wish difficulty or above.}}
+{{Achievement|Riders On the Snowstorm|jpg|In the [[White Xmas]] job, complete the heist on the Death Wish difficulty or above while each crew member wear a different “[[Masks (Payday 2)#Normal|2014 Xmas]]” mask each. Unlocks the “[[Masks (Payday 2)#Normal (Achievement)|Almir’s Beard]]” mask.}}
+{{Achievement|Impossible, It Can't Be. Is It?|jpg|In the White Xmas job, secure the rare [[Loot#Loot bag values|Almir’s Toast]].}}
+|-|Teasers=
+''The following appeared on November 27, 2014. They were replaced on December 3, 2014, one day before the release of the [[White Xmas]] heist.''
+{{Teasers
+|I'm Dreaming
+|Of a White
+|Christmas
+|Just Like
+|The Ones
+|I Used
+|To Know
+}}
+|-|Trivia=
+* The teaser achievements are a reference to the song [[wikipedia:White Christmas (song)|White Christmas]] by [[wikipedia:Irving Berlin|Irving Berlin]].
+* '''Stealing Christmas''' is a reference to the [[wikipedia:Dr. Seuss|Dr. Seuss]] book ''[[wikipedia:How the Grinch Stole Christmas!|How the Grinch Stole Christmas!]]'', as is the mask unlocked for completing it.
+* '''Claustrophobia''' is a pun on Santa ''Claus''.
+* The '''Riders on a Snowstorm''' achievement is a reference to the song [[wikipedia:Riders on the Storm|Riders on the Storm]] by [[wikipedia:The Doors|The Doors]].
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

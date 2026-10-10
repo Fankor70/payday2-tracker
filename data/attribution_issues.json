@@ -1,0 +1,1878 @@
+{
+ "extra": [
+  {
+   "id": 35,
+   "name": "A Good Haul",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Too Close to Home",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 57,
+   "name": "That's a 4.0 on the Heist Scale of Magnitude",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 74,
+   "name": "Are We There Yet?",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 110,
+   "name": "Lift With Your Legs",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 126,
+   "name": "Not in My Backyard",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 133,
+   "name": "Student Driver",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 169,
+   "name": "Snitches Get Stitches",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 176,
+   "name": "We're Gonna Need a Bigger Boat",
+   "extra": [
+    "transport"
+   ]
+  },
+  {
+   "id": 178,
+   "name": "Milk and Cookies",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 191,
+   "name": "Trip to the Coast",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 198,
+   "name": "Burning Rubber",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 203,
+   "name": "Where's Your Warrant?",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 220,
+   "name": "Heister's Nightmare",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 227,
+   "name": "High Octane",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 238,
+   "name": "Drive It Like You Stole It",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 244,
+   "name": "Making My Way Downtown",
+   "extra": [
+    "downtown"
+   ]
+  },
+  {
+   "id": 247,
+   "name": "You've Got a Fast Car",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 250,
+   "name": "That'll Leave a Scar!",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 251,
+   "name": "Sparkle Sparkle",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 252,
+   "name": "Breaking and Entering",
+   "extra": [
+    "breakin_feds",
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 260,
+   "name": "A Safe Drive to L.A.",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 264,
+   "name": "All-In!",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 271,
+   "name": "Home Invasion",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 272,
+   "name": "Maiden Voyage",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 283,
+   "name": "Watch Your Steps",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 294,
+   "name": "Press [F] to Pay Respects",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 296,
+   "name": "Even Steven",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 297,
+   "name": "Playing Rough",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 302,
+   "name": "Let Them Watch",
+   "extra": [
+    "transport"
+   ]
+  },
+  {
+   "id": 305,
+   "name": "Royal Flush",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 308,
+   "name": "Serve Cold",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 310,
+   "name": "Stomped on a Spider",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 313,
+   "name": "Culture Vultures",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 314,
+   "name": "Bad Boy Factory",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 317,
+   "name": "Not Just Any Diamond",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 322,
+   "name": "Derailed",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 331,
+   "name": "Dead Man's Hand",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 337,
+   "name": "Awaiting Trial",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 344,
+   "name": "Breaking Dead",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 348,
+   "name": "The Only Care I Have... is my Yayo",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 357,
+   "name": "Devil of a Job",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 358,
+   "name": "Mountain Climbers",
+   "extra": [
+    "beneath_mountain"
+   ]
+  },
+  {
+   "id": 359,
+   "name": "Bring it Back Safe",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 363,
+   "name": "All Your Bass Are Belong to Us",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 367,
+   "name": "Cat Burglar",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 369,
+   "name": "Crime Don't Rust",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 373,
+   "name": "Silent But Deadly",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 378,
+   "name": "Downtown Crowd",
+   "extra": [
+    "downtown"
+   ]
+  },
+  {
+   "id": 390,
+   "name": "Tag, You're It!",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 391,
+   "name": "A Dish Best Served Cold",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 396,
+   "name": "The Cursed Stone",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 401,
+   "name": "Blackout",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 403,
+   "name": "Priceless Relic Collector",
+   "extra": [
+    "beneath_mountain"
+   ]
+  },
+  {
+   "id": 407,
+   "name": "Petrolhead",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 411,
+   "name": "How the Fuck Can You Grin?",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 412,
+   "name": "Blind Eye in the Sky",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 417,
+   "name": "JACKPOT!",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 418,
+   "name": "CLASSIFIED",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 419,
+   "name": "Heist to Live, Live to Heist",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 420,
+   "name": "The Show Must Go On",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 421,
+   "name": "Strolling through the Rose Garden",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 426,
+   "name": "All I Want for Christmas is Cocaine",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 427,
+   "name": "Guppy",
+   "extra": [
+    "yacht"
+   ]
+  },
+  {
+   "id": 436,
+   "name": "Day at the Museum",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 447,
+   "name": "Diamonds in the Rough",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 451,
+   "name": "The World is Yours",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 457,
+   "name": "Shipwreck Survivor",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 465,
+   "name": "Let the Chips Fall",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 479,
+   "name": "We Built This City on Electric Progressive House Music",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 481,
+   "name": "Long Gone",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 482,
+   "name": "Wankers Get Shanked",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 483,
+   "name": "Moles With Guns",
+   "extra": [
+    "beneath_mountain"
+   ]
+  },
+  {
+   "id": 484,
+   "name": "Salmon",
+   "extra": [
+    "yacht"
+   ]
+  },
+  {
+   "id": 485,
+   "name": "Eat, Sleep, Heist, Repeat",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 486,
+   "name": "Hit 'em Hard",
+   "extra": [
+    "downtown"
+   ]
+  },
+  {
+   "id": 489,
+   "name": "Downtown Madness",
+   "extra": [
+    "downtown"
+   ]
+  },
+  {
+   "id": 495,
+   "name": "Fisherman's Fiend",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 498,
+   "name": "Clean House",
+   "extra": [
+    "beneath_mountain",
+    "birth_of_sky"
+   ]
+  },
+  {
+   "id": 500,
+   "name": "House Party",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 511,
+   "name": "Gone in 240 Seconds",
+   "extra": [
+    "car_shop"
+   ]
+  },
+  {
+   "id": 517,
+   "name": "Sons of Robbery",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 530,
+   "name": "You Cockroaches Wanna Play Rough?",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 531,
+   "name": "Sailing Home",
+   "extra": [
+    "bomb_dockyard"
+   ]
+  },
+  {
+   "id": 532,
+   "name": "Stingray",
+   "extra": [
+    "yacht"
+   ]
+  },
+  {
+   "id": 540,
+   "name": "Pump It Up",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 546,
+   "name": "Hammerhead",
+   "extra": [
+    "john_wick",
+    "yacht"
+   ]
+  },
+  {
+   "id": 559,
+   "name": "Sneaking With the Fishes",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 568,
+   "name": "Santa's Little Helper",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 569,
+   "name": "Heavy Tariffs",
+   "extra": [
+    "bomb_dockyard"
+   ]
+  },
+  {
+   "id": 576,
+   "name": "Misdemeanor",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 586,
+   "name": "Only Santa Brings Gifts",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 588,
+   "name": "Great White",
+   "extra": [
+    "john_wick",
+    "yacht"
+   ]
+  },
+  {
+   "id": 591,
+   "name": "Jailhouse Rock",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 594,
+   "name": "Rush Hour",
+   "extra": [
+    "downtown"
+   ]
+  },
+  {
+   "id": 597,
+   "name": "Salem's Lot",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 605,
+   "name": "Santa Slays Slackers",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 606,
+   "name": "Can You See The Light?",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 609,
+   "name": "Destruction From Within",
+   "extra": [
+    "beneath_mountain"
+   ]
+  },
+  {
+   "id": 610,
+   "name": "Piranha",
+   "extra": [
+    "yacht"
+   ]
+  },
+  {
+   "id": 621,
+   "name": "Smoke and Mirrors",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 624,
+   "name": "A Pine in the Ass",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 627,
+   "name": "Aftershocked",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 631,
+   "name": "I Put It on Repeat",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 653,
+   "name": "The Pacifist",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 658,
+   "name": "How Much Wood Would a Heister Chuck...",
+   "extra": [
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 666,
+   "name": "Hail to the King, Baby",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 670,
+   "name": "Ghost Run",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 673,
+   "name": "Every Dog Has His Day",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 676,
+   "name": "Riding With Style",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 691,
+   "name": "High Roller",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 692,
+   "name": "Hall of the Mountain King",
+   "extra": [
+    "beneath_mountain",
+    "birth_of_sky"
+   ]
+  },
+  {
+   "id": 693,
+   "name": "On the Seventh Try on Death Wish, My True Bain Gave to Me",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 696,
+   "name": "What Are You Sinking About",
+   "extra": [
+    "bomb_dockyard"
+   ]
+  },
+  {
+   "id": 699,
+   "name": "Bright Lights, Broke City",
+   "extra": [
+    "downtown"
+   ]
+  },
+  {
+   "id": 705,
+   "name": "Just Like John Adams",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 716,
+   "name": "Blood is Thicker Than Murkywater",
+   "extra": [
+    "beneath_mountain"
+   ]
+  },
+  {
+   "id": 721,
+   "name": "Smooth Sailing",
+   "extra": [
+    "bomb_dockyard"
+   ]
+  },
+  {
+   "id": 722,
+   "name": "Uphill Battle",
+   "extra": [
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 730,
+   "name": "Done in 60 Seconds",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 732,
+   "name": "Sound of Silence",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 735,
+   "name": "Red Snow",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 739,
+   "name": "Cloaker Phantasm",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 742,
+   "name": "3rd Degree Felony",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 746,
+   "name": "Not Scary Enough",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 750,
+   "name": "Ocean's Four",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 753,
+   "name": "Leviathan",
+   "extra": [
+    "john_wick",
+    "yacht"
+   ]
+  },
+  {
+   "id": 755,
+   "name": "Hey, you guys!",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 756,
+   "name": "Honor Among Thieves",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 757,
+   "name": "Beaver Team",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 758,
+   "name": "Oppressor",
+   "extra": [
+    "bomb_dockyard",
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 760,
+   "name": "City of Sin and Well-Oiled Gears",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 763,
+   "name": "Commando Crew",
+   "extra": [
+    "beneath_mountain",
+    "birth_of_sky"
+   ]
+  },
+  {
+   "id": 764,
+   "name": "Juggernauts",
+   "extra": [
+    "beneath_mountain",
+    "birth_of_sky"
+   ]
+  },
+  {
+   "id": 769,
+   "name": "Fierce Protection",
+   "extra": [
+    "john_wick"
+   ]
+  },
+  {
+   "id": 773,
+   "name": "Megalodon",
+   "extra": [
+    "yacht"
+   ]
+  },
+  {
+   "id": 777,
+   "name": "Let them Boogie",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 785,
+   "name": "Not the Forgiving Kind",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 787,
+   "name": "Nightmare Machine",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 790,
+   "name": "Maybe the Table Is Just Really Huge?",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 791,
+   "name": "Heister Hospitality",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 795,
+   "name": "Skill Shot",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 796,
+   "name": "Pumped Up and Jolly",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 800,
+   "name": "I Cut Down Trees, I Skip and Jump",
+   "extra": [
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 801,
+   "name": "Timber Train",
+   "extra": [
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 808,
+   "name": "Trick or Treat!",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 810,
+   "name": "The Ground Is Too Cold",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 811,
+   "name": "You Got Your Patch!",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 812,
+   "name": "Scavenger",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 813,
+   "name": "Dance Dance GenSec",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 814,
+   "name": "Say Good Night to the Bad Guy",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 815,
+   "name": "Say Hello to My Big Friend",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 816,
+   "name": "Look at These Pelicans Fall",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 833,
+   "name": "Itsy Bitsy Heisters Cooking Meth All Night Long",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 835,
+   "name": "Cursed Wealth",
+   "extra": [
+    "diamond_heist"
+   ]
+  },
+  {
+   "id": 836,
+   "name": "The House Doesn't Always Win",
+   "extra": [
+    "golden_grin"
+   ]
+  },
+  {
+   "id": 840,
+   "name": "Even Death May Die",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 844,
+   "name": "Ship It",
+   "extra": [
+    "bomb_dockyard"
+   ]
+  },
+  {
+   "id": 853,
+   "name": "Laundry Duty",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 856,
+   "name": "High Times",
+   "extra": [
+    "bomb_dockyard"
+   ]
+  },
+  {
+   "id": 858,
+   "name": "Eye for an Eye",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 859,
+   "name": "Rats and Meatballs",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 860,
+   "name": "All Cloakers Eve",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 861,
+   "name": "Vengeful Rain",
+   "extra": [
+    "john_wick"
+   ]
+  },
+  {
+   "id": 865,
+   "name": "The UnSafe House",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 869,
+   "name": "Never Say Die",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 871,
+   "name": "Setting Your Sights On 1600 Penn",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 872,
+   "name": "No Witnesses",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 874,
+   "name": "Let the Man Work",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 878,
+   "name": "Bain, I Shrunk the Heisters",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 881,
+   "name": "Janitor",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 882,
+   "name": "When in Russia... Do as the Russians Do",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 886,
+   "name": "Blood in the Water",
+   "extra": [
+    "john_wick",
+    "yacht"
+   ]
+  },
+  {
+   "id": 893,
+   "name": "Crazy Ivan",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 899,
+   "name": "On my Twelfth Try with One Down, The True Pain Began",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 902,
+   "name": "Crime.net Street Party",
+   "extra": [
+    "downtown"
+   ]
+  },
+  {
+   "id": 910,
+   "name": "Haunted House of Heisters",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 911,
+   "name": "What? You Want Me to Dance?",
+   "extra": [
+    "scarface"
+   ]
+  },
+  {
+   "id": 912,
+   "name": "Pacifish",
+   "extra": [
+    "john_wick",
+    "yacht"
+   ]
+  },
+  {
+   "id": 915,
+   "name": "Arachnophobia",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 921,
+   "name": "The Raid Gang",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 923,
+   "name": "Megalo-Mania",
+   "extra": [
+    "hardcore_henry"
+   ]
+  },
+  {
+   "id": 924,
+   "name": "Disaster Tourist",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 925,
+   "name": "Not Radical Enough For You?",
+   "extra": [
+    "beneath_mountain"
+   ]
+  },
+  {
+   "id": 926,
+   "name": "Highly Mother-Fucking-Dangerous",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 928,
+   "name": "Keep Your Feet on the Ground",
+   "extra": [
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 930,
+   "name": "I Survived Lab Rats with One Down And All I Got Was This Achievement",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 937,
+   "name": "F Sharp",
+   "extra": [
+    "the_alesso"
+   ]
+  },
+  {
+   "id": 941,
+   "name": "Attacked Helicopter",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 951,
+   "name": "Castle Doctrine",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 954,
+   "name": "A Hearing in Congress",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 955,
+   "name": "A Heist to Remember",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 960,
+   "name": "Valkyries",
+   "extra": [
+    "john_wick"
+   ]
+  },
+  {
+   "id": 961,
+   "name": "A Rendezvous With Destiny",
+   "extra": [
+    "john_wick"
+   ]
+  },
+  {
+   "id": 962,
+   "name": "Thalassophobia",
+   "extra": [
+    "john_wick",
+    "yacht"
+   ]
+  },
+  {
+   "id": 970,
+   "name": "Prepare to be Boarded",
+   "extra": [
+    "bomb_dockyard"
+   ]
+  },
+  {
+   "id": 972,
+   "name": "Salem Asylum",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 973,
+   "name": "A Long Night of Horrors",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 974,
+   "name": "He's Got Experience",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 982,
+   "name": "Welcoming the Neighbors",
+   "extra": [
+    "safe_house_raid"
+   ]
+  },
+  {
+   "id": 986,
+   "name": "Too Many License Plates",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 993,
+   "name": "Going once...",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 996,
+   "name": "A Night at the Theater",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 997,
+   "name": "Apartment Sniper",
+   "extra": [
+    "john_wick"
+   ]
+  },
+  {
+   "id": 998,
+   "name": "Pass the Ammo",
+   "extra": [
+    "john_wick"
+   ]
+  },
+  {
+   "id": 1009,
+   "name": "Hostage Situation",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1010,
+   "name": "Out Of Bounds",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1011,
+   "name": "Mariachis Have More Fun",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1020,
+   "name": "Party Like it's 1812",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1030,
+   "name": "Beacon of... nope",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 1031,
+   "name": "Big Brother",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1033,
+   "name": "Is That a Gun or a Guitar?",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1042,
+   "name": "Vlad's First Response Team",
+   "extra": [
+    "hoxton_revenge"
+   ]
+  },
+  {
+   "id": 1043,
+   "name": "Pain Train",
+   "extra": [
+    "the_biker"
+   ]
+  },
+  {
+   "id": 1048,
+   "name": "On the Edge of Madness",
+   "extra": [
+    "hoxton_breakout"
+   ]
+  },
+  {
+   "id": 1049,
+   "name": "By a Christmas Miracle",
+   "extra": [
+    "santa_workshop"
+   ]
+  },
+  {
+   "id": 1059,
+   "name": "Keep Playing to the Sound of Money",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1069,
+   "name": "Bunker Buddies",
+   "extra": [
+    "beneath_mountain"
+   ]
+  },
+  {
+   "id": 1070,
+   "name": "Make Like a Tree...and Get Out of Here",
+   "extra": [
+    "bomb_forest"
+   ]
+  },
+  {
+   "id": 1076,
+   "name": "Escape from Alcatraz",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 1079,
+   "name": "Taking the Oval Office in Style",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1080,
+   "name": "Settling a Scar",
+   "extra": [
+    "scarface",
+    "white_house"
+   ]
+  },
+  {
+   "id": 1082,
+   "name": "Guitars And ARs",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1092,
+   "name": "Petty Crimes",
+   "extra": [
+    "rats"
+   ]
+  },
+  {
+   "id": 1099,
+   "name": "Hack This!",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1100,
+   "name": "What's in the Box?",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1113,
+   "name": "Play Me a Narcocorrido",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1125,
+   "name": "Call from the Mayor",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 1127,
+   "name": "Self Checkout",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1135,
+   "name": "Your Gunfire is Drowning out my Trumpet",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1138,
+   "name": "Get Our Guy",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1139,
+   "name": "Prisoner Lost",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1144,
+   "name": "Last Meal",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 1145,
+   "name": "Another Way Out",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 1146,
+   "name": "President For a Day",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1147,
+   "name": "The End",
+   "extra": [
+    "white_house"
+   ]
+  },
+  {
+   "id": 1150,
+   "name": "Ain't Goin' Out like That",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1151,
+   "name": "The Auction Cry",
+   "extra": [
+    "hell_island",
+    "shacklethorne"
+   ]
+  },
+  {
+   "id": 1152,
+   "name": "Prison Rules, Bitch!",
+   "extra": [
+    "hell_island"
+   ]
+  },
+  {
+   "id": 1154,
+   "name": "Mariachi Day",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1155,
+   "name": "No Taming a Coyote",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1156,
+   "name": "Paid in Full",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1157,
+   "name": "A Different Kind of Masquerade",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1164,
+   "name": "The Food in There Was Awful",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1165,
+   "name": "Plain Old Tequila",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1166,
+   "name": "You Ate the Worm",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1167,
+   "name": "The Ballad of San Martín",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1170,
+   "name": "Tropic Thunder",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1171,
+   "name": "We Expect You to Die, Mr Buluc",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1178,
+   "name": "No Evidence, No Crime",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1190,
+   "name": "We Ride at Dawn",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1191,
+   "name": "Coyopa Conundrum",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1198,
+   "name": "Murder on the Island",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1211,
+   "name": "Leaving Tijuana",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1215,
+   "name": "Now Hit Me With The Music",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1216,
+   "name": "Gunpowder Glory",
+   "extra": [
+    "san_martin"
+   ]
+  },
+  {
+   "id": 1222,
+   "name": "Mansion Basher",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1224,
+   "name": "Stolen Valor",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1225,
+   "name": "Sunset Serenade",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1226,
+   "name": "Sugar, Lard and Scorpions",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1233,
+   "name": "Low Murder Rate",
+   "extra": [
+    "breakfast_tijuana"
+   ]
+  },
+  {
+   "id": 1238,
+   "name": "Everything but the Patio Furniture",
+   "extra": [
+    "buluc_mansion"
+   ]
+  },
+  {
+   "id": 1239,
+   "name": "Only For Us Naughty Heisters",
+   "extra": [
+    "breakfast_tijuana",
+    "buluc_mansion",
+    "san_martin"
+   ]
+  }
+ ]
+}

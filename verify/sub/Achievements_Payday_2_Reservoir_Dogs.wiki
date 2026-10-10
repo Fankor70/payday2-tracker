@@ -1,0 +1,32 @@
+<tabber>Permanent Achievements=
+{{Achievement|Walking the Dogs|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs]] job on the Normal difficulty or above.}}
+{{Achievement|Black Tie, White Noise|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs]] job on the Hard difficulty or above.}}
+{{Achievement|Break out the Popcorn|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs]] job on the Very Hard difficulty or above.}}
+{{Achievement|Parental Guidance Suggested|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs]] job on the Overkill difficulty or above.}}
+{{Achievement|Shot of Rabies|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs]] job on the Mayhem difficulty or above.}}
+{{Achievement|More Blood than Bullets|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs]] job on the Death Wish difficulty or above.}}
+{{Achievement|Every Heister Has His Day|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Close Shave|jpg|On the [[Reservoir Dogs Heist|Reservoir Dogs]]{{sic}} job, kill 92 special enemies with the [[Alabama Razor]] on the Overkill difficulty or above.}}
+{{Achievement|Get Off My Property|jpg|On day 2 of the [[Reservoir Dogs Heist|Reservoir Dogs]]{{sic}} job, keep the law enforcers from entering the warehouse until Twitch arrives with the escape van.}}
+{{Achievement|Pinky Swear|jpg|On day 2 of the [[Reservoir Dogs Heist|Reservoir Dogs]] job, escort Mr. Pink back to the warehouse within 60 seconds after rescuing him from the car on the Death Wish difficulty or above.}}
+{{Achievement|United We Heist|jpg|Complete the [[Reservoir Dogs Heist|Reservoir Dogs job]] on the Overkill difficulty or above using only the [[Union 5.56]] Rifle.}}
+{{Achievement|Waste Not, Want Not|jpg|On day 1 of the [[Reservoir Dogs Heist|Reservoir Dogs]] job, loot and secure all available bags of diamonds and jewelry in the Garnet Group boutique on the Overkill difficulty or above.}}
+|-|Teasers=
+''The following were added on December 12, 2017. They were replaced on December 14, 2017.''
+{{Achievement|A metastable||A metasphere}}
+{{Achievement|allotrope of||allotrope of}}
+{{Achievement|carbon, where||carbon, where}}
+{{Achievement|the carbon||the carbon}}
+{{Achievement|atoms are||atoms are}}
+{{Achievement|arranged in||arranged in}}
+{{Achievement|a variation||a variation}}
+{{Achievement|of the||of the}}
+{{Achievement|face-centered||face-centered}}
+{{Achievement|cubic crystal||cubic crystal}}
+{{Achievement|structure called||structure called}}
+{{Achievement|a lattice.||a lattice.}}
+|-|Trivia=
+*The teasers describe the molecular structure of a {{w|diamond}}.
+*The amount of kills required for '''Close Shave''' references the year the ''{{w|Reservoir Dogs}}'' film was released, 1992.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

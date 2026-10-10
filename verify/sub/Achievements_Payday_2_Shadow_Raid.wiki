@@ -1,0 +1,21 @@
+<tabber>Permanent Achievements=
+{{Achievement|I Will Fade to Dark|jpg|In the [[Shadow Raid]] job, secure {{color|value|4}} bags of loot.}}
+{{Achievement|I Will Pass Through Walls|jpg|In the [[Shadow Raid]] job, secure at least {{color|value|6}} bags of loot and escape without killing anyone.}}
+{{Achievement|I Will Take With Impunity|jpg|In the [[Shadow Raid]] job, secure a piece of every available type of loot, including money, gold, cocaine, artifact, painting, weapons and server.}}
+{{Achievement|I Will Walk Faceless Among Men|jpg|In the [[Shadow Raid]] job, secure all {{color|value|4}} pieces of the samurai armor. Unlocks the “[[Masks (Payday 2)#The Shadow Raid Heist|Somen Mempo]]” mask.}}
+{{Achievement|I Am Ninja|jpg|In the [[Shadow Raid]] job, secure {{color|value|16}} bags of random loot including all {{color|value|4}} pieces of the samurai armor.}}
+{{Achievement|I Will Die and Die, and Die Again|jpg|Complete the [[Shadow Raid]] job on the Death Wish difficulty or above.}}
+|-|Teasers=
+''The following appeared on May 19, 2014. They were replaced on May 27, 2014, with the release of [[Shadow Raid]].''
+{{Teasers
+|I
+|Will
+|Not
+|Eat
+|You
+|Alive
+}}
+|-|Trivia=
+* The Japanese characters on the achievement '''I Am Ninja''', カワリミ (''kawarimi''), refers to a ninja technique using logs or straw men as decoys.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

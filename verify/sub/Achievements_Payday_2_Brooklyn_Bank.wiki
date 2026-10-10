@@ -1,0 +1,30 @@
+<tabber>Permanent Achievements=
+{{Achievement|Sweet Talk the Teller|jpg|Complete the [[Brooklyn Bank]] job on the Normal difficulty or above.}}
+{{Achievement|Hard Crackin'|jpg|Complete the Brooklyn Bank job on the Hard difficulty or above.}}
+{{Achievement|They Don't Make 'Em Like This Any Longer|jpg|Complete the Brooklyn Bank job on the Very Hard difficulty or above.}}
+{{Achievement|Hidden Treasures|jpg|Complete the Brooklyn Bank job on the Overkill difficulty or above.}}
+{{Achievement|Layers of Copper|jpg|Complete the Brooklyn Bank job on the Mayhem difficulty or above.}}
+{{Achievement|Layers of Iron|jpg|Complete the Brooklyn Bank job on the Death Wish difficulty or above.}}
+{{Achievement|Layers of Steel|jpg|Complete the Brooklyn Bank job on the Death Sentence difficulty}}
+{{Achievement|Brooklyn Battle|jpg|Complete the Brooklyn Bank job on the Death Sentence difficulty with the One Down mechanic activated.|image=Layers of Steel2.jpg}}
+{{Achievement|All the Gold in Brooklyn|jpg|On the Brooklyn Bank Job escape with at least 12 bags of gold on the Very Hard Difficulty or above. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Alces]]" mask and the "[[Masks (Payday 2)#Normal (Achievement)|Canis Lupus]]" mask.}}
+{{Achievement|Obsessive Opening|jpg|On the Brooklyn Bank Job open at least 30 deposit boxes and all 3 ATMs on the Overkill difficulty or above. Unlocks the "[[Masks (Payday 2)#Normal (Achievement)|Felis Lynx]]" mask and the "[[Masks (Payday 2)#Normal (Achievement)|Ursus Maritimus]]" mask.}}
+{{Achievement|Animal Kingdom|jpg|On the Brooklyn Bank job, complete the heist while you and your four man crew are wearing one different Brooklyn Bank animal mask each on OVERKILL difficulty or above.}}
+|-|Teasers=
+''The following were added on December 20, 2017. They were replaced on December 21, 2017.''
+{{Achievement|It is forms||It is forms}}
+{{Achievement|of ice||of ice}}
+{{Achievement|crystals that||crystals that}}
+{{Achievement|precipitate||precipitate}}
+{{Achievement|from the||from the}}
+{{Achievement|atmosphere||atmosphere}}
+{{Achievement|and undergo||and undergo}}
+{{Achievement|changes on||changes on}}
+{{Achievement|the Earth's||the Earth's}}
+{{Achievement|surface.||surface.}}
+|-|Trivia=
+*The teasers describe {{w|snow}}.
+*'''All the Gold in Brooklyn''' is a reference to the {{w|Larry Gatlin|Larry Gatlin & the Gatlin Brothers}} song {{w|All the Gold in California}}.
+*'''Animal Kingdom''' is the first achievement to require wearing specific masks since the [[Hardcore Henry Heists]] expansion's '''When in Russia... Do as the Russians Do''' achievement, and the first to require a full crew of players to wear four different masks since [[The Diamond Heist (DLC)|The Diamond Heist DLC]]'s '''Honor Among Thieves''' achievement.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

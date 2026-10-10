@@ -1,0 +1,90 @@
+<tabber>Permanent Achievements=
+'''Ownership required'''
+{{Achievement|Far, Far Away|jpg|Kill {{color|value|25}} [[Enemies (Payday 2)|enemies]] from {{color|value|40}} meters using only the [[Thanatos .50 cal]] sniper rifle. Completing this achievement will unlock the Tank Buster Barrel for the Thanatos .50 cal sniper rifle.}}
+{{Achievement|Last Action Villain|jpg|Perform a headshot kill on [[Enemies (Payday 2)|enemies]] using only the [[R93]] sniper rifle while zip lining. Completing this achievement will unlock the Compensated Suppressor for the R93 sniper rifle.}}
+{{Achievement|Maximum Penetration|jpg|Kill {{color|value|10}} [[Shield (Payday 2)|Shields]] by shooting through their shields using only the [[R93]] sniper rifle. Completing this achievement will unlock the Short Barrel for the R93 sniper rifle.}}
+{{Achievement|Dodge This|jpg|Perform {{color|value|10}} headshot kills on [[Cloaker (Payday 2)|Cloakers]] using only the [[Thanatos .50 cal]] sniper rifle. Completing this achievement will unlock the Suppressed Barrel for the Thanatos .50 cal sniper rifle.}}
+{{Achievement|Surprise Motherfucker|jpg|Kill {{color|value|10}} [[Bulldozer (Payday 2)|Bulldozers]] using only the [[Thanatos .50 cal]] sniper rifle. Completing this achievement will unlock the CQB Barrel for the Thanatos .50 cal sniper rifle.}}
+{{Achievement|Return to Sender|jpg|Kill {{color|value|25}} [[Sniper (Payday 2)|Snipers]] using only the [[Rattlesnake]] sniper rifle. Completing this achievement will unlock the Tactical Aluminium Body for the Rattlesnake sniper rifle.}}
+{{Achievement|You Can’t Hide|jpg|Kill {{color|value|25}} [[Enemies (Payday 2)|enemies]] shooting through walls or objects using only the [[R93]] sniper rifle. Completing this achievement will unlock the Wooden Body for the R93 sniper rifle.}}
+{{Achievement|Double Kill|jpg|Kill {{color|value|2}} [[Enemies (Payday 2)|enemies]] with one bullet {{color|value|25}} times using only the [[Rattlesnake]] sniper rifle. Completing this achievement will unlock the Sniper Suppressor for the Rattlesnake sniper rifle.}}
+{{Achievement|Public Enemy No. 1|jpg|Kill {{color|value|250}} [[Enemies (Payday 2)|enemies]] using only the [[Rattlesnake]] sniper rifle. Completing this achievement will unlock the Long Barrel for the Rattlesnake sniper rifle.}}
+
+'''Achievable without owning DLC'''<br />
+''These can be achieved with any sniper rifle in the game, including the non-DLC [[Platypus 70]].''
+{{Achievement|Lord of the Flies|jpg|Perform {{color|value|50}} headshot kills using any [[Weapons (Payday 2)#Sniper Rifles|sniper rifle]]. Completing this achievement will unlock the “[[Masks (Payday 2)#Gage Sniper Pack DLC|Asilidae]]” mask, “[[Material#Gage Sniper Pack DLC|Carapace]]” material and “[[Patterns#Gage Sniper Pack DLC|Bugger]]” pattern.}}
+{{Achievement|Arachne’s Curse|jpg|Perform {{color|value|100}} headshot kills using any [[Weapons (Payday 2)#Sniper Rifles|sniper rifle]]. Completing this achievement will unlock the “[[Masks (Payday 2)#Gage Sniper Pack DLC|Tarantula]]” mask, “[[Material#Gage Sniper Pack DLC|Insectoid]]” material and “[[Patterns#Gage Sniper Pack DLC|Spider Eyes]]” pattern.}}
+{{Achievement|Pest Control|jpg|Perform {{color|value|250}} headshot kills using any [[Weapons (Payday 2)#Sniper Rifles|sniper rifle]]. Completing this achievement will unlock the “[[Masks (Payday 2)#Gage Sniper Pack DLC|Vespula]]” mask, “[[Material#Gage Sniper Pack DLC|Bug Shell]]” material and “[[Patterns#Gage Sniper Pack DLC|Venomous]]” pattern.}}
+{{Achievement|Seer of Death|jpg|Perform {{color|value|500}} headshot kills using any [[Weapons (Payday 2)#Sniper Rifles|sniper rifle]]. Completing this achievement will unlock the “[[Masks (Payday 2)#Gage Sniper Pack DLC|Sphodromantis]]” mask, “[[Material#Gage Sniper Pack DLC|Hard Shell]]” material and “[[Patterns#Gage Sniper Pack DLC|Wings of Death]]” pattern.}}
+{{Achievement|Triple Kill|jpg|Kill {{color|value|3}} [[Enemies (Payday 2)|enemies]] with one bullet using any [[Weapons (Payday 2)#Sniper Rifles|sniper rifle]]. Completing this achievement will unlock the [[Angled Sight|Angled sight]] for all sniper rifles.}}
+{{Achievement|Didn’t See That Coming Did You?|jpg|Kill {{color|value|10}} [[Enemies (Payday 2)|enemies]] using any [[Weapons (Payday 2)#Sniper Rifles|sniper rifle]] while zip lining. Completing this achievement will unlock the [[Theia Magnified Scope]] for sniper rifles.}}
+
+'''Celebration'''<br />
+''The following only require membership in the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].''
+{{Achievement|Build Me an Army Worthy of Crime.net|jpg|Equip the [[Golden AK.762]] rifle. Celebrating 500,000 heisters in the official community group, you can now unlock the Golden AK.762 rifle by simply joining the [http://steamcommunity.com/games/218620 PAYDAY 2 Official Group on Steam].}}
+{{Achievement|The Man With the Golden Gun|jpg|Kill 6 [[Bulldozer (Payday 2)#Skulldozer|Skulldozers]] using only the [[golden AK.762]] rifle.}}
+|-|Teasers=
+''The following appeared on April 30, 2014. They got their permanent name on May 4, 2014, before being fully replaced May 8, 2014''
+{{Teasers
+|If
+|you
+|don't
+|have
+|time
+|to
+|do
+|it
+|right,
+|will
+|you
+|have
+|time
+|to
+|do
+|it
+|again?
+}}
+|-|Tips=
+{{Achievement|Didn’t See That Coming Did You?|jpg|Kill {{color|value|10}} [[Enemies (Payday 2)|enemies]] using any [[Weapons (Payday 2)#Sniper Rifles|sniper rifle]] while zip lining. Completing this achievement will unlock the Theia Magnified Scope for sniper rifles.}}
+===Methods for completing the achievement===
+The easiest way to get the achievement is to modify a sniper rifle with a laser sight and play a heist with a zip line on normal difficulty with no companions, be they other players or AI. Several heists have a zip line added if the [[Assets#Vantage Point|Vantage Point]] asset is purchased.
+
+As you do not need to complete a contract for achievement progress to register, if you die during the heist you can simply restart it and carry on until you have the requisite 10 kills. Nonetheless it may be wise to carry a medical bag or ammo bag with you.
+
+====Bank Heist====
+This is probably the easiest heist on which to get this achievement (except for the White Xmas Heist)
+
+The vantage point asset gives a zip line from the roof of the bank to the higher roof of a building across the street, and a second zip line in the reverse direction. If you find shooting enemies in the street to be difficult, they will eventually climb up to the two roofs where they will be easier to kill as you approach them.
+
+Note that the zip line from the higher roof to the lower is considerably faster than the opposite direction, and will give little time to make shots.
+
+====Rats/Cook Off====
+The Vantage Point asset gives a zip line from the starting point to the roof of the meth house. Several Mendoza hostiles will spawn outside the building.
+
+To return to the ground, you can jump from the roof to the balcony on the opposite side of the zip line and from there either go down the stairs or jump to the adjacent shed roof and from there to the ground. You can also jump from the roof of the house directly to the shed roof on the same side of the building as the zip line, and then from there to the ground.
+
+====White Xmas====
+The [[White Xmas]] Heist contains many zip lines and lots of enemy will spawn, making it extremely convenient to grind for kills on zip lines in this heist. However, the zip-lines' high speed may require some practice to be accustomed to.
+
+{{Achievement|Last Action Villain|jpg|Perform a headshot kill on [[Enemies (Payday 2)|enemies]] using only the [[R93]] sniper rifle while zip lining. Completing this achievement will unlock the Compensated Suppressor for the R93 sniper rifle.}}
+One of the easiest ways to get the achievement is to modify an R93 with a laser sight and play Rats on normal with no companions, be they other players or AI.  Purchase the Vantage Point asset and you'll get a zipline leading up to the roof of the meth house.  Several Mendoza hostiles will spawn outside the building.  Properly specced, you can jump from the roof to the roof of the shed and then drop down to the ground if you miss on your first ride.  As you do not need to complete a contract for achievement progress to register, you can simply restart the mission until you have the achievement.
+
+Another very easy way to get this achievement is to use a laser sight and play Bank Heist. Purchase the Vantage Point asset and use the two-way zipline to move across the street while shooting at enemies below you. Alternatively, wait for an enemy to climb the ladder from the alleyway to the vantage point, and shoot at his head when you approach the vantage point on the zipline. It is easier to use the zipline that goes from the bank roof to the vantage point for this achievement as it travels much slower. If you fail to kill an enemy with the headshot, simply take the other zipline back to the bank roof and try again.
+
+{{Achievement|You Can’t Hide|jpg|Kill {{color|value|25}} [[Enemies (Payday 2)|enemies]] shooting through walls or objects using only the [[R93]] sniper rifle. Completing this achievement will unlock the Wooden Body for the R93 sniper rifle.}}
+One could take advantage of the cars seen in numerous heists, such as in [[Hoxton Breakout]] Day 1, as you can generally see through them but they are thin enough that snipers can punch right through them.
+
+Another method for the achievement would be to use the advantage point on [[Rats]] day 3, as the railings on the tower count as wall but can be shot through and seen through.
+
+Finally, one could mark special enemies or guards and then run around to the other side of the nearest, thinnest wall/object.
+|-|Trivia=
+* '''Lord of the Flies''' is a reference to the novel of the {{w|Lord of the Flies|same name}}.
+* '''Far, Far Away''' achievement is a reference to the 1939 movie ''{{w|The Wizard of Oz (1939 film)|The Wonderful Wizard of Oz}}''.
+* '''Last Action Villain''' is a reference to the 1993 film ''{{w|Last Action Hero}}''.
+* '''Dodge This''' is a line from ''{{w|The Matrix}}'', which Trinity says just before killing an agile opponent with a headshot, similar to the achievement but with a [[Thanatos .50 cal]].
+* '''Surprise Motherfucker''' is the catchphrase and one of the [https://www.youtube.com/watch?v=Fr2RqAd9GAM famous lines] of James Doakes, a character from the TV series ''{{w|Dexter (TV series)|Dexter}}''.
+* '''Build Me an Army Worthy of Crime.net''' is a reference to a quote in the film ''{{w|The Lord of the Rings (film series)|The Lord of the Rings}}''.
+* '''The Man with the Golden Gun''' is a reference to the {{w|James Bond}} {{w|The Man with the Golden Gun (novel)|novel}} and {{w|The Man with the Golden Gun (film)|film}} of the same name.
+** The number of [[Bulldozer (Payday 2)#Skulldozer|Skulldozer]] kills required for the achievement references the number of people killed by the user of the Golden Gun, Francisco Scaramanga, in the novel and the film: 6.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

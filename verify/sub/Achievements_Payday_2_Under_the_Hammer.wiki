@@ -1,0 +1,37 @@
+<tabber>Permanent Achievements=
+{{Achievement|Opening Bid|jpg|Complete the [[Under the Hammer]] job on the Normal difficulty or above.}}
+{{Achievement|Buy-In Price|jpg|Complete the [[Under the Hammer]] job on the Hard difficulty or above.}}
+{{Achievement|Inside Value|jpg|Complete the [[Under the Hammer]] job on the Very Hard difficulty or above.}}
+{{Achievement|Bookkeeping|jpg|Complete the [[Under the Hammer]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Collection, Collected|jpg|Complete the [[Under the Hammer]] job on the Mayhem difficulty or above.}}
+{{Achievement|Bidding War|jpg|Complete the [[Under the Hammer]] job on the Death Wish difficulty or above.}}
+{{Achievement|White Glove Sale|jpg|Complete the [[Under the Hammer]] job on the Death Sentence difficulty.}}
+{{Achievement|Going twice...|jpg|Complete the [[Under the Hammer]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Deal of The Day|jpg|In the [[Under the Hammer]] job, secure all additional auction items on OVERKILL difficulty or above.}}
+{{Achievement|Flash Auction|jpg|Complete the [[Under the Hammer]] job in stealth within {{color|value|6}} minutes without using any ECM jammers on the OVERKILL difficulty or above.}}
+{{Achievement|Curated Crew|jpg|Complete the [[Under the Hammer]] job without raising the alarm, killing or dominating anyone on the OVERKILL difficulty or above.}}
+{{Achievement|Doppelganger|jpg|In the [[Under the Hammer]] job, kill the auctioneer in loud while having The Tragedy or The Comedy mask and the [[Karussell]] Revolving Shotgun equipped.}}
+{{Achievement|BFD Junior|jpg|In the [[Under the Hammer]] job, don't let the cops stop the Apollonius Cutter on the OVERKILL difficulty or above. Unlocks the "Vintage Sight".}}
+{{Achievement|Sun Tan|jpg|Complete [[Under the Hammer]] job on the OVERKILL difficulty or above while Captain Winters is still present on the level.}}
+|-|Teasers=
+''The following appeared on September 11th, 2026, and were replaced on September 15th, 2026.''
+{{Teasers
+|An art magazine in a closed off room
+|Finds the missing link
+|A clue that eluded all
+|Something hidden near sand and sunshine
+|Between glass and wood
+|Waiting to be unearthed
+|Shows glimpses of a heist unknown
+|A thief's hidden fortune whole
+|Sent his family on a hunt
+|For treasure not even his own
+|Time goes on
+|Riches unclaimed
+|The family finds fortunes none
+|But then a new seeker joins in}}
+|-|Tips=
+
+|-|Trivia=
+</tabber><noinclude> </noinclude>
+[[Category:Support Pages]]

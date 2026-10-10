@@ -1,0 +1,463 @@
+{{TOC Right}}A '''''Material''''' is an item for customizing [[Masks (Payday 2)|masks]] in ''[[PAYDAY 2]]''. If a material is used on a mask, then it will be removed from the inventory unless it is unlocked by default, in which case it can be used any number of times. A material that is not unlocked by default can only be obtained from card drops. After installing [[PC update history (Payday 2)#Update .23178|Update #178]], players will receive 10 random materials when first launching the game.
+
+* {{Color|#0060ff|Blue}} items are unlocked by default.
+* {{Color|dlc|Yellow}} items are from a DLC.
+* {{Color|event|Orange}} items are from a special event.
+* {{Color|infamous|Fuchsia}} items are "Infamous" (rare) items.
+
+===Default===
+''Materials unlocked by default. They cannot be sold or unlocked via card drops.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+Plastic.png|{{color|#0060ff|Plastic White}}<br>Free
+Paint Stripper PD2.png|{{color|#0060ff|Paint Stripper}}<br>Free
+</gallery>
+
+===Normal===
+''Normal materials are unlocked via card drops.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+payday2 win32 release W128 H128 F894720068 T 0X5D7C49A2BF881E88.png|Alligator Skin<br>$148,000
+mat-aspen.png|Aspen<br>$33,000
+Bismuth.png|Bismuth<br>$58,000
+BloodRed.png|Blood Red<br>$214,000
+mat-bluewater.png|Blue Water<br>$86,000
+mat-candy.png|Candy<br>$116,000
+mat-CarbonFiber.png|Carbon Fiber<br>$148,000
+mat-chromeblue.png|Chrome Blue<br>$148,000
+mat-chromepurple.png|Chrome Purple<br>$116,000
+Clean Rock.png|Clean Rock<br>$33,000
+mat-concrete.png|Concrete<br>$33,000
+mat-crackled.png|Crackled<br>$33,000
+mat-crackled-stone.png|Crackled Stone<br>$58,000
+mat-denim.png|Denim<br>$33,000
+Finewood.png|Fine Wood<br>$214,000
+Flesh.png|Flesh<br>$148,000
+mat-glossy-gray.png|Glossy Grey<br>$116,000
+mat-hardrock.png|Hard Rock<br>$33,000
+mat-hot-cold.png|Hot and Cold<br>$116,000
+mat-inferno.png|Inferno<br>$148,000
+mat-leather.png|Leather<br>$148,000
+mat-matte-black.png|Matte Black<br>$249,000
+mat-mercury.png|Mercury<br>$58,000
+mat-metal.png|Metal<br>$148,000
+mat-oak.png|Oak<br>$86,000
+mat-orcish.png|Orcish<br>$116,000
+mat-oxide-bronze.png|Oxide Bronze<br>$86,000
+payday2 win32 release W128 H128 F894720068 T 0X6BD7E1B16C8CCED0.png|Pinecone<br>$58,000
+White Rock.png|White Rock<br>$58,000
+mat-wicker.png|Wicker<br>$58,000
+</gallery>
+{{Clr}}
+
+===Infamous===
+''Rare materials are unlocked via card drops. Infamous items have a {{color|value|0.7%}} base chance of dropping.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-slime.png|{{color|infamous|Slime}}<br>$165,000
+Rainbow.png|{{color|infamous|Rainbow}}<br>$290,000
+mat-bronze.png|{{color|infamous|Bronze}}<br>$580,000
+pat-titanium.png|{{color|infamous|Titanium}}<br>$580,000
+Snake scales.png|{{color|infamous|Snake Scales}}<br>$900,000
+mat-radioactive.png|{{color|infamous|Radioactive}}<br>$900,000
+pat-corroded-bronze.png|{{color|infamous|Corroded Bronze}}<br>$1,070,000
+mat-golden.png|{{color|infamous|Golden}}<br>$1,420,000
+mat-piano-black.png|{{color|infamous|Piano Black}}<br>$1,420,000
+</gallery>
+{{Clr}}
+
+===Infamy Reward===
+''These are rewards from the [[Infamy]] skill tree. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-alien-slime.png|{{color|infamous|Alien Slime}}<br>Free
+mat-arizona.png|{{color|infamous|Arizona}}<br>Free
+mat-baby.png|{{color|infamous|Baby}}<br>Free
+mat-eye.png|{{color|infamous|Eye}}<br>Free
+mat-hades.png|{{color|infamous|Hades}}<br>Free
+mat-haze.png|{{color|infamous|Haze}}<br>Free
+mat-plastic-hood.png|{{color|infamous|Plastic Hood}}<br>Free
+mat-punk.png|{{color|infamous|Punk}}<br>Free
+mat-sinister.png|{{color|infamous|Sinister}}<br>Free
+mat-dark-leather.png|{{color|infamous|Dark Leather}}<br>Free
+mat-electric.png|{{color|infamous|Electric}}<br>Free
+mat-copper.png|{{color|infamous|Copper}}<br>Free
+</gallery>
+{{Clr}}
+
+===Armored Transport DLC===
+''Requires the "[[Armored Transport (DLC)|Armored Transport]]" DLC. Once you have bought the DLC, you will unlock {{color|value|1}} of the four materials in your inventory and will now be able to obtain them via card drops.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+pat-money.png|{{color|dlc|Cash Money}}<br>$139,200
+pat-jade.png|{{color|dlc|Jade}}<br>$139,200
+pat-pearl.png|{{color|dlc|Pearl}}<br>$139,200
+pat-redwhiteblue.png|{{color|dlc|Red, White and Blue}}<br>$139,200
+</gallery>
+{{Clr}}
+
+===Gage Weapon Pack #01 DLC===
+''Requires the "[[Gage Weapon Pack 01|Gage Weapon Pack #01]]" DLC. Once you have brought the DLC, you will unlock {{color|value|1}} of the four materials in your inventory and will now be able to obtain them via card drops.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+Oilmetal.png|{{color|dlc|Oily Metal}}<br>$162,400
+Galvanized.png|{{color|dlc|Galvanized Steel}}<br>$162,400
+Fur_small.png|{{color|dlc|Fur}}<br>$162,400
+Heavymetal.png|{{color|dlc|Heavy Metal}}<br>$162,400
+</gallery>
+{{Clr}}
+
+===Gage Weapon Pack #02 DLC===
+''Requires the "[[Gage Weapon Pack 02|Gage Weapon Pack #02]]" DLC. Once you have brought the DLC, you will unlock {{color|value|1}} of the four materials in your inventory and will now be able to obtain them via card drops.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+gunmetal.png|{{color|dlc|Gun Metal}}<br>$208,800
+splinter.png|{{color|dlc|Splinter Camo}}<br>$208,800
+junglecamo.png|{{color|dlc|Jungle Camo}}<br>$208,800
+mud.png|{{color|dlc|Mud}}<br>$208,800
+</gallery>
+{{Clr}}
+
+===Poetry Jam DLC===
+''All these materials will be available for free for anyone who owns the [http://store.steampowered.com/app/254260/ PAYDAY 2 Official Soundtrack] on steam or pre-ordered the [[PAYDAY 2#Career Criminal Edition|Career Criminal Edition!]] These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-cosmoline.png|{{color|dlc|Cosmoline}}<br>Free
+mat-blackmetal.png|{{color|dlc|Black Metal}}<br>Free
+mat-circuitboard.png|{{color|dlc|Circuit Board}}<br>Free
+mat-nanoweave.png|{{color|dlc|Nanoweave}}<br>Free
+</gallery>
+{{Clr}}
+
+===Gage Sniper Pack DLC===
+''Requires the "[[Gage Sniper Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+insectoid.png|{{color|dlc|Insectoid}}<br>Unlocked through<br>Achievement
+bugshell.png|{{color|dlc|Bug Shell}}<br>Unlocked through<br>Achievement
+carapace.png|{{color|dlc|Carapace}}<br>Unlocked through<br>Achievement
+hardshell.png|{{color|dlc|Hard Shell}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Big Bank Heist DLC===
+''Requires the "[[Big Bank (DLC)|The Big Bank Heist]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-exhausted.png|{{color|dlc|Exhausted}}<br>Unlocked through<br>Achievement
+mat-parchment.png|{{color|dlc|Parchment}}<br>Unlocked through<br>Achievement
+mat-clay.png|{{color|dlc|Clay}}<br>Unlocked through<br>Achievement
+mat-gemstone.png|{{color|dlc|Gemstone}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Shotgun Pack DLC===
+''Requires the "[[Gage Shotgun Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+Banana Peel.png|{{color|dlc|Banana Peel}}<br>Unlocked through<br>Achievement
+Explosive.png|{{color|dlc|Explosive}}<br>Unlocked through<br>Achievement
+Leaf.png|{{color|dlc|Leaf}}<br>Unlocked through<br>Achievement
+Sparks.png|{{color|dlc|Sparks}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Assault Pack DLC===
+''Requires the "[[Gage Assault Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-bone.png|{{color|dlc|Bone}}<br>Unlocked through<br>Achievement
+mat-evil.png|{{color|dlc|Evil}}<br>Unlocked through<br>Achievement
+mat-frost.png|{{color|dlc|Frost}}<br>Unlocked through<br>Achievement
+mat-void.png|{{color|dlc|Void}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Hotline Miami DLC===
+''Requires the "[[Hotline Miami (DLC)|Hotline Miami]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-chromescape.png|{{color|dlc|Chromescape}}<br>Unlocked through<br>Achievement
+mat-error.png|{{color|dlc|Error}}<br>Unlocked through<br>Achievement
+mat-rubber.png|{{color|dlc|Rubber}}<br>Unlocked through<br>Achievement
+mat-sunset.png|{{color|dlc|Sunset}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Hotline Miami (Game)===
+''All these materials will be available for free for anyone who owns the game "[http://store.steampowered.com/app/219150/ Hotline Miami]". These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-cushion.png|{{color|white|Cushion}}<br>{{color|negative|Requires ownership of Hotline Miami on Steam.}}
+mat-hatred.png|{{color|white|Hatred}}<br>{{color|negative|Requires ownership of Hotline Miami on Steam.}}
+mat-neon.png|{{color|white|Neon}}<br>{{color|negative|Requires ownership of Hotline Miami on Steam.}}
+mat-rug.png|{{color|white|Rug}}<br>{{color|negative|Requires ownership of Hotline Miami on Steam.}}
+</gallery>
+{{Clr}}
+
+===Gage Historical Pack DLC===
+''Requires the "[[Gage Historical Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-armygreen.png|{{color|dlc|Army Green}}<br>Unlocked through<br>Achievement
+mat-gunsmoke.png|{{color|dlc|Gunsmoke}}<br>Unlocked through<br>Achievement
+mat-patriot.png|{{color|dlc|Patriot}}<br>Unlocked through<br>Achievement
+mat-redsun.png|{{color|dlc|Red Sun}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Diamond Heist DLC===
+''Requires the "[[The Diamond Heist (DLC)|The Diamond Heist]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-bandages.png|{{color|dlc|Bandages}}<br>Unlocked through<br>Achievement
+mat-diamond.png|{{color|dlc|Diamond}}<br>Unlocked through<br>Achievement
+mat-rust.png|{{color|dlc|Rust}}<br>Unlocked through<br>Achievement
+mat-sand.png|{{color|dlc|Sand}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Bomb Heists DLC===
+''Requires the "[[The Bomb Heists (DLC)|The Bomb Heists]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-rhino.png|{{color|dlc|Rhino}}<br>Unlocked through<br>Achievement
+mat-meat.png|{{color|dlc|Meat}}<br>Unlocked through<br>Achievement
+mat-plywood.png|{{color|dlc|Plywood}}<br>Unlocked through<br>Achievement
+mat-marblerock.png|{{color|dlc|Marble Rock}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Butcher's AK/CAR Mod Pack DLC===
+''Requires "[[The Butcher's AK/CAR Mod Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-prehistoric.png|{{color|dlc|Prehistoric}}<br>Unlocked through<br>Achievement
+mat-dawn.png|{{color|dlc|Dawn}}<br>Unlocked through<br>Achievement
+mat-fossil.png|{{color|dlc|Fossil}}<br>Unlocked through<br>Achievement
+mat-feathers.png|{{color|dlc|Feathers}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Butcher's BBQ Pack DLC===
+''Requires "[[The Butcher's BBQ Pack]]" DLC. These materials are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-candlelight.png|{{color|dlc|Candlelight}}<br>Unlocked through<br>Achievement
+mat-burn.png|{{color|dlc|Burn}}<br>Unlocked through<br>Achievement
+mat-coal.png|{{color|dlc|Coal}}<br>Unlocked through<br>Achievement
+mat-toast.png|{{color|dlc|Toast}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Butcher's Western Pack DLC===
+''Requires "[[The Butcher's Western Pack]]" DLC. These materials are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-westernsunset.png|{{color|dlc|Western Sunset}}<br>Unlocked through<br>Achievement
+mat-goldfever.png|{{color|dlc|Gold Fever}}<br>Unlocked through<br>Achievement
+mat-cactus.png|{{color|dlc|Cactus}}<br>Unlocked through<br>Achievement
+mat-scorpion.png|{{color|dlc|Scorpion}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+
+===The Alesso Heist DLC===
+''Requires "[[The Alesso Heist (DLC)|The Alesso Heist]]" DLC. These materials are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+Enlightment.png|{{color|dlc|Enlightenment}}<br>Unlocked through<br>Achievement
+Bionic.png|{{color|dlc|Bionic}}<br>Unlocked through<br>Achievement
+Stained glass.png|{{color|dlc|Stained Glass}}<br>Unlocked through<br>Achievement
+Dimblue.png|{{color|dlc|Dim Blue}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Golden Grin Casino Heist DLC===
+''Requires "[[The Golden Grin Casino Heist (DLC)|The Golden Grin Casino Heist]]" DLC. These materials are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-casino.png|{{color|dlc|Casino}}<br>Unlocked through<br>Achievement
+mat-plush.png|{{color|dlc|Plush}}<br>Unlocked through<br>Achievement
+mat-stars.png|{{color|dlc|Stars}}<br>Unlocked through<br>Achievement
+mat-carpet.png|{{color|dlc|Carpet}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Ninja Pack DLC===
+''Requires "[[Gage Ninja Pack]]" DLC. These materials are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+mat-origami.png|{{color|dlc|Origami}}<br>Unlocked through<br>Achievement
+mat-sakura.png|{{color|dlc|Sakura}}<br>Unlocked through<br>Achievement
+mat-stillwaters.png|{{color|dlc|Still Waters}}<br>Unlocked through<br>Achievement
+mat-bamboo.png|{{color|dlc|Bamboo}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Chivalry Pack DLC===
+''Requires the "[[Gage Chivalry Pack]]" DLC. These materials are an achievement reward. They can't drop during a PAYDAY and they can't be sold. Instead, they can be returned to your inventory stash for free, but any customization and the fee to put that together will be lost.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="portrait">
+mat-forged.png|{{color|dlc|Forged}}<br>Unlocked through<br>Achievement
+mat-scale-armor.png|{{color|dlc|Scale Armor}}<br>Unlocked through<br>Achievement
+mat-chain-armor.png|{{color|dlc|Chain Armor}}<br>Unlocked through<br>Achievement
+mat-bloodied.png|{{color|dlc|Bloodied}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===The Point Break Heists DLC===
+''Requires "[[The Point Break Heists (DLC)|The Point Break Heists]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+material-flow.png|{{color|dlc|Flow}}<br>Unlocked through<br>Achievement
+material-sancti.png|{{color|dlc|Sancti}}<br>Unlocked through<br>Achievement
+material-glade.png|{{color|dlc|Glade}}<br>Unlocked through<br>Achievement
+material-wade.png|{{color|dlc|Wade}}<br>Unlocked through<br>Achievement
+</gallery>
+
+===The Goat Simulator Heist DLC===
+''Requires "[[The Goat Simulator Heist (DLC)|The Goat Simulator Heist]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+material-goateye.png|{{color|dlc|Goat Eye}}<br>Unlocked through<br>Achievement
+material-hay.png|{{color|dlc|Hay}}<br>Unlocked through<br>Achievement
+material-flamingoeye.png|{{color|dlc|Flamingo Eye}}<br>Unlocked through<br>Achievement
+material-tongue.png|{{color|dlc|Tongue}}<br>Unlocked through<br>Achievement
+</gallery>
+
+===Wolf Pack DLC===
+<tabber>Materials=
+''Requires "[[Wolf Pack (Payday 2)|Wolf Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="portrait">
+mat-days.png|{{color|dlc|Days}}<br>Unlocked through<br>Achievement
+mat-houndstooth.png|{{color|dlc|Houndstooth}}<br>Unlocked through<br>Achievement
+mat-mushcloud.png|{{color|dlc|Mushroom Cloud}}<br>Unlocked through<br>Achievement
+mat-redblack.png|{{color|dlc|Red Black}}<br>Unlocked through<br>Achievement
+</gallery>
+|-|Trivia=
+*The '''Houndstooth''' material is based on a {{w|Houndstooth|textile pattern}}, the earliest known occurrence of which being a garment discovered in a Swedish bog.
+</tabber>
+
+===Hardcore Henry Heists===
+''You can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="portrait">
+mat-rusty.png|{{color|white|Rusty}}<br>Unlocked through<br>Achievement
+mat-spaceship.png|{{color|white|Spaceship}}<br>Unlocked through<br>Achievement
+mat-nebula.png|{{color|white|Nebula}}<br>Unlocked through<br>Achievement
+mat-planet.png|{{color|white|Planet}}<br>Unlocked through<br>Achievement
+</gallery>
+===The Biker Heist DLC===
+''Requires "[[The Biker Heist (DLC)|The Biker Heist]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+material-shinychrome.png|{{color|dlc|Shiny and Chrome}}<br>Unlocked through<br>Achievement
+material-hotrod.png|{{color|dlc|Hotrod}}<br>Unlocked through<br>Achievement
+material-devileye.png|{{color|dlc|Devil Eye}}<br>Unlocked through<br>Achievement
+material-chromey.png|{{color|dlc|Chromey}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+===John Wick Weapon Pack DLC===
+<tabber>Materials=
+''Requires "[[John Wick Weapon Pack]]" DLC. Once you have bought the DLC you can unlock these by completing certain achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+material-dogfur.png|{{color|dlc|Dog Fur}}<br>Unlocked through<br>Achievement
+material-clublights.png|{{color|dlc|Club Lights}}<br>Unlocked through<br>Achievement
+material-mist.png|{{color|dlc|Mist}}<br>Unlocked through<br>Achievement
+material-tire.png|{{color|dlc|Tire}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+|-|Trivia=
+*The '''Club Lights''' material was inspired by the color of the lighting during the Red Circle shootout.
+</tabber>
+===Gage Spec Ops Pack DLC===
+''Requires "[[Gage Spec Ops Pack]]" DLC. Once you have bought the DLC you can unlock these by completing Gage Spec Ops Missions. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+material-digitalcamo.png|{{color|dlc|Digital Camo}}<br>Unlocked through<br>Side Jobs
+material-midnightcamo.png|{{color|dlc|Midnight Camo}}<br>Unlocked through<br>Side Jobs
+material-deeparmygreen.png|{{color|dlc|Deep Army Green}}<br>Unlocked through<br>Side Jobs
+material-rangerblack.png|{{color|dlc|Ranger Black}}<br>Unlocked through<br>Side Jobs
+</gallery>
+{{Clr}}
+===Scarface Heist Pack DLC===
+''Requires "[[Scarface Heist (DLC)|Scarface Heist]]" DLC. Once you've bought the DLC you'll receive Golden Hour and can unlock the rest by completing achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+material-redvelvet.png|{{color|dlc|Red Velvet}}<br>Unlocked through<br>Achievement
+material-oxidizedcopper.png|{{color|dlc|Oxidized Copper}}<br>Unlocked through<br>Achievement
+material-blackmarble.png|{{color|dlc|Black Marble}}<br>Unlocked through<br>Achievement
+material-goldenhour.png|{{color|dlc|Golden Hour}}<br>Free
+</gallery>
+{{Clr}}
+
+===John Wick Heist Pack DLC===
+''Requires "[[John Wick Heists Pack]]" DLC. Once you have bought the DLC you can unlock these by completing achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+material-undergroundneon.png|{{color|dlc|Underground Neon}}<br>Unlocked through<br>Achievement
+material-carbonfiberweave.png|{{color|dlc|Carbon Fiber Weave}}<br>Unlocked through<br>Achievement
+material-blacksuede.png|{{color|dlc|Black Suede}}<br>Unlocked through<br>Achievement
+material-neonblue.png|{{color|dlc|Neon Blue}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Gage Russian Weapon Pack DLC===
+''Requires "[[Gage Russian Weapon Pack]]" DLC. Once you have bought the DLC you can unlock these by completing achievements. These materials cannot drop during a payday and are free to craft, therefore cannot be sold, they are returned to your stash instead.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+material-ceramicgzhel.png|{{color|dlc|Ceramic Gzhel}}<br>Unlocked through<br>Achievement
+material-propagandapallete.png|{{color|dlc|Propaganda Palette}}<br>Unlocked through<br>Achievement
+material-russiancamouflage.png|{{color|dlc|Russian Camouflage}}<br>Unlocked through<br>Achievement
+material-tricolor.png|{{color|dlc|Tricolor}}<br>Unlocked through<br>Achievement
+</gallery>
+{{Clr}}
+
+===Spring Break 2018 Day 5===
+''These materials are unlocked via card drops.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+Material-amethystpurple.png|{{Color|white|Amethyst Purple}}<br>Free
+Material-bermudablue.png|{{Color|white|Bermuda Blue}}<br>Free
+Material-clayorange.png|{{Color|white|Clay Orange}}<br>Free
+Material-deeppurple.png|{{Color|white|Deep Purple}}<br>Free
+Material-emeraldgreen.png|{{Color|white|Emerald Green}}<br>Free
+Material-grapepurple.png|{{Color|white|Grape Purple}}<br>Free
+Material-hazelnutyellow.png|{{Color|white|Hazelnut Yellow}}<br>Free
+Material-jadegreen.png|{{Color|white|Jade Green}}<br>Free
+Material-lavenderpurple.png|{{Color|white|Lavender Purple}}<br>Free
+Material-midnightblue.png|{{Color|white|Midnight Blue}}<br>Free
+Material-oceanbreezeteal.png|{{Color|white|Ocean Breeze Teal}}<br>Free
+Material-parmeseanyellow.png|{{Color|white|Parmesean Yellow}}<br>Free
+Material-pastelred.png|{{Color|white|Pastel Red}}<br>Free
+Material-paydayblue.png|{{Color|white|Payday Blue}}<br>Free
+Material-pigeonblue.png|{{Color|white|Pigeon Blue}}<br>Free
+Material-plasticblack.png|{{Color|white|Plastic Black}}<br>Free
+Material-plasticblue.png|{{Color|white|Plastic Blue}}<br>Free
+Material-plasticdarkgray.png|{{Color|white|Plastic Dark Gray}}<br>Free
+Material-plasticgreen.png|{{Color|white|Plastic Green}}<br>Free
+Material-plasticlightgray.png|{{Color|white|Plastic Light Gray}}<br>Free
+Material-plasticmagenta.png|{{Color|white|Plastic Magenta}}<br>Free
+Material-plasticpink.png|{{Color|white|Plastic Pink}}<br>Free
+Material-plasticpurple.png|{{Color|white|Plastic Purple}}<br>Free
+Material-plasticred.png|{{Color|white|Plastic Red}}<br>Free
+Material-plasticteal.png|{{Color|white|Plastic Teal}}<br>Free
+Material-plasticyellow.png|{{Color|white|Plastic Yellow}}<br>Free
+Material-prussianblue.png|{{Color|white|Prussian Blue}}<br>Free
+Material-rosewoodpink.png|{{Color|white|Rosewood Pink}}<br>Free
+Material-royalrubypurple.png|{{Color|white|Royal Ruby Purple}}<br>Free
+Material-sandstoneorange.png|{{Color|white|Sandstone Orange}}<br>Free
+Material-seateal.png|{{Color|white|Sea Teal}}<br>Free
+Material-winered.png|{{Color|white|Wine Red}}<br>Free
+</gallery>
+
+===Unreleased Materials===
+====Antisphere====
+<tabber>Materials=
+''Cannot currently be acquired ingame. Supposed to require the game Antisphere bought on Steam but ultimately scrapped / unreleased so far, due to unspecified reasons.''
+<gallery columns="dynamic" spacing="medium" captionalign="center" captionsize="large" hideaddbutton="true" widths="128" bordercolor="transparent" bordersize="none" orientation="square">
+Antisphere1.png|{{color|dlc|"Hexagon Panels"}}<br>Name obtained<br>from raw data
+Antisphere2.png|{{color|dlc|"Menu"}}<br>Name obtained<br>from raw data
+Antisphere3.png|{{color|dlc|"Arena Colors"}}<br>Name obtained<br>from raw data
+Antisphere4.png|{{color|dlc|"Brushed Metal"}}<br>Name obtained<br>from raw data
+</gallery>
+{{Clr}}
+|-|Trivia=
+*These four materials were added in the same update as the [[Masks (Payday 2)#Antisphere Collaboration|Antisphere]] masks that cannot be legitimately obtained by any means.
+</tabber>
+<br>
+{{Navbox PD2 Weapons}}
+[[Category:DLC (Payday 2)]]
+[[Category:Materials]]
+[[Category:Masks (Payday 2)]]
+[[Category:Armored Transport DLC]]
+[[Category:Gage Weapon Pack 01 DLC]]
+[[Category:Gage Weapon Pack 02 DLC]]
+[[Category:Gage Sniper Pack DLC]]
+[[Category:The Big Bank Heist DLC]]
+[[Category:Gage Shotgun Pack DLC]]
+[[Category:Gage Assault Pack DLC]]
+[[Category:Hotline Miami DLC]]
+[[Category:Gage Historical Pack DLC]]
+[[Category:The Diamond Heist DLC]]
+[[Category:The Bomb Heists DLC]]
+[[Category:The Butcher's AK/CAR Mod Pack DLC]]
+[[Category:The Butcher's BBQ Pack DLC]]
+[[Category:The Butcher's Western Pack DLC]]
+[[Category:The Alesso Heist DLC]]
+[[Category:The Golden Grin Casino Heist DLC]]
+[[Category:Gage Ninja Pack DLC]]
+[[Category:Gage Chivalry Pack DLC]]
+[[Category:The Point Break Heists DLC]]
+[[Category:The Goat Simulator Heist DLC]]
+[[Category:PAYDAY 2 Wolf Pack]]
+[[Category:Hardcore Henry Heists]]
+[[Category:Gage Russian Weapon Pack]]

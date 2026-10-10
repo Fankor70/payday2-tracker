@@ -1,0 +1,141 @@
+{{Game-Tabs|pdth=Heat Street|pd2=Heat Street (Payday 2)}}
+{{stub}}
+{{MultipleHeist2|Heat Street|Infobox Heist}}{{Quote|Stay off the streets|Poster tagline}}
+'''Heat Street''' is a remastered heist heavily based on the same heist from ''[[PAYDAY: The Heist]]'' introduced to ''[[PAYDAY 2]]'' on Day 2 of [[PAYDAY 2 Community Events#The Search for Kento|The Search for Kento event]]. The PAYDAY Gang are informed by [[Vernon Locke|Locke]] of an unknown organisation out to kill them. He has subsequently tracked down one of their accomplices. The Gang must make it through the police, SWAT, and anything else in the streets to apprehend them.
+
+==Overview==
+When the heist begins, various crew members can be heard and Bain realizes Matt is the agent [[Vernon Locke|Locke]] warned the crew about. He locks them inside the building and proceeds to flee. The players must chase him through the streets, following him while fighting against the police. Locke sends Eddie the driver for the gang, to pick up and continue chase. But before reaching meeting point we can see dramatic scene when he was shot down by police and crashed into park fence. When the players find Matt after, his vehicle is found crashed, though he has locked himself in the back. To remove him, the players must hold out against waves of police forces while using found gas canisters to set the vehicle on fire.
+
+When Matt finally exits the vehicle, he begs the crew to not kill him in exchange for information on Kento, and with too much enemy fire on them, they are forced to accompany him to their tertiary getaway, a helicopter.
+
+The crew accompanies Matt across the highway and has one final fire fight with the police, protecting the helicopter while they board it. After completing the heist, gaining a trophy displays him on the couch in Jacket's room, tied up and unable to move.
+
+==Objectives==
+*Chase down Matt! (Foreign Ave.)
+*Meet Eddie (Scarlet St.)
+*Continue chasing Matt (Major Ave.)
+*Reach the crash site (Easy St.)
+*Light the van on fire! (Inkwell Ind.)
+*Force Matt to the parking lot
+*Force Matt up the hill (Armitage Ave.)
+*Wait for the helicopter
+*Clear the zone of cops
+*(Optional) Move back down to the helicopter
+*Force Matt to the helicopter
+
+==Assets==
+===Purchasable===
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires the [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC to unlock}}
+===Intel===
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+{{Asset|RunLocation.png|Location}}
+
+==Walkthrough==
+With Matt, a former driver employed by [[Bain]], identified as the wanted informant tipped off by [[Vernon Locke|Locke]], the crew are once again locked inside a building with the traitorous Matt attempting to escape once more. A player must manually open the door and from there, the crew must pursue him. Two police cruisers will also chase Matt, but there is a chance they will stop right in front of the gang and attack players instead.
+
+Heading a bit further out from the direction Matt has taken, a police barricade has already been set up and the officers there will shoot at the crew. Locke notices their strong presence and dispatches Eddie to pick up the crew up ahead. However, Eddie is unable to avoid getting shot and crashes into a fire hydrant and adjacent fence. Players can open the truck of the car and pick up loose bundles of cash there if present, if they have luxury to do so. Due to the risk involved and the chance nothing can spawn inside, it may not be recommended to stop here as a police helicopter can drop off additional units at this very spot.
+
+Another police barricade has already been deployed up the street from Eddie's crashed vehicle. This time, there are more units on the scene thus, unless players can sprint fast enough, taking cover is advised until a sufficient amount of them are eliminated. As the crew gets closer, an ambulance can be observed racing to Matt's location, which makes Bain deduce Matt must had crashed as well.
+
+Following the ambulance, the crew are finally taken to Matt's crashed van in a small container field, but he has locked himself in and will not give himself up easily. The police force also has a similar idea, and can potentially deploy a SWAT Van turret on harder difficulties on the street near the crash site. Since the crew cannot wait, Bain suggests to find gas cans to torch the van and force Matt out. The amount can vary, from 2 to 4. While waiting, players should tie down the construction workers and paramedics at the area and find a safe spot to defend.
+
+Eventually, Matt gives up and crawls out of the van, begging the PAYDAY gang for mercy and promises to provide info on [[Jiro|Jiro's]] lost son, Kento. Given no other choice, the crew agrees and escort him to Jake's Parking, where it is a bit back to where players had chased him earlier. Matt must be shouted at to keep moving and demands protection, as enemies running to him will cause Matt to stop. If he does not move, players are required to either dominate or eliminate nearby police units to keep moving.
+
+At the parking lot, there is a chance for a SWAT Van turret to appear, thus forcing players to seek cover or destroy it. Luckily, Matt will keep moving regardless thus players can keep shouting at him while taking cover.
+
+In front of a gate, Locke radios in of an extraction plan. The Murkywater operative sends in Bile, the crew's pilot, to do this very task. Unfortunately, the current area is deemed "too hot" thus Matt must be escorted to higher ground.
+
+After getting through the alleyways, additional enemies are fought when approaching the bridge overpass. A turret may also spawn on the overpass, either in the middle or at the proposed extraction area on top. If Matt is escorted there, players are required to secure the area of hostiles before Bile can come in. After it is clear, a "point of no return" may be initiated and he must be shouted once more to finish the mission.
+
+==Strategy==
+*Players may need to bring heavy arsenal to deal with the SWAT Van Turrets. If not possible, try to have a player distract it while leading Matt around in the heist.
+*Due to the numerous amounts of [[civilians]] present, it is advised to avoid spraying bullets as they can run into the line of fire and get killed. Acing the [[Sixth Sense]] skill will reduce the cleaner costs associated with it. It may be recommended to obtain [[Stockholm Syndrome]] and tie them down.
+*At the start of the heist, the best strategy on difficulties below Mayhem is to simply run as fast as possible to the location of where Matt crashed his Van, ignoring the SWAT and police officers trying to kill you, rather than be slower and take out enemies while making your way over to the crash site.
+**If you wear heavier armours, it would be advisable to do short bursts of running, and take cover to regain stamina.
+
+==Variations==
+*Upon leaving the building, the police cars pursuing Matt's van may stop pursuit just before the alleyway. Four police officers will leave their cars and attack the crew.
+*The amount of gas cans needed to burn Matt out of the crashed van varies. Players may need either 2, 3 or 4 gas cans.
+*Sometimes during extraction, Bile may declare the extraction zone too dangerous and move to a different position at the foot of the hill. Players are then required to clear out that area as well before extraction can occur.
+*The location(s) and the amount of the SWAT Van Turrets can vary. Very Hard will have 1 van. Overkill can have 1 or 2. Mayhem and above always has 2. They can spawn either near Matt's crashed van, the parking lot where players must lead Matt to, or in the bridge overpass.
+*There is a 25% chance for several money bundles to appear in Eddie's trunk.
+
+==Differences from PAYDAY: The Heist==
+*Instead of pursuing Matt for a briefcase, he is targeted by the PAYDAY crew after a tip-off by Locke. Instead of offering the briefcase, he will exchange information on Kento for his life.
+*Locke dispatches Eddie, instead of Bruce, in an attempt to pick up the crew. Regardless, he meets the same fate and crashes.
+*There are various new shortcuts and pathways to get around the map or to take cover in.
+*The garage opening that originally served as a spawn point for the police force is now closed.
+*As an alternative to smoking Matt out with the fire, players can simply wait 30 minutes for him to suffocate and come out himself. Doing so will earn players an achievement.
+*[[SWAT Van Turret]]s will be dispatched on Very Hard and upwards.
+*Bile is sent in to provide aerial extraction instead of Alex.
+
+==Mayhem+ Changes==
+*The point of no return timer is reduced to 15 seconds.
+
+==[[FBI Files|The FBI Files]]==
+The Payday Gang was sighted in a violent running gun battle through the streets of New York. It seems they were chasing someone up several streets and then escaped via helicopter.
+
+{{Color|Value| '''My Notes:''' The Payday Gang in New York again? It seems they were looking for someone special here. And were ready to fight an open street battle in Manhattan to get at that someone. Could this have a connection to the firefight in Brooklyn earlier this year?}}
+
+==[[Achievements (Payday 2)#The Search for Kento|Achievements]] & [[Safehouse#Trophies|Trophies]]==
+<tabber>Achievements=
+{{Achievement|The Heat's Around the Corner|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Normal difficulty or above.}}
+{{Achievement|Hard Street|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Hard difficulty or above.}}
+{{Achievement|Washington City Marathon|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Very Hard difficulty or above.}}
+{{Achievement|Ghetto Bonfire|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Overkill difficulty or above.}}
+{{Achievement|We Don't Need No Water|png|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Mayhem difficulty or above.}}
+{{Achievement|Running the Gauntlet|png|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Death Wish difficulty or above.}}
+{{Achievement|Sticky Asphalt|jpg|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Death Sentence difficulty.}}
+{{Achievement|Hills Street Blues|png|Complete the [[Heat Street (Payday 2)|Heat Street]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Its Nice To Be Nice|png|Complete the [[Heat Street (Payday 2)|Heat Street]] job without killing any [[civilian]]s. on the Hard difficulty or above.}}
+{{Achievement|Patience Is Key|png|Complete the [[Heat Street (Payday 2)|Heat Street]] job without using any gas cans.}}
+{{Achievement|Zookeeper|png|On the [[Heat Street (Payday 2)|Heat Street]] job, find and steal all animal posters and escape.}}
+|-|Teasers=
+''The following got added on April 3, 2017. They were replaced on April 4, 2017.''
+{{Teasers|
+Speed|
+Is|
+The|
+Essence|
+Of|
+War|
+}}
+|-|Trivia=
+*'''Speed Is The Essence Of War''' is quote by {{W|Sun Tzu}}.
+|-|Trophies=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-NotSoFast.png|{{Mask tooltip|Not So Fast|color=legendary|Trophy-NotSoFast.png|{{Quote|You don't have to be the fastest runner to win the race. Not if you're willing to shoot the other guy in the kneecaps.|Trophy description}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Find the hidden tortoise in the [[Heat Street (Payday 2)|Heat Street]] heist.|{{color|legendary|'''PLACEMENT:'''}}<br>Jiro's Lounge.}}
+</gallery>
+</tabber>
+
+==Trivia==
+*Despite being a Classic heist, the new version of Heat Street is technically given by [[Vernon Locke]], who also serves as the mission co-ordinator alongside Bain. This makes it the first Classic heist not contracted by Bain, even if it's still listed as such.
+*Comments by Bain make it clear that this version of Heat Street is independent, and exists alongside the original version in ''PAYDAY: The Heist''. This makes Heat Street the first Classic heist to officially happen twice, albeit for different reasons.
+**Matt Roscoe appears to have been pardoned, or was released after serving his sentence.
+*This is the second heist after Hoxton Breakout where you can reach snipers in melee range.
+*After getting Matt out of the van the phone at the opposite side of the street will ring and can be answered.
+*The vocal intro to this heist can feature up to three different heisters, and can include newer members in addition to the classic four, though similar to the case of [[Hoxton Breakout]], the heisters heard in the intro may not appear in the mission proper. The variations for this are as follows:
+**Dallas, Hoxton and Chains
+**Jimmy, Bodhi and Jiro
+**Bodhi, Jimmy and Clover
+**Jiro, Chains and Wolf
+**Jacket, Clover and Sydney
+**Wolf, Chains and Dallas
+*Heat Street takes place after [[Brooklyn 10-10]], according to the FBI Files, and [[Hoxton Breakout]] as Matt was still incarcerated at that time. 
+*Similar to the other classic heists, the police cars are reused from the first game.
+*The Ambulance that races to the crash has no driver inside, and unlike police cars, the lights do not work. It also has no city name, only "district force."
+
+==Videos==
+<gallery position="center" widths="300">
+The Search For Kento Snapshot – Level Design
+PAYDAY 2 Heat Street Trailer
+</gallery>
+
+{{Navbox PD2 Heists}}
+[[ru:Схватка на улице]]
+[[Category:Classic heists]]
+[[Category:Loud-Only Heists]]
+[[Category:PAYDAY 2 heists]]

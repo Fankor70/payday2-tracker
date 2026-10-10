@@ -1,0 +1,23 @@
+<tabber>Permanent Achievements=
+{{Achievement|How the Fuck Can You Grin?|jpg|Complete the [[Golden Grin Casino]] heist on the Death Wish difficulty or above.}}
+{{Achievement|Blind Eye in the Sky|jpg|Complete the [[Golden Grin Casino]] heist in stealth. Unlocks the "[[Masks (Payday 2)#The Golden Grin Casino Heist DLC|Wheeler Dealer]]" mask, "[[Materials#The_Golden_Grin_Casino_Heist_DLC|Stars]]" material and "[[Patterns#The_Golden_Grin_Casino_Heist_DLC|Chips]]" pattern.}}
+{{Achievement|City of Sin and Well-Oiled Gears|jpg|Complete the [[Golden Grin Casino]] heist without having the Big Fucking Drill ever break in loud. Unlocks the "[[Masks (Payday 2)#The Golden Grin Casino Heist DLC|Murmillo Galea Helmet]]" mask, "[[Materials#The_Golden_Grin_Casino_Heist_DLC|Casino]]" material and "[[Patterns#The_Golden_Grin_Casino_Heist_DLC|Royale]]" pattern.}}
+{{Achievement|High Roller|jpg|Complete the [[Golden Grin Casino]] heist under 14 minutes. Unlocks "[[Masks (Payday 2)#The Golden Grin Casino Heist DLC|The King]]" mask, "[[Materials#The_Golden_Grin_Casino_Heist_DLC|Plush]]" material and "[[Patterns#The_Golden_Grin_Casino_Heist_DLC|Cards]]" pattern.}}
+{{Achievement|Hail to the King, Baby|jpg|In the [[Golden Grin Casino]] heist, kill "The King" and complete the heist in stealth. Unlocks the "[[Masks (Payday 2)#The Golden Grin Casino Heist DLC|Sports Utility Mask]]" mask, "[[Materials#The_Golden_Grin_Casino_Heist_DLC|Carpet]]" material and "[[Patterns#The_Golden_Grin_Casino_Heist_DLC|Dices]]" pattern.}}
+|-|Teasers=
+''The following appeared on June 22, 2015. They were replaced on June 25, 2015.''
+{{Teasers
+|Luck Is
+|What Happens
+|When Preparation
+|Meets
+|Opportunity
+}}
+|-|Trivia=
+*The teasers is a quote from [[The Dentist]] during [[pre-planning]], also referencing that he first offered preplanning first in his heists.
+* '''How The Fuck Can You Grin?''' is a [https://www.youtube.com/watch?v=T84RXHhL7sc quote] from the film ''[[wikipedia:Casino (film)|Casino]]''.
+* The name of the mask and material unlocked with the '''City of Sin and Well-Oiled Gears''' achievement is most likely a reference to the 2006 James Bond film, ''[[wikipedia:Casino Royale (2006 film)|Casino Royale]]''.
+* A '''[[wikipedia:High roller|High Roller]]''' is a gambler who wagers large amounts of money.
+* '''Hail to the King, Baby''' is a [https://www.youtube.com/watch?v=SAqq11HYMsk quote] from the film ''[[wikipedia:Army of Darkness|Army of Darkness]]'', which would go on to be quoted by [[wikipedia:Duke Nukem (character)|Duke Nukem]].
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

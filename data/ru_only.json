@@ -1,0 +1,440 @@
+[
+ {
+  "ru_name": "Completely OVERKILL (PS3), Kingpin (PS4)",
+  "en_name": null,
+  "ru_desc": "Завершите все! OVERKILL поздравляет вас!",
+  "ru_source": "__master__"
+ },
+ {
+  "ru_name": "Наслаждение преступлением",
+  "en_name": "Indulge in Crime",
+  "ru_desc": "Достигните 50 ранга в Серии преступлений.",
+  "ru_source": "__master__"
+ },
+ {
+  "ru_name": "Наслаждение преступной деятельностью",
+  "en_name": "Revel in Criminal Activity",
+  "ru_desc": "Достигните 100 ранга в Серии преступлений.",
+  "ru_source": "__master__"
+ },
+ {
+  "ru_name": "Большое количество преступлений",
+  "en_name": "A Vast Amount of Unlawful Transgressions",
+  "ru_desc": "Достигните 250 ранга в Серии преступлений.",
+  "ru_source": "__master__"
+ },
+ {
+  "ru_name": "Специально для вас, легенды",
+  "en_name": "For all you legends",
+  "ru_desc": "Все грабители должны убить 5.000.000 противников, используя оружие ближнего боя «Комически-огромная ложка» (грабитель должен убить не менее 100 противников, чтобы добавить свой вклад в прогресс достижения). Открывает оружие ближнего боя «Комически-огромная ложка из золота».",
+  "ru_source": "__master__"
+ },
+ {
+  "ru_name": "There is no achivement here",
+  "en_name": null,
+  "ru_desc": "There is no achivement here",
+  "ru_source": "__master__"
+ },
+ {
+  "ru_name": "Гудящая бомба",
+  "en_name": "Buzzbomb",
+  "ru_desc": "Надев костюм «Кабельщик», убейте 200 врагов с помощью электрического оружия ближнего боя на уровне сложности «OVERKILL» или выше. Разблокирует метательную гранату «X1-ZAPper».",
+  "ru_source": "__master__"
+ },
+ {
+  "ru_name": "my heister sense is tigling",
+  "en_name": null,
+  "ru_desc": "my heister sense is tigling",
+  "ru_source": "__master__"
+ },
+ {
+  "ru_name": "Но и это ещё не все!",
+  "en_name": "But Wait — There's More!",
+  "ru_desc": "Выполняя любое ограбление транспорта, найдите чертежи для ограбления поезда.",
+  "ru_source": "ArmoredTransport"
+ },
+ {
+  "ru_name": "Как грёбаный спутник!",
+  "en_name": "Like a F**king Sputnik!",
+  "ru_desc": "Завершите все контракты Влада на уровне сложности «Жажда смерти» или выше.",
+  "ru_source": "Deathwish"
+ },
+ {
+  "ru_name": "Вернуть отправителю",
+  "en_name": "A Taste of Their Own Medicine",
+  "ru_desc": "Убейте 25 снайперов с помощью снайперской винтовки Rattlesnake. Выполнение достижения открывает форму из алюминия для винтовки Rattlesnake.",
+  "ru_source": "Gage Sniper Pack"
+ },
+ {
+  "ru_name": "БЭЭээ…*БУМ*…эээххХХ!",
+  "en_name": "BAAaa…*BANG*…aaAAH",
+  "ru_desc": "Во время выполнения контракта «Симулятор козы», подбросьте в воздух козу, убейте противника и поймайте её до приземления. Выполнение достижения открывает маску «Коза манипулятор», материал «Сено» и рисунок «Козья морда».",
+  "ru_source": "Goat Simulator"
+ },
+ {
+  "ru_name": "И ты ещё ухмыляешься?",
+  "en_name": "How the F**k Can You Grin?",
+  "ru_desc": "Завершите контракт «Казино Golden Grin» на уровне сложности «Жажда смерти» или выше.",
+  "ru_source": "Golden Grin Casino"
+ },
+ {
+  "ru_name": "{{winky}}",
+  "en_name": null,
+  "ru_desc": "Завершите контракт «Снежное Рождество» на уровне сложности «Смертный приговор» с включенным модификатором одного падения.",
+  "ru_source": "HHPDay1"
+ },
+ {
+  "ru_name": "Чертовски, мать твою, опасный",
+  "en_name": "Highly Mother-F**king-Dangerous",
+  "ru_desc": "Завершите контракт «Ограбление байкеров» на уровне сложности «Смертный приговор» с включенным модификатором одного падения.",
+  "ru_source": "HHPDay1"
+ },
+ {
+  "ru_name": "Чем хороша война?",
+  "en_name": "What Is It Good For?",
+  "ru_desc": "Завершите контракт «Точка кипения» на уровне сложности «Смертный приговор» с включенным модификатором одного падения.",
+  "ru_source": "HHPDay1"
+ },
+ {
+  "ru_name": "What's over the next hill?",
+  "en_name": null,
+  "ru_desc": "What's over the next hill?",
+  "ru_source": "HHPDay1"
+ },
+ {
+  "ru_name": "Maybe H.Ill",
+  "en_name": null,
+  "ru_desc": "Maybe H.Ill",
+  "ru_source": "HHPDay1"
+ },
+ {
+  "ru_name": "Когда ты в России… Веди себя как русский",
+  "en_name": "When in Russia… Do as the Russians Do",
+  "ru_desc": "Завершите контракт «Точка кипения» так, чтобы все члены вашей команды, включая вас, экипировали маску «Русская шапка» и штурмовую винтовку «Золотой AK.762» на уровне сложности «OVERKILL» или выше.",
+  "ru_source": "Hardcore Henry"
+ },
+ {
+  "ru_name": "К чёрту всё это, мы пойдём пешком",
+  "en_name": "F**k It, We're Walking",
+  "ru_desc": "Завершите контракт «Алессо» на уровне сложности «OVERKILL» или выше по-громкому, не используя зиплайны и лифты для переноски сумок. Выполнение достижения открывает маску «Девушка-фанат», материал «Цветное стекло» и рисунок «Звуковая волна».",
+  "ru_source": "The Alesso Heist"
+ },
+ {
+  "ru_name": "1… 2… 3… ПРЫГАЙ!",
+  "en_name": "1… 2… 3… JUMP!",
+  "ru_desc": "Выполняя контракт «Рождение небес» на уровне сложности «OVERKILL» или выше, сделайте так, чтобы все члены команды совершили прыжок с парашютом не более чем за 1 минуту и 23 секунды. Выполнение достижения открывает маску «Мауи», материал «Брод» и рисунок «Декоративная корона».",
+  "ru_source": "The Point Break Heists"
+ },
+ {
+  "ru_name": "El desarrolladoe pregunta",
+  "en_name": null,
+  "ru_desc": "El desarrolladoe pregunta",
+  "ru_source": "Buluc's Mansion Heist"
+ },
+ {
+  "ru_name": "par qué está buscando aquí,",
+  "en_name": null,
+  "ru_desc": "par qué está buscando aquí,",
+  "ru_source": "Buluc's Mansion Heist"
+ },
+ {
+  "ru_name": "los nomres graciosos.",
+  "en_name": null,
+  "ru_desc": "los nomres graciosos.",
+  "ru_source": "Buluc's Mansion Heist"
+ },
+ {
+  "ru_name": "Катись колбаской отсюда",
+  "en_name": "Make Like a Tree…and Get Out of Here",
+  "ru_desc": "Завершите ограбление «Бомба: Лес» на уровне сложности «Смертный приговор».",
+  "ru_source": "DeathSentence"
+ },
+ {
+  "ru_name": "bank branch,",
+  "en_name": null,
+  "ru_desc": "bank branch,",
+  "ru_source": "DeathSentence"
+ },
+ {
+  "ru_name": "«the taking",
+  "en_name": null,
+  "ru_desc": "«the taking",
+  "ru_source": "DeathSentence"
+ },
+ {
+  "ru_name": "«unlawful entry",
+  "en_name": null,
+  "ru_desc": "«unlawful entry",
+  "ru_source": "DeathSentence"
+ },
+ {
+  "ru_name": "Не дай им намокнуть",
+  "en_name": "Don't Let Them Get Wet",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Загрузка катера».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Как много спасённых жизней",
+  "en_name": "How Many Life Preservers",
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Загрузка катера».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Другой вид обмена в доках",
+  "en_name": "A Different Kind of Exchange in the Docks",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Загрузка катера».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Ожидая лодку побольше",
+  "en_name": "Wait for a Bigger Boat",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Загрузка катера».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Спрячь их в хранилище",
+  "en_name": "Hide Them in the Vault",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Первый Всемирный Банк».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Привяжи их к стульям",
+  "en_name": "Tie Them to the Chairs",
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Первый Всемирный Банк».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Ты бы предпочёл ограбить это место?",
+  "en_name": "Would you Rather Be Robbing the Place?",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Первый Всемирный Банк».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Иной уровень заработка",
+  "en_name": "A Different Level of Scoring",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Первый Всемирный Банк».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Может эта статуя стоит больше…",
+  "en_name": "Maybe that Statue is Worth More",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Бриллиант».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Здесь нет грабителей. Только мы, динозавры (ориг. No Heisters Here, Just Us Dinosaurs",
+  "en_name": null,
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Бриллиант».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Этому заложнику место в музее",
+  "en_name": "This Hostage Belongs in a Museum",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Бриллиант».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Достойно для постоянной экспозиции",
+  "en_name": "Worthy of Permanent Display",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Бриллиант».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Противостояние под солнцем",
+  "en_name": "Holdout in the Sun",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Схватка на улице».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Отличный день для защиты заложника",
+  "en_name": "A Nice Day for a Hostage Situation",
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Схватка на улице».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Посадите их на обочину",
+  "en_name": "Sit Them Down on the Curb",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Схватка на улице».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Деньги на асфальте",
+  "en_name": "Money on the Asphalt",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Схватка на улице».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "3 вишенки на автомате",
+  "en_name": "Three Cherries on the Slot Machine",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Казино Golden Grin».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Ужин, шоу и немного блэкджека",
+  "en_name": "Dinner, a Show and Some Blackjack",
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Казино Golden Grin».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Не забудь позвать человека дождя",
+  "en_name": "Don't Forget to Bring Rain Man",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Казино Golden Grin».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Генеральная уборка",
+  "en_name": "Cleaning out the House",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Казино Golden Grin».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Взлом банкомата",
+  "en_name": "Break the ATM",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Большой банк».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Захват кассира",
+  "en_name": "Teller Hold",
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Большой банк».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Ценные бумаги",
+  "en_name": "Higher Stock Values",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Большой банк».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Менеджер банка должен чего-то стоить",
+  "en_name": "The Bank Manager Must Be Worth Something",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Большой банк».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Распродажа спорт товаров",
+  "en_name": "A Sale in Sporting Goods",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Крушитель».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Брось копа в фонтан",
+  "en_name": "Throw a Cop in the Fountain",
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Крушитель».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Давайте обменяемся на фудкорте",
+  "en_name": "Let's Trade in the Food Court",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Крушитель».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Халфофиус, Бог торговых центров",
+  "en_name": "Halfoffius, God of the Mall",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Крушитель».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Сыграй это снова, Хокс",
+  "en_name": "Play It Again, Hox",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Алессо».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Просто очередное представление",
+  "en_name": "Just Another Floorshow",
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Алессо».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Громче, чем бумбокс",
+  "en_name": "Louder than a Boom Box",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Алессо».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Отлично настроенный грабитель",
+  "en_name": "Finely Tuned Heister",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Алессо».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Шляпа мариарчи",
+  "en_name": "The Hat of a Mariachi",
+  "ru_desc": "Начиная с первой волны, продержитесь три волны в режиме «противостояние» на контракте «Банк San Martín».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Скорпионы и переговорщики",
+  "en_name": "Scorpions and Negotiators",
+  "ru_desc": "Начиная с первой волны, продержитесь пять волн в режиме «противостояние» на контракте «Банк San Martín».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Поединок с семью мексиканцами",
+  "en_name": "Seven Mexican Standoffs",
+  "ru_desc": "Начиная с первой волны, продержитесь семь волн в режиме «противостояние» на контракте «Банк San Martín».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Федералес в бегах",
+  "en_name": "Federales on the Run",
+  "ru_desc": "Начиная с первой волны, продержитесь девять волн в режиме «противостояние» на контракте «Банк San Martín».",
+  "ru_source": "Holdout"
+ },
+ {
+  "ru_name": "Извините, в моей свинье пуля…",
+  "en_name": "Excuse me, There’s a Bullet in My Pork…",
+  "ru_desc": "Завершите все контракты Мясника на уровне сложности «Очень сложно» или выше.",
+  "ru_source": "LnLDay3"
+ },
+ {
+  "ru_name": "Все, что меня волнует… мой снежок",
+  "en_name": "The Only Care I Have… is my Yayo",
+  "ru_desc": "Завершите контракт «Особняк Лица со шрамом» на уровне сложности «Очень сложно» или выше.",
+  "ru_source": "LnLDay3"
+ },
+ {
+  "ru_name": "Успокойся и продолжай… Стрелять",
+  "en_name": "Keep Calm and Carry on… Shooting",
+  "ru_desc": "Завершите контракт «Комната паники» на уровне сложности «Нормально» или выше.",
+  "ru_source": "LnLDay3"
+ },
+ {
+  "ru_name": "Добавил «С» к слову Котобойня",
+  "en_name": "Puts the «S» in Laughterhouse.",
+  "ru_desc": "Завершите контракт «Скотобойня» на уровне сложности «OVERKILL» или выше.",
+  "ru_source": "LnLDay3"
+ },
+ {
+  "ru_name": "<nowiki>*Клик*</nowiki>",
+  "en_name": "<nowiki>*Click*</nowiki>",
+  "ru_desc": "Завершите контракт «Горячая линия Майами» на уровне сложности «Нормально» или выше.",
+  "ru_source": "LnLDay3"
+ },
+ {
+  "ru_name": "1-800-КОМИССАР",
+  "en_name": null,
+  "ru_desc": "Завершите контракт «Горячая линия Майами» на уровне сложности «OVERKILL» или выше.",
+  "ru_source": "LnLDay3"
+ },
+ {
+  "ru_name": "Добыча отмечена крестом",
+  "en_name": "When «X» Marks the Spot",
+  "ru_desc": "Завершите контракт «Транспорт: перекресток» на уровне сложности «Нормально» или выше.",
+  "ru_source": "LnLDay3"
+ },
+ {
+  "ru_name": "…или это был синий провод?",
+  "en_name": "…or was it the blue one?",
+  "ru_desc": "Выполняя контракт «Нет милосердию», перережьте верный провод, отвечающий за систему безопасности дверей палат в реанимации.",
+  "ru_source": "No Mercy"
+ },
+ {
+  "ru_name": "…или это был синий провод?",
+  "en_name": "…or was it the blue one?",
+  "ru_desc": "Выполняя контракт «Нет милосердию», перережьте верный провод, отвечающий за систему безопасности дверей палат в реанимации.",
+  "ru_source": "No Mercy"
+ }
+]

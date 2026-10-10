@@ -1,0 +1,51 @@
+покрыто шаблонами: 122 | вручную: 49 | None: 0
+=== ВРУЧНУЮ ===
+Return to Sender	Kill 25 Snipers using only the Rattlesnake sniper rifle. Unlocks the "Tactical Aluminium Body" for the Rattlesnake sniper rifle.
+Indulge in Crime	Reach rank 50 in the Crime Spree.
+Fuck It, We're Walking	In The Alesso Heist, complete the heist in loud without using the zip-line or bag chutes on the OVERKILL difficulty or above. Unlocks the "Female Concert Goer" mask, "Stained Glass" material and "Soundwave" pattern.
+Revel in Criminal Activity	Reach rank 100 in the Crime Spree.
+When in Russia... Do as the Russians Do	Complete the Boiling Point job while having your crew wear the "Russian Hat" mask and "Golden AK.762" assault rifle on the OVERKILL difficulty or above.
+Highly Mother-Fucking-Dangerous	Complete The Biker Heist on the Death Sentence difficulty with the One Down mechanic activated.
+A Vast Amount of Unlawful Transgressions	Reach rank 250 in the Crime Spree. Unlocks the "Mega Rust" mask.
+All The Noise and The Hurry	Complete the Transport: Downtown job on the Death Sentence difficulty.
+Make Like a Tree...and Get Out of Here	Complete The Bomb: Forest job on the Death Sentence difficulty.
+Gift Giver	Get 75 kills with any non-explosive throwable weapon. Unlocks the "Bulbous Bauble" Weapon Charm.
+For all you legends	As a community, all heisters have to kill 5.000.000 enemies using the Comically Large Spoon melee weapon while also having contributed 100 kills to the total. Unlocks the "Comically Large Spoon of Gold" melee weapon.
+This Hostage Belongs in a Museum	Having started from wave 1, beat wave 7of Holdout on The Diamond heist.
+Dockland Raider	Complete the Ukrainian Prisoner job on the Death Sentence difficulty.
+Buzzbomb	While wearing the "Cable Guy" outfit, kill 200 enemies using electric melee weapons on the OVERKILL difficulty or above. Unlocks the "X1-ZAPper" Throwable Grenade.
+Sink the Titanic	Complete the Black Cat job on the Death Sentence difficulty.
+CAR vs. Car	Destroy a SWAT van turret using only the CAR-4 rifle. Unlocks the "Longbore" Exclusive Weapon Set for the CAR-4 rifle.
+Plague Doctor	Kill 200 enemies using poison on the OVERKILL difficulty or above, while wearing the Scrubs outfit. Unlocks the "Viper Grenade" throwable.
+Cloaker Charmer	Complete the Prison Nightmare job on the Very Hard difficulty or above, while wearing "PNV BriteNite" mask and kill at least one Cloaker. Unlocks the "Cloaker Mascot" Weapon Charm.
+Overstayed Your Welcome	Complete the Mountain Master job on the Death Sentence difficulty.
+Secret Sea Safecracker	In the Black Cat job on the OVERKILL difficulty or above, find and open Xun Kang's secret safe.
+The Magnificent Four	Complete the Midland Ranch job on the Death Sentence difficulty.
+Snake Charmer	Kill 100 enemies with the Viper Grenade throwable on Overkill difficulty or above. Unlocks the "Tombstone Slug" for shotguns.
+Swimming Cat, Silent Burglar	In the Black Cat job on the OVERKILL difficulty or above, complete the heist in stealth while you and your crew used only melee weapons.
+Master of Floatation	In the Black Cat job on the Mayhem difficulty or above, throw 8 body bags overboard and complete the heist in stealth without having killed any civilians.
+One Claw Beam Cutter	In the Black Cat job on the OVERKILL difficulty or above, complete the heist in loud having used only one saw at the time to cut the vault beams.
+Bloody Grinch	Complete the Breakin' Feds heist or the Buluc's Mansion heist on the Mayhem difficulty or above in stealth and everyone on your crew dressed in Christmas outfits and masks, without using any pagers. Because nobody has ever seen Santa. Unlocks the "Lightbringer" Weapon Charm.
+No Gnome Left Behind	In the Mountain Master job on the Very Hard difficulty or above, find someone in need of a lift, and help him to the helicopter, while playing in loud.
+Crouching Bomber, Hidden Flamer	In the Mountain Master job on the OVERKILL difficulty or above with each crew member wearing a variant of the dragon bomber suit, kill Yufu Wang in loud using only flamethrowers and steal his mask. Unlocks the "Mountain Master Crown" mask.
+Did You Inhale Some Demon Speed?	In the Mountain Master job on the OVERKILL difficulty or above, find and press the 3 buttons on the roof within 2 minutes of activating the timer, while in stealth.
+For The Mad Hatter	Collect and secure the tea sets from all heists in the City of Gold campaign. Unlocks the "Laohu Dashi" Outfit.
+Texas Treasures	In the Midland Ranch job on the OVERKILL difficulty or above, acquire a rare treasure.
+Heister With A Shotgun	Kill 1000 enemies with either version of the VD-12. Unlocks the "Stateside Conversion Kit".
+I Like Trains	Complete the Lost In Transit job on the Death Sentence difficulty.
+Caddyshacked	In the Midland Ranch job on the OVERKILL difficulty or above, kill 100 enemies with a golf cart.
+Marshal Law	In the Midland Ranch job on the OVERKILL difficulty or above, use the turret to kill 4 US Marshal Sharpshooters.
+Field Test	Kill 500 enemies with the Hailstorm Mk 5's Volley Shot mode. Unlocks the "Prototype Conversion Kit".
+Que sera, SERA	Complete the Hostile Takeover job on the Death Sentence difficulty.
+Burn, Baby, Burn	Complete the Crude Awakening job on the Death Sentence difficulty.
+Tabula Railroad	Complete the Lost In Transit job on the OVERKILL difficulty or above in Loud, with each crew member wearing a two-piece suit, wielding a Castigo .44 Revolver with a Mosconi 12G shotgun, and using no equipped skills.
+Billy The Kid	In the Lost In Transit job on the OVERKILL difficulty or above, get 5 enemy headshot kills within 10 seconds using a revolver.
+Victimless Crime	Complete the Lost In Transit job without raising the alarm or killing anyone.
+Texas Heat	Complete the Crude Awakening job on the Death Sentence difficulty with One Down active.
+System Shocked	In the Hostile Takeover job on the OVERKILL difficulty or above, while remaining in the flooded lab, lure at least 50 enemies to a shocking death.
+Just Passing Through	Complete the Hostile Takeover job in stealth within 7 minutes on solo, or 4 minutes on multiplayer, on the OVERKILL difficulty and above without killing any civilians.
+Conspiracy Theory	Find and listen to all four Lost Tapes. Unlocks the "Surveillant" suit, the "Playback" gloves, and the "Clownbyte" mask.
+White Glove Sale	Complete the Under the Hammer job on the Death Sentence difficulty.
+Flash Auction	Complete the Under the Hammer job in stealth within 6 minutes without using any ECM jammers on the OVERKILL difficulty or above.
+Curated Crew	Complete the Under the Hammer job without raising the alarm, killing or dominating anyone on the OVERKILL difficulty or above.
+Sun Tan	Complete Under the Hammer job on the OVERKILL difficulty or above while Captain Winters is still present on the level.

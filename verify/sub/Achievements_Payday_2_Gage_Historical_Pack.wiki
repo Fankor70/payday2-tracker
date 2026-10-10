@@ -1,0 +1,33 @@
+<tabber>Permanent Achievements=
+{{Achievement|Death From Below|jpg|Kill {{color|value|25}} [[Enemies (Payday 2)|enemies]] as they rappel using the [[Nagant]] sniper rifle. Unlocks the [[Masks (Payday 2)#Gage Historical Pack DLC|Constable]] mask, the Silenced Barrel and the Long Barrel for the Nagant sniper rifle, “[[Materials#Gage Historical Pack DLC|Gunsmoke]]” material and “[[Patterns#Gage Historical Pack DLC|Dazzle]]” pattern.}}
+{{Achievement|Special Operations Execution|jpg|Kill {{color|value|25}} [[Enemies (Payday 2)|enemies]] while in stealth using the [[Trench Knife|Trench knife]]. Unlocks the [[Masks (Payday 2)#Gage Historical Pack DLC|Red Bear]] mask, Short Barrel, Suppressed Barrel, Short Mag, Folded Stock, No Stock, Solid Stock, Heatsinked Suppressed Barrel for the [[Patchett L2A1]] submachine gun, Barrel Sight 44, Damper.L 44 Nozzle for the [[Broomstick]] pistol, “[[Materials#Gage Historical Pack DLC|Red Sun]]” material and “[[Patterns#Gage Historical Pack DLC|Death Dealer]]” pattern.}}
+{{Achievement|Wind of Change|jpg|In the [[Hoxton Breakout]] job, complete the heist while you and your {{color|value|four}} man crew are wearing one different "[[Masks (Payday 2)#Gage Historical Pack DLC|Historical]]" mask each on OVERKILL difficulty or above. Unlocks the Discreet Stock and Short Barrel for the [[Nagant]] sniper rifle, Precision Barrel for the [[Broomstick]] pistol, Extended Mag and Long Barrel for the [[Patchett L2A1]] submachine gun and the Heatsinked Suppressed Barrel for the [[Buzzsaw 42]] light machine gun.}}
+{{Achievement|So Uncivilized|jpg|Equip a [[Broomstick]] pistol with the Damper.L 44 Nozzle and the Barrel Sight 44. Unlocks the [[Masks (Payday 2)#Gage Historical Pack DLC|British Bulldog]] mask, High Capacity Mag and Holster Stock for the [[Broomstick]] pistol, "[[Materials#Gage Historical Pack DLC|Army Green]]" material and "[[Patterns#Gage Historical Pack DLC|Filthy Thirteen]]" pattern.}}
+{{Achievement|Bullet Hell|jpg|Kill {{color|value|10}} [[Enemies (Payday 2)|enemies]] within {{color|value|10}} seconds using the [[Buzzsaw 42]] light machine gun. Unlocks the [[Masks (Payday 2)#Gage Historical Pack DLC|Old Blood and Guts]] mask, Light Barrel for the Buzzsaw 42 light machine gun, "[[Materials#Gage Historical Pack DLC|Patriot]]" material and "[[Patterns#Gage Historical Pack DLC|Captain War]]" pattern.}}
+|-|Teasers=
+''The following appeared on November 11, 2014.''
+{{Teasers
+|History will
+|be kind to me
+|for I
+|intend
+|to write it
+}}
+|-|Teasers (2)=
+''The teaser achievement "History will" was replaced on November 12, 2014, with the Death From Below teaser achievement. The teasers were replaced on November 13, 2014, with the release of the [[Gage Historical Pack]].''
+{{Teasers
+|Death From Below
+|be kind to me
+|for I
+|intend
+|to write it
+}}
+|-|Trivia=
+* The '''Death from Below''' achievement is a play on the phrase "death from above", which refers to the ability of airborne soldiers to cause chaos behind enemy lines.
+* '''Special Operations Executive''' is a reference to the British covert operations organisation of {{w|Special Operations Executive|the same name}} during World War II.
+* The '''Winds of Change''' achievement is a reference to a {{w|Wind of Change (speech)|speech}} made by Prime Minister {{w|Harold MacMillan}} to the parliament of South Africa in 1960.
+* '''So Uncivilized''' is a reference to a line by {{w|Obi-Wan Kenobi}} from ''{{w|Star Wars Episode III: Revenge of the Sith|Star Wars Episode III}}'' after killing General Grevious with a blaster. Unlocking this achievement requires modding the [[Broomstick]] to closely resemble Han Solo's DL-44 blaster pistol from the original ''{{w|Star Wars}}'' trilogy.
+* '''Bullet Hell''' is a reference to a genre of 2D shoot-em-ups known as bullet-hell (also danmaku, curtain, or manic) shooters. What sets bullet-hell apart from other shoot-em-up games is the sheer number of projectiles (or bullets) which tend to be on the screen at once.
+</tabber><noinclude>
+[[Category:Support Pages]]
+</noinclude>

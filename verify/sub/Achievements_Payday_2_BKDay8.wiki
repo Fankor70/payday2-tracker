@@ -1,0 +1,12 @@
+<tabber>Permanent Achievements=
+{{Achievement|A Good Haul|jpg|In any [[Bank Heist|Branch Bank]] job, secure loot bags for a value of at least $400.000.}}
+{{Achievement|Hostage Situation|jpg|In the [[Diamond Store]] job, don't let any civilians escape, die or leave the Diamond store. Until all bags of loot from the diamond store are secured on the OVERKILL difficulty or above.}}
+{{Achievement|Self Checkout|jpg|In the [[Mallcrasher]] job, finish the heist and escape within 3 minutes.}}
+{{Achievement|Attacked Helicopter|jpg|In the [[Green Bridge (Payday 2)|Green Bridge]] job, kill the helicopter turret before the plane picks up the prisoner on the OVERKILL difficulty or above.}}
+{{Achievement|Hack This!|jpg|In the [[Henry's Rock]] job, destroy the security turrets instead of shutting them down on the OVERKILL difficulty or above.}}
+{{Achievement|Let them Boogie|jpg|Complete the [[Nightclub]] job, without setting off the alarm on the OVERKILL difficulty or above.}}
+{{Achievement|Settling a Scar|jpg|Complete the [[Scarface Mansion]] job within 15 minutes in loud on the OVERKILL difficulty and above. <br>''{{color|negative|If the heist is completed in stealth, the achievement will still be granted.}}''}}
+{{Achievement|Out Of Bounds|jpg|On day 2 of the [[Watchdogs]] job, secure 12 bags without letting any law enforcer enter the warehouse on OVERKILL difficulty.<br>''{{color|negative|As with other achievements, it requires you to secure all 12 bags on a boat. Carrying them to the escape wont grant the achievement. Can be achieved on higher than OVERKILL difficulty aswell.}}''}}
+{{Achievement|What's in the Box?|jpg|On the [[White Xmas]] job open 40 packages before escaping on the OVERKILL difficulty or above.}}
+</tabber>
+[[Category:PAYDAY 2]]

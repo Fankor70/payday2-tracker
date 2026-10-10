@@ -1,0 +1,44 @@
+<tabber>Permanent Achievements=
+{{Achievement|We Built This City on Electric Progressive House Music|jpg|Complete the [[The Alesso Heist|Alesso Heist]] on the Death Wish difficulty or above.}}
+{{Achievement|Sound of Silence|jpg|Complete the [[The Alesso Heist|Alesso Heist]] without your crew killing anyone. Unlocks the "[[Masks (Payday 2)#The Alesso Heist DLC|Boombox]]" mask, "[[Materials#The Alesso Heist DLC|Enlightenment]]" material and "[[Patterns#The Alesso Heist DLC|Alesso Logo]]" pattern.}}
+{{Achievement|Even Steven|jpg|In the [[The Alesso Heist|Alesso Heist]] job, get your seven bucks back. Unlocks the "[[Masks (Payday 2)#The Alesso Heist DLC|Cantus]]" mask, "[[Materials#The Alesso Heist DLC|Bionic]]" material and "[[Patterns#The Alesso Heist DLC|Circle Raster]]" pattern. <br>{{color|negative|'''''Note:''' This achievement refers to the parking meter in the basement.''}}}}
+{{Achievement|Fuck It, We're Walking|jpg|In the [[The Alesso Heist|Alesso Heist]] job, complete the heist in loud without using the zip-line or bag chutes on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#The Alesso Heist DLC|Female Concert Goer]]" mask, "[[Materials#The Alesso Heist DLC|Stained Glass]]" material and "[[Patterns#The Alesso Heist DLC|Soundwave]]" pattern.}}
+{{Achievement|M.F. Stev|jpg|In the [[The Alesso Heist|Alesso Heist]] job, complete the pyro sequences without failing even once. Unlocks the "[[Masks (Payday 2)#The Alesso Heist DLC|Male Concert Goer]]" mask, "[[Materials#The Alesso Heist DLC|Dim Blue]]" material and "[[Patterns#The Alesso Heist DLC|Smoke]]" pattern.}}
+|-|Teasers=
+''The following appeared on May 20th, 2015. They were replaced on May 21st, 2015 after the release of The Alesso Heist.''
+{{Teasers
+|Staging
+|Lighting
+|Video
+|Sound
+|Scenery
+}}
+|-|Tips=
+{{Achievement|Sound of Silence|jpg|Complete [[The Alesso Heist]] without killing anyone. Unlocks the "[[Masks (Payday 2) #The Alesso Heist DLC|Boombox]]" mask, "[[Materials#The Alesso Heist DLC|Enlightenment]]" material and "[[Patterns#The Alesso Heist DLC|Alesso Logo]]" pattern.}}
+When attempting this achievement no enemy or civilian may be allowed to die by any means, however dominating an enemy is allowed. It is suggested to disable the AI team-mates, because their kills also count. If players are detected during the casing escape, it may be possible to survive long enough for the van escape to arrive without killing anyone.
+
+{{Achievement|Even Steven|jpg|In [[The Alesso Heist]] job, get your seven bucks back. Unlocks the "[[Masks (Payday 2) #The Alesso Heist DLC|Cantus]]" mask, "[[Materials#The Alesso Heist DLC|Bionic]]" material and "[[Patterns#The Alesso Heist DLC|Circle Raster]]" pattern. <br>{{color|negative|'''''Note:''' This achievement refers to the parking meter in the basement.''}}}}
+In order to complete this achievement, players must use a single C4 charge (not shaped charge) to detonate the parking meter in the garage. Contrary to the description, it is actually a ticket dispenser rather than a ticket machine, which is bright orange and located next to the garage door underneath the vaults; the model is identical to the orange ticket machines found in [[Hoxton Breakout]]. The C4 charge can only be placed on the ticket dispenser after the alarm is raised, and not on Hard or Very Hard difficulties (as those give exactly as much C4 as needed for the objective, with no extras). 
+
+{{Achievement|Fuck It, We're Walking|jpg|In [[The Alesso Heist]] job, complete the heist in loud without using the zip-line or bag chutes on the OVERKILL difficulty or above. Unlocks the "[[Masks (Payday 2)#The Alesso Heist DLC|Female Concert Goer]]" mask, "[[Materials#The Alesso Heist DLC|Stained Glass]]" material and "[[Patterns#The Alesso Heist DLC|Soundwave]]" pattern.}}
+There are a number of viable strategies for this achievement:
+* Run most of the heist in stealth, bringing the bags as far upstairs as possible, then raise the alarm by killing a fifth guard and load the bags and escape as quickly as possible.
+* If going loud, either :
+** bag the loot and then retreat from the basement - the cops will tend to move lootbags to the middle of the main stairs;
+** throw the bags from the central tables and catch them from the balcony above;
+** or, have a player jump down on to the pink awning over the t-shirt kiosk, then throw bags up to them then up on to the balcony.
+
+{{Achievement|M.F. Stev|jpg|In [[The Alesso Heist]] job, complete the pyro sequences without failing even once. Unlocks the "[[Masks (Payday 2)#The Alesso Heist DLC|Male Concert Goer]]" mask, "[[Materials#The Alesso Heist DLC|Dim Blue]]" material and "[[Patterns#The Alesso Heist DLC|Smoke]]" pattern.}}
+Unlike most achievements, the difficulty in mastering the pyrotechnics show lies in the lack of explanation. Despite being instructed by the intercom to hit the buttons as soon as you're told, players must wait for around a second after the order for Bain to confirm which specific button(s) must be pressed but players cannot wait too long.
+
+On higher difficulties Bain will tell players to press '''two''' buttons, although the order is not important.
+
+Note that on loud, when parts of the pyro rig can break and need repairing, be sure to complete those actions before pressing the pyro buttons.
+|-|Trivia=
+* '''We Built This City on Electric Progressive House Music''' is a reference to the song [[wikipedia:We Built This City|We Built This City (on Rock & Roll)]] by [[wikipedia:Starship (band)|Starship]]. [[wikipedia:Progressive house|Electric progressive house]] music is the genre of music [[wikipedia:Alesso|Alesso]] produces.
+* '''The Sound of Silence''' is a reference to [[wikipedia:The Sound of Silence|the song of the same name]] by the American music duo [[wikipedia:Simon & Garfunkel|Simon & Garfunkel]].
+* '''Even Steven''' is a reference to a segment by {{W|Stephen Colbert}} and {{W|Steve Carell}} in Comedy Central's {{W|The Daily Show}} called ''Even Stevphen''.
+** The 'seven bucks back' is a reference to the seven dollars Bain complained about having to pay during the [[Hoxton Breakout]] heist due to the route the truck took through a parking garage.
+* '''All Your Bass Are Belong to Us''' is a reference to the game [[wikipedia: Zero Wing|Zero Wing]].
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

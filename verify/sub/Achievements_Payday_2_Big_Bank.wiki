@@ -1,0 +1,44 @@
+<tabber>Permanent Achievements=
+'''Ownership required'''
+{{Achievement|Funding Father|jpg|Complete any heist while you and your {{color|value|four}} man crew are wearing one different "[[Masks (Payday 2)#The Big Bank Heist DLC|Big Bank]]" mask each. Unlocks the Marksman Stock for the [[Falcon]] rifle.}}
+
+'''Achievable without owning DLC'''
+{{Achievement|Broke the Piggy Bank|jpg|Complete [[the Big Bank]] job on the Normal difficulty or above.}}
+{{Achievement|The Big Bank Theory|jpg|Complete [[the Big Bank]] job on the Hard difficulty or above.}}
+{{Achievement|Just Like in the Movies|jpg|Complete [[the Big Bank]] job on the Very Hard difficulty or above.}}
+{{Achievement|Go Big or Go Home|jpg|Complete [[the Big Bank]] job on the OVERKILL difficulty or above.}}
+{{Achievement|You Can Only Plan to Fail|jpg|Complete [[the Big Bank]] job on the Mayhem difficulty or above.}}
+{{Achievement|Don't Forget to Floss|jpg|Complete [[the Big Bank]] job on the Death Wish difficulty or above.}}
+{{Achievement|Size Does Matter|jpg|Complete [[the Big Bank]] job on the Death Sentence difficulty.}}
+{{Achievement|Piggy Broke the Bank|jpg|Complete [[the Big Bank]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Backing Bobblehead Bob|jpg|Bring Bobblehead Bob to the vault. Unlocks“[[Masks (Payday 2)#The Big Bank Heist DLC|The 18th]]” mask, the "[[Materials#The Big Bank Heist DLC|Gemstone]]" material, the "[[Patterns#The Big Bank Heist DLC|God of War]]" pattern and the Wooden Stock for the [[Falcon]] rifle.}}
+{{Achievement|Don't Bring the Heat|jpg|In [[the Big Bank]] job, complete the heist without triggering the alarm. Unlocks the CQB Stock for the [[Falcon]] rifle.}}
+{{Achievement|Entrapment|jpg|In [[the Big Bank]] job, complete the heist with {{color|value|12}} bags in the default escape with all the lasers active. Unlocks the CQB Foregrip for the [[Falcon]] rifle.}}
+{{Achievement|It Takes a Pig to Kill a Pig|jpg|Drop Floyd the pig on top of a [[Enemies (Payday 2)|lawforcer]]. Unlocks “[[Masks (Payday 2)#The Big Bank Heist DLC|The 1st]]” mask, the "[[Materials#The Big Bank Heist DLC|Exhausted]]" material, the "[[Patterns#The Big Bank Heist DLC|Ruler]]" pattern and the Extended Magazine for the [[Falcon]] rifle.}}
+{{Achievement|It Takes Two to Tango|jpg|Hack the correct computer on the {{color|value|first}} try in [[The Big Bank]] job. Unlocks “[[Masks (Payday 2)#The Big Bank Heist DLC|The First American]]” mask, the "[[Materials#The Big Bank Heist DLC|Parchment]]" material, the "[[Patterns#The Big Bank Heist DLC|Roman]]" pattern and the Tactical Grip for the [[Falcon]] rifle.}}
+{{Achievement|Matrix With Lasers|jpg|In the [[Big Bank]] job, open the vault by using the "Beast" drill and escape using the C4 Tunneling asset without killing any [[Sniper (Payday 2)|Sniper]]s on the Death Wish difficulty or above.}}
+{{Achievement|Sweet Sixteen|jpg|Complete [[The Big Bank]] job with {{color|value|16}} secured bags. Unlocks “[[Masks (Payday 2)#The Big Bank Heist DLC|The 16th]]” mask, the "[[Materials#The Big Bank Heist DLC|Clay]]" material, the "[[Patterns#The Big Bank Heist DLC|Spartan]]" pattern and the Marksman Foregrip for the [[Falcon]] rifle.}}
+{{Achievement|12 Angry Minutes|jpg|In [[the Big Bank]] job, complete the heist in under {{color|value|12}} minutes on the Hard difficulty or above. Unlocks the Wooden Foregrip for the [[Falcon]] rifle.}}
+{{Achievement|You Owe Me One|jpg|In [[the Big Bank]] job, start the Big Bank job after having spent all {{color|value|10}} favors in [[Pre-Planning|Preplanning]]. Unlocks the Retro Foregrip for the [[Falcon]] rifle.}}
+|-|Teasers=
+''The following appeared on June 10, 2014. They were replaced on June 17, 2014, with the release of the [[Big Bank (DLC)|Big Bank DLC]].''
+{{Teasers
+|Where
+|In
+|The
+|World
+|Have
+|You
+|Been
+|Hiding?
+|Right
+|Here
+}}
+|-|Trivia=
+* '''Funding Father''' is a pun on the term {{w|Founding Fathers of the United States|Founding Father}}.
+* '''12 Angry Minutes''' is a reference to the film ''{{w|12 Angry Men (1957 film)|12 Angry Men}}''.
+* '''Entrapment''' is a reference to the caper film ''{{w|Entrapment (film)|Entrapment}}''. Its unlocking conditions references the iconic laser-avoiding scene in the movie.
+* '''It Takes Two to Tango''' is a common {{w|Takes two to tango (idiom)|idiom}}. It also refers to the unlock conditions of the achievement, which requires cooperation between two players.
+* '''Sweet Sixteen''' is a special {{w|Sweet sixteen (birthday)|birthday}} celebrating a persons's sixteenth birthday in North America. It also refers to the mask it unlocks, a mask of the 16th President of the United States, {{w|Abraham Lincoln}}.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

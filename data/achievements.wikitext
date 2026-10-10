@@ -1,0 +1,81 @@
+{{Game-Tabs|pdth=Achievements|pd2=Achievements (Payday 2)|pd3=Achievements (Payday 3)|raid=Achievements (RAID: World War II)}}
+A list of all '''Trophies''' (PS3) / '''Achievements''' (Steam).
+
+==Bronze trophies==
+{{Achievement|Diplomatic|png|Perform a [[Police Custody#Hostage Trading|hostage trade]].}}
+{{Achievement|Eagle eyes|png|Point out a special enemy using the ‘shout out’ command.}}
+{{Achievement|Cheney?|png|Defeat a Bulldozer with a shotgun.|link=on}}
+{{Achievement|Intimidating|png|Get a Heavy SWAT to give up.}}
+{{Achievement|Left for dead|png|Finish a heist in custody while all your team mates are alive.}}
+{{Achievement|Last man standing|png|Beat a heist after having been the only one alive.}}
+{{Achievement|Blood in, blood out|png|Trade all the butchers in SLAUGHTERHOUSE. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Dodge this!|png|Beat a heist on normal difficulty or above, having killed a Bulldozer without taking damage from any Bulldozer. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|A bridge too far!|png|Complete the GREEN BRIDGE on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.|link = on}}
+{{Achievement|But how?|png|Get the armored car to drop without shooting at it in SLAUGHTERHOUSE. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Windowlicker|png|Defeat a law enforcer planting C4 in FIRST WORLD BANK on hard difficulty or above. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Civil disobedience|png|Defeat 100 law enforcers in a single heist.}}
+{{Achievement|Are there more than two?|png|Find ten money bundles in PANIC ROOM.|link=on}}
+{{Achievement|Darkness|png|On GREEN BRIDGE, destroy all the lights in the main scaffolding tower. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|You can run but you can't hide|png|In PANIC ROOM, take the key from Chavez within the first 45 seconds of starting the mission. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Shinobi|png|Bypassing all 3 consoles before raising the alarm, beat DIAMOND HEIST on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|I ain't afraid no more|png|Gain a level in the Assault tree during an assault.}}
+{{Achievement|Crack-bang|png|Gain a level in the Sharpshooter tree with your last kill being a Sniper.|link=on}}
+
+==Silver trophies==
+{{Achievement|Lay on hands|png|Gain a level in the Support tree while reviving a teammate.|link=on}}
+{{Achievement|Are those the blue ones?|png|Steal all the sapphires in DIAMOND HEIST on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Gold digger|png|Beat SLAUGHTERHOUSE within 15 minutes, taking all the gold. To complete this challenge, you will have to have played the heist from the start.|link = on}}
+{{Achievement|Stand together|png|Beat HEAT STREET on normal difficulty or above without anyone getting downed. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Quick draw|png|In PANIC ROOM, kill all armed thugs in and around the apartment building within 60 seconds of you and your crew drawing your weapons. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|No photos|png|Destroy all the cameras in FIRST WORLD BANK within 10 seconds of drawing your weapons. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Hot lava|png|Don’t let any law enforcers reach the graffiti on the center of the roof in PANIC ROOM from the SECURE THE ROOF objective until the ESCAPE objective on hard or OVERKILL difficulty. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Federal crime|png|Defeat 25 FBI agents in a row.}}
+{{Achievement|One shot, one kill - repeat|png|Get 30 kills using 30 shots, using only the [[M308]] Rifle.|link=on}}
+{{Achievement|Bomb man|png|In DIAMOND HEIST, defeat all twelve Patrol Guards using only trip mines. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Are you ready yet?|png|In DIAMOND HEIST, get Bain to come back for you at least 7 times on HARD or OVERKILL. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+
+==Gold trophies==
+{{Achievement|Easy street|png|Beat HEAT STREET on OVERKILL difficulty, with your group accuracy being at 60% or higher. To complete this challenge, everyone in your crew will have to have played the heist from the start.|link=on}}
+{{Achievement|I pushed the button and lived!|png|In DIAMOND HEIST, get the big diamond and escape on OVERKILL difficulty with you and all your team mates alive. To complete this challenge, you will have to have played the heist from the start.|link=on}}
+{{Achievement|Noob herder|png|Beat any heist on OVERKILL difficulty with three other players who are all using the Noob Lube perk. To complete this challenge, you will have to have played the heist from the start.|link = on}}
+{{Achievement|Don't lose face|png|Beat all heists on OVERKILL difficulty without anyone getting traded from custody. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|PAYDAY|png|Acquire one billion dollars in total cash. One. BILLION. Dollars.}}
+
+==Platinum trophy==
+{{Achievement|OVERKILL|png|Do it all.}}
+
+==Patch 6==
+{{Achievement|Four more years|jpg|Reach level 145. This gives you the presidential masks for further campaigning.}}
+{{Achievement|Bank on me|jpg|Beat FIRST WORLD BANK on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|Hills Street Blues|jpg|Beat HEAT STREET on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|Brush with death|jpg|Beat PANIC ROOM on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|Beat the shield|jpg|Beat GREEN BRIDGE on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|Bad code|jpg|Beat DIAMOND HEIST on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|Lots of pigs, but no pigs|jpg|Beat SLAUGHTERHOUSE on OVERKILL 145+ difficulty. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|You are GOLDEN! OVERKILL salutes you!|jpg|Beat all heists on OVERKILL 145+ difficulty and show them all you are on top! Completing this will make you golden!}}
+
+==Patch 21==
+{{Achievement|OVERDRILL|jpg|Solve the [[PAYDAY_Secret_ARG|PAYDAY SECRET]] on any difficulty with any mask and gain access to the OVERVAULT. To complete this challenge, you will have to have played the heist from the start.|link = on}}
+
+{{Achievement|Last Christmas|jpg|In multiplayer, find a Christmas present in any heist.|link = on}}
+
+==DLC==
+{{Achievement|Quick hands|jpg|On COUNTERFEIT, manage to defuse all C4 charges.|link = on}}
+{{Achievement|Crowd Control|jpg|Beat COUNTERFEIT without letting any hostage escape or die. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|Pacifist|jpg|Beat COUNTERFEIT on hard difficulty or above without killing any law enforcers or civilians. To complete this challenge, everyone in your crew will have to have played the heist from the start.}}
+{{Achievement|Blow-out|jpg|Beat UNDERCOVER with everyone in the crew only using the [[GL40]]. To complete this challenge, everyone in your crew will have to have played the heist from the start. Using melee does not count towards this challenge!}}
+{{Achievement|The Saviour|jpg|On UNDERCOVER, place 20 planks by yourself on windows, vents or fences.}}
+{{Achievement|Under Pressure|jpg|Complete COUNTERFEIT on OVERKILL 145+ difficulty.}}
+{{Achievement|In for a Dime, In for a Dollar|jpg|Complete UNDERCOVER on OVERKILL 145+ difficulty.}}
+{{Achievement|Detective Gadget|jpg|Beat any heist using the [[STRYK]] Pistol, [[AK]] Rifle, [[GL40]] Grenade Launcher, [[Upgrades#Player upgrades|Toolkit upgrade]], [[Sentry gun|Sentry Gun]] equipment and [[Upgrades#Crew bonuses|Big Game Hunters crew bonus]]. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|Don't panic|jpg|Complete NO MERCY on hard or OVERKILL without any civilian raising the alarm. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|...or was it the blue one?|jpg|In NO MERCY, cut the correct wire opening the ICU door security system. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|That's the wrong door, again!|jpg|Complete NO MERCY on OVERKILL difficulty, having sawed open all three ICU security doors. To complete this challenge, you will have to have played the heist from the start.}}
+{{Achievement|Afraid of the dark|jpg|In NO MERCY, get the power back up within 5 seconds of it being shut down. To complete this challenge, you will have to have played the heist from the start.}}
+
+==References==
+*[http://steamcommunity.com/stats/PAYDAY:TheHeist/achievements/ Global Achievements]
+
+{{Navbox PAYDAY 1}}
+[[Category:Trophies| ]]
+[[Category:Gameplay]]

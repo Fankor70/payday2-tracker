@@ -1,0 +1,339 @@
+{{Game-Tabs|pdth=PAYDAY: The Heist|pd2=PAYDAY 2|pd3=PAYDAY 3|pdcw=PAYDAY: Crime War|not=Notoriety: A PAYDAY® Experience|raid=RAID: World War II|aces=PAYDAY: Aces High}}[[File:Payday2 logo white.png|thumb|center|650px]]
+{{Infobox game
+|title       = PAYDAY 2
+|image       = [[File:PAYDAY 2 Cover.jpg|x369px]]
+|developer   = {{w|Overkill Software}}<br><span class="mw-collapsible mw-collapsed" data-expandtext="DLC" data-collapsetext="Hide">{{w|Starbreeze Studios}}<br><span class="mw-collapsible-content">[[Lion Game Lion]] <small>(DLCs)</small><br>{{w|Torn Banner Studios}} <small>(DLCs)</small><br>{{w|Dennaton Games}} <small>(DLCs)</small><br>{{w|Coffee Stain Studios}} <small>(DLCs)</small><br>{{w|Flying Wild Hog}} <small>(DLCs)</small></span></span>
+|publisher   = {{w|505 Games}}
+|distributor = {{w|Valve Corporation}}
+|director    = David Goldfarb
+|producer    = {{w|Starbreeze Studios|Bo Andersson Klint}}<br>Almir Listo<br>Andreas Häll-Penninger<br>Sadir Samir
+|designer    = {{w|Grin (company)|Ulf Andersson}}<br>Jules Marquez-Luttringer
+|composer    = [http://simonviklund.com/ Simon Viklund]<br>Gustavo Coutinho<br>Carl Norén<br>Le Castle Vania<br>{{w|Gustaf Grefberg}}
+|engine      = {{w|Diesel (game engine)|Diesel Engine 2.0}}
+|version     = 1.66.1
+|platforms   = {{w|Microsoft Windows}}<br>{{w|Linux}}<br>{{w|PlayStation 3}}<br>{{w|PlayStation 4}}<br>{{w|Xbox 360}}<br>{{w|Xbox One}}<br>{{w|Nintendo Switch}}
+|released    = <span class="mw-collapsible mw-collapsed" data-expandtext="Show All" data-collapsetext="Hide All">
+'''13 August 2013'''<br>
+<span class="mw-collapsible-content">'''Windows'''<div style="color:#d5d4d4">
+<small><sup>{{Tooltip|WW|World Wide}}</sup></small> 13 August 2013</div><br/>
+<small>(Ultimate Edition)</small><br>
+<small><sup>{{Tooltip|WW|World Wide}}</sup></small> 8 June 2017<br/>
+'''PlayStation 3''', '''Xbox 360'''
+<div style="color:#d5d4d4">
+<small><sup>{{w|North America|NA}}</sup></small> 13 August 2013</div>
+<div style="color:#d5d4d4">
+<small><sup>{{w|Europe|EU}}</sup></small> 16 August 2013</div>
+'''PlayStation 4''', '''Xbox One'''
+<div style="color:#d5d4d4"><small>(Crimewave Edition)</small></div>
+<div style="color:#d5d4d4">
+<small><sup>{{w|Europe|EU}}</sup></small> 12 June 2015</div>
+<div style="color:#d5d4d4">
+<small><sup>{{w|North America|NA}}</sup></small> 16 June 2015<br>
+<small>(Big Score Edition)</small></div>
+<div style="color:#d5d4d4">
+<small><sup>{{w|Europe|EU}}</sup></small> 9 September 2016 (PS4)</div>
+<div style="color:#d5d4d4">
+<small><sup>{{w|North America|NA}}</sup></small> 13 September 2016 (PS4)</div>
+'''Linux''' ({{w|SteamOS}})
+<div style="color:#d5d4d4">
+<small><sup>{{Tooltip|WW|World Wide}}</sup></small> 21 March 2016</div>
+'''Nintendo Switch'''
+<div style="color:#d5d4d4">
+<small><sup>{{Tooltip|WW|World Wide}}</sup></small> 27 February 2018</div></span></span>
+|genre       = First-person shooter{{•}}Tactical shooter{{•}}Stealth
+|modes       = Single-player, multiplayer
+|ratings     = {{w|Entertainment Software Rating Board|ESRB}}: Mature 17+<br>{{w|Pan European Game Information|PEGI}}: 18+<br>{{w|Australian Classification Board|OFLC}}: R18+<br>{{w|Office of Film and Literature Classification (New_Zealand)|OFLC}}: R18<br>{{w|Unterhaltungssoftware Selbstkontrolle|USK}}: 18
+|store       =[http://store.steampowered.com/app/218620 Steam Store]<br>
+[http://www.xbox.com/en-us/Search?q=PAYDAY+2 Xbox Store]<br>
+[https://store.playstation.com/#!/en-us/search/f=%5Epayday%2B2%7Cbucket~games PlayStation Store]<br>
+[https://www.nintendo.com/games/detail/payday-2-switch/ Nintendo eShop]
+}}
+'''''PAYDAY 2''''' is a co-operative first-person shooter action game developed by [[Overkill Software]], and the successor to ''[[PAYDAY: The Heist]]''. It was released on August 13, 2013, for Windows, PlayStation 3 and Xbox 360 via digital distribution and retail. A SteamOS and Linux version was released on March 21st, 2016. 
+
+An enhanced version (''PAYDAY: Crimewave Edition'') for the Xbox One and PlayStation 4 was released on June 12th, 2015 for Europe and June 16th for North America.<ref>http://www.madeforgaming.com/payday-2-crimewave-edition-brings-the-ultimate-heist-experience-june-21/</ref> Subsequently, an even more expansive edition called ''PAYDAY 2: The Big Score Edition'' was released on September 8th, 2016 for PlayStation 4 and Xbox One owners, which includes all of the Crimewave version's content and additional DLCs released up until the end of 2015. In April 2017, a Nintendo Switch version of ''PAYDAY 2'' announcement was made<ref>https://youtu.be/6X06fvObnG0?t=26m44s</ref>, with its release in February 27th of 2018.<ref>https://www.nintendo.com/games/detail/payday-2-switch/</ref> As part of the ''Winds of Change'' announcement by the company, on the 9th of December of 2019, the Nintendo Switch version is announced to cease future content development due to performance and optimization issues.<ref>http://www.overkillsoftware.com/winds-of-change-consoles-edition/</ref>
+
+Lastly, all pre-2019 content updates for ''PAYDAY 2'', save for the [[H3h3 Character Pack]], will be made free with the release of ''PAYDAY 2 Ultimate Edition'' (later renamed ''PAYDAY 2 Legacy Edition'') on June 8th, 2017. All DLCs save the aforementioned one were delisted and made unpurchasable after this date.
+
+Following the full acquisition of the PAYDAY IP by Starbreeze in May 2016, the developers have announced an extension for their content support for the game, with it now ending in late October 2018 and the confirmation of ''PAYDAY 3'', though ''PAYDAY 2'' itself will be maintained at least for the foreseeable future.<ref>http://www.dsogaming.com/news/starbreeze-acquires-full-rights-for-payday-microtransactions-to-be-removed-in-the-future/</ref><ref>https://www.youtube.com/watch?v=6skYgBkMfV4</ref><ref>https://www.polygon.com/2017/2/16/14640172/payday-3-overkill-starbreeze</ref>
+
+Overkill announced on the 25th of October 2019, development of ''PAYDAY 2'' will begin once again, bringing both free content, and paid DLC, on future content updates. Additionally, Ultimate Edition has been renamed into 'Legacy Edition', which includes {{tooltip|all|with the exception of a handful of DLC}} content pre-[[The White House|White House]].<ref name="WindsOfChange">https://steamcommunity.com/games/218620/announcements/detail/1665695876816570722</ref>
+
+{{TOC limit|2}}
+
+==Development==
+'''''PAYDAY 2''''' was announced when very little information was shared, other than Overkill Software would work on the sequel and 505 Games would publish it. In March, Overkill began showing previews of the game to major gaming publications.
+
+Overkill has attempted to address complaints from the previous game. The PC version is regularly updated, runs smoother and looks much better because of the larger studio and the bigger budget.[http://www.gameinformer.com/games/payday_2/b/pc/archive/2013/03/12/payday-2-preview-setting-up-a-bigger-heist.aspx] Furthermore, the game has more downloadable content planned than the previous game. The console versions, however, have not received the same amount of positive feedback, due to the lack of updates and support. (See [[PAYDAY 2#Criticisms of Console versions|below]])
+
+As mentioned in a developer Q&A, ''PAYDAY 2 ''was supposed to feature special cross-overs into Overkill's 2017 co-op zombie survival, ''Overkill's The Walking Dead'' due to both games taking place in Washington D.C.<ref>http://www.overkillsoftware.com/games/overkills-the-walking-dead/</ref> However, with ''The Walking Dead'' being pulled from Steam and having been a financial flop, these planned cross-overs never happened. 
+
+==Gameplay==
+{{Main|:Category: Gameplay (Payday 2)}}
+''PAYDAY 2'' is a cooperative first-person shooter with RPG elements. Up to four players can cooperate in a heist.
+
+The base game featured 12 heists, some of which take place over multiple days and locations. Overkill has released new heists through free or paid DLC, bring the total number of unique heist locations to over 70.
+
+Similar to the original [[PAYDAY: The Heist|PAYDAY]], heists have many dynamic events. For example, guards may have different patrol routes, safes and vaults may be in different locations, and the amount of cash and loot may be different. Some heists, such as [[Bank Heist]], have different variants depending on the goal (i.e., cash, gold, deposit boxes).
+
+In each heist, players are required to complete objectives, usually in an effort to steal cash, intel, or valuables.
+
+During the heist, the police will assault with waves of enemies in an attempt to eliminate the players. The players must overcome them and complete the objectives before escaping. For some of the heists, a stealth option is available, allowing players to finish a heist without police intervening. But should the alarm be sounded, the police will begin their assault.
+
+The [[Skills]] system featured in the original ''PAYDAY'' has been more fleshed out, and has been compared more to an RPG-like leveling system, with five classes, and further 3 categories per class, that players can choose to specialize in:
+*The [[Skills#Skills|Mastermind]]
+**'''Medic''' keeps the team alive by [[Inspire|instantly reviving]] downed crew members and increasing the effectiveness of the [[Doctor bag (Payday 2)|Doctor bags]] and/or [[First Aid Kit|First Aid Kits]].
+**'''Controller''' allows for easier control of civilians and/or dominating enemies to use as [[Joker|converts]], plus effective for health-focused [[Perk Decks|Perk Decks]].
+**'''Sharpshooter''' boosts marksmanship, encouraging heisters to keep helmets flying with precision.
+*The [[Skills#Skills|Enforcer]]
+**'''Shotgunner''' boosts all shotgun weapon types by increasing damage, rate of fire/magazine capacity, and faster reload speeds.
+**'''Tank''' is for heisters who want to wear heavy armor for heavy assault tactics by boosting armor stats.
+**'''Ammo Specialist''' helps the team to have their ammo reserves at full by using boosted [[Ammo bag (Payday 2)|Ammo Bags]], and also allows for a higher proficiency using the [[OVE9000|OVE9000 Portable Saw]] to unlock certain containers almost immediately.
+*The [[Skills#Skills|Technician]]
+**'''Engineer''' focuses entirely on the [[Sentry gun (Payday 2)|Sentry Gun deployable]], an automated portable turret that serves only to automatically attack any unit in sight.
+**'''Breacher''' is an over-specialized category who may serve to block areas from enemies by deploying [[Trip mine (Payday 2)|Trip mines]] and use Shaped Charges to blow open some doors/safes/unique structures, or spot special enemies if toggled to sensor mode, which may also be used for stealth to detect guards.
+**'''Oppressor''' boosts automatic weaponry, being the contrast of ''Sharpshooter'', allows for increased stability, piercing through Heavy Units' body armor, and so on.
+*The [[Skills#Skills|Ghost]]
+**'''Shinobi''' is all about stealth. Have the odds in your favor by investing into it to increase your effectiveness and capabilities in order to keep things quiet.
+**'''Artful Dodger''' works as a contrast to heavy armor builds: Instead of needing to take and tank the bullets, simply avoid them by using high concealment loadouts.
+**'''Silent Killer''' serves as an addition to high concealment builds, increasing their effectiveness and damage output.
+*The [[Skills#Skills|Fugitive]]
+**'''Gunslinger''' is for pistol lovers who want to show off their marksmanship for pistols, as well for akimbo variants.
+**'''Revenant''' is for heisters who just refuse to go into custody without giving up a fight till its last breath.
+**'''Brawler''' heavily boosts melee attacks and mechanics, as well as increased damage output if used together with other weapons.
+===Features===
+*[[#CRIME.NET|CRIME.NET]] - A dynamic network of local contacts offering contracts to the PAYDAY Gang.
+*Dynamic Heist Progression & Scenarios - Most heists now offer multiple approaches with multiple variations of level geometry and events that can either compliment or complicate your approach. Some heists even have multiple days (a maximum of seven, although currently, the longest heist has only three, not counting escapes)
+*[[Reputation]], [[Skills]], and [[Perk Decks|Perk Deck]] System - After each heist is complete, the player is awarded their payday (including a [[Payday (Gameplay)#Cards and Offshore account|card]]) and experience to level up their "Reputation." Every level 1 skill point is granted, with 2 bonus skill points each tenth level (10, 20, 30, etc). In addition to that, Perk Decks convert experience to perk points using a ratio based on your level, it starts at 100:1, and increases by 100 per perk point for every increment of 10 levels that you hit.
+*Player Customization - Players are now able to purchase & customize [[Masks (Payday 2)|masks]], [[Weapons (Payday 2)|weapons]], and modifications for those weapons.
+
+===CRIME.NET===
+[[File:Mainpage slide4.png|thumb|right|325px|An in-game preview of Crime.net]]
+In ''PAYDAY 2'', Bain introduces the PAYDAY Gang to CRIME.NET, a dynamic network of local contacts offering contracts in Washington, DC. CRIME.NET splits Washington into five boroughs: Georgetown, West End, Foggy Bottom, Shaw, and Downtown. No contracts are specific to one area and they can randomly spawn anywhere across the map.
+
+The following descriptions of each contact are derived directly from the [[Contractor (gameplay)|Contractor]] Database:
+
+*[[Bain]] - The shadowy figure behind CRIME.NET. No one, not even the crew, has ever met Bain and contact with the contacts and the crew is carefully managed to ensure minimum risk to all parties.
+*[[The Dentist]] - Little is known about the Dentist. He represents a large clientele whom he refers to as his patients. He is a determined, meticulous planner who has taken a great interest in the PAYDAY gang. He is the only one who knows how to free old Hoxton.
+*[[The Elephant]] - John Henry Simmons, called the Elephant by the press. A dirty Republican Congressman with mysterious connections that go all the way to the top.
+*[[Gage]] - Gage is an Afghanistan War veteran, known for being in a wheelchair after a failed assassination attempt. He is the best weapons dealer within the border - and a good assassin at that. Anything you might need, he's your man.
+*[[Hector]] - A detail-oriented former business administrator. Hector is the biggest drug trafficker on the Eastern Seaboard and is next in line for leadership of the Sinaloan Cartel in Mexico.
+*[[Vlad]] - A Ukrainian who used to be a feared enforcer in the Russian Motherland. Vlad's been running his own extortion and crime racket in D.C. out of his local bakery for years.
+*[[The Butcher]] - The Butcher's business is weapons - their procurement, sales, and distribution. She is looking forward to a long and fruitful business cooperation with Bain and the PAYDAY Gang.
+*[[Vernon Locke]] - A [[Murkywater|Murkywater]] operative tasked with taking down CRIME.NET. However, being a mercenary with no loyalties that extra money couldn't bend, Locke sees this as an opportunity. An opportunity to get rich, and cause a little chaos.
+
+CRIME.NET in-game serves as the matchmaking service. There are two methods of connecting to CRIME.NET: '''CRIME.NET''' and '''CRIME.NET OFFLINE'''; CRIME.NET requires internet access, while CRIME.NET OFFLINE does not.
+
+CRIME.NET OFFLINE allows individual players to play with bots in heists. Joining a CRIME.NET OFFLINE game is impossible. CRIME.NET has all the same capabilities as CRIME.NET OFFLINE (except for pausing, even if playing alone), but it allows up to four players (one being the host) to collaborate on the same heist.
+
+===Player Customization===
+'''''PAYDAY 2''''' includes several features to allow players to customize their experience including heist assets, masks, skill trees, and weapons.
+
+====[[Assets]]====
+Assets are tools that the player can purchase using in-game spending cash to assist in completing the heist. Most heists offer some form of assets and typically have unique ones as well.
+
+For instance, an [[Ammo bag (Payday 2)|ammo bag]] may be purchased for use in a [[Bank Heist|bank heist]] and will be available once the heist starts. In addition to that, the player can opt to purchase [[Assets|insider info]], which is exclusive to any variant of the aforementioned bank heist.
+
+Some assets are also DLC exclusive such as the [[Assets|grenade case]], and thus requires ownership of [[Gage Weapon Pack 01|Gage Weapon Pack #01]] to buy.
+
+====[[Mask Customization|Masks]]====
+In addition to choosing your preferred character, the player can unlock new [[Masks (Payday 2)|masks]], [[Mask Colors (Payday 2)|colors]], [[materials]], and [[Patterns|patterns]] to customize their appearance. By default, players will utilize the iconic masks of each character.
+
+At the end of each heist during the [[Payday (Gameplay)#Cards and Offshore account|card drop]], the player has a chance to earn one of the aforementioned components. There is also a chance that one of those drops may contain an infamous variant of said components.
+
+It should be noted that once a mask (excluding Infamy-reward, event masks, achievement-tied and Poetry Jam masks) is customized, it will no longer be available for re-purchase until it is re-acquired via card drops. Any customization items applied to the mask will also be lost (although any items gained from aforementioned exclusions will also return rather than be deleted).
+
+====[[Skills|Skill Trees]]====
+Skill trees are an RPG-esque feature which allows the player to balance between an adaptive and/or specialized playstyle. There are five skill trees in which the player may pursue: [[Skills#Mastermind|Mastermind]], [[Skills#Enforcer|Enforcer]], [[Skills#Technician|Technician]], [[Skills#Ghost|Ghost]], and [[Skills#Fugitive|Fugitive]]; All of which have 3 subcategories. As players complete heists and gain experience, they will progressively gain levels; dubbed "[[Reputation (Payday 2)|Reputation]]." Each new level will unlock a single skill point (with multiples of ten giving three).
+
+Players can unlock tiers by allocating enough skill points to gain access to more skills. Each of the skill trees offers new abilities (body bags or silent drilling) to assist the player in completing heists.
+
+In each skill tree in ''PAYDAY 2'', there are 3 separate sub-trees. For instance, the Mastermind tree has a Medic sub-tree, a Controller sub-tree, and a Sharpshooter sub-tree. Each sub-tree has four tiers: Tier 1, Tier 2, Tier 3, and Tier 4. Skills do not cost any spending or Offshore Cash to apply, but prior to the revamped skill trees of the current build of the game, they did require spending cash as well as skill points. Tier 1 across any of the trees is 1 point for basic and 3 points for an ace. Tier 2 costs 2 points for basic, and 4 points for an ace. Tier 3 costs 3 points for basic, and 6 points for Aced. And finally, Tier 4 costs 4 points for basic and 8 points for Aced. Instead of respeccing an entire skill tree at once and gaining back all the skill points you spent a percentage of the cash you spent, you can now respect any individual skill and gain back the skill points you spent.
+
+====[[:Category:Weapon mod|Weapon Modifications]]====
+[[File:Compact 5 mods.jpg|thumb|250px|Example image showing different modifications for the [[Compact-5 (Payday 2)|Compact-5 submachine gun.]]]]
+Players can earn weapon attachments and other prizes upon successfully completing heists. For longer heists, this takes place at the end of the final day. Weapon mods are either attachments (such as scopes and suppressors) or modified/replacement parts (such as new stocks, foregrips, etc). Each weapon only supports specific mods, though most mods are usable on more than one weapon.
+
+Each weapon mod affects the appearance and stats of the weapon. Some include a tradeoff (for example, increasing accuracy but decreasing concealability), while others only make positive changes. Players should take care to look at the mod's effect on the stat's table, as some descriptions are not always updated.
+
+After a weapon mod is found, it is placed into the player's inventory. The player may use spending cash to attach a mod to a weapon. The mod can be removed from the weapon and returned to the player's inventory at any time but will cost the same amount to attach it again. For this reason, it is more cost effective to have two of a weapon with different mods than to take the mods on and off (e.g. owning a [[Compact-5 (Payday 2)|Compact-5]] with a silencer attached for stealth and another with no silencer for greater damage, rather than repeatedly paying to remove and attach the silencer as needed).
+
+Mod effects stack but are constrained; for example, if adding two mods that increase the stability of a weapon to the maximum value possible, adding a third mod that would otherwise increase stability will have no effect. Careful balancing of mods can improve the weapon with no downside if the negative effect of each mod is canceled by a positive effect of another.
+
+====[[Perk Decks]]====
+As part of [[PC_update_history_(Payday_2,_2014) #Update_#39|Update #39]], the skill tier bonuses have been removed from the game, being replaced by the Perk Decks system which works in a similar way, but limits the player's access to beneficial bonuses. Most of the tier bonuses have been revised into Perks, but some have been removed entirely as part of the aforementioned update.
+===Mods and Tools===
+{{Main|PAYDAY 2 mods and tools}}
+A number of fan-made programs exist to allow further control over the ''PAYDAY 2'' experience. [http://steamcommunity.com/sharedfiles/filedetails/?id=183950262# This guide] gives an overview of some of the available mods. 
+
+OVERKILL has confirmed that players will not be banned for using mods. Bans from community platforms, such as the PAYDAY 2 Discord, or the PAYDAY 2 Steam Community will still be applied.
+
+===Controller Support===
+''PAYDAY 2'' supports controllers, however, only Xbox 360 controllers and any controllers using the Xinput system will work. Upon booting PAYDAY 2, make sure you '''START WITH THE CONTROLLER''', otherwise, it will not work. There are some keyboard options still available to the user such as the chat feature.
+
+Controller support does, however, lack certain useful features. Notably, controller players will not be able to do any of the following:
+* Drawing directly on the map during Preplanning,
+* Naming weapons in the inventory,
+* Naming skill builds on the switch build screen.
+In order to perform any of these actions, a controller-using player must therefore, quit Payday 2, relaunch it using the mouse and keyboard, make the desired modifications to weapon and skill build names, then quit ''PAYDAY 2'' again and relaunch it a second time, using the controller to pass through the introductory videos to the main menu.
+==Downloadable Content (DLC)==
+{{Main|Downloadable content (Payday 2)}}
+
+Overkill planned to release more DLC and add-on content for ''PAYDAY 2'' than for the original ''PAYDAY''. This was planned to be between August 2013 and July 2014, however, support has been extended to 2017.<ref>http://www.starbreeze.com/timeline/</ref> A DLC Season pass was announced by David Goldfarb on Twitter but was never developed.<ref>https://twitter.com/locust9/status/337629192944504832</ref><ref>http://www.reddit.com/r/paydaytheheist/comments/1g74x7/i_am_almir_listo_producer_of_payday_2_ama/cahdwxi?context=3</ref>
+
+With the announcement of ''PAYDAY 2 Ultimate Edition'', to be released on June 8, 2017, via Steam, all to-be-released content expansions for the game will be made free to all, save for one specific pack. All present DLCs will also be delisted and made unpurchasable after said date.
+
+As part of the reconstruction process Starbreeze went through after the economically devastating repercussions Overkill's The Walking Dead game brought, Overkill announced on the 25 of October 2019, development of ''PAYDAY 2'' will begin once again, bringing both free content, and paid DLC, on future content updates. Additionally, Ultimate Edition has been renamed into 'Legacy Edition', which includes {{tooltip|all|For the exception of a handful of DLC}} content pre-[[The White House|White House]].<ref name="WindsOfChange"/>
+
+==Collaborative development==
+Several pieces of content present in ''PAYDAY 2'' were created as results of Overkill's many collaborations with other studios, gaming companies or authors. Notable examples of such collaborations are the [[Hotline Miami]] heist and [[Jacket Character Pack]] (with ''Dennaton Games''), [[The Bomb Heists (DLC)|The Bomb Heists]] and [[Golden Grin Casino]] (with ''Lion Game Lion''), the 4 Humble Packs (with ''Humble Bundle''), and the SpeedRunners masks (with ''DoubleDutch Games'').
+
+Aside from game developers, Overkill Software have also expressed their intention of working with certain gaming hardware companies such as Dell or movie corporations. Notable examples of such collaborations are the [[John Wick]] update (with ''Lionsgate Studios''), the [[The Point Break Heists (DLC)|Point Break Heists]] (with ''Warner Brothers''), and the ''Alienware Alpha'' masks. A standard copy of ''PAYDAY 2'' is included for free among other things upon purchase of an Alienware Alpha device.
+
+==Limited editions==
+<tabber>Pre-order=
+Pre-ordering gave players access to the ''PAYDAY'' Loot Bag, which contains the following:
+[[File:PD2 pre-purchase offer.jpg|center]]
+* A unique red dot sight weapon modification available for use on all rifle weapons
+* A unique Skull mask
+* A unique mask pattern titled "I LOVE OVERKILL"
+* A unique color pattern consisting of the colors red and black
+* A bundle of in-game cash.
+On the 24th of June 2013 Amazon sent emails to pre-order customers stating "We've been informed by 505 Games that the Lootbag DLC will no longer be offered as a pre-order incentive on the PC version of this game". The DLC information page on Amazon now only lists the 360 and PS3 versions.<ref>http://www.amazon.co.uk/gp/feature.html?ie=UTF8&docId=1000725933</ref>
+|-|Career Criminal Edition=
+The Career Criminal Edition will, in addition to the standard game, grant the following:
+[[File:PD2 Career Criminal edition.jpg|center]]
+* The PAYDAY Loot Bag, which is described above.
+* Two beta keys – one to keep and one to give to a friend. A beta key grants access to the ''PAYDAY 2'' beta release, which was released on the 24th of July.
+* ''PAYDAY 2: The Original Soundtrack'' – A digital copy of the ''PAYDAY 2'' original soundtrack, available for download pre-release. The tracks are composed by Simon Viklund.
+* Crime.net discount – Discounts on all in-game purchases (guns, masks, skills etc. not DLC)
+* Bain's Guide to the Criminal Underworld – A digital issue of the must-have guide on heisting, written by Bain. The hunt for [[PAYDAY Secret ARG|Baldwin]] continues.
+* Printable heist blueprints.[http://connecteddigitalworld.com/2013/05/30/more-details-on-payday-2-dlc-and-more/]
+|-|CrimeWave Limited Edition=
+A limited edition of ''PAYDAY 2: Crimewave Edition'' was released. When purchased, it contained the following:
+[[File:Payday_2_Crimewave_Edition_Limited_Edition.jpg|center]]
+* A special limited edition branded box
+* A premium Dallas mask
+* Themed Duffle bag
+* Key ring
+|-|Console Collector's Edition=
+{{Double image|right|Payday 2 Collectors Edition.jpg|150|Payday2 CE For XB.jpg|150|PS3 version|Xbox 360 version}}
+The Console Collector's Edition includes:
+* [[Dallas]]' mask
+* Tyvek wallet, which looks like a roll of $100 bills
+* A pair of surgical gloves
+* ''PAYDAY 2 Original Soundtrack''
+{{Clear}}
+</tabber>
+
+==Official Soundtrack==
+[[File:Payday 2 Soundtrack.jpg|thumb|350px]]
+{{main|PAYDAY 2: The Official Soundtrack}}
+
+{{clr}}
+
+==Beta release==
+As a follow up to the [[PAYDAY Secret ARG]], [[Overkill Software]] announced in June 2013 the final prize was that selected players could contribute to the beta testing of ''Payday 2''. Initially, 20 people got the beta test invitation, earlier than others from the [http://steamcommunity.com/groups/PDSecret Payday: The Secret] group, and players with beta-keys that pre-purchased the [[PAYDAY 2#PAYDAY 2 Career Criminal Edition|Career Criminal Edition]]. During this part of the beta testing of several games builds with different tweaks were released and tested.
+
+''PAYDAY 2'' public beta keys were released 24th July to buyers of the Career Criminal Edition. This game build contained 7 playable missions over 11 levels.
+
+The Payday 2 Beta was also released for PS3 and Xbox 360 on August 13th, 2013. The Beta is still available for purchase as a digital copy on PS-Store/Xbox Live Store and as a disc version.
+
+==Demo==
+In the demo, the player can only progress to level 10, therefore restricting their access to most armors, weapons, skills, and equipment. In the main menu, instead of the golden message promoting DLCs, there is a message promoting the full game. On [[Crime.NET]], there are only 2 missions available: [[Bank Heist]] and [[Watchdogs]], and the highest difficulty available is limited to [[Risk Level #Difficulties_and_Modifiers_.28PAYDAY_2.29|Overkill]].
+
+As of March 23rd of 2020, OVERKILL has announced the removal of the Payday Demo version from Steam, which was achieved by an OVERKILL employee asking directly to Valve Software for the demo to be removed from the store as it was deemed "no longer an accurate reflection of what the in-game experience is today after a multitude of game updates."<ref>Elisabeth (March 23rd, 2020) [https://steamcommunity.com/app/218620/discussions/8/1864993869493618167/#c1864993937058673812 "Where PAY DAY 2 DEMO?"] Steam Community discussion post.</ref>
+
+==Reception==
+Right after the release of the game, it received positive reviews. Aggregating review websites [http://www.gamerankings.com/ Gamerankings] and [http://www.metacritic.com/ Metacritic] gave the PC version 78.52% and 79/100.<ref>http://www.gamerankings.com/pc/682607-payday-2/index.html</ref> <ref>http://www.metacritic.com/game/pc/payday-2</ref> The Xbox 360 version was rated 75.00% and 75/100 <ref>http://www.gamerankings.com/xbox360/707322-payday-2/index.html</ref> <ref>http://www.metacritic.com/game/xbox-360/payday-2</ref> and the PlayStation 3 version was rated 71.54% and 74/100. <ref>http://www.gamerankings.com/ps3/682608-payday-2/index.html</ref> <ref>http://www.metacritic.com/game/playstation-3/payday-2</ref>
+
+[[Wikipedia:Gamespot|Gamespot]] gave ''PAYDAY 2'' a rating of 7/10, while [[Wikipedia:IGN|IGN]] has rated the game higher, giving it 8/10. <ref>http://www.gamespot.com/reviews/payday-2-review/1900-6413620/</ref> <ref>http://www.ign.com/games/payday-2/pc-142404</ref>
+
+The game has sold more than a million copies as of 2014, with 80% of those sales being digital. PAYDAY 2 was a hit, pulling Overkill's parent company, [[Wikipedia:Starbreeze Studios|Starbreeze Studios]], out of financial loss. <ref>http://www.pcgamer.com/payday-2-sells-1-58-million-copies-80-percent-of-sales-were-digital/</ref> <ref>http://www.gamespot.com/articles/payday-2-sales-pull-starbreeze-out-of-15-year-loss-in-six-months/1100-6418040/</ref>
+
+===Criticisms of Console versions===
+Despite the huge success of the PC version, the low level of attention towards the console ports of the game has attracted a lot of negative feedback from the gaming community. Namely, players bemoan the outright lack of patches, fixes and content updates for the Xbox 360 version even after almost a year since the launch date. This is due to Microsoft not approving of the content update system of ''PAYDAY 2''.
+
+The console versions of the game (Xbox 360 and PlayStation 3) remained largely the same until October 2014, where Overkill released an update for both versions bringing DLC and many gameplay changes. On the Steam forums PAYDAY 2: Crimewave Edition thread, Overkill has stated they will drop support for the Xbox 360 and PS3 versions, citing technical limitations.
+
+Overkill have since released new updates and DLCs for the PS3 version and eventually the Xbox 360 version. DLCs include Gage weapon packs 1 & 2, Armored Transport, and a free mask for the 360 players to reward their patience.
+
+This continued with the Xbox One and PS4 releases, with them being highly behind in terms of console updates, likely due to the problems with the Diesel engine, as you would need to code everything a second time in order to port the same content onto consoles.
+
+===Microtransactions Controversy===
+After the start of CrimeFest 2015, on October 15, 2015, Overkill implemented a micro-transaction [[Safes (Gameplay)|Safes and Drills]] system in the form of the Black Market Update that was widely criticized by the fan base, resulting in an overwhelming influx of negative reviews dropping its Steam and Metacritic ratings substantially.
+
+This was due in part to the content update contradicting the statements made in 2013 by then-game director David Goldfarb and Overkill/Starbreeze executive Almir Listo<ref>http://www.gamespot.com/articles/payday-2-wont-have-microtransactions/1100-6410303/</ref> that the game will never include microtransactions in any shape or form. The other part of the problem was that this heavily money-dependent system was introduced as part of a "free" community event reward. Goldfarb himself has openly expressed his contempt<ref>https://twitter.com/locust9/status/654757112547950593</ref><ref>https://twitter.com/locust9/status/654767736506023937</ref><ref>https://twitter.com/locust9/status/654765017993080832</ref><ref>https://twitter.com/locust9/status/654776873809895425</ref> for this movement on his Twitter, and stated that it was one of several disagreements with the studio which led to his departure in 2014, before the update.
+
+The Drill items required to unlock the Safes initially had to be purchased from an in-game interface for a considerable fee of $2.50 per unit, but due to the extreme community backlash, has since been implemented as a post-game random drop, which alleviates the money issue.
+
+An apology was issued by Overkill studios and "Team Boosts" as well as "Stat Boosts" were implemented as rewards from cards and monthly side jobs.
+
+Following the full acquisition of the ''PAYDAY'' IP by Starbreeze in May 2016, they announced their plans to remove the microtransactions system entirely in the near future, allowing all to-be-released safes and their contents to be available to all players as random post-mission drops. The safes, drills, and skins currently in circulation will remain as is.<ref>http://www.dsogaming.com/news/starbreeze-acquires-full-rights-for-payday-microtransactions-to-be-removed-in-the-future/</ref><ref>https://www.youtube.com/watch?v=6skYgBkMfV4</ref>
+
+==Sequel==
+{{Main|Payday 3}}
+
+==References==
+{{Reflist}}
+
+==External Links==
+*[http://www.crimenet.info/site/fromassets/100_104_140813114231.pdf Official Game Manual]
+
+==Videos==
+{{Showhide|Video Gallery|
+<gallery widths="225" spacing="small" position="center" captionalign="center">
+Payday 2 Web Series Teaser Trailer
+Payday 2 Teaser Trailer
+Payday 2 Gameplay Trailer
+Payday 2 Web Series Episode 1
+Payday 2 Web Series Episode 2
+What is Payday 2?
+Payday 2 What is CRIMENET?
+Payday Web Series Episode 3
+Payday 2 What is a Lootdrop
+Payday 2 Skills
+Payday 2 Dynamics
+PAYDAY 2 Web Series Episode 4 "The Elephant"
+Payday 2 Launch Trailer
+PAYDAY 2 Web Series Episode 5 - "Greta The Assassin"
+PAYDAY 2 Web Series Episode 6
+Payday 2 Armored Transport DLC Trailer
+PAYDAY 2 The Death Wish update
+PAYDAY 2 Big Bank Heist DLC Trailer
+PAYDAY 2 Gage Assault Pack DLC Trailer
+PAYDAY 2 Hotline Miami DLC
+PAYDAY 2 John Wick Introduction Trailer
+PAYDAY 2 The Hoxton Breakout Trailer
+PAYDAY 2 The Diamond Heist Trailer
+PAYDAY 2 The Bomb Heist Trailer
+PAYDAY 2 The OVERKILL Pack Trailer
+Payday 2 - Spring Break Trailer
+Spring Break Behind The Scenes - Day 1
+Spring Break Behind The Scenes - Day 2
+Spring Break Behind The Scenes - Day 3
+Spring Break Behind The Scenes - Day 4
+Spring Break Behind The Scenes - Day 5
+Spring Break Behind The Scenes - Day 6
+Spring Break Behind The Scenes - Day 7
+Spring Break Behind The Scenes - Day 8
+Spring Break Behind The Scenes - Day 9
+BBQ Pack and OVERKILL Pack - Behind the Scenes
+PAYDAY 2 The Alesso Heist Teaser
+PAYDAY 2 The Butcher's Western Pack Trailer
+PAYDAY 2 The Alesso Trailer
+PAYDAY 2 The Golden Grin Casino Trailer
+PAYDAY 2 Gage Ninja Pack Trailer
+PAYDAY 2 Yakuza Character Pack Trailer
+PAYDAY 2 Gage Chivalry Pack Trailer
+Full PAYDAY 2 Soundtrack (HD 320k Bitrate)
+PAYDAY 2 A Merry Payday Christmas All Soundtracks Play List In Description
+</gallery>
+}}
+
+{{Navbox PAYDAY 2}}
+{{Navbox games}}
+
+[[ru:PAYDAY 2]]
+[[de:PAYDAY 2]]
+[[Category:PAYDAY 2|*]]
+[[Category:Gameplay (Payday 2)]]

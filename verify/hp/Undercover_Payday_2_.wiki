@@ -1,0 +1,125 @@
+{{Game-Tabs|pdth=Undercover|pd2=Undercover (Payday 2)}}
+{{MultipleHeist2|Undercover|Infobox Heist}}{{Description|We are doing things a bit differently this time. There is this shady taxman who is out to make a $25,000,000 deal with some big corporation, but we're going to stop it from going through, you understand? Alex is helping us out with this one, making sure we can get our hands on this taxman and force him to give us the server and codes we're after. He might not be cooperative at first, so you will just have to use any means necessary to convince him, right?}}
+'''Undercover''' is a heist from ''[[PAYDAY: The Heist]]'' introduced to ''[[PAYDAY 2]]'', released with the [[Wolf Pack (Payday 2)|''PAYDAY 2'' Wolf Pack]]. It is available for free to all players that own the [[DLC#Wolfpack|''PAYDAY: The Heist'' Wolf Pack]].
+
+The Crew must interrupt a shadowy deal between a corrupt IRS employee named Mr. Sturr and a large corporation. In order to steal $25,000,000, the crew must take Mr. Sturr (codenamed The Taxman) hostage, interrogate him, and hack into the IRS.
+
+==Overview==
+Payday 2's rendition of Undercover remains mostly the same, albeit with some minor variations; the crew must observe and confirm the deal between Taxman and his clients. Then they must force Taxman into his limo so Alex can use a magnetic crane to hoist Taxman into the abandoned apartment they're based in so that the crew can steal the server on his person that contains $25,000,000 in stolen IRS funds.
+
+From there, they simply need to "convince" Taxman to tell them the codes so that they can decrypt the server and electronically transfer the money to an account provided by Bain and make their getaway.
+
+==Objectives==
+===Setup phase===
+#Preparations
+#Deal going down
+#Wait for the crane
+===Combat phase===
+#Saw open the limo
+#Take Taxman to transfer room
+#Get the server, plug it it in
+#Strap Taxman to the chair
+#Get the codes (3 codes)
+#Wait for IRS hack
+#(Optional) Keep the computer running
+#Repeat 5 through 7 twice
+#Complete the hack
+#Escape
+
+==[[Assets]]==
+===Purchasable===
+{{Asset|asset-ammo-bag.png|Ammo Bag|4000}}
+{{Asset|asset-medic-bag.png|Doctor Bag|6000}}
+{{Asset|nade asset full.png|Grenade Case|3000|Requires the [[Gage Weapon Pack 01|Gage Weapon Pack #01]] DLC to unlock}}
+===Intel===
+{{Asset|Asset-Risk-Level.gif|Risk Level}}
+{{Asset|Asset gage assignment.png|Gage Courier Packages}}
+==Walkthrough==
+Like the original, heisters will begin at the computer setup at a random spot of the building. [[Bain]] radios in and informs the crew about the heist's goals and warns that they must  confirm the taxman has the server. Players are encouraged to prepare by finding wooden planks and board the windows or vents. However, stay hidden while boarding a window as it is possible someone from the shady deal could spot a heister and cause the heist to prematurely go loud. If the heist goes loud before Taxman puts the server in his pocket; the crew has to retrieve it from the trunk of his limo by either picking the lock or prying it open with a crowbar. This can be potentially problematic if the limo lands on the balcony instead of the building, where the person retrieving the server is exposed to sniper fire. Thus, it is optimal to wait for Bain to give the signal to attack, before giving your position away.
+
+It is highly recommended to board up the windows surrounding the computer setup room as snipers and enemies will take advantage of any exposed window. The wooden planks are randomly scattered around the building.  Some of the planks will be placed in an upright position thus be sure to look carefully. The vents can also be boarded up which will greatly help when escorting the taxman. Also, placing a deployable in the room can help players to locate the room if lost.
+
+Bain then intercepts the conversation, in which the taxman shows he has the server. This causes everyone in the deal to be alerted from an ambush set up by the FBI and the police are then alerted. Alex then initiates action by using the crane to pick up the limo. The vehicle can land either on a balcony, the roof, or fall through the roof and get wedged in the stairwell. In any case, a saw will be needed to breach the limo. Upon opening the vehicle, the taxman falls out and a heister must escort him to the computer setup by repeatedly yelling at him to move forward.
+
+Snipers will try to incapacitate players, especially if they are on the roof or are too close to an open window.
+
+Upon leading the taxman, heisters must put the server in, force the taxman to the chair, and tape him down. An interrogation will take place in which heisters has to convince taxman to give up the codes to unlock the server. If one has a full 4-man crew, everyone yelling at him at once will usually be enough to convince him to spill the beans. However, if playing alone or with less than 4 people; he usually needs to be knocked around a bit by using your CQC attack. Taxman won't die, even if the player is using a bladed weapon like a sword, but too many hits will cause him to black out, forcing the crew to wait for him to gain consciousness again. As such, one or two hits, then yelling at him, is usually the best way to get him to spill the beans without risking him getting knocked out.
+
+The police force will attempt to stop the hack by either shutting down the power or by approaching the computer. Tear gas may also be deployed to hamper players.
+
+[[Shield (Payday 2)|Shields]] tend to be the most annoying enemy to face, as they can block off an entire hallway until eliminated and it is difficult to flank them in the narrow passageways. As such, they can rush at heisters and melee them.
+
+Note worthy, explosive fuel barrels can be used to one's advantage to eliminate clustered groups of enemies or damage special forces, like the [[Bulldozer (Payday 2)|Bulldozer]].
+
+Technicians typically have the upper hand in Undercover as they can set up sentry guns and trip mines to defend areas. Incendiary ammunition is also another viable tactic.
+
+After Bain confirms they retrieved the $25 million bribe, the crew must escape in the same spot, which is located on top of the roof. This time, they must shoot off the lock from the gate and interact with the safety bar to proceed. As usual, players have to jump across a gap and reach the escape point.
+
+==Differences from PAYDAY: The Heist==
+*[[Sniper (Payday 2)|Snipers]] are no longer restricted to the opposite building where the heist takes place. They can appear on all roofs of the neighboring buildings.
+
+* At the limo drop off point on the roof, there is no invisible barrier that blocks off most close contact with the vehicle.
+
+*The heist may prematurely go loud should someone from the deal spot a heister too close to a window.
+*Heisters must tape the taxman to the chair before the interrogation can take place.
+*Explosive fuel barrels are present around the derelict building.
+*Tear gas may be deployed to hamper heisters.
+*The door to the adjacent roof needs to be open manually during the escape by shooting the lock and removing the safety bar instead of opening by itself once the computer has been used for the last time.
+
+==The FBI Files==
+We were just about to arrest the crooked taxman, Adrian Sturr, when the PAYDAY gang intervened, opening fire at our officers on the scene. Our men could do nothing but watch as the vehicle Mr. Sturr was hiding in was lifted up in the air by usage of a crane, and dropped on an abandoned building across the street. SWAT was called in to storm the building, but the PAYDAY gang managed to hold them off long enough to get what they wanted. When our men finally managed to secure the building, Mr. Sturr was found barely breathing. The server was gone, and the monitor in the room showed that a large transaction of 25 million had been transferred to an untraceable account.
+
+{{color|value|My Notes: How the hell could the PAYDAY gang know this deal was going down? What kind of sources do they actually have? I shouldn't be surprised by the beating they gave Mr.Sturr, but that was brutal even for them. I need to find out how corrupt this city really is, because I can't get shit done working under these circumstances.}}
+
+==Bugs==
+*Bain's lines for the heist seem to be jumbled, as he will say lines for requiring passwords while hacks are ongoing, and lines for the final interaction with the computer long before then.
+
+==[[Achievements (Payday 2)|Achievements]] & [[Safehouse#Trophies|Trophies]]==
+<tabber>Achievements=
+{{Achievement|Big Fish|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Normal difficulty or above.}}
+{{Achievement|MercyKill|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Hard difficulty or above.}}
+{{Achievement|Starbreezer|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Very Hard difficulty or above.}}
+{{Achievement|ZYGON|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the OVERKILL difficulty or above.}}
+{{Achievement|Tax Return|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Mayhem difficulty or above.}}
+{{Achievement|In for a Dime, in for a Dollar|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Death Wish difficulty or above.}}
+{{Achievement|Downtown Parking|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Death Sentence difficulty.}}
+{{Achievement|Death and Taxes|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on the Death Sentence difficulty with the One Down mechanic activated.}}
+{{Achievement|Blow-Out|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on OVERKILL difficulty or above, using only a grenade launcher or rocket launcher.}}
+{{Achievement|I Feel Like Robin Hood!|jpg|Complete the Undercover job with every crew member using only a bow without any modifications on the OVERKILL difficulty or above.}}
+{{Achievement|Keep Clear of the Windows|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job without killing any [[Sniper (Payday 2)|Snipers]]. Unlocks the "[[Masks (Payday 2)#Wolf Pack DLC|Hans]]" mask, "[[Materials#Wolf Pack DLC|Red White]]" material and "[[Patterns#Wolf Pack DLC|Luse]]" pattern.}}
+{{Achievement|Not Even Once|jpg|Complete the [[Undercover (Payday 2)|Undercover]] job on OVERKILL difficulty or above without anyone in your crew getting downed or cuffed.}}
+{{Achievement|The Saviour|png|On the [[Undercover (Payday 2)|Undercover]] job, place 10 planks on windows, vents or fences. Unlocks the "[[Masks (Payday 2)#Wolf Pack DLC|Trickster Demon]]" mask, "[[Materials#Wolf Pack DLC|Mushroom Cloud]]" material and "[[Patterns#Wolf Pack DLC|Split]]" pattern.}}
+|-|Trophy=
+<gallery widths="200" columns="3" position="center" spacing="small" captionsize="large" captionalign="center" hideaddbutton="true">
+Trophy-FailedAssassination.png|{{Mask tooltip|Failed Assassination|color=legendary|Trophy-FailedAssassination.png|{{Quote|A sniper rifle. Some people really underestimate the possibilities of it.|Trophy description}}|{{color|legendary|'''UNLOCK CONDITION:'''}}<br>Complete the [[Undercover (Payday 2)|Undercover]] heist on the OVERKILL difficulty or above, with each crew member only using sniper rifles, no skills, and wearing the Two-Piece Suit.|{{color|legendary|'''PLACEMENT:'''}}<br>The living room.}}
+</gallery>
+|-|Trivia=
+*'''MercyKill''', '''Starbreezer''' and '''ZYGON''' are all the passwords required to unlock the server.
+*'''In for a Dime, in for a Dollar''', '''The Saviour''', and '''Blow-Out''' are all (slightly modified) [[Achievements#DLC|achievements]] from ''[[PAYDAY: The Heist]]''.
+*'''Keep Clear of the Windows''' is a quote shared by the four original heisters regarding [[Sniper (PAYDAY: The Heist)|snipers]] in the first game.
+*'''Death and Taxes''' is a reference to the poster tagline of [[Undercover|the original Undercover]], which in turn references a {{w|Death and taxes (idiom)|quote}} by {{w|Benjamin Franklin}}.
+*'''Failed Assassination''' is internally called jfk, referencing {{w|John F. Kennedy}}.
+</tabber>
+
+==Trivia==
+*Unlike the original, the taxman comes out of the limo without being blood-soaked. However, he will receive injuries should heisters beat him for the passwords.
+*The Taxman's first name in the remake is Adrian rather than Eugene like in the original heist.
+*The clients use the same model as the Cobras.
+**Similar to the original Undercover heist, the gangsters are merely undercover FBI agents attempting to bust the Taxman. Therefore, any police unit will not engage them on sight. In fact, they will assist the law enforcement when assaulting the crew.
+**Some of the FBI agent models are reused from [[Hoxton Breakout]].
+*It is odd even though the FBI want the Taxman to be in custody, none of the officers make any attempt to apprehend him.
+*Although the server the Taxman has is small (enough to be put into his shirt pocket), the server heisters put into the computer is much larger.
+*If the limo falls through the roof and catches on fire, one can hear the Taxman's cries of agony if standing close enough. These are reused from [[Heat Street]].
+*While it is possible for heisters to completely forgo hitting the Taxman while interrogating him, the FBI files reveal he was heavily beaten, to the point of near unconsciousness.
+*Interestingly enough, due to the way payout is calculated based on difficulty, it's actually possible to earn both far more and far less than the $25,000,000 stolen across all 4 players, excluding Bain and Alex's cut. In fact, it's impossible to earn exactly $25,000,000 at all for this same reason, with the closest difficulty reward (Overkill difficulty awards {{color|value|$6,750,000}}/player, {{color|value|$27,000,000}} total) still giving out in excess of around two million dollars combined.
+*The level ends with [https://payday.fandom.com/wiki/Bain Bain] commenting on the player jumping across rooftops, saying "you'd have to be [https://en.wikipedia.org/wiki/Prince_(Prince_of_Persia) a Persian prince] to make that jump!", which is a reference to the [https://en.wikipedia.org/wiki/Prince_of_Persia Prince of Persia] series.
+
+==Video==
+[[File:Three Way Deal 2016 - Payday 2 Unofficial Soundtrack|thumb|center|300 px|Three Way Deal 2016 - Undercover Heist Theme]]
+
+{{Navbox PD2 Heists}}
+[[ru:Под прикрытием]]
+[[Category:PAYDAY 2 heists]]
+[[Category:Loud-Only Heists]]
+[[Category:PAYDAY 2 Wolf Pack]]
+[[Category:Classic heists]]

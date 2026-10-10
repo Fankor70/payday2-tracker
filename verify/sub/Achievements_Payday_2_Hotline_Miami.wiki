@@ -1,0 +1,52 @@
+<tabber>Permanent Achievements=
+'''Ownership required'''
+{{Achievement|Do You Like Hurting Other People?|jpg|In the [[Hotline Miami]] job, kill {{color|value|30}} thugs with the [[Baseball Bat]]. Unlocks the [[Masks (Payday 2)#Hotline Miami DLC|Dennis]] mask, Solid Stock for the [[Uzi]] submachine gun, Wooden Grip for the [[Cobra]] submachine gun, "[[Materials#Hotline Miami DLC|Rubber]]" material and "[[Patterns#Hotline Miami DLC|Hip to Be Polygon]]" pattern.}}
+{{Achievement|Sounds of Animals Fighting|jpg|In the [[Hotline Miami]] job, complete the heist while you and your {{color|value|four}} man crew are wearing one different Hotline Miami mask each on hard or above. Unlocks the Silent Death and Folded Stock for the [[Uzi]] submachine gun, Suppressor and No Stock for the [[Cobra]] submachine gun and Short Barrel for the [[Blaster 9mm]] submachine gun.<br>{{color|negative|''All four masks '''must''' be from the Hotline Miami DLC itself; masks obtained by owning Hotline Miami but ''not'' the DLC do not count for the purposes of this achievement.''}}}}
+
+'''Achievable without owning DLC'''
+{{Achievement|Wrong Number|jpg|Complete the [[Hotline Miami]] job on the Death Wish difficulty or above.}}
+{{Achievement|Overdose|jpg|Cook and secure {{color|value|six}} bags of meth on day one of the [[Hotline Miami]] job. Unlocks the [[Masks (Payday 2)#Hotline Miami DLC|Graham]] mask, Ghetto Blaster, Extended Mag and Just Bend It for the [[Blaster 9mm]] submachine gun, "[[Materials#Hotline Miami DLC|Error]]" material and "[[Patterns#Hotline Miami DLC|Be Somebody]]" pattern.}}
+{{Achievement|Phew!|jpg|On day two of the [[Hotline Miami]] job, save someone in need. Unlocks the [[Masks (Payday 2)#Hotline Miami DLC|Aubrey]] mask, Ergo Grip, Extended Mag and Unfolded Stock for the [[Cobra]] submachine gun, "[[Materials#Hotline Miami DLC|Sunset]]" material and "[[Patterns#Hotline Miami DLC|Doodles]]" pattern.}}
+{{Achievement|Walk Faster|jpg|In day two of the [[Hotline Miami]] job, reach the Commissar’s apartment in under {{color|value|210}} seconds on the OVERKILL difficulty or above. Unlocks the [[Masks (Payday 2)#Hotline Miami DLC|Rasmus]] mask, Tactical Foregrip and the Ergonomic Stock for the [[Uzi]] submachine gun, “[[Materials#Hotline Miami DLC|Chromescape]]” material and "[[Patterns#Hotline Miami DLC|Palmtrees]]" pattern.}}
+
+|-|Removed=
+''The following achievement was removed on October 5, 2016.''
+{{Achievement|+1 (786) 519-3708|jpg|Complete the [[Hotline Miami]] pro job on the Death Wish difficulty.}}
+|-|Teasers=
+''The following appeared on September 22, 2014.''
+{{Teasers
+|Do you
+|like
+|hurting
+|other
+|people?
+}}
+''The following appeared on September 25, 2014. They got their actual name on September 29, 2014 before being replaced on September 30, 2014, with the release of the [[Hotline Miami (DLC)|Hotline Miami DLC]].''
+{{Teasers
+|Do
+|you
+|like
+|hurting
+|other
+|people?
+}}
+|-|Tips=
+{{Achievement|Walk Faster|jpg|In day two of the [[Hotline Miami]] job, reach the Commissar’s apartment in under {{color|value|210}} seconds on the OVERKILL difficulty or above. Unlocks the [[Masks (Payday 2)#Hotline Miami DLC|Rasmus]] mask, Tactical Foregrip and the Ergonomic Stock for the [[Uzi]] submachine gun, “[[Materials#Hotline Miami DLC|Chromescape]]” material and "[[Patterns#Hotline Miami DLC|Palmtrees]]" pattern.}}
+It is a good idea for at least one member of the crew to come with an [[OVE9000]] saw to quickly bypass the cage door.
+
+It is also a good idea for one or more members of the crew to use a shotgun, as the many wooden doors throughout the maze that is the apartment building can be unlocked fairly quickly by a shotgun shot aimed in the general direction of the doorknob. Even better would be a shotgun loaded with [[Ammunition#Ammunition Types|HE Slugs]] or a grenade launcher, as they tend to blow apart wooden doors with one shot and require even less aiming.
+
+{{Achievement|Overdose|jpg|Cook and secure {{color|value|six}} bags of meth on day one of the [[Hotline Miami]] job. Unlocks the [[Masks (Payday 2)#Hotline Miami DLC|Graham]] mask, Ghetto Blaster, Extended Mag and Just Bend It for the [[Blaster 9mm]] submachine gun, "[[Materials#Hotline Miami DLC|Error]]" material and "[[Patterns#Hotline Miami DLC|Be Somebody]]" pattern.}}
+The crates in the basement can contain, among its other contents, meth ingredients. To maximize the amount of ingredients in the crates, there are two crates that need to be opened in a specific order: A flat, square, dark crate between an identical one and a light, rectangular crate on the side of the basement opposite of the scanner, and another flat crate in a corner near the scanner. The former crate needs to be opened ''before any other crate in the basement'', and the latter crate needs to be opened ''after every other crate in the basement is opened''. Doing this should yield at least {{color|value|four}} sets of meth ingredients.
+
+Note that even the above alone is not enough to guarantee enough meth for the achievement, as if there is only one set of ingredients around the meth lab, the players going for this achievement will have to open the "first open" crate later to try for a 5th meth bag in the basement, which has a small chance of succeeding.
+|-|Trivia=
+* '''Sounds of Animals Fighting''' is a reference to the achievement of the same name in ''{{w|Hotline Miami}}''. 
+* '''Walk Faster''' is a reference to the [[w:c:hotlinemiami:Brandon Mask|Brandon mask]] in ''Hotline Miami'', which allows the wearer to walk faster.
+** Strangely, the mask awarded upon completion of the achievement is the Rasmus mask. The Brandon mask is in ''PAYDAY 2'' and is given to all players who also own ''Hotline Miami'' on Steam.
+* '''Do You Like Hurting Other People?''' is the first question asked by [[w:c:hotlinemiami:Richard|Richard]] to [[w:c:hotlinemiami:Jacket|Jacket]] in ''Hotline Miami''.
+* '''+1 (786) 519-3708''' is the number of the phone calls Jacket receives in ''Hotline Miami''. Calling this number in real life will play a prerecorded message recorded by the creators of ''Hotline Miami'' and functions as an easter egg. You can listen to the recording [https://www.youtube.com/watch?v=GEfqeTB-c34 here].
+* '''Wrong Number''' is the subtitle for ''{{w|Hotline Miami 2: Wrong Number|Hotline Miami 2}}''.
+* '''[[w:c:hotlinemiami:Overdose|Overdose]]''' is one of the levels in ''Hotline Miami''.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

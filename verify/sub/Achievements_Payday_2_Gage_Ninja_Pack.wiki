@@ -1,0 +1,18 @@
+<tabber>Permanent Achievements=
+{{Achievement|Names Are for Friends, so I Don't Need One|jpg|Get eleven kills with the [[Lebensauger .308]] Sniper Rifle without reloading it. Unlocks the "[[Masks (Payday 2)#Gage Ninja Pack DLC|Slicer]]" mask, "[[Materials#Gage Ninja Pack DLC|Still Waters]]" material and "[[Patterns#Gage Ninja Pack DLC|Youkai]]" pattern.}}
+{{Achievement|Swiss Cheese|jpg|Kill 100 [[Enemies (Payday 2)|enemies]] in a single heist with the [[Kross Vertex]] Submachine Gun. Unlocks the "[[Masks (Payday 2)#Gage Ninja Pack DLC|Kage]]" mask, "[[Materials#Gage Ninja Pack DLC|Sakura]]" material and "[[Patterns#Gage Ninja Pack DLC|Oni]]" pattern.}}
+{{Achievement|Shuriken Shenanigans|jpg|Complete a single heist in stealth using only the [[Shuriken]] throwable and killing at least 4 [[Enemies (Payday 2)|enemies]]. Unlocks the "[[Masks (Payday 2)#Gage Ninja Pack DLC|Kuro Zukin]]" mask, "[[Materials#Gage Ninja Pack DLC|Bamboo]]" material and "[[Patterns#Gage Ninja Pack DLC|Koi]]" pattern.}}
+{{Achievement|Fugu Fighter|jpg|Have at least 3 enemies poisoned at the same time with your [[poison]]ed weapons. Unlocks the "[[Masks (Payday 2)#Gage Ninja Pack DLC|Shirai]]" mask, "[[Materials#Gage Ninja Pack DLC|Origami]]" material and "[[Patterns#Gage Ninja Pack DLC|Hanabi]]" pattern.}}
+|-|Teasers=
+''The following appeared on July 10, 2015. They were replaced on July 16, 2015.''
+{{Teasers
+|My Life
+|How much more
+|of it remains?
+|The night is brief
+}}
+|-|Trivia=
+*The teasers refer to a haiku by Japanese poet [[Wikipedia:Masaoka Shiki|Masaoka Shiki]].
+*'''Names Are for Friends, so I Don't Need One''' is a quote from [[wikipedia:Agent 47|Agent 47]] in the game ''[[wikipedia:Hitman: Blood Money|Hitman: Blood Money]]''. The weapon required to unlock the achievement, the [[Lebensauger .308]]/Walther WA2000, is also a Hitman reference.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>

@@ -1,0 +1,17 @@
+<tabber>Permanent Achievements=
+{{Achievement|Disco Inferno|jpg|Have {{color|value|10}} [[Enemies (Payday 2)|enemies]] [[Fire|burning]] simultaneously. Unlocks the "[[Masks (Payday 2)#The Butcher's BBQ Pack DLC|Graug]]" mask, "[[Materials#The Butcher's BBQ Pack DLC|Coal]]" material and "[[Patterns#The Butcher's BBQ Pack DLC|Fireborn]]" pattern.}}
+{{Achievement|Stick a Fork in Me, I'm Done|jpg|Set an [[Enemies (Payday 2)|enemy]] on [[fire]] and kill him with the "[[The Motherforker|Motherforker]]" melee weapon. Unlocks "[[Masks (Payday 2)#The Butcher's BBQ Pack DLC|The Gas Mask]]" mask, "[[Materials#The Butcher's BBQ Pack DLC|Candlelight]]" material and "[[Patterns#The Butcher's BBQ Pack DLC|Flammable]]" pattern.}}
+{{Achievement|Not Invited|jpg|Kill {{color|value|10}} [[Enemies (Payday 2)|enemies]] within {{color|value|10}} seconds using the [[Piglet|Piglet Grenade Launcher]]. Unlocks the "[[Masks (Payday 2)#The Butcher's BBQ Pack DLC|Firefighter's Helmet]]" mask, "[[Materials#The Butcher's BBQ Pack DLC|Burn]]" material and "[[Patterns#The Butcher's BBQ Pack DLC|Flamer]]" pattern.}}
+{{Achievement|OVERGRILL|jpg|Set a [[Bulldozer (Payday 2)|Bulldozer]] on [[fire]] for at least 10 seconds. Unlocks "[[Masks (Payday 2)#The Butcher's BBQ Pack DLC|The Chef]]" mask, "[[Materials#The Butcher's BBQ Pack DLC|Toast]]" material and "[[Patterns#The Butcher's BBQ Pack DLC|Hot Flames]]" pattern.}}
+|-|Teasers=
+''The following appeared on March 25, 2015 and were replaced on March 26, 2015.''
+{{Teasers
+|Nothing
+|Like the
+|Smell of
+|Napalm.
+}}
+|-|Trivia=
+*The teasers are a reference to [https://www.youtube.com/watch?v=bPXVGQnJm0w a famous quote] from the movie ''{{w|Apocalypse Now}}''.
+</tabber><noinclude>
+[[Category:Support Pages]]</noinclude>
