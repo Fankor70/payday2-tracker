@@ -228,7 +228,10 @@ def update_install():
         broadcast("update", {"stage": "error", "error": info.get("error")
                              or "обновление не требуется"})
         return False
-    exe_path = os.path.join(_app_dir(), UPDATE_EXE)
+    # the actual running file, whatever the user named it -- GitHub hands out
+    # "PAYDAY.Tracker.exe" with a dot, and the swap must replace THAT file
+    exe_path = (sys.executable if getattr(sys, "frozen", False)
+                else os.path.join(_app_dir(), UPDATE_EXE))
     new = exe_path + ".update"
     try:
         req = urllib.request.Request(info["asset_url"], headers={

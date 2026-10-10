@@ -34,7 +34,9 @@ def main():
     sys.path.insert(0, HERE)
     # sweep the leftovers of a self-update: the running exe was renamed to
     # .old before the swap, so the previous build lingers until this launch
-    for junk in ("PAYDAY Tracker.exe.old", "PAYDAY Tracker.exe.update.bat"):
+    junk_names = ["PAYDAY Tracker.exe.old", "PAYDAY Tracker.exe.update.bat",
+                  os.path.basename(sys.executable) + ".old"]
+    for junk in junk_names:
         p = os.path.join(HERE, junk)
         if os.path.exists(p):
             try:
